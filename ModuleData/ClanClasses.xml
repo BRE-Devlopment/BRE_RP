@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ClanClasses>
-  <!--CORP-->
+  <!--CO-->
   <ClanClass 
-    clan="CORP"
+    clan="CO"
     color1="FF8e1818"
     color2="FF263d7d"
     banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
@@ -65,7 +65,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="CORP"
+    clan="CO"
     color1="FF8e1818"
     color2="FF263d7d"
     banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
@@ -128,7 +128,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="CORP"
+    clan="CO"
     color1="FF8e1818"
     color2="FF263d7d"
     banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
@@ -182,7 +182,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="CORP"
+    clan="CO"
     color1="FF8e1818"
     color2="FF263d7d"
     banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
@@ -257,7 +257,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="CORP"
+    clan="CO"
     color1="FF8e1818"
     color2="FF263d7d"
     banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
@@ -288,7 +288,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="CORP"
+    clan="CO"
     color1="FF8e1818"
     color2="FF263d7d"
     banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
@@ -316,7 +316,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="CORP"
+    clan="CO"
     color1="FF8e1818"
     color2="FF263d7d"
     banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
@@ -344,7 +344,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="CORP"
+    clan="CO"
     color1="FF8e1818"
     color2="FF263d7d"
     banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
@@ -405,7 +405,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="CORP"
+    clan="CO"
     color1="FF8e1818"
     color2="FF263d7d"
     banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
@@ -456,7 +456,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="CORP"
+    clan="CO"
     color1="FF8e1818"
     color2="FF263d7d"
     banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
@@ -508,7 +508,7 @@
     </Gloves>
   </ClanClass>
     <ClanClass 
-    clan="CORP"
+    clan="CO"
     color1="FF8e1818"
     color2="FF263d7d"
     banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
@@ -578,7 +578,7 @@
     </Horse>
   </ClanClass>
   <ClanClass 
-    clan="CORP"
+    clan="CO"
     color1="FF6c1010"
     color2="FF142441"
     banner="1.550.551.1536.1536.764.764.0.0.0"
@@ -643,7 +643,7 @@
     </Horse>
   </ClanClass>
   <ClanClass
-    clan="CORP"
+    clan="CO"
     color1="FF8e1818"
     color2="FF263d7d"
     banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
@@ -690,9 +690,9 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--ORRP-->
+  <!--OR-->
   <ClanClass
-    clan="ORRP"
+    clan="OR"
     banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
     color1="FF3d2f22"
     color2="FF42261c"
@@ -733,7 +733,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass
-    clan="ORRP"
+    clan="OR"
     banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
     color1="FF3d2f22"
     color2="FF42261c"
@@ -781,7 +781,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass
-    clan="ORRP"
+    clan="OR"
     banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
     color1="FF3d2f22"
     color2="FF42261c"
@@ -826,7 +826,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass
-    clan="ORRP"
+    clan="OR"
     banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
     color1="FF282b35"
     color2="FFe8e1cf"
@@ -859,7 +859,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass
-    clan="ORRP"
+    clan="OR"
     banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
     color1="FF101115"
     color2="FFe8e1cf"
@@ -890,7 +890,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass
-    clan="ORRP"
+    clan="OR"
     banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
     color1="FF101115"
     color2="FFe8e1cf"
@@ -920,7 +920,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass
-    clan="ORRP"
+    clan="OR"
     banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
     color1="FF08090d"
     color2="FFe8e1cf"
@@ -969,7 +969,7 @@
     </Horse>
   </ClanClass>
   <ClanClass
-    clan="ORRP"
+    clan="OR"
     banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
     color1="FF08090d"
     color2="FFe8e1cf"
@@ -1018,7 +1018,7 @@
     </Horse>
   </ClanClass>
   <ClanClass
-    clan="ORRP"
+    clan="OR"
     banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
     color1="FF08090d"
     color2="FFe8e1cf"
@@ -1068,7 +1068,7 @@
     </Horse>
   </ClanClass>
   <ClanClass
-    clan="ORRP"
+    clan="OR"
     banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
     color1="FF08090d"
     color2="FFe8e1cf"
@@ -1117,7 +1117,7 @@
     </Horse>
   </ClanClass>
   <ClanClass
-    clan="ORRP"
+    clan="OR"
     banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
     color1="FF08090d"
     color2="FFe8e1cf"
@@ -1166,7 +1166,7 @@
     </Horse>
   </ClanClass>
   <ClanClass
-    clan="ORRP"
+    clan="OR"
     banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
     color1="FF08090d"
     color2="FFe8e1cf"
@@ -1215,7 +1215,7 @@
     </Horse>
   </ClanClass>
   <ClanClass
-    clan="ORRP"
+    clan="OR"
     banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
     color1="FF08090d"
     color2="FFe8e1cf"
@@ -1263,9 +1263,9 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--HERP-->
+  <!--HE-->
   <ClanClass
-    clan="HERP"
+    clan="HE"
     banner="11.513.513.1536.1536.764.764.0.0.0.5012.507.507.500.500.764.764.0.0.0"
     color1="FFd7a12b"
     color2="FF144ea8"
@@ -1307,7 +1307,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass
-    clan="HERP"
+    clan="HE"
     banner="11.513.513.1536.1536.764.764.0.0.0.5012.507.507.500.500.764.764.0.0.0"
     color1="FFd7a12b"
     color2="FF144ea8"
@@ -1348,9 +1348,9 @@
       <equipment id="woc_arm_plated" />
     </Gloves>
   </ClanClass>
-  <!--AQRP-->
+  <!--AQ-->
   <ClanClass
-    clan="AQRP"
+    clan="AQ"
     banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0"
     color1="FFd7a12b"
     color2="FF144ea8"
@@ -1413,7 +1413,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass
-    clan="AQRP"
+    clan="AQ"
     banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0"
     color1="FFd7a12b"
     color2="FF144ea8"
@@ -1480,7 +1480,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass
-    clan="AQRP"
+    clan="AQ"
     banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0"
     color1="FFd7a12b"
     color2="FF144ea8"
@@ -1536,7 +1536,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass
-    clan="AQRP"
+    clan="AQ"
     banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0"
     color1="FFd7a12b"
     color2="FF144ea8"
@@ -1612,7 +1612,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass
-    clan="AQRP"
+    clan="AQ"
     banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0"
     color1="FFd7a12b"
     color2="FF144ea8"
@@ -1673,7 +1673,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass
-    clan="AQRP"
+    clan="AQ"
     banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0"
     color1="FFd7a12b"
     color2="FF144ea8"
@@ -1727,7 +1727,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass
-    clan="AQRP"
+    clan="AQ"
     banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0"
     color1="FFd7a12b"
     color2="FF144ea8"
@@ -1779,7 +1779,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass
-    clan="AQRP"
+    clan="AQ"
     banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0"
     color1="FFd7a12b"
     color2="FF144ea8"
@@ -1849,7 +1849,7 @@
     </Horse>
   </ClanClass>
   <ClanClass
-    clan="AQRP"
+    clan="AQ"
     banner="11.552.552.1536.1536.764.764.1.0.0"
     color1="FF9c7018"
     color2="FF122447"
@@ -1914,7 +1914,7 @@
     </Horse>
   </ClanClass>
   <ClanClass
-    clan="AQRP"
+    clan="AQ"
     color1="FFd7a12b"
     color2="FF144ea8"
     banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0"
@@ -1960,9 +1960,9 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--GARP-->
+  <!--GA-->
   <ClanClass 
-    clan="GARP"
+    clan="GA"
     color1="FF8e1818"
     color2="FF263d7d"
     banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
@@ -2025,7 +2025,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="GARP"
+    clan="GA"
     color1="FF8e1818"
     color2="FF263d7d"
     banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
@@ -2088,7 +2088,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="GARP"
+    clan="GA"
     color1="FF8e1818"
     color2="FF263d7d"
     banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
@@ -2142,7 +2142,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="GARP"
+    clan="GA"
     color1="FF8e1818"
     color2="FF263d7d"
     banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
@@ -2218,7 +2218,7 @@
   </ClanClass>
 
   <ClanClass 
-    clan="GARP"
+    clan="GA"
     color1="FF8e1818"
     color2="FF263d7d"
     banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
@@ -2251,7 +2251,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="GARP"
+    clan="GA"
     color1="FF8e1818"
     color2="FF263d7d"
     banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
@@ -2286,7 +2286,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="GARP"
+    clan="GA"
     color1="FF8e1818"
     color2="FF263d7d"
     banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
@@ -2321,7 +2321,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="GARP"
+    clan="GA"
     color1="FF8e1818"
     color2="FF263d7d"
     banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
@@ -2382,7 +2382,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="GARP"
+    clan="GA"
     color1="FF8e1818"
     color2="FF263d7d"
     banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
@@ -2433,7 +2433,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="GARP"
+    clan="GA"
     color1="FF8e1818"
     color2="FF263d7d"
     banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
@@ -2485,7 +2485,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="GARP"
+    clan="GA"
     color1="FF8e1818"
     color2="FF263d7d"
     banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
@@ -2555,7 +2555,7 @@
     </Horse>
   </ClanClass>
   <ClanClass 
-    clan="GARP"
+    clan="GA"
     color1="FF6c1010"
     color2="FF142441"
     banner="1.550.551.1536.1536.764.764.0.0.0"
@@ -2620,7 +2620,7 @@
     </Horse>
   </ClanClass>
   <ClanClass 
-    clan="GARP"
+    clan="GA"
     color1="FF8e1818"
     color2="FF263d7d"
     banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
@@ -2666,9 +2666,9 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--MOURP-->
+  <!--MOU-->
   <ClanClass 
-    clan="MOURP"
+    clan="MOU"
     color1="FFdab42b"
     color2="FF1f1a19"
     banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
@@ -2731,7 +2731,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MOURP"
+    clan="MOU"
     color1="FFdab42b"
     color2="FF1f1a19"
     banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
@@ -2800,7 +2800,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MOURP"
+    clan="MOU"
     color1="FFdab42b"
     color2="FF1f1a19"
     banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
@@ -2856,7 +2856,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MOURP"
+    clan="MOU"
     color1="FFdab42b"
     color2="FF1f1a19"
     banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
@@ -2933,7 +2933,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MOURP"
+    clan="MOU"
     color1="FFdab42b"
     color2="FF1f1a19"
     banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
@@ -2966,7 +2966,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MOURP"
+    clan="MOU"
     color1="FFdab42b"
     color2="FF1f1a19"
     banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
@@ -3027,7 +3027,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MOURP"
+    clan="MOU"
     color1="FFdab42b"
     color2="FF1f1a19"
     banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
@@ -3083,7 +3083,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MOURP"
+    clan="MOU"
     color1="FFdab42b"
     color2="FF1f1a19"
     banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
@@ -3136,7 +3136,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MOURP"
+    clan="MOU"
     color1="FFdab42b"
     color2="FF1f1a19"
     banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
@@ -3208,7 +3208,7 @@
     </Horse>
   </ClanClass>
   <ClanClass 
-    clan="MOURP"
+    clan="MOU"
     color1="FF76621f"
     color2="FF0e0f12"
     banner="11.554.554.1536.1536.764.764.0.0.0"
@@ -3269,7 +3269,7 @@
     </Horse>
   </ClanClass>
   <ClanClass 
-    clan="MOURP"
+    clan="MOU"
     color1="FFdab42b"
     color2="FF1f1a19"
     banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
@@ -3318,9 +3318,9 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--BRIRP-->
+  <!--BRI-->
   <ClanClass 
-    clan="BRIRP"
+    clan="BRI"
     color1="FFbbbbbb"
     color2="FF1a1a1a"
     banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
@@ -3383,7 +3383,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="BRIRP"
+    clan="BRI"
     color1="FFbbbbbb"
     color2="FF1a1a1a"
     banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
@@ -3452,7 +3452,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="BRIRP"
+    clan="BRI"
     color1="FFbbbbbb"
     color2="FF1a1a1a"
     banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
@@ -3508,7 +3508,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="BRIRP"
+    clan="BRI"
     color1="FFbbbbbb"
     color2="FF1a1a1a"
     banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
@@ -3584,7 +3584,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="BRIRP"
+    clan="BRI"
     color1="FFbbbbbb"
     color2="FF1a1a1a"
     banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
@@ -3621,7 +3621,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="BRIRP"
+    clan="BRI"
     color1="FFbbbbbb"
     color2="FF1a1a1a"
     banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
@@ -3658,7 +3658,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="BRIRP"
+    clan="BRI"
     color1="FFbbbbbb"
     color2="FF1a1a1a"
     banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
@@ -3693,7 +3693,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="BRIRP"
+    clan="BRI"
     color1="FFbbbbbb"
     color2="FF1a1a1a"
     banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
@@ -3754,7 +3754,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="BRIRP"
+    clan="BRI"
     color1="FFbbbbbb"
     color2="FF1a1a1a"
     banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
@@ -3810,7 +3810,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="BRIRP"
+    clan="BRI"
     color1="FFbbbbbb"
     color2="FF1a1a1a"
     banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
@@ -3864,7 +3864,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="BRIRP"
+    clan="BRI"
     color1="FFbbbbbb"
     color2="FF1a1a1a"
     banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
@@ -3936,7 +3936,7 @@
     </Horse>
   </ClanClass>
   <ClanClass 
-    clan="BRIRP"
+    clan="BRI"
     color1="FF82776d"
     color2="FF0c0b0a"
     banner="11.556.556.1536.1536.764.764.0.0.0"
@@ -4001,7 +4001,7 @@
     </Horse>
   </ClanClass>
   <ClanClass 
-    clan="BRIRP"
+    clan="BRI"
     color1="FFbbbbbb"
     color2="FF1a1a1a"
     banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
@@ -4047,9 +4047,9 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--CASRP-->
+  <!--CAS-->
   <ClanClass 
-    clan="CASRP"
+    clan="CAS"
     color1="FF1c232c"
     color2="FF29559f"
     banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
@@ -4112,7 +4112,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="CASRP"
+    clan="CAS"
     color1="FF1c232c"
     color2="FF29559f"
     banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
@@ -4177,7 +4177,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="CASRP"
+    clan="CAS"
     color1="FF1c232c"
     color2="FF29559f"
     banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
@@ -4232,7 +4232,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="CASRP"
+    clan="CAS"
     color1="FF1c232c"
     color2="FF29559f"
     banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
@@ -4309,7 +4309,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="CASRP"
+    clan="CAS"
     color1="FF1c232c"
     color2="FF29559f"
     banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
@@ -4370,7 +4370,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="CASRP"
+    clan="CAS"
     color1="FF1c232c"
     color2="FF29559f"
     banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
@@ -4423,7 +4423,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="CASRP"
+    clan="CAS"
     color1="FF1c232c"
     color2="FF29559f"
     banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
@@ -4476,7 +4476,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="CASRP"
+    clan="CAS"
     color1="FF1c232c"
     color2="FF29559f"
     banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
@@ -4548,7 +4548,7 @@
     </Horse>
   </ClanClass>
   <ClanClass 
-    clan="CASRP"
+    clan="CAS"
     color1="FF25355e"
     color2="FF0c0d0e"
     banner="3.558.559.1536.1536.764.764.0.0.0"
@@ -4609,7 +4609,7 @@
     </Horse>
   </ClanClass>
   <ClanClass 
-    clan="CASRP"
+    clan="CAS"
     color1="FF1c232c"
     color2="FF29559f"
     banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
@@ -4658,9 +4658,9 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--LABRP-->
+  <!--LAB-->
   <ClanClass 
-    clan="LABRP"
+    clan="LAB"
     color1="FF7f1b12"
     color2="FFcac9bf"
     banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0"
@@ -4723,7 +4723,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="LABRP"
+    clan="LAB"
     color1="FF7f1b12"
     color2="FFcac9bf"
     banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0"
@@ -4790,7 +4790,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="LABRP"
+    clan="LAB"
     color1="FF7f1b12"
     color2="FFcac9bf"
     banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0"
@@ -4845,7 +4845,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="LABRP"
+    clan="LAB"
     color1="FF7f1b12"
     color2="FFcac9bf"
     banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0"
@@ -4920,7 +4920,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="LABRP"
+    clan="LAB"
     color1="FF7f1b12"
     color2="FFcac9bf"
     banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0"
@@ -4981,7 +4981,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="LABRP"
+    clan="LAB"
     color1="FF7f1b12"
     color2="FFcac9bf"
     banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0"
@@ -5035,7 +5035,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="LABRP"
+    clan="LAB"
     color1="FF7f1b12"
     color2="FFcac9bf"
     banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0"
@@ -5087,7 +5087,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="LABRP"
+    clan="LAB"
     color1="FF7f1b12"
     color2="FFcac9bf"
     banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0"
@@ -5157,7 +5157,7 @@
     </Horse>
   </ClanClass>
   <ClanClass 
-    clan="LABRP"
+    clan="LAB"
     color1="FF54110e"
     color2="FF938d7f"
     banner="11.560.560.1536.1536.764.764.0.0.0"
@@ -5222,7 +5222,7 @@
     </Horse>
   </ClanClass>
   <ClanClass 
-    clan="LABRP"
+    clan="LAB"
     color1="FF450c0a"
     color2="FFadaca0"
     banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0"
@@ -5281,9 +5281,9 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--BAGRP-->
+  <!--BAG-->
   <ClanClass 
-    clan="BAGRP"
+    clan="BAG"
     color1="FF8a1816"
     color2="FFffffff"
     banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0"
@@ -5346,7 +5346,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="BAGRP"
+    clan="BAG"
     color1="FF8a1816"
     color2="FFffffff"
     banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0"
@@ -5413,7 +5413,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="BAGRP"
+    clan="BAG"
     color1="FF8a1816"
     color2="FFffffff"
     banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0"
@@ -5468,7 +5468,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="BAGRP"
+    clan="BAG"
     color1="FF8a1816"
     color2="FFffffff"
     banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0"
@@ -5543,7 +5543,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="BAGRP"
+    clan="BAG"
     color1="FF8a1816"
     color2="FFffffff"
     banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0"
@@ -5604,7 +5604,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="BAGRP"
+    clan="BAG"
     color1="FF8a1816"
     color2="FFffffff"
     banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0"
@@ -5658,7 +5658,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="BAGRP"
+    clan="BAG"
     color1="FF8a1816"
     color2="FFffffff"
     banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0"
@@ -5710,7 +5710,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="BAGRP"
+    clan="BAG"
     color1="FF8a1816"
     color2="FFffffff"
     banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0"
@@ -5780,7 +5780,7 @@
     </Horse>
   </ClanClass>
   <ClanClass 
-    clan="BAGRP"
+    clan="BAG"
     color1="FF54110e"
     color2="FF938d7f"
     banner="11.582.582.1536.1536.764.764.0.0.0"
@@ -5845,7 +5845,7 @@
     </Horse>
   </ClanClass>
   <ClanClass 
-    clan="BAGRP"
+    clan="BAG"
     color1="FF450c0a"
     color2="FFadaca0"
     banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0"
@@ -5904,9 +5904,9 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--TURRP-->
+  <!--TUR-->
   <ClanClass 
-    clan="TURRP"
+    clan="TUR"
     color1="FF263d7d"
     color2="FFd7a12b"
     banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0"
@@ -5969,7 +5969,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="TURRP"
+    clan="TUR"
     color1="FF263d7d"
     color2="FFd7a12b"
     banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0"
@@ -6036,7 +6036,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="TURRP"
+    clan="TUR"
     color1="FF263d7d"
     color2="FFd7a12b"
     banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0"
@@ -6091,7 +6091,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="TURRP"
+    clan="TUR"
     color1="FF263d7d"
     color2="FFd7a12b"
     banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0"
@@ -6166,7 +6166,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="TURRP"
+    clan="TUR"
     color1="FF263d7d"
     color2="FFd7a12b"
     banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0"
@@ -6227,7 +6227,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="TURRP"
+    clan="TUR"
     color1="FF263d7d"
     color2="FFd7a12b"
     banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0"
@@ -6281,7 +6281,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="TURRP"
+    clan="TUR"
     color1="FF263d7d"
     color2="FFd7a12b"
     banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0"
@@ -6333,7 +6333,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="TURRP"
+    clan="TUR"
     color1="FF263d7d"
     color2="FFd7a12b"
     banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0"
@@ -6403,7 +6403,7 @@
     </Horse>
   </ClanClass>
   <ClanClass 
-    clan="TURRP"
+    clan="TUR"
     color1="FF122447"
     color2="FF9c7018"
     banner="11.576.576.1536.1536.764.764.0.0.0"
@@ -6468,7 +6468,7 @@
     </Horse>
   </ClanClass>
   <ClanClass 
-    clan="TURRP"
+    clan="TUR"
     color1="FF0e1940"
     color2="FFb0690c"
     banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0"
@@ -6527,9 +6527,9 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--MORRP-->
+  <!--MOR-->
   <ClanClass 
-    clan="MORRP"
+    clan="MOR"
     color1="FF194a13"
     color2="FF7f1b12"
     banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0"
@@ -6592,7 +6592,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MORRP"
+    clan="MOR"
     color1="FF194a13"
     color2="FF7f1b12"
     banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0"
@@ -6659,7 +6659,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MORRP"
+    clan="MOR"
     color1="FF194a13"
     color2="FF7f1b12"
     banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0"
@@ -6714,7 +6714,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MORRP"
+    clan="MOR"
     color1="FF194a13"
     color2="FF7f1b12"
     banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0"
@@ -6789,7 +6789,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MORRP"
+    clan="MOR"
     color1="FF194a13"
     color2="FF7f1b12"
     banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0"
@@ -6850,7 +6850,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MORRP"
+    clan="MOR"
     color1="FF194a13"
     color2="FF7f1b12"
     banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0"
@@ -6904,7 +6904,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MORRP"
+    clan="MOR"
     color1="FF194a13"
     color2="FF7f1b12"
     banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0"
@@ -6956,7 +6956,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MORRP"
+    clan="MOR"
     color1="FF194a13"
     color2="FF7f1b12"
     banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0"
@@ -7026,7 +7026,7 @@
     </Horse>
   </ClanClass>
   <ClanClass 
-    clan="MORRP"
+    clan="MOR"
     color1="FF102b10"
     color2="FF541613"
     banner="11.562.562.1536.1536.764.764.0.0.0"
@@ -7091,7 +7091,7 @@
     </Horse>
   </ClanClass>
   <ClanClass 
-    clan="MORRP"
+    clan="MOR"
     color1="FF091f0a"
     color2="FF450c0c"
     banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0"
@@ -7150,9 +7150,9 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--ARTRP-->
+  <!--ART-->
   <ClanClass 
-    clan="ARTRP"
+    clan="ART"
     color1="FF470c0c"
     color2="FFf4ebe9"
     banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
@@ -7215,7 +7215,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="ARTRP"
+    clan="ART"
     color1="FF470c0c"
     color2="FFf4ebe9"
     banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
@@ -7282,7 +7282,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="ARTRP"
+    clan="ART"
     color1="FF470c0c"
     color2="FFf4ebe9"
     banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
@@ -7337,7 +7337,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="ARTRP"
+    clan="ART"
     color1="FF470c0c"
     color2="FFf4ebe9"
     banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
@@ -7412,7 +7412,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="ARTRP"
+    clan="ART"
     color1="FF470c0c"
     color2="FFf4ebe9"
     banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
@@ -7473,7 +7473,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="ARTRP"
+    clan="ART"
     color1="FF470c0c"
     color2="FFf4ebe9"
     banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
@@ -7527,7 +7527,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="ARTRP"
+    clan="ART"
     color1="FF470c0c"
     color2="FFf4ebe9"
     banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
@@ -7579,7 +7579,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="ARTRP"
+    clan="ART"
     color1="FF470c0c"
     color2="FFf4ebe9"
     banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
@@ -7649,7 +7649,7 @@
     </Horse>
   </ClanClass>
   <ClanClass 
-    clan="ARTRP"
+    clan="ART"
     color1="FF2d0d0d"
     color2="FF938d7f"
     banner="11.564.564.1536.1536.764.764.0.0.0"
@@ -7714,7 +7714,7 @@
     </Horse>
   </ClanClass>
   <ClanClass 
-    clan="ARTRP"
+    clan="ART"
     color1="FF1d0504"
     color2="FFa6a59a"
     banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
@@ -7773,9 +7773,9 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--GARRP-->
+  <!--GAR-->
   <ClanClass 
-    clan="GARRP"
+    clan="GAR"
     color1="FF181616"
     color2="FF701712"
     banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
@@ -7838,7 +7838,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="GARRP"
+    clan="GAR"
     color1="FF181616"
     color2="FF701712"
     banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
@@ -7907,7 +7907,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="GARRP"
+    clan="GAR"
     color1="FF181616"
     color2="FF701712"
     banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
@@ -7962,7 +7962,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="GARRP"
+    clan="GAR"
     color1="FF181616"
     color2="FF701712"
     banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
@@ -8038,7 +8038,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="GARRP"
+    clan="GAR"
     color1="FF181616"
     color2="FF701712"
     banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
@@ -8099,7 +8099,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="GARRP"
+    clan="GAR"
     color1="FF181616"
     color2="FF701712"
     banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
@@ -8155,7 +8155,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="GARRP"
+    clan="GAR"
     color1="FF181616"
     color2="FF701712"
     banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
@@ -8208,7 +8208,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="GARRP"
+    clan="GAR"
     color1="FF181616"
     color2="FF701712"
     banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
@@ -8278,7 +8278,7 @@
     </Horse>
   </ClanClass>
   <ClanClass 
-    clan="GARRP"
+    clan="GAR"
     color1="FF0f0d0b"
     color2="FF51110e"
     banner="12.566.567.1536.1536.764.764.0.0.0"
@@ -8339,7 +8339,7 @@
     </Horse>
   </ClanClass>
   <ClanClass 
-    clan="GARRP"
+    clan="GAR"
     color1="FF080808"
     color2="FF660704"
     banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
@@ -8398,9 +8398,9 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--GRIRP-->
+  <!--GRI-->
   <ClanClass 
-    clan="GRIRP"
+    clan="GRI"
     color1="FFe0ddd2"
     color2="FF194a13"
     banner="7000.568.569.1536.1536.764.764.0.0.0"
@@ -8463,7 +8463,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="GRIRP"
+    clan="GRI"
     color1="FFe0ddd2"
     color2="FF194a13"
     banner="7000.568.569.1536.1536.764.764.0.0.0"
@@ -8530,7 +8530,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="GRIRP"
+    clan="GRI"
     color1="FFe0ddd2"
     color2="FF194a13"
     banner="7000.568.569.1536.1536.764.764.0.0.0"
@@ -8584,7 +8584,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="GRIRP"
+    clan="GRI"
     color1="FFe0ddd2"
     color2="FF194a13"
     banner="7000.568.569.1536.1536.764.764.0.0.0"
@@ -8659,7 +8659,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="GRIRP"
+    clan="GRI"
     color1="FFe0ddd2"
     color2="FF194a13"
     banner="7000.568.569.1536.1536.764.764.0.0.0"
@@ -8720,7 +8720,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="GRIRP"
+    clan="GRI"
     color1="FFe0ddd2"
     color2="FF194a13"
     banner="7000.568.569.1536.1536.764.764.0.0.0"
@@ -8774,7 +8774,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="GRIRP"
+    clan="GRI"
     color1="FFe0ddd2"
     color2="FF194a13"
     banner="7000.568.569.1536.1536.764.764.0.0.0"
@@ -8826,7 +8826,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="GRIRP"
+    clan="GRI"
     color1="FFe0ddd2"
     color2="FF194a13"
     banner="7000.568.569.1536.1536.764.764.0.0.0"
@@ -8896,7 +8896,7 @@
     </Horse>
   </ClanClass>
   <ClanClass 
-    clan="GRIRP"
+    clan="GRI"
     color1="FF163415"
     color2="FF938d7f"
     banner="11.568.569.1536.1536.764.764.0.0.0"
@@ -8961,7 +8961,7 @@
     </Horse>
   </ClanClass>
   <ClanClass 
-    clan="GRIRP"
+    clan="GRI"
     color1="FF0d330d"
     color2="FFcfc9b5"
     banner="7000.568.569.1536.1536.764.764.0.0.0"
@@ -9023,9 +9023,9 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--MARRP-->
+  <!--MAR-->
   <ClanClass 
-    clan="MARRP"
+    clan="MAR"
     color1="FF3a3a3a"
     color2="FFc5c6bb"
     banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0"
@@ -9088,7 +9088,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MARRP"
+    clan="MAR"
     color1="FF3a3a3a"
     color2="FFc5c6bb"
     banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0"
@@ -9155,7 +9155,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MARRP"
+    clan="MAR"
     color1="FF3a3a3a"
     color2="FFc5c6bb"
     banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0"
@@ -9210,7 +9210,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MARRP"
+    clan="MAR"
     color1="FF3a3a3a"
     color2="FFc5c6bb"
     banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0"
@@ -9285,7 +9285,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MARRP"
+    clan="MAR"
     color1="FF3a3a3a"
     color2="FFc5c6bb"
     banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0"
@@ -9346,7 +9346,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MARRP"
+    clan="MAR"
     color1="FF3a3a3a"
     color2="FFc5c6bb"
     banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0"
@@ -9400,7 +9400,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MARRP"
+    clan="MAR"
     color1="FF3a3a3a"
     color2="FFc5c6bb"
     banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0"
@@ -9452,7 +9452,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MARRP"
+    clan="MAR"
     color1="FF3a3a3a"
     color2="FFc5c6bb"
     banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0"
@@ -9522,7 +9522,7 @@
     </Horse>
   </ClanClass>
   <ClanClass 
-    clan="MARRP"
+    clan="MAR"
     color1="FF21201f"
     color2="FF9e9d9b"
     banner="11.570.571.1536.1536.764.764.1.0.0"
@@ -9587,7 +9587,7 @@
     </Horse>
   </ClanClass>
   <ClanClass 
-    clan="MARRP"
+    clan="MAR"
     color1="FFa1a09c"
     color2="FF141414"
     banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0"
@@ -9646,9 +9646,9 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--FRORP-->
+  <!--FRO-->
   <ClanClass 
-    clan="FRORP"
+    clan="FRO"
     color1="FFe0ddd2"
     color2="FF22498c"
     banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0"
@@ -9711,7 +9711,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="FRORP"
+    clan="FRO"
     color1="FFe0ddd2"
     color2="FF22498c"
     banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0"
@@ -9778,7 +9778,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="FRORP"
+    clan="FRO"
     color1="FFe0ddd2"
     color2="FF22498c"
     banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0"
@@ -9832,7 +9832,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="FRORP"
+    clan="FRO"
     color1="FFe0ddd2"
     color2="FF22498c"
     banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0"
@@ -9907,7 +9907,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="FRORP"
+    clan="FRO"
     color1="FFe0ddd2"
     color2="FF22498c"
     banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0"
@@ -9968,7 +9968,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="FRORP"
+    clan="FRO"
     color1="FFe0ddd2"
     color2="FF22498c"
     banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0"
@@ -10022,7 +10022,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="FRORP"
+    clan="FRO"
     color1="FFe0ddd2"
     color2="FF22498c"
     banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0"
@@ -10074,7 +10074,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="FRORP"
+    clan="FRO"
     color1="FFe0ddd2"
     color2="FF22498c"
     banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0"
@@ -10144,7 +10144,7 @@
     </Horse>
   </ClanClass>
   <ClanClass 
-    clan="FRORP"
+    clan="FRO"
     color1="FF14253f"
     color2="FF9e9d9b"
     banner="3.574.575.1536.1536.764.764.1.0.0"
@@ -10209,7 +10209,7 @@
     </Horse>
   </ClanClass>
   <ClanClass 
-    clan="FRORP"
+    clan="FRO"
     color1="FF0c2d5e"
     color2="FFc7cfd6"
     banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0"
@@ -10271,9 +10271,9 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--LANRP-->
+  <!--LAN-->
   <ClanClass 
-    clan="LANRP"
+    clan="LAN"
     color1="FFffffff"
     color2="FF101545"
     banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0"
@@ -10336,7 +10336,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="LANRP"
+    clan="LAN"
     color1="FFffffff"
     color2="FF101545"
     banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0"
@@ -10403,7 +10403,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="LANRP"
+    clan="LAN"
     color1="FFffffff"
     color2="FF101545"
     banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0"
@@ -10457,7 +10457,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="LANRP"
+    clan="LAN"
     color1="FFffffff"
     color2="FF101545"
     banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0"
@@ -10532,7 +10532,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="LANRP"
+    clan="LAN"
     color1="FFffffff"
     color2="FF101545"
     banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0"
@@ -10593,7 +10593,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="LANRP"
+    clan="LAN"
     color1="FFffffff"
     color2="FF101545"
     banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0"
@@ -10647,7 +10647,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="LANRP"
+    clan="LAN"
     color1="FFffffff"
     color2="FF101545"
     banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0"
@@ -10699,7 +10699,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="LANRP"
+    clan="LAN"
     color1="FFffffff"
     color2="FF101545"
     banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0"
@@ -10769,7 +10769,7 @@
     </Horse>
   </ClanClass>
   <ClanClass 
-    clan="LANRP"
+    clan="LAN"
     color1="FF0d1228"
     color2="FF9b9ca5"
     banner="11.580.581.1536.1536.764.764.1.0.0"
@@ -10834,7 +10834,7 @@
     </Horse>
   </ClanClass>
   <ClanClass 
-    clan="LANRP"
+    clan="LAN"
     color1="FFbdbbc9"
     color2="FF0f0f30"
     banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0"
@@ -10893,9 +10893,9 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--BASRP-->
+  <!--BAS-->
   <ClanClass 
-    clan="BASRP"
+    clan="BAS"
     color1="FFd7a12b"
     color2="FF8e1818"
     banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
@@ -10958,7 +10958,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="BASRP"
+    clan="BAS"
     color1="FFd7a12b"
     color2="FF8e1818"
     banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
@@ -11025,7 +11025,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="BASRP"
+    clan="BAS"
     color1="FFd7a12b"
     color2="FF8e1818"
     banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
@@ -11079,7 +11079,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="BASRP"
+    clan="BAS"
     color1="FFd7a12b"
     color2="FF8e1818"
     banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
@@ -11154,7 +11154,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="BASRP"
+    clan="BAS"
     color1="FFd7a12b"
     color2="FF8e1818"
     banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
@@ -11215,7 +11215,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="BASRP"
+    clan="BAS"
     color1="FFd7a12b"
     color2="FF8e1818"
     banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
@@ -11269,7 +11269,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="BASRP"
+    clan="BAS"
     color1="FFd7a12b"
     color2="FF8e1818"
     banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
@@ -11321,7 +11321,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="BASRP"
+    clan="BAS"
     color1="FFd7a12b"
     color2="FF8e1818"
     banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
@@ -11391,7 +11391,7 @@
     </Horse>
   </ClanClass>
   <ClanClass 
-    clan="BASRP"
+    clan="BAS"
     color1="FFd7a12b"
     color2="FF8e1818"
     banner="11.552.552.1536.1536.764.764.1.0.0"
@@ -11456,7 +11456,7 @@
     </Horse>
   </ClanClass>
   <ClanClass 
-    clan="BASRP"
+    clan="BAS"
     color1="FFd7a12b"
     color2="FF8e1818"
     banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
@@ -11518,9 +11518,9 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--MONRP-->
+  <!--MON-->
   <ClanClass 
-    clan="MONRP"
+    clan="MON"
     color1="FF171617"
     color2="FFbbbbbb"
     banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0"
@@ -11583,7 +11583,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MONRP"
+    clan="MON"
     color1="FF171617"
     color2="FFbbbbbb"
     banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0"
@@ -11652,7 +11652,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MONRP"
+    clan="MON"
     color1="FF171617"
     color2="FFbbbbbb"
     banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0"
@@ -11708,7 +11708,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MONRP"
+    clan="MON"
     color1="FF171617"
     color2="FFbbbbbb"
     banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0"
@@ -11784,7 +11784,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MONRP"
+    clan="MON"
     color1="FF171617"
     color2="FFbbbbbb"
     banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0"
@@ -11845,7 +11845,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MONRP"
+    clan="MON"
     color1="FF171617"
     color2="FFbbbbbb"
     banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0"
@@ -11901,7 +11901,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MONRP"
+    clan="MON"
     color1="FF171617"
     color2="FFbbbbbb"
     banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0"
@@ -11955,7 +11955,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MONRP"
+    clan="MON"
     color1="FF171617"
     color2="FFbbbbbb"
     banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0"
@@ -12027,7 +12027,7 @@
     </Horse>
   </ClanClass>
   <ClanClass 
-    clan="MONRP"
+    clan="MON"
     color1="FF0c0b0a"
     color2="FF82776d"
     banner="11.572.573.1536.1536.764.764.0.0.0"
@@ -12092,7 +12092,7 @@
     </Horse>
   </ClanClass>
   <ClanClass 
-    clan="MONRP"
+    clan="MON"
     color1="FF040404"
     color2="FFbbbbbb"
     banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0"
@@ -12155,9 +12155,9 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--MAURP-->
+  <!--MAU-->
   <ClanClass 
-    clan="MAURP"
+    clan="MAU"
     color1="FF242121"
     color2="FF69244a"
     banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
@@ -12220,7 +12220,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MAURP"
+    clan="MAU"
     color1="FF242121"
     color2="FF69244a"
     banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
@@ -12289,7 +12289,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MAURP"
+    clan="MAU"
     color1="FF242121"
     color2="FF69244a"
     banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
@@ -12344,7 +12344,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MAURP"
+    clan="MAU"
     color1="FF291e1d"
     color2="FF7e335d"
     banner="13.578.579.1536.1536.764.508.0.0.180.5016.556.556.500.500.764.764.0.0.0"
@@ -12420,7 +12420,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MAURP"
+    clan="MAU"
     color1="FF242121"
     color2="FF69244a"
     banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
@@ -12481,7 +12481,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MAURP"
+    clan="MAU"
     color1="FF242121"
     color2="FF69244a"
     banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
@@ -12537,7 +12537,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MAURP"
+    clan="MAU"
     color1="FF242121"
     color2="FF69244a"
     banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
@@ -12590,7 +12590,7 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MAURP"
+    clan="MAU"
     color1="FF242121"
     color2="FF69244a"
     banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
@@ -12660,7 +12660,7 @@
     </Horse>
   </ClanClass>
   <ClanClass 
-    clan="MAURP"
+    clan="MAU"
     color1="FF351226"
     color2="FF100f0d"
     banner="7003.578.579.1536.1536.764.764.0.0.0"
@@ -12721,7 +12721,7 @@
     </Horse>
   </ClanClass>
   <ClanClass 
-    clan="MAURP"
+    clan="MAU"
     color1="FF43102c"
     color2="FF171716"
     banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
