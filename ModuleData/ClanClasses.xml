@@ -8,7 +8,7 @@
     banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
     name="Paysan armé"
     mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.co.rp">
+    id="armed_peasant.co">
     <Weapon0>
       <equipment id="b2_peasant_spear" />
     </Weapon0>
@@ -71,7 +71,7 @@
     banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
     name="Homme d'armes"
     mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.co.rp">
+    id="man_at_arms.co">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -134,7 +134,7 @@
     banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
     name="Sergent d'armes"
     mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.co.rp">
+    id="sergeant_at_arms.co">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -188,7 +188,7 @@
     banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
     name="Capitaine"
     mpclassdivision="bre_infantry_lvl4"
-    id="captain.co.rp">
+    id="captain.co">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -263,7 +263,7 @@
     banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
     name="Les Heaumes au Lion - Garde"
     mpclassdivision="bre_infantry_lvl4"
-    id="lionhelm_guard.co.rp">
+    id="lionhelm_guard.co">
     <Weapon0>
       <equipment id="b3_lionhelm_hammer"/>
       <equipment id="b3_lionhelm_axe"/>
@@ -294,7 +294,7 @@
     banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
     name="Les Heaumes au Lion - Sergent"
     mpclassdivision="bre_infantry_lvl4"
-    id="lionhelm_sergeant.co.rp">
+    id="lionhelm_sergeant.co">
     <Weapon0>
       <equipment id="b3_lionhelm_hammer"/>
       <equipment id="b3_lionhelm_axe"/>
@@ -322,7 +322,7 @@
     banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
     name="Les Heaumes au Lion - Capitaine"
     mpclassdivision="bre_infantry_lvl4"
-    id="lionhelm_captain.co.rp">
+    id="lionhelm_captain.co">
     <Weapon0>
       <equipment id="b3_lionhelm_hammer"/>
       <equipment id="b3_lionhelm_axe"/>
@@ -350,7 +350,7 @@
     banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
     name="Archer paysan"
     mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.co.rp">
+    id="peasant_archer.co">
     <Weapon0>
       <equipment id="b2_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -411,7 +411,7 @@
     banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
     name="Franc-archer"
     mpclassdivision="bre_archer_lvl2"
-    id="free_archer.co.rp">
+    id="free_archer.co">
     <Weapon0>
       <equipment id="b2_lowland_bow" archeritem="true"/>
       <equipment id="b2_yew_bow"/>
@@ -462,7 +462,7 @@
     banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
     name="Maître archer"
     mpclassdivision="bre_archer_lvl3"
-    id="master_archer.co.rp">
+    id="master_archer.co">
     <Weapon0>
       <equipment id="b2_yew_bow" archeritem="true"/>
       <equipment id="b2_lowland_bow" />
@@ -514,7 +514,7 @@
     banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
     name="Sergent monté"
     mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.co.rp">
+    id="mounted_sergeant.co">
     <Weapon0>
       <equipment id="b2_lance_co"/>
     </Weapon0>
@@ -584,7 +584,7 @@
     banner="1.550.551.1536.1536.764.764.0.0.0"
     name="Ecuyer"
     mpclassdivision="bre_cavalry_lvl1"
-    id="squire.co.rp">
+    id="squire.co">
     <Weapon0>
       <equipment id="b2_lance_co"/>
     </Weapon0>
@@ -649,7 +649,7 @@
     banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
     name="Louen Leoncoeur"
     mpclassdivision="bre_cavalry_lvl2"
-    id="knight_of_the_realm.co.rp">
+    id="knight_of_the_realm.co">
     <Weapon0>
       <equipment id="b2_lance_co" />
       <equipment id="b3_grail_lance_co" disablerandomize="true" />
@@ -698,7 +698,7 @@
     color2="FF42261c"
     name="Pélerin"
     mpclassdivision="bre_infantry_lvl1"
-    id="pilgrim.or.rp">
+    id="pilgrim.or">
     <Weapon0>
       <equipment id="b3_pilgrim_faussard" />
       <equipment id="b3_pilgrim_faussard_2" />
@@ -739,7 +739,7 @@
     color2="FF42261c"
     name="Pélerin de bataille"
     mpclassdivision="bre_infantry_lvl2"
-    id="battle_pilgrim.or.rp">
+    id="battle_pilgrim.or">
     <Weapon0>
       <equipment id="b3_pilgrim_faussard" />
       <equipment id="b3_pilgrim_faussard_2" />
@@ -787,7 +787,7 @@
     color2="FF42261c"
     name="Pélerin exalté"
     mpclassdivision="bre_infantry_lvl2"
-    id="exalted_pilgrim.or.rp">
+    id="exalted_pilgrim.or">
     <Weapon0>
       <equipment id="b3_pilgrim_faussard" />
       <equipment id="b3_pilgrim_faussard_2" />
@@ -832,7 +832,7 @@
     color2="FFe8e1cf"
     name="Frère-novice"
     mpclassdivision="bre_infantry_lvl3"
-    id="brother_novice.or.rp">
+    id="brother_novice.or">
     <Weapon0>
       <equipment id="b2_faussard" />
       <equipment id="b2_2h_mace" />
@@ -865,7 +865,7 @@
     color2="FFe8e1cf"
     name="Frère-serjeant"
     mpclassdivision="bre_infantry_lvl3"
-    id="brother_sergeant.or.rp">
+    id="brother_sergeant.or">
     <Weapon0>
       <equipment id="b2_faussard" />
       <equipment id="b2_2h_mace" />
@@ -896,7 +896,7 @@
     color2="FFe8e1cf"
     name="Porte-étendard"
     mpclassdivision="bre_infantry_lvl3"
-    id="standard_bearer.or.rp">
+    id="standard_bearer.or">
     <Weapon0>
       <equipment id="b3_banner_or_montjoie" />
       <equipment id="b3_banner_or_lacrimore" />
@@ -926,7 +926,7 @@
     color2="FFe8e1cf"
     name="Frère-chevalier"
     mpclassdivision="bre_cavalry_lvl2"
-    id="brother_knight.or.rp">
+    id="brother_knight.or">
     <Weapon0>
       <equipment id="b2_lance_or" />
       <equipment id="b3_kotr_lance_or" disablerandomize="true" />
@@ -975,7 +975,7 @@
     color2="FFe8e1cf"
     name="Commandeur"
     mpclassdivision="bre_cavalry_lvl2"
-    id="commander.or.rp">
+    id="commander.or">
     <Weapon0>
       <equipment id="b2_lance_or" />
       <equipment id="b3_kotr_lance_or" disablerandomize="true" />
@@ -1024,7 +1024,7 @@
     color2="FFe8e1cf"
     name="Paladin"
     mpclassdivision="bre_cavalry_lvl2"
-    id="paladin.or.rp">
+    id="paladin.or">
     <Weapon0>
       <equipment id="b2_lance_or" />
       <equipment id="b3_kotr_lance_or" disablerandomize="true" />
@@ -1074,7 +1074,7 @@
     color2="FFe8e1cf"
     name="Chapelain"
     mpclassdivision="bre_cavalry_lvl2"
-    id="chaplain.or.rp">
+    id="chaplain.or">
     <Weapon0>
       <equipment id="b2_lance_or" />
       <equipment id="b3_kotr_lance_or" disablerandomize="true" />
@@ -1123,7 +1123,7 @@
     color2="FFe8e1cf"
     name="Inquisiteur"
     mpclassdivision="bre_cavalry_lvl2"
-    id="inquisitor.or.rp">
+    id="inquisitor.or">
     <Weapon0>
       <equipment id="b2_lance_or" />
       <equipment id="b3_kotr_lance_or" disablerandomize="true" />
@@ -1172,7 +1172,7 @@
     color2="FFe8e1cf"
     name="Grand-maître"
     mpclassdivision="bre_cavalry_lvl2"
-    id="grand_master.or.rp">
+    id="grand_master.or">
     <Weapon0>
       <equipment id="b2_lance_or" />
       <equipment id="b3_kotr_lance_or" disablerandomize="true" />
@@ -1221,7 +1221,7 @@
     color2="FFe8e1cf"
     name="Grand-prieur"
     mpclassdivision="bre_cavalry_lvl2"
-    id="grand_prior.or.rp">
+    id="grand_prior.or">
     <Weapon0>
       <equipment id="b2_lance_or" />
       <equipment id="b3_kotr_lance_or" disablerandomize="true" />
@@ -1271,7 +1271,7 @@
     color2="FF144ea8"
     name="Rôdeur"
     mpclassdivision="bre_archer_lvl3"
-    id="herrimault_prawler.he.rp">
+    id="herrimault_prawler.he">
     <Weapon0>
       <equipment id="b3rp_noble_long_bow_watch" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -1313,7 +1313,7 @@
     color2="FF144ea8"
     name="Forestier"
     mpclassdivision="bre_archer_lvl3"
-    id="herrimault_forester.he.rp">
+    id="herrimault_forester.he">
     <Weapon0>
       <equipment id="b3rp_noble_long_bow_watch" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -1356,7 +1356,7 @@
     color2="FF144ea8"
     name="Armed peasant"
     mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.aq.rp">
+    id="armed_peasant.aq">
     <Weapon0>
       <equipment id="b2_peasant_spear" />
     </Weapon0>
@@ -1419,7 +1419,7 @@
     color2="FF144ea8"
     name="Man at arms"
     mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.aq.rp">
+    id="man_at_arms.aq">
     <Weapon0>
       <equipment id="b2_man_spear" />
     </Weapon0>
@@ -1486,7 +1486,7 @@
     color2="FF144ea8"
     name="Sergeant at arms"
     mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.aq.rp">
+    id="sergeant_at_arms.aq">
     <Weapon0>
       <equipment id="b2_man_spear" />
       <equipment id="null" hidden="true" disablerandomize="true" />
@@ -1542,7 +1542,7 @@
     color2="FF144ea8"
     name="Captain"
     mpclassdivision="bre_infantry_lvl4"
-    id="captain.aq.rp">
+    id="captain.aq">
     <Weapon0>
       <equipment id="b2_man_spear" />
     </Weapon0>
@@ -1618,7 +1618,7 @@
     color2="FF144ea8"
     name="Peasant archer"
     mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.aq.rp">
+    id="peasant_archer.aq">
     <Weapon0>
       <equipment id="b2_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -1679,7 +1679,7 @@
     color2="FF144ea8"
     name="Free archer"
     mpclassdivision="bre_archer_lvl2"
-    id="free_archer.aq.rp">
+    id="free_archer.aq">
     <Weapon0>
       <equipment id="b2_lowland_bow" archeritem="true"/>
       <equipment id="b2_yew_bow" />
@@ -1733,7 +1733,7 @@
     color2="FF144ea8"
     name="Master archer"
     mpclassdivision="bre_archer_lvl3"
-    id="master_archer.aq.rp">
+    id="master_archer.aq">
     <Weapon0>
       <equipment id="b2_yew_bow" archeritem="true"/>
       <equipment id="b2_lowland_bow" />
@@ -1785,7 +1785,7 @@
     color2="FF144ea8"
     name="Mounted sergeant"
     mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.aq.rp">
+    id="mounted_sergeant.aq">
     <Weapon0>
       <equipment id="b2_lance_aq" />
     </Weapon0>
@@ -1855,7 +1855,7 @@
     color2="FF122447"
     name="Squire"
     mpclassdivision="bre_cavalry_lvl1"
-    id="squire.aq.rp">
+    id="squire.aq">
     <Weapon0>
       <equipment id="b2_lance_aq"/>
     </Weapon0>
@@ -1920,7 +1920,7 @@
     banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0"
     name="Armand of Aquitanie"
     mpclassdivision="bre_cavalry_lvl2"
-    id="knight_of_the_realm.aq.rp">
+    id="knight_of_the_realm.aq">
     <Weapon0>
       <equipment id="b2_lance_aq" />
       <equipment id="b3_grail_lance_aq" disablerandomize="true" />
@@ -1968,7 +1968,7 @@
     banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
     name="Paysan armé"
     mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.ga.rp">
+    id="armed_peasant.ga">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
     </Weapon0>
@@ -2031,7 +2031,7 @@
     banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
     name="Homme d'armes"
     mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.ga.rp">
+    id="man_at_arms.ga">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -2094,7 +2094,7 @@
     banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
     name="Sergent d'armes"
     mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.ga.rp">
+    id="sergeant_at_arms.ga">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -2148,7 +2148,7 @@
     banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
     name="Capitaine"
     mpclassdivision="bre_infantry_lvl4"
-    id="captain.ga.rp">
+    id="captain.ga">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -2224,7 +2224,7 @@
     banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
     name="Gardes du Dragon - Garde"
     mpclassdivision="bre_infantry_lvl4"
-    id="dragonguard_guard.ga.rp">
+    id="dragonguard_guard.ga">
     <Weapon0>
       <equipment id="b3_dragonguard_2h_sword"/>
     </Weapon0>
@@ -2257,7 +2257,7 @@
     banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
     name="Gardes du Dragon - Sergent"
     mpclassdivision="bre_infantry_lvl4"
-    id="dragonguard_sergeant.ga.rp">
+    id="dragonguard_sergeant.ga">
     <Weapon0>
       <equipment id="b3_dragonguard_2h_sword"/>
     </Weapon0>
@@ -2292,7 +2292,7 @@
     banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
     name="Gardes du Dragon - Capitaine"
     mpclassdivision="bre_infantry_lvl4"
-    id="dragonguard_captain.ga.rp">
+    id="dragonguard_captain.ga">
     <Weapon0>
       <equipment id="b3_dragonguard_2h_sword"/>
     </Weapon0>
@@ -2327,7 +2327,7 @@
     banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
     name="Archer paysan "
     mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.ga.rp">
+    id="peasant_archer.ga">
     <Weapon0>
       <equipment id="b2_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -2388,7 +2388,7 @@
     banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
     name="Franc-archer"
     mpclassdivision="bre_archer_lvl2"
-    id="free_archer.ga.rp">
+    id="free_archer.ga">
     <Weapon0>
       <equipment id="b2_lowland_bow" archeritem="true"/>
       <equipment id="b2_yew_bow" />
@@ -2439,7 +2439,7 @@
     banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
     name="Maître archer"
     mpclassdivision="bre_archer_lvl3"
-    id="master_archer.ga.rp">
+    id="master_archer.ga">
     <Weapon0>
       <equipment id="b2_yew_bow" archeritem="true"/>
       <equipment id="b2_lowland_bow" />
@@ -2491,7 +2491,7 @@
     banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
     name="Sergent monté"
     mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.ga.rp">
+    id="mounted_sergeant.ga">
     <Weapon0>
       <equipment id="b2_lance_ga"/>
     </Weapon0>
@@ -2561,7 +2561,7 @@
     banner="1.550.551.1536.1536.764.764.0.0.0"
     name="Ecuyer"
     mpclassdivision="bre_cavalry_lvl1"
-    id="squire.ga.rp">
+    id="squire.ga">
     <Weapon0>
       <equipment id="b2_lance_ga"/>
     </Weapon0>
@@ -2626,7 +2626,7 @@
     banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
     name="Huebald de Gasconnie"
     mpclassdivision="bre_cavalry_lvl2"
-    id="knight_of_the_realm.ga.rp">
+    id="knight_of_the_realm.ga">
     <Weapon0>
       <equipment id="b2_lance_ga"/>
       <equipment id="b3_grail_lance_ga" disablerandomize="true"/>
@@ -2674,7 +2674,7 @@
     banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
     name="Armed peasant"
     mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.mou.rp">
+    id="armed_peasant.mou">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
     </Weapon0>
@@ -2737,7 +2737,7 @@
     banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
     name="Man at arms"
     mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.mou.rp">
+    id="man_at_arms.mou">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -2806,7 +2806,7 @@
     banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
     name="Sergeant at arms"
     mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.mou.rp">
+    id="sergeant_at_arms.mou">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -2862,7 +2862,7 @@
     banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
     name="Captain"
     mpclassdivision="bre_infantry_lvl4"
-    id="captain.mou.rp">
+    id="captain.mou">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -2939,7 +2939,7 @@
     banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
     name="Grave guard"
     mpclassdivision="bre_infantry_lvl4"
-    id="cryptguard_guardsman.mou.rp">
+    id="cryptguard_guardsman.mou">
     <Weapon0>
       <equipment id="b3_peasant_polearm_1"/>
     </Weapon0>
@@ -2972,7 +2972,7 @@
     banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
     name="Peasant archer"
     mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.mou.rp">
+    id="peasant_archer.mou">
     <Weapon0>
       <equipment id="b2_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -3033,7 +3033,7 @@
     banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
     name="Free archer"
     mpclassdivision="bre_archer_lvl2"
-    id="free_archer.mou.rp">
+    id="free_archer.mou">
     <Weapon0>
       <equipment id="b2_lowland_bow" archeritem="true"/>
       <equipment id="b2_yew_bow" />
@@ -3089,7 +3089,7 @@
     banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
     name="Master archer"
     mpclassdivision="bre_archer_lvl3"
-    id="master_archer.mou.rp">
+    id="master_archer.mou">
     <Weapon0>
       <equipment id="b2_yew_bow" archeritem="true"/>
       <equipment id="b2_lowland_bow" />
@@ -3142,7 +3142,7 @@
     banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
     name="Mounted sergeant"
     mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.mou.rp">
+    id="mounted_sergeant.mou">
     <Weapon0>
       <equipment id="b2_lance_mou"/>
     </Weapon0>
@@ -3214,7 +3214,7 @@
     banner="11.554.554.1536.1536.764.764.0.0.0"
     name="Squire"
     mpclassdivision="bre_cavalry_lvl1"
-    id="squire.mou.rp">
+    id="squire.mou">
     <Weapon0>
       <equipment id="b2_lance_mou"/>
     </Weapon0>
@@ -3275,7 +3275,7 @@
     banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
     name="Malory of Moussillon"
     mpclassdivision="bre_cavalry_lvl2"
-    id="knight_of_the_realm.mou.rp">
+    id="knight_of_the_realm.mou">
     <Weapon0>
       <equipment id="b2_lance_mou"/>
       <equipment id="b3_grail_lance_mou" disablerandomize="true"/>
@@ -3326,7 +3326,7 @@
     banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
     name="Armed peasant"
     mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.bri.rp">
+    id="armed_peasant.bri">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
     </Weapon0>
@@ -3389,7 +3389,7 @@
     banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
     name="Man at arms"
     mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.bri.rp">
+    id="man_at_arms.bri">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -3458,7 +3458,7 @@
     banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
     name="Sergeant at arms"
     mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.bri.rp">
+    id="sergeant_at_arms.bri">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -3514,7 +3514,7 @@
     banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
     name="Captain"
     mpclassdivision="bre_infantry_lvl4"
-    id="captain.bri.rp">
+    id="captain.bri">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -3590,7 +3590,7 @@
     banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
     name="Protectors of Brienne - Guard"
     mpclassdivision="bre_infantry_lvl4"
-    id="protector_guard.bri.rp">
+    id="protector_guard.bri">
     <Weapon0>
       <equipment id="b3_protector_poleaxe"/>
     </Weapon0>
@@ -3627,7 +3627,7 @@
     banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
     name="Protectors of Brienne - Veteran"
     mpclassdivision="bre_infantry_lvl4"
-    id="protector_veteran.bri.rp">
+    id="protector_veteran.bri">
     <Weapon0>
       <equipment id="b3_protector_poleaxe"/>
     </Weapon0>
@@ -3664,7 +3664,7 @@
     banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
     name="Protectors of Brienne - Captain"
     mpclassdivision="bre_infantry_lvl4"
-    id="protector_captain.bri.rp">
+    id="protector_captain.bri">
     <Weapon0>
       <equipment id="b3_protector_poleaxe"/>
     </Weapon0>
@@ -3699,7 +3699,7 @@
     banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
     name="Peasant archer"
     mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.bri.rp">
+    id="peasant_archer.bri">
     <Weapon0>
       <equipment id="b2_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -3760,7 +3760,7 @@
     banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
     name="Free archer"
     mpclassdivision="bre_archer_lvl2"
-    id="free_archer.bri.rp">
+    id="free_archer.bri">
     <Weapon0>
       <equipment id="b2_lowland_bow" archeritem="true"/>
       <equipment id="b2_yew_bow" />
@@ -3816,7 +3816,7 @@
     banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
     name="Master archer"
     mpclassdivision="bre_archer_lvl3"
-    id="master_archer.bri.rp">
+    id="master_archer.bri">
     <Weapon0>
       <equipment id="b2_yew_bow" archeritem="true"/>
       <equipment id="b2_lowland_bow" />
@@ -3870,7 +3870,7 @@
     banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
     name="Mounted sergeant"
     mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.bri.rp">
+    id="mounted_sergeant.bri">
     <Weapon0>
       <equipment id="b2_lance_bri"/>
     </Weapon0>
@@ -3942,7 +3942,7 @@
     banner="11.556.556.1536.1536.764.764.0.0.0"
     name="Squire"
     mpclassdivision="bre_cavalry_lvl1"
-    id="squire.bri.rp">
+    id="squire.bri">
     <Weapon0>
       <equipment id="b2_lance_bri"/>
     </Weapon0>
@@ -4007,7 +4007,7 @@
     banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
     name="Theodoric of Brionne"
     mpclassdivision="bre_cavalry_lvl2"
-    id="knight_of_the_realm.bri.rp">
+    id="knight_of_the_realm.bri">
     <Weapon0>
       <equipment id="b2_lance_bri"/>
       <equipment id="b3_grail_lance_bri" disablerandomize="true"/>
@@ -4055,7 +4055,7 @@
     banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
     name="Armed peasant"
     mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.cas.rp">
+    id="armed_peasant.cas">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
     </Weapon0>
@@ -4118,7 +4118,7 @@
     banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
     name="Man at arms"
     mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.cas.rp">
+    id="man_at_arms.cas">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -4183,7 +4183,7 @@
     banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
     name="Sergeant at arms"
     mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.cas.rp">
+    id="sergeant_at_arms.cas">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -4238,7 +4238,7 @@
     banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
     name="Captain"
     mpclassdivision="bre_infantry_lvl4"
-    id="captain.cas.rp">
+    id="captain.cas">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -4315,7 +4315,7 @@
     banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
     name="Peasant archer"
     mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.cas.rp">
+    id="peasant_archer.cas">
     <Weapon0>
       <equipment id="b2_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -4376,7 +4376,7 @@
     banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
     name="Free archer"
     mpclassdivision="bre_archer_lvl2"
-    id="free_archer.cas.rp">
+    id="free_archer.cas">
     <Weapon0>
       <equipment id="b2_lowland_bow" archeritem="true"/>
       <equipment id="b2_yew_bow" />
@@ -4429,7 +4429,7 @@
     banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
     name="Master archer"
     mpclassdivision="bre_archer_lvl3"
-    id="master_archer.cas.rp">
+    id="master_archer.cas">
     <Weapon0>
       <equipment id="b2_yew_bow" archeritem="true"/>
       <equipment id="b2_lowland_bow" />
@@ -4482,7 +4482,7 @@
     banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
     name="Mounted sergeant"
     mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.cas.rp">
+    id="mounted_sergeant.cas">
     <Weapon0>
       <equipment id="b2_lance_cas"/>
     </Weapon0>
@@ -4554,7 +4554,7 @@
     banner="3.558.559.1536.1536.764.764.0.0.0"
     name="Squire"
     mpclassdivision="bre_cavalry_lvl1"
-    id="squire.cas.rp">
+    id="squire.cas">
     <Weapon0>
       <equipment id="b2_lance_cas"/>
     </Weapon0>
@@ -4615,7 +4615,7 @@
     banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
     name="Dangorn of Castagne"
     mpclassdivision="bre_cavalry_lvl2"
-    id="knight_of_the_realm.cas.rp">
+    id="knight_of_the_realm.cas">
     <Weapon0>
       <equipment id="b2_lance_cas"/>
       <equipment id="b3_grail_lance_cas" disablerandomize="true"/>
@@ -4666,7 +4666,7 @@
     banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0"
     name="Paysan armé"
     mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.lab.rp">
+    id="armed_peasant.lab">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
     </Weapon0>
@@ -4729,7 +4729,7 @@
     banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0"
     name="Homme d'armes"
     mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.lab.rp">
+    id="man_at_arms.lab">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -4796,7 +4796,7 @@
     banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0"
     name="Sergent d'armes"
     mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.lab.rp">
+    id="sergeant_at_arms.lab">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -4851,7 +4851,7 @@
     banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0"
     name="Capitaine"
     mpclassdivision="bre_infantry_lvl4"
-    id="captain.lab.rp">
+    id="captain.lab">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -4926,7 +4926,7 @@
     banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0"
     name="Archer paysan"
     mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.lab.rp">
+    id="peasant_archer.lab">
     <Weapon0>
       <equipment id="b2_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -4987,7 +4987,7 @@
     banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0"
     name="Franc-archer"
     mpclassdivision="bre_archer_lvl2"
-    id="free_archer.lab.rp">
+    id="free_archer.lab">
     <Weapon0>
       <equipment id="b2_lowland_bow" archeritem="true"/>
       <equipment id="b2_yew_bow" />
@@ -5041,7 +5041,7 @@
     banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0"
     name="Maître archer"
     mpclassdivision="bre_archer_lvl3"
-    id="master_archer.lab.rp">
+    id="master_archer.lab">
     <Weapon0>
       <equipment id="b2_yew_bow" archeritem="true"/>
       <equipment id="b2_lowland_bow" />
@@ -5093,7 +5093,7 @@
     banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0"
     name="Sergent monté"
     mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.lab.rp">
+    id="mounted_sergeant.lab">
     <Weapon0>
       <equipment id="b2_lance_lab"/>
     </Weapon0>
@@ -5163,7 +5163,7 @@
     banner="11.560.560.1536.1536.764.764.0.0.0"
     name="Ecuyer"
     mpclassdivision="bre_cavalry_lvl1"
-    id="squire.lab.rp">
+    id="squire.lab">
     <Weapon0>
       <equipment id="b2_lance_lab"/>
     </Weapon0>
@@ -5228,7 +5228,7 @@
     banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0"
     name="Seigneur de Labour"
     mpclassdivision="bre_cavalry_lvl2"
-    id="knight_of_the_realm.lab.rp">
+    id="knight_of_the_realm.lab">
     <Weapon0>
       <equipment id="b2_lance_lab"/>
       <equipment id="b3_kotr_lance_lab" disablerandomize="true"/>
@@ -5352,7 +5352,7 @@
     banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0"
     name="Homme d'armes"
     mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.bag.rp">
+    id="man_at_arms.bag">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -5419,7 +5419,7 @@
     banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0"
     name="Sergent d'armes"
     mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.bag.rp">
+    id="sergeant_at_arms.bag">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -5474,7 +5474,7 @@
     banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0"
     name="Capitaine"
     mpclassdivision="bre_infantry_lvl4"
-    id="captain.bag.rp">
+    id="captain.bag">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -5549,7 +5549,7 @@
     banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0"
     name="Archer paysan"
     mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.bag.rp">
+    id="peasant_archer.bag">
     <Weapon0>
       <equipment id="b2_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -5610,7 +5610,7 @@
     banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0"
     name="Franc-archer"
     mpclassdivision="bre_archer_lvl2"
-    id="free_archer.bag.rp">
+    id="free_archer.bag">
     <Weapon0>
       <equipment id="b2_lowland_bow" archeritem="true"/>
       <equipment id="b2_yew_bow" />
@@ -5664,7 +5664,7 @@
     banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0"
     name="Maître archer"
     mpclassdivision="bre_archer_lvl3"
-    id="master_archer.bag.rp">
+    id="master_archer.bag">
     <Weapon0>
       <equipment id="b2_yew_bow" archeritem="true"/>
       <equipment id="b2_lowland_bow" />
@@ -5716,7 +5716,7 @@
     banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0"
     name="Sergent monté"
     mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.bag.rp">
+    id="mounted_sergeant.bag">
     <Weapon0>
       <equipment id="b2_lance_bag"/>
     </Weapon0>
@@ -5786,7 +5786,7 @@
     banner="11.582.582.1536.1536.764.764.0.0.0"
     name="Ecuyer"
     mpclassdivision="bre_cavalry_lvl1"
-    id="squire.bag.rp">
+    id="squire.bag">
     <Weapon0>
       <equipment id="b2_lance_bag"/>
     </Weapon0>
@@ -5851,7 +5851,7 @@
     banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0"
     name="Théomer de Bagnac"
     mpclassdivision="bre_bre_cavalry_lvl2"
-    id="knight_of_the_realm.bag.rp">
+    id="knight_of_the_realm.bag">
     <Weapon0>
       <equipment id="b2_lance_bag"/>
       <equipment id="b3_kotr_lance_bag" disablerandomize="true"/>
@@ -5912,7 +5912,7 @@
     banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0"
     name="Paysan armé"
     mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.tur.rp">
+    id="armed_peasant.tur">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
     </Weapon0>
@@ -5975,7 +5975,7 @@
     banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0"
     name="Homme d'armes"
     mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.tur.rp">
+    id="man_at_arms.tur">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -6042,7 +6042,7 @@
     banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0"
     name="Sergent d'armes"
     mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.tur.rp">
+    id="sergeant_at_arms.tur">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -6097,7 +6097,7 @@
     banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0"
     name="Capitaine"
     mpclassdivision="bre_infantry_lvl4"
-    id="captain.tur.rp">
+    id="captain.tur">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -6172,7 +6172,7 @@
     banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0"
     name="Archer paysan"
     mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.tur.rp">
+    id="peasant_archer.tur">
     <Weapon0>
       <equipment id="b2_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -6233,7 +6233,7 @@
     banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0"
     name="Franc-archer"
     mpclassdivision="bre_archer_lvl2"
-    id="free_archer.tur.rp">
+    id="free_archer.tur">
     <Weapon0>
       <equipment id="b2_lowland_bow" archeritem="true"/>
       <equipment id="b2_yew_bow" />
@@ -6287,7 +6287,7 @@
     banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0"
     name="Maître archer"
     mpclassdivision="bre_archer_lvl3"
-    id="master_archer.tur.rp">
+    id="master_archer.tur">
     <Weapon0>
       <equipment id="b2_yew_bow" archeritem="true"/>
       <equipment id="b2_lowland_bow" />
@@ -6339,7 +6339,7 @@
     banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0"
     name="Sergent monté"
     mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.tur.rp">
+    id="mounted_sergeant.tur">
     <Weapon0>
       <equipment id="b2_lance_tur"/>
     </Weapon0>
@@ -6409,7 +6409,7 @@
     banner="11.576.576.1536.1536.764.764.0.0.0"
     name="Ecuyer"
     mpclassdivision="bre_cavalry_lvl1"
-    id="squire.tur.rp">
+    id="squire.tur">
     <Weapon0>
       <equipment id="b2_lance_tur"/>
     </Weapon0>
@@ -6474,7 +6474,7 @@
     banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0"
     name="Janduiá de Turín"
     mpclassdivision="bre_cavalry_lvl2"
-    id="knight_of_the_realm.tur.rp">
+    id="knight_of_the_realm.tur">
     <Weapon0>
       <equipment id="b2_lance_tur"/>
       <equipment id="b3_kotr_lance_tur" disablerandomize="true"/>
@@ -6535,7 +6535,7 @@
     banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0"
     name="Armed peasant"
     mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.mor.rp">
+    id="armed_peasant.mor">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
     </Weapon0>
@@ -6598,7 +6598,7 @@
     banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0"
     name="Man at arms"
     mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.mor.rp">
+    id="man_at_arms.mor">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -6665,7 +6665,7 @@
     banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0"
     name="Sergeant at arms"
     mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.mor.rp">
+    id="sergeant_at_arms.mor">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -6720,7 +6720,7 @@
     banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0"
     name="Captain"
     mpclassdivision="bre_infantry_lvl4"
-    id="captain.mor.rp">
+    id="captain.mor">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -6795,7 +6795,7 @@
     banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0"
     name="Peasant archer"
     mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.mor.rp">
+    id="peasant_archer.mor">
     <Weapon0>
       <equipment id="b2_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -6856,7 +6856,7 @@
     banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0"
     name="Free archer"
     mpclassdivision="bre_archer_lvl2"
-    id="free_archer.mor.rp">
+    id="free_archer.mor">
     <Weapon0>
       <equipment id="b2_lowland_bow" archeritem="true"/>
       <equipment id="b2_yew_bow" />
@@ -6910,7 +6910,7 @@
     banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0"
     name="Master archer"
     mpclassdivision="bre_archer_lvl3"
-    id="master_archer.mor.rp">
+    id="master_archer.mor">
     <Weapon0>
       <equipment id="b2_yew_bow" archeritem="true"/>
       <equipment id="b2_lowland_bow" />
@@ -6962,7 +6962,7 @@
     banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0"
     name="Mounted sergeant"
     mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.mor.rp">
+    id="mounted_sergeant.mor">
     <Weapon0>
       <equipment id="b2_lance_mor"/>
     </Weapon0>
@@ -7032,7 +7032,7 @@
     banner="11.562.562.1536.1536.764.764.0.0.0"
     name="Squire"
     mpclassdivision="bre_cavalry_lvl1"
-    id="squire.mor.rp">
+    id="squire.mor">
     <Weapon0>
       <equipment id="b2_lance_mor"/>
     </Weapon0>
@@ -7097,7 +7097,7 @@
     banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0"
     name="Hildebrand of Mortenel"
     mpclassdivision="bre_cavalry_lvl2"
-    id="knight_of_the_realm.mor.rp">
+    id="knight_of_the_realm.mor">
     <Weapon0>
       <equipment id="b2_lance_mor"/>
       <equipment id="b3_kotr_lance_mor" disablerandomize="true"/>
@@ -7158,7 +7158,7 @@
     banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
     name="Armed peasant"
     mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.art.rp">
+    id="armed_peasant.art">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
     </Weapon0>
@@ -7221,7 +7221,7 @@
     banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
     name="Man at arms"
     mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.art.rp">
+    id="man_at_arms.art">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -7288,7 +7288,7 @@
     banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
     name="Sergeant at arms"
     mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.art.rp">
+    id="sergeant_at_arms.art">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -7343,7 +7343,7 @@
     banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
     name="Captain"
     mpclassdivision="bre_infantry_lvl4"
-    id="captain.art.rp">
+    id="captain.art">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -7418,7 +7418,7 @@
     banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
     name="Peasant archer"
     mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.art.rp">
+    id="peasant_archer.art">
     <Weapon0>
       <equipment id="b2_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -7479,7 +7479,7 @@
     banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
     name="Free archer"
     mpclassdivision="bre_archer_lvl2"
-    id="free_archer.art.rp">
+    id="free_archer.art">
     <Weapon0>
       <equipment id="b2_lowland_bow" archeritem="true"/>
       <equipment id="b2_yew_bow" />
@@ -7533,7 +7533,7 @@
     banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
     name="Master archer"
     mpclassdivision="bre_archer_lvl3"
-    id="master_archer.art.rp">
+    id="master_archer.art">
     <Weapon0>
       <equipment id="b2_yew_bow" archeritem="true"/>
       <equipment id="b2_lowland_bow" />
@@ -7585,7 +7585,7 @@
     banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
     name="Mounted sergeant"
     mpclassdivision="bre_cavalry"
-    id="mounted_sergeant.art.rp">
+    id="mounted_sergeant.art">
     <Weapon0>
       <equipment id="b2_lance_art"/>
     </Weapon0>
@@ -7655,7 +7655,7 @@
     banner="11.564.564.1536.1536.764.764.0.0.0"
     name="Squire"
     mpclassdivision="bre_cavalry"
-    id="squire.art.rp">
+    id="squire.art">
     <Weapon0>
       <equipment id="b2_lance_art"/>
     </Weapon0>
@@ -7720,7 +7720,7 @@
     banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
     name="Chilfroy d' Artenois"
     mpclassdivision="bre_cavalry_lvl2"
-    id="knight_of_the_realm.art.rp">
+    id="knight_of_the_realm.art">
     <Weapon0>
       <equipment id="b2_lance_art"/>
       <equipment id="b3_kotr_lance_art" disablerandomize="true"/>
@@ -7781,7 +7781,7 @@
     banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
     name="Armed peasant"
     mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.gar.rp">
+    id="armed_peasant.gar">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
     </Weapon0>
@@ -7844,7 +7844,7 @@
     banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
     name="Man at arms"
     mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.gar.rp">
+    id="man_at_arms.gar">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -7913,7 +7913,7 @@
     banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
     name="Sergeant at arms"
     mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.gar.rp">
+    id="sergeant_at_arms.gar">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -7968,7 +7968,7 @@
     banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
     name="Captain"
     mpclassdivision="bre_infantry_lvl4"
-    id="captain.gar.rp">
+    id="captain.gar">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -8044,7 +8044,7 @@
     banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
     name="Peasant archer"
     mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.gar.rp">
+    id="peasant_archer.gar">
     <Weapon0>
       <equipment id="b2_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -8105,7 +8105,7 @@
     banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
     name="Free archer"
     mpclassdivision="bre_archer_lvl2"
-    id="free_archer.gar.rp">
+    id="free_archer.gar">
     <Weapon0>
       <equipment id="b2_lowland_bow" archeritem="true"/>
       <equipment id="b2_yew_bow" />
@@ -8161,7 +8161,7 @@
     banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
     name="Master archer"
     mpclassdivision="bre_archer_lvl3"
-    id="master_archer.gar.rp">
+    id="master_archer.gar">
     <Weapon0>
       <equipment id="b2_yew_bow" archeritem="true"/>
       <equipment id="b2_lowland_bow" />
@@ -8214,7 +8214,7 @@
     banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
     name="Mounted sergeant"
     mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.gar.rp">
+    id="mounted_sergeant.gar">
     <Weapon0>
       <equipment id="b2_lance_gar"/>
     </Weapon0>
@@ -8284,7 +8284,7 @@
     banner="12.566.567.1536.1536.764.764.0.0.0"
     name="Squire"
     mpclassdivision="bre_cavalry_lvl1"
-    id="squire.gar.rp">
+    id="squire.gar">
     <Weapon0>
       <equipment id="b2_lance_gar"/>
     </Weapon0>
@@ -8345,7 +8345,7 @@
     banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
     name="Bertelis of Garamont"
     mpclassdivision="bre_cavalry_lvl2"
-    id="knight_of_the_realm.gar.rp">
+    id="knight_of_the_realm.gar">
     <Weapon0>
       <equipment id="b2_lance_gar"/>
       <equipment id="b3_kotr_lance_gar" disablerandomize="true"/>
@@ -8406,7 +8406,7 @@
     banner="7000.568.569.1536.1536.764.764.0.0.0"
     name="Armed peasant"
     mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.gri.rp">
+    id="armed_peasant.gri">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
     </Weapon0>
@@ -8469,7 +8469,7 @@
     banner="7000.568.569.1536.1536.764.764.0.0.0"
     name="Man at arms"
     mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.gri.rp">
+    id="man_at_arms.gri">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -8536,7 +8536,7 @@
     banner="7000.568.569.1536.1536.764.764.0.0.0"
     name="Sergeant at arms"
     mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.gri.rp">
+    id="sergeant_at_arms.gri">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -8590,7 +8590,7 @@
     banner="7000.568.569.1536.1536.764.764.0.0.0"
     name="Captain"
     mpclassdivision="bre_infantry_lvl4"
-    id="captain.gri.rp">
+    id="captain.gri">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -8665,7 +8665,7 @@
     banner="7000.568.569.1536.1536.764.764.0.0.0"
     name="Peasant archer"
     mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.gri.rp">
+    id="peasant_archer.gri">
     <Weapon0>
       <equipment id="b2_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -8726,7 +8726,7 @@
     banner="7000.568.569.1536.1536.764.764.0.0.0"
     name="Free archer"
     mpclassdivision="bre_archer_lvl2"
-    id="free_archer.gri.rp">
+    id="free_archer.gri">
     <Weapon0>
       <equipment id="b2_lowland_bow" archeritem="true"/>
       <equipment id="b2_yew_bow" />
@@ -8780,7 +8780,7 @@
     banner="7000.568.569.1536.1536.764.764.0.0.0"
     name="Master archer"
     mpclassdivision="bre_archer_lvl3"
-    id="master_archer.gri.rp">
+    id="master_archer.gri">
     <Weapon0>
       <equipment id="b2_yew_bow" archeritem="true"/>
       <equipment id="b2_lowland_bow" />
@@ -8832,7 +8832,7 @@
     banner="7000.568.569.1536.1536.764.764.0.0.0"
     name="Mounted sergeant"
     mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.gri.rp">
+    id="mounted_sergeant.gri">
     <Weapon0>
       <equipment id="b2_lance_gri"/>
     </Weapon0>
@@ -8902,7 +8902,7 @@
     banner="11.568.569.1536.1536.764.764.0.0.0"
     name="Squire"
     mpclassdivision="bre_cavalry_lvl1"
-    id="squire.gri.rp">
+    id="squire.gri">
     <Weapon0>
       <equipment id="b2_lance_gri"/>
     </Weapon0>
@@ -8967,7 +8967,7 @@
     banner="7000.568.569.1536.1536.764.764.0.0.0"
     name="Hercule de Grimeux"
     mpclassdivision="bre_cavalry_lvl2"
-    id="knight_errant.gri.rp">
+    id="knight_errant.gri">
     <Weapon0>
       <equipment id="b2_lance_gri"/>
       <equipment id="b3_kerrant_lance_gri" disablerandomize="true"/>
@@ -9031,7 +9031,7 @@
     banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0"
     name="Paysan armé"
     mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.mar.rp">
+    id="armed_peasant.mar">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
     </Weapon0>
@@ -9094,7 +9094,7 @@
     banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0"
     name="Homme d'arme"
     mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.mar.rp">
+    id="man_at_arms.mar">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -9161,7 +9161,7 @@
     banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0"
     name="Sergent d'arme"
     mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.mar.rp">
+    id="sergeant_at_arms.mar">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -9216,7 +9216,7 @@
     banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0"
     name="Capitaine"
     mpclassdivision="bre_infantry_lvl4"
-    id="captain.mar.rp">
+    id="captain.mar">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -9291,7 +9291,7 @@
     banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0"
     name="Archer paysan"
     mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.mar.rp">
+    id="peasant_archer.mar">
     <Weapon0>
       <equipment id="b2_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -9352,7 +9352,7 @@
     banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0"
     name="Franc-Archer"
     mpclassdivision="bre_archer_lvl2"
-    id="free_archer.mar.rp">
+    id="free_archer.mar">
     <Weapon0>
       <equipment id="b2_lowland_bow" archeritem="true"/>
       <equipment id="b2_yew_bow" />
@@ -9406,7 +9406,7 @@
     banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0"
     name="Maître archer"
     mpclassdivision="bre_archer_lvl3"
-    id="master_archer.mar.rp">
+    id="master_archer.mar">
     <Weapon0>
       <equipment id="b2_yew_bow" archeritem="true"/>
       <equipment id="b2_lowland_bow" />
@@ -9458,7 +9458,7 @@
     banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0"
     name="Sergent monté"
     mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.mar.rp">
+    id="mounted_sergeant.mar">
     <Weapon0>
       <equipment id="b2_lance_mar"/>
     </Weapon0>
@@ -9528,7 +9528,7 @@
     banner="11.570.571.1536.1536.764.764.1.0.0"
     name="Ecuyer"
     mpclassdivision="bre_cavalry_lvl1"
-    id="squire.mar.rp">
+    id="squire.mar">
     <Weapon0>
       <equipment id="b2_lance_mar"/>
     </Weapon0>
@@ -9593,7 +9593,7 @@
     banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0"
     name="Roland le Maréchal"
     mpclassdivision="bre_cavalry_lvl2"
-    id="knight_of_the_realm.mar.rp">
+    id="knight_of_the_realm.mar">
     <Weapon0>
       <equipment id="b2_lance_mar"/>
       <equipment id="b3_kotr_lance_mar" disablerandomize="true"/>
@@ -9654,7 +9654,7 @@
     banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0"
     name="Armed peasant"
     mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.fro.rp">
+    id="armed_peasant.fro">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
     </Weapon0>
@@ -9717,7 +9717,7 @@
     banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0"
     name="Man at arms"
     mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.fro.rp">
+    id="man_at_arms.fro">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -9784,7 +9784,7 @@
     banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0"
     name="Sergeant at arms"
     mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.fro.rp">
+    id="sergeant_at_arms.fro">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -9838,7 +9838,7 @@
     banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0"
     name="Captain"
     mpclassdivision="bre_infantry_lvl4"
-    id="captain.fro.rp">
+    id="captain.fro">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -9913,7 +9913,7 @@
     banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0"
     name="Peasant archer"
     mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.fro.rp">
+    id="peasant_archer.fro">
     <Weapon0>
       <equipment id="b2_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -9974,7 +9974,7 @@
     banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0"
     name="Free archer"
     mpclassdivision="bre_archer_lvl2"
-    id="free_archer.fro.rp">
+    id="free_archer.fro">
     <Weapon0>
       <equipment id="b2_lowland_bow" archeritem="true"/>
       <equipment id="b2_yew_bow" />
@@ -10028,7 +10028,7 @@
     banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0"
     name="Master archer"
     mpclassdivision="bre_archer_lvl3"
-    id="master_archer.fro.rp">
+    id="master_archer.fro">
     <Weapon0>
       <equipment id="b2_yew_bow" archeritem="true"/>
       <equipment id="b2_lowland_bow" />
@@ -10080,7 +10080,7 @@
     banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0"
     name="Mounted sergeant"
     mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.fro.rp">
+    id="mounted_sergeant.fro">
     <Weapon0>
       <equipment id="b2_lance_fro"/>
     </Weapon0>
@@ -10150,7 +10150,7 @@
     banner="3.574.575.1536.1536.764.764.1.0.0"
     name="Squire"
     mpclassdivision="bre_cavalry_lvl1"
-    id="squire.fro.rp">
+    id="squire.fro">
     <Weapon0>
       <equipment id="b2_lance_fro"/>
     </Weapon0>
@@ -10215,7 +10215,7 @@
     banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0"
     name="Alaron de Frontiere"
     mpclassdivision="bre_cavalry_lvl2"
-    id="knight_errant.fro.rp">
+    id="knight_errant.fro">
     <Weapon0>
       <equipment id="b2_lance_fro"/>
       <equipment id="b3_kerrant_lance_fro" disablerandomize="true"/>
@@ -10279,7 +10279,7 @@
     banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0"
     name="Armed peasant"
     mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.lan.rp">
+    id="armed_peasant.lan">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
     </Weapon0>
@@ -10342,7 +10342,7 @@
     banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0"
     name="Man at arms"
     mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.lan.rp">
+    id="man_at_arms.lan">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -10409,7 +10409,7 @@
     banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0"
     name="Sergeant at arms"
     mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.lan.rp">
+    id="sergeant_at_arms.lan">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -10463,7 +10463,7 @@
     banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0"
     name="Captain"
     mpclassdivision="bre_infantry_lvl4"
-    id="captain.lan.rp">
+    id="captain.lan">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -10538,7 +10538,7 @@
     banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0"
     name="Peasant archer"
     mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.lan.rp">
+    id="peasant_archer.lan">
     <Weapon0>
       <equipment id="b2_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -10599,7 +10599,7 @@
     banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0"
     name="Free archer"
     mpclassdivision="bre_archer_lvl2"
-    id="free_archer.lan.rp">
+    id="free_archer.lan">
     <Weapon0>
       <equipment id="b2_lowland_bow" archeritem="true"/>
       <equipment id="b2_yew_bow" />
@@ -10653,7 +10653,7 @@
     banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0"
     name="Master archer"
     mpclassdivision="bre_archer_lvl3"
-    id="master_archer.lan.rp">
+    id="master_archer.lan">
     <Weapon0>
       <equipment id="b2_yew_bow" archeritem="true"/>
       <equipment id="b2_lowland_bow" />
@@ -10705,7 +10705,7 @@
     banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0"
     name="Mounted sergeant"
     mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.lan.rp">
+    id="mounted_sergeant.lan">
     <Weapon0>
       <equipment id="b2_lance_lan"/>
     </Weapon0>
@@ -10775,7 +10775,7 @@
     banner="11.580.581.1536.1536.764.764.1.0.0"
     name="Squire"
     mpclassdivision="bre_cavalry_lvl1"
-    id="squire.lan.rp">
+    id="squire.lan">
     <Weapon0>
       <equipment id="b2_lance_lan"/>
     </Weapon0>
@@ -10840,7 +10840,7 @@
     banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0"
     name="Taubert de L'Anguille"
     mpclassdivision="bre_cavalry_lvl2"
-    id="knight_of_the_realm.lan.rp">
+    id="knight_of_the_realm.lan">
     <Weapon0>
       <equipment id="b2_lance_lan"/>
       <equipment id="b3_kotr_lance_lan" disablerandomize="true"/>
@@ -10901,7 +10901,7 @@
     banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
     name="Paysan armé"
     mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.bas.rp">
+    id="armed_peasant.bas">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
     </Weapon0>
@@ -10964,7 +10964,7 @@
     banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
     name="Homme d'armes"
     mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.bas.rp">
+    id="man_at_arms.bas">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -11031,7 +11031,7 @@
     banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
     name="Sergent d'armes"
     mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.bas.rp">
+    id="sergeant_at_arms.bas">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -11085,7 +11085,7 @@
     banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
     name="Capitaine"
     mpclassdivision="bre_infantry_lvl4"
-    id="captain.bas.rp">
+    id="captain.bas">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -11160,7 +11160,7 @@
     banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
     name="Archer paysan"
     mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.bas.rp">
+    id="peasant_archer.bas">
     <Weapon0>
       <equipment id="b2_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -11221,7 +11221,7 @@
     banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
     name="Franc-archer"
     mpclassdivision="bre_archer_lvl2"
-    id="free_archer.bas.rp">
+    id="free_archer.bas">
     <Weapon0>
       <equipment id="b2_lowland_bow" archeritem="true"/>
       <equipment id="b2_yew_bow" />
@@ -11275,7 +11275,7 @@
     banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
     name="Maître archer"
     mpclassdivision="bre_archer_lvl3"
-    id="master_archer.bas.rp">
+    id="master_archer.bas">
     <Weapon0>
       <equipment id="b2_yew_bow" archeritem="true"/>
       <equipment id="b2_lowland_bow" />
@@ -11327,7 +11327,7 @@
     banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
     name="Sergent monté"
     mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.bas.rp">
+    id="mounted_sergeant.bas">
     <Weapon0>
       <equipment id="b2_lance_bas"/>
     </Weapon0>
@@ -11397,7 +11397,7 @@
     banner="11.552.552.1536.1536.764.764.1.0.0"
     name="Écuyer"
     mpclassdivision="bre_cavalry_lvl1"
-    id="squire.bas.rp">
+    id="squire.bas">
     <Weapon0>
       <equipment id="b2_lance_bas"/>
     </Weapon0>
@@ -11462,7 +11462,7 @@
     banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
     name="Bohémond de Bastogne"
     mpclassdivision="bre_cavalry_lvl2"
-    id="knight_errant.bas.rp">
+    id="knight_errant.bas">
     <Weapon0>
       <equipment id="b2_lance_bas"/>
       <equipment id="b3_kotr_lance_bas" disablerandomize="true"/>
@@ -11526,7 +11526,7 @@
     banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0"
     name="Armed peasant"
     mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.mon.rp">
+    id="armed_peasant.mon">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
     </Weapon0>
@@ -11589,7 +11589,7 @@
     banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0"
     name="Man at arms"
     mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.mon.rp">
+    id="man_at_arms.mon">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -11658,7 +11658,7 @@
     banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0"
     name="Sergeant at arms"
     mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.mon.rp">
+    id="sergeant_at_arms.mon">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -11714,7 +11714,7 @@
     banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0"
     name="Captain"
     mpclassdivision="bre_infantry_lvl4"
-    id="captain.mon.rp">
+    id="captain.mon">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -11790,7 +11790,7 @@
     banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0"
     name="Peasant archer"
     mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.mon.rp">
+    id="peasant_archer.mon">
     <Weapon0>
       <equipment id="b2_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -11851,7 +11851,7 @@
     banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0"
     name="Free archer"
     mpclassdivision="bre_archer_lvl2"
-    id="free_archer.mon.rp">
+    id="free_archer.mon">
     <Weapon0>
       <equipment id="b2_lowland_bow" archeritem="true"/>
       <equipment id="b2_yew_bow" />
@@ -11907,7 +11907,7 @@
     banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0"
     name="Master archer"
     mpclassdivision="bre_archer_lvl3"
-    id="master_archer.mon.rp">
+    id="master_archer.mon">
     <Weapon0>
       <equipment id="b2_yew_bow" archeritem="true"/>
       <equipment id="b2_lowland_bow" />
@@ -11961,7 +11961,7 @@
     banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0"
     name="Mounted sergeant"
     mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.mon.rp">
+    id="mounted_sergeant.mon">
     <Weapon0>
       <equipment id="b2_lance_mon"/>
     </Weapon0>
@@ -12033,7 +12033,7 @@
     banner="11.572.573.1536.1536.764.764.0.0.0"
     name="Squire"
     mpclassdivision="bre_cavalry_lvl1"
-    id="squire.mon.rp">
+    id="squire.mon">
     <Weapon0>
       <equipment id="b2_lance_mon"/>
     </Weapon0>
@@ -12098,7 +12098,7 @@
     banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0"
     name="Folcard de Montford"
     mpclassdivision="bre_cavalry_lvl2"
-    id="knight_of_the_realm.mon.rp">
+    id="knight_of_the_realm.mon">
     <Weapon0>
       <equipment id="b2_lance_mon"/>
       <equipment id="b3_kotr_lance_mon" disablerandomize="true"/>
@@ -12163,7 +12163,7 @@
     banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
     name="Armed peasant"
     mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.mau.rp">
+    id="armed_peasant.mau">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
     </Weapon0>
@@ -12226,7 +12226,7 @@
     banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
     name="Man at arms"
     mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.mau.rp">
+    id="man_at_arms.mau">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -12295,7 +12295,7 @@
     banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
     name="Sergeant at arms"
     mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.mau.rp">
+    id="sergeant_at_arms.mau">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -12350,7 +12350,7 @@
     banner="13.578.579.1536.1536.764.508.0.0.180.5016.556.556.500.500.764.764.0.0.0"
     name="Captain"
     mpclassdivision="bre_infantry_lvl4"
-    id="captain.mau.rp">
+    id="captain.mau">
     <Weapon0>
       <equipment id="b2_man_spear"/>
     </Weapon0>
@@ -12426,7 +12426,7 @@
     banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
     name="Peasant archer"
     mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.mau.rp">
+    id="peasant_archer.mau">
     <Weapon0>
       <equipment id="b2_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -12487,7 +12487,7 @@
     banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
     name="Free archer"
     mpclassdivision="bre_archer_lvl2"
-    id="free_archer.mau.rp">
+    id="free_archer.mau">
     <Weapon0>
       <equipment id="b2_lowland_bow" archeritem="true"/>
       <equipment id="b2_yew_bow" />
@@ -12543,7 +12543,7 @@
     banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
     name="Master archer"
     mpclassdivision="bre_archer_lvl3"
-    id="master_archer.mau.rp">
+    id="master_archer.mau">
     <Weapon0>
       <equipment id="b2_yew_bow" archeritem="true"/>
       <equipment id="b2_lowland_bow" />
@@ -12596,7 +12596,7 @@
     banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
     name="Mounted sergeant"
     mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.mau.rp">
+    id="mounted_sergeant.mau">
     <Weapon0>
       <equipment id="b2_lance_mau"/>
     </Weapon0>
@@ -12666,7 +12666,7 @@
     banner="7003.578.579.1536.1536.764.764.0.0.0"
     name="Squire"
     mpclassdivision="bre_cavalry_lvl1"
-    id="squire.mau.rp">
+    id="squire.mau">
     <Weapon0>
       <equipment id="b2_lance_mau"/>
     </Weapon0>
@@ -12727,7 +12727,7 @@
     banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
     name="Dreu de Maulièvre"
     mpclassdivision="bre_cavalry_lvl2"
-    id="knight_errant.mau.rp">
+    id="knight_errant.mau">
     <Weapon0>
       <equipment id="b2_lance_mau"/>
       <equipment id="b3_kerrant_lance_mau" disablerandomize="true"/>
