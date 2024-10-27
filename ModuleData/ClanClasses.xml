@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ClanClasses>
   <!--CO-->
-  <ClanClass 
-    clan="CO"
-    color1="FF8e1818"
-    color2="FF263d7d"
-    banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
-    name="Paysan armé"
-    mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.co">
+  <ClanClass clan="CO" color1="FF8e1818" color2="FF263d7d" banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0" name="Paysan armé" mpclassdivision="bre_infantry_lvl1" id="armed_peasant.co">
     <Weapon0>
       <equipment id="b2_peasant_spear" />
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -68,14 +61,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="CO"
-    color1="FF8e1818"
-    color2="FF263d7d"
-    banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
-    name="Homme d'armes"
-    mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.co">
+  <ClanClass clan="CO" color1="FF8e1818" color2="FF263d7d" banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0" name="Homme d'armes" mpclassdivision="bre_infantry_lvl2" id="man_at_arms.co">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -135,14 +121,7 @@
       <equipment id="mp_padded_mitten"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="CO"
-    color1="FF8e1818"
-    color2="FF263d7d"
-    banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
-    name="Sergent d'armes"
-    mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.co">
+  <ClanClass clan="CO" color1="FF8e1818" color2="FF263d7d" banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0" name="Sergent d'armes" mpclassdivision="bre_infantry_lvl3" id="sergeant_at_arms.co">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -193,14 +172,7 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="CO"
-    color1="FF8e1818"
-    color2="FF263d7d"
-    banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
-    name="Capitaine"
-    mpclassdivision="bre_infantry_lvl4"
-    id="captain.co">
+  <ClanClass clan="CO" color1="FF8e1818" color2="FF263d7d" banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0" name="Capitaine" mpclassdivision="bre_infantry_lvl4" id="captain.co">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -272,14 +244,7 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="CO"
-    color1="FF8e1818"
-    color2="FF263d7d"
-    banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
-    name="Les Heaumes au Lion - Garde"
-    mpclassdivision="bre_infantry_lvl4"
-    id="lionhelm_guard.co">
+  <ClanClass clan="CO" color1="FF8e1818" color2="FF263d7d" banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0" name="Les Heaumes au Lion - Garde" mpclassdivision="bre_infantry_lvl4" id="lionhelm_guard.co">
     <Weapon0>
       <equipment id="b3_lionhelm_hammer"/>
       <equipment id="b3_lionhelm_axe"/>
@@ -303,14 +268,7 @@
       <equipment id="b3_lionhelm_guard_a_gauntlets"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="CO"
-    color1="FF8e1818"
-    color2="FF263d7d"
-    banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
-    name="Les Heaumes au Lion - Sergent"
-    mpclassdivision="bre_infantry_lvl4"
-    id="lionhelm_sergeant.co">
+  <ClanClass clan="CO" color1="FF8e1818" color2="FF263d7d" banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0" name="Les Heaumes au Lion - Sergent" mpclassdivision="bre_infantry_lvl4" id="lionhelm_sergeant.co">
     <Weapon0>
       <equipment id="b3_lionhelm_hammer"/>
       <equipment id="b3_lionhelm_axe"/>
@@ -331,14 +289,7 @@
       <equipment id="b3_lionhelm_sergeants_gauntlets"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="CO"
-    color1="FF8e1818"
-    color2="FF263d7d"
-    banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
-    name="Les Heaumes au Lion - Capitaine"
-    mpclassdivision="bre_infantry_lvl4"
-    id="lionhelm_captain.co">
+  <ClanClass clan="CO" color1="FF8e1818" color2="FF263d7d" banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0" name="Les Heaumes au Lion - Capitaine" mpclassdivision="bre_infantry_lvl4" id="lionhelm_captain.co">
     <Weapon0>
       <equipment id="b3_lionhelm_hammer"/>
       <equipment id="b3_lionhelm_axe"/>
@@ -359,14 +310,7 @@
       <equipment id="b3_lionhelm_captain_gauntlets"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="CO"
-    color1="FF8e1818"
-    color2="FF263d7d"
-    banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
-    name="Archer paysan"
-    mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.co">
+  <ClanClass clan="CO" color1="FF8e1818" color2="FF263d7d" banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0" name="Archer paysan" mpclassdivision="bre_archer_lvl1" id="peasant_archer.co">
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -420,14 +364,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="CO"
-    color1="FF8e1818"
-    color2="FF263d7d"
-    banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
-    name="Franc-archer"
-    mpclassdivision="bre_archer_lvl2"
-    id="free_archer.co">
+  <ClanClass clan="CO" color1="FF8e1818" color2="FF263d7d" banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0" name="Franc-archer" mpclassdivision="bre_archer_lvl2" id="free_archer.co">
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
       <equipment id="sp_yew_bow"/>
@@ -471,14 +408,7 @@
       <equipment id="mp_guarded_padded_vambrace"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="CO"
-    color1="FF8e1818"
-    color2="FF263d7d"
-    banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
-    name="Maître archer"
-    mpclassdivision="bre_archer_lvl3"
-    id="master_archer.co">
+  <ClanClass clan="CO" color1="FF8e1818" color2="FF263d7d" banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0" name="Maître archer" mpclassdivision="bre_archer_lvl3" id="master_archer.co">
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
       <equipment id="sp_lowland_bow" />
@@ -499,7 +429,7 @@
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="b2_mail_shirt"/>
       <equipment id="b2_banded_leather_over_mail"/>
     </Body>
@@ -523,14 +453,7 @@
       <equipment id="mp_reinforced_leather_vambraces"/>
     </Gloves>
   </ClanClass>
-    <ClanClass 
-    clan="CO"
-    color1="FF8e1818"
-    color2="FF263d7d"
-    banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
-    name="Sergent monté"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.co">
+  <ClanClass clan="CO" color1="FF8e1818" color2="FF263d7d" banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0" name="Sergent monté" mpclassdivision="bre_cavalry_lvl1" id="mounted_sergeant.co">
     <Weapon0>
       <equipment id="b2_lance_co"/>
     </Weapon0>
@@ -554,7 +477,7 @@
       <equipment id="b2_norman_helmet_0"/>
       <equipment id="b2_norman_helmet_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="mp_studded_leather_over_aketon"/>
       <equipment id="mp_layered_leather_tunic"/>
       <equipment id="mp_leather_scale_armor"/>
@@ -593,14 +516,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="CO"
-    color1="FF6c1010"
-    color2="FF142441"
-    banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
-    name="Ecuyer"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="squire.co">
+  <ClanClass clan="CO" color1="FF6c1010" color2="FF142441" banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0" name="Ecuyer" mpclassdivision="bre_cavalry_lvl1" id="squire.co">
     <Weapon0>
       <equipment id="b2_lance_co"/>
     </Weapon0>
@@ -658,14 +574,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass
-    clan="CO"
-    color1="FF8e1818"
-    color2="FF263d7d"
-    banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
-    name="Louen Leoncoeur"
-    mpclassdivision="bre_cavalry_lvl2"
-    id="knight_of_the_realm.co">
+  <ClanClass clan="CO" color1="FF8e1818" color2="FF263d7d" banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0" name="Louen Leoncoeur" mpclassdivision="bre_cavalry_lvl2" id="knight_of_the_realm.co">
     <Weapon0>
       <equipment id="b2_lance_co" />
       <equipment id="b3_grail_lance_co" disablerandomize="true" />
@@ -707,14 +616,7 @@
     </Horse>
   </ClanClass>
   <!--OR-->
-  <ClanClass
-    clan="OR"
-    banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
-    color1="FF3d2f22"
-    color2="FF42261c"
-    name="Pélerin"
-    mpclassdivision="bre_infantry_lvl1"
-    id="pilgrim.or">
+  <ClanClass clan="OR" banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0" color1="FF3d2f22" color2="FF42261c" name="Pélerin" mpclassdivision="bre_infantry_lvl1" id="pilgrim.or">
     <Weapon0>
       <equipment id="b3_pilgrim_faussard" />
       <equipment id="b3_pilgrim_faussard_2" />
@@ -748,14 +650,7 @@
       <equipment id="b3_pilgrim_c_gloves" />
     </Gloves>
   </ClanClass>
-  <ClanClass
-    clan="OR"
-    banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
-    color1="FF3d2f22"
-    color2="FF42261c"
-    name="Pélerin de bataille"
-    mpclassdivision="bre_infantry_lvl2"
-    id="battle_pilgrim.or">
+  <ClanClass clan="OR" banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0" color1="FF3d2f22" color2="FF42261c" name="Pélerin de bataille" mpclassdivision="bre_infantry_lvl2" id="battle_pilgrim.or">
     <Weapon0>
       <equipment id="b3_pilgrim_faussard" />
       <equipment id="b3_pilgrim_faussard_2" />
@@ -770,7 +665,7 @@
       <equipment id="b3_exalted_pilgrim_shield_2" />
       <equipment id="b3_exalted_pilgrim_shield_3" />
     </Weapon1>
-    <Head> 
+    <Head>
       <equipment id="b3_battle_pilgrim_b_helmet1" />
       <equipment id="b3_battle_pilgrim_b_helmet2" />
       <equipment id="b3_battle_pilgrim_c_helmet1" />
@@ -796,14 +691,7 @@
       <equipment id="b3_battle_pilgrim_c_gloves" />
     </Gloves>
   </ClanClass>
-  <ClanClass
-    clan="OR"
-    banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
-    color1="FF3d2f22"
-    color2="FF42261c"
-    name="Pélerin exalté"
-    mpclassdivision="bre_infantry_lvl2"
-    id="exalted_pilgrim.or">
+  <ClanClass clan="OR" banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0" color1="FF3d2f22" color2="FF42261c" name="Pélerin exalté" mpclassdivision="bre_infantry_lvl2" id="exalted_pilgrim.or">
     <Weapon0>
       <equipment id="b3_pilgrim_faussard" />
       <equipment id="b3_pilgrim_faussard_2" />
@@ -841,14 +729,7 @@
       <equipment id="b3_battle_pilgrim_c_gloves" />
     </Gloves>
   </ClanClass>
-  <ClanClass
-    clan="OR"
-    banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
-    color1="FF282b35"
-    color2="FFe8e1cf"
-    name="Frère-novice"
-    mpclassdivision="bre_infantry_lvl3"
-    id="brother_novice.or">
+  <ClanClass clan="OR" banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0" color1="FF282b35" color2="FFe8e1cf" name="Frère-novice" mpclassdivision="bre_infantry_lvl3" id="brother_novice.or">
     <Weapon0>
       <equipment id="b2_faussard" />
       <equipment id="b2_2h_mace" />
@@ -874,14 +755,7 @@
       <equipment id="null" />
     </Gloves>
   </ClanClass>
-  <ClanClass
-    clan="OR"
-    banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
-    color1="FF101115"
-    color2="FFe8e1cf"
-    name="Frère-serjeant"
-    mpclassdivision="bre_infantry_lvl3"
-    id="brother_sergeant.or">
+  <ClanClass clan="OR" banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0" color1="FF101115" color2="FFe8e1cf" name="Frère-serjeant" mpclassdivision="bre_infantry_lvl3" id="brother_sergeant.or">
     <Weapon0>
       <equipment id="b2_faussard" />
       <equipment id="b2_2h_mace" />
@@ -905,14 +779,7 @@
       <equipment id="b3_order_sergeant_gloves" />
     </Gloves>
   </ClanClass>
-  <ClanClass
-    clan="OR"
-    banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
-    color1="FF101115"
-    color2="FFe8e1cf"
-    name="Porte-étendard"
-    mpclassdivision="bre_infantry_lvl3"
-    id="standard_bearer.or">
+  <ClanClass clan="OR" banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0" color1="FF101115" color2="FFe8e1cf" name="Porte-étendard" mpclassdivision="bre_infantry_lvl3" id="standard_bearer.or">
     <Weapon0>
       <equipment id="b3_banner_or_montjoie" />
       <equipment id="b3_banner_or_lacrimore" />
@@ -935,14 +802,7 @@
       <equipment id="b3_order_sergeant_gloves" />
     </Gloves>
   </ClanClass>
-  <ClanClass
-    clan="OR"
-    banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
-    color1="FF08090d"
-    color2="FFe8e1cf"
-    name="Frère-chevalier"
-    mpclassdivision="bre_cavalry_lvl2"
-    id="brother_knight.or">
+  <ClanClass clan="OR" banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0" color1="FF08090d" color2="FFe8e1cf" name="Frère-chevalier" mpclassdivision="bre_cavalry_lvl2" id="brother_knight.or">
     <Weapon0>
       <equipment id="b2_lance_or" />
       <equipment id="b3_kotr_lance_or" disablerandomize="true" />
@@ -984,14 +844,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass
-    clan="OR"
-    banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
-    color1="FF08090d"
-    color2="FFe8e1cf"
-    name="Commandeur"
-    mpclassdivision="bre_cavalry_lvl2"
-    id="commander.or">
+  <ClanClass clan="OR" banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0" color1="FF08090d" color2="FFe8e1cf" name="Commandeur" mpclassdivision="bre_cavalry_lvl2" id="commander.or">
     <Weapon0>
       <equipment id="b2_lance_or" />
       <equipment id="b3_kotr_lance_or" disablerandomize="true" />
@@ -1033,14 +886,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass
-    clan="OR"
-    banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
-    color1="FF08090d"
-    color2="FFe8e1cf"
-    name="Paladin"
-    mpclassdivision="bre_cavalry_lvl2"
-    id="paladin.or">
+  <ClanClass clan="OR" banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0" color1="FF08090d" color2="FFe8e1cf" name="Paladin" mpclassdivision="bre_cavalry_lvl2" id="paladin.or">
     <Weapon0>
       <equipment id="b2_lance_or" />
       <equipment id="b3_kotr_lance_or" disablerandomize="true" />
@@ -1083,14 +929,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass
-    clan="OR"
-    banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
-    color1="FF08090d"
-    color2="FFe8e1cf"
-    name="Chapelain"
-    mpclassdivision="bre_cavalry_lvl2"
-    id="chaplain.or">
+  <ClanClass clan="OR" banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0" color1="FF08090d" color2="FFe8e1cf" name="Chapelain" mpclassdivision="bre_cavalry_lvl2" id="chaplain.or">
     <Weapon0>
       <equipment id="b2_lance_or" />
       <equipment id="b3_kotr_lance_or" disablerandomize="true" />
@@ -1132,14 +971,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass
-    clan="OR"
-    banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
-    color1="FF08090d"
-    color2="FFe8e1cf"
-    name="Inquisiteur"
-    mpclassdivision="bre_cavalry_lvl2"
-    id="inquisitor.or">
+  <ClanClass clan="OR" banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0" color1="FF08090d" color2="FFe8e1cf" name="Inquisiteur" mpclassdivision="bre_cavalry_lvl2" id="inquisitor.or">
     <Weapon0>
       <equipment id="b2_lance_or" />
       <equipment id="b3_kotr_lance_or" disablerandomize="true" />
@@ -1181,14 +1013,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass
-    clan="OR"
-    banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
-    color1="FF08090d"
-    color2="FFe8e1cf"
-    name="Grand-maître"
-    mpclassdivision="bre_cavalry_lvl2"
-    id="grand_master.or">
+  <ClanClass clan="OR" banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0" color1="FF08090d" color2="FFe8e1cf" name="Grand-maître" mpclassdivision="bre_cavalry_lvl2" id="grand_master.or">
     <Weapon0>
       <equipment id="b2_lance_or" />
       <equipment id="b3_kotr_lance_or" disablerandomize="true" />
@@ -1230,14 +1055,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass
-    clan="OR"
-    banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
-    color1="FF08090d"
-    color2="FFe8e1cf"
-    name="Grand-prieur"
-    mpclassdivision="bre_cavalry_lvl2"
-    id="grand_prior.or">
+  <ClanClass clan="OR" banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0" color1="FF08090d" color2="FFe8e1cf" name="Grand-prieur" mpclassdivision="bre_cavalry_lvl2" id="grand_prior.or">
     <Weapon0>
       <equipment id="b2_lance_or" />
       <equipment id="b3_kotr_lance_or" disablerandomize="true" />
@@ -1280,14 +1098,7 @@
     </Horse>
   </ClanClass>
   <!--HE-->
-  <ClanClass
-    clan="HE"
-    banner="11.513.513.1536.1536.764.764.0.0.0.5012.507.507.500.500.764.764.0.0.0"
-    color1="FFd7a12b"
-    color2="FF144ea8"
-    name="Rôdeur"
-    mpclassdivision="bre_archer_lvl3"
-    id="herrimault_prawler.he">
+  <ClanClass clan="HE" banner="11.513.513.1536.1536.764.764.0.0.0.5012.507.507.500.500.764.764.0.0.0" color1="FFd7a12b" color2="FF144ea8" name="Rôdeur" mpclassdivision="bre_archer_lvl3" id="herrimault_prawler.he">
     <Weapon0>
       <equipment id="rp_noble_long_bow_watch_sp" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -1322,14 +1133,7 @@
       <equipment id="woc_arm" />
     </Gloves>
   </ClanClass>
-  <ClanClass
-    clan="HE"
-    banner="11.513.513.1536.1536.764.764.0.0.0.5012.507.507.500.500.764.764.0.0.0"
-    color1="FFd7a12b"
-    color2="FF144ea8"
-    name="Forestier"
-    mpclassdivision="bre_archer_lvl3"
-    id="herrimault_forester.he">
+  <ClanClass clan="HE" banner="11.513.513.1536.1536.764.764.0.0.0.5012.507.507.500.500.764.764.0.0.0" color1="FFd7a12b" color2="FF144ea8" name="Forestier" mpclassdivision="bre_archer_lvl3" id="herrimault_forester.he">
     <Weapon0>
       <equipment id="rp_noble_long_bow_watch_sp" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -1365,14 +1169,7 @@
     </Gloves>
   </ClanClass>
   <!--AQ-->
-  <ClanClass
-    clan="AQ"
-    banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0"
-    color1="FFd7a12b"
-    color2="FF144ea8"
-    name="Armed peasant"
-    mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.aq">
+  <ClanClass clan="AQ" banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0" color1="FFd7a12b" color2="FF144ea8" name="Armed peasant" mpclassdivision="bre_infantry_lvl1" id="armed_peasant.aq">
     <Weapon0>
       <equipment id="b2_peasant_spear" />
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -1432,14 +1229,7 @@
       <equipment id="null" />
     </Gloves>
   </ClanClass>
-  <ClanClass
-    clan="AQ"
-    banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0"
-    color1="FFd7a12b"
-    color2="FF144ea8"
-    name="Man at arms"
-    mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.aq">
+  <ClanClass clan="AQ" banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0" color1="FFd7a12b" color2="FF144ea8" name="Man at arms" mpclassdivision="bre_infantry_lvl2" id="man_at_arms.aq">
     <Weapon0>
       <equipment id="b2_man_spear" />
     </Weapon0>
@@ -1499,14 +1289,7 @@
       <equipment id="mp_padded_mitten" />
     </Gloves>
   </ClanClass>
-  <ClanClass
-    clan="AQ"
-    banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0"
-    color1="FFd7a12b"
-    color2="FF144ea8"
-    name="Sergeant at arms"
-    mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.aq">
+  <ClanClass clan="AQ" banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0" color1="FFd7a12b" color2="FF144ea8" name="Sergeant at arms" mpclassdivision="bre_infantry_lvl3" id="sergeant_at_arms.aq">
     <Weapon0>
       <equipment id="b2_man_spear" />
       <equipment id="null" hidden="true" disablerandomize="true" />
@@ -1555,14 +1338,7 @@
       <equipment id="b2_crossbow_armor_hand_dark" />
     </Gloves>
   </ClanClass>
-  <ClanClass
-    clan="AQ"
-    banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0"
-    color1="FFd7a12b"
-    color2="FF144ea8"
-    name="Captain"
-    mpclassdivision="bre_infantry_lvl4"
-    id="captain.aq">
+  <ClanClass clan="AQ" banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0" color1="FFd7a12b" color2="FF144ea8" name="Captain" mpclassdivision="bre_infantry_lvl4" id="captain.aq">
     <Weapon0>
       <equipment id="b2_man_spear" />
     </Weapon0>
@@ -1631,14 +1407,7 @@
       <equipment id="b2_crossbow_armor_hand_dark" />
     </Gloves>
   </ClanClass>
-  <ClanClass
-    clan="AQ"
-    banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0"
-    color1="FFd7a12b"
-    color2="FF144ea8"
-    name="Peasant archer"
-    mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.aq">
+  <ClanClass clan="AQ" banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0" color1="FFd7a12b" color2="FF144ea8" name="Peasant archer" mpclassdivision="bre_archer_lvl1" id="peasant_archer.aq">
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -1692,14 +1461,7 @@
       <equipment id="null" />
     </Gloves>
   </ClanClass>
-  <ClanClass
-    clan="AQ"
-    banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0"
-    color1="FFd7a12b"
-    color2="FF144ea8"
-    name="Free archer"
-    mpclassdivision="bre_archer_lvl2"
-    id="free_archer.aq">
+  <ClanClass clan="AQ" banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0" color1="FFd7a12b" color2="FF144ea8" name="Free archer" mpclassdivision="bre_archer_lvl2" id="free_archer.aq">
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
       <equipment id="sp_yew_bow" />
@@ -1746,14 +1508,7 @@
       <equipment id="mp_guarded_padded_vambrace" />
     </Gloves>
   </ClanClass>
-  <ClanClass
-    clan="AQ"
-    banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0"
-    color1="FFd7a12b"
-    color2="FF144ea8"
-    name="Master archer"
-    mpclassdivision="bre_archer_lvl3"
-    id="master_archer.aq">
+  <ClanClass clan="AQ" banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0" color1="FFd7a12b" color2="FF144ea8" name="Master archer" mpclassdivision="bre_archer_lvl3" id="master_archer.aq">
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
       <equipment id="sp_lowland_bow" />
@@ -1798,14 +1553,7 @@
       <equipment id="mp_reinforced_leather_vambraces" />
     </Gloves>
   </ClanClass>
-  <ClanClass
-    clan="AQ"
-    banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0"
-    color1="FFd7a12b"
-    color2="FF144ea8"
-    name="Mounted sergeant"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.aq">
+  <ClanClass clan="AQ" banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0" color1="FFd7a12b" color2="FF144ea8" name="Mounted sergeant" mpclassdivision="bre_cavalry_lvl1" id="mounted_sergeant.aq">
     <Weapon0>
       <equipment id="b2_lance_aq" />
     </Weapon0>
@@ -1868,14 +1616,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass
-    clan="AQ"
-    banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0"
-    color1="FF9c7018"
-    color2="FF122447"
-    name="Squire"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="squire.aq">
+  <ClanClass clan="AQ" banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0" color1="FF9c7018" color2="FF122447" name="Squire" mpclassdivision="bre_cavalry_lvl1" id="squire.aq">
     <Weapon0>
       <equipment id="b2_lance_aq"/>
     </Weapon0>
@@ -1933,14 +1674,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass
-    clan="AQ"
-    color1="FFd7a12b"
-    color2="FF144ea8"
-    banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0"
-    name="Armand of Aquitanie"
-    mpclassdivision="bre_cavalry_lvl2"
-    id="knight_of_the_realm.aq">
+  <ClanClass clan="AQ" color1="FFd7a12b" color2="FF144ea8" banner="11.552.552.1536.1536.764.764.1.0.0.5002.553.553.500.500.764.764.0.0.0" name="Armand of Aquitanie" mpclassdivision="bre_cavalry_lvl2" id="knight_of_the_realm.aq">
     <Weapon0>
       <equipment id="b2_lance_aq" />
       <equipment id="b3_grail_lance_aq" disablerandomize="true" />
@@ -1981,14 +1715,7 @@
     </Horse>
   </ClanClass>
   <!--GA-->
-  <ClanClass 
-    clan="GA"
-    color1="FF8e1818"
-    color2="FF263d7d"
-    banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
-    name="Paysan armé"
-    mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.ga">
+  <ClanClass clan="GA" color1="FF8e1818" color2="FF263d7d" banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0" name="Paysan armé" mpclassdivision="bre_infantry_lvl1" id="armed_peasant.ga">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -2052,14 +1779,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="GA"
-    color1="FF8e1818"
-    color2="FF263d7d"
-    banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
-    name="Homme d'armes"
-    mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.ga">
+  <ClanClass clan="GA" color1="FF8e1818" color2="FF263d7d" banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0" name="Homme d'armes" mpclassdivision="bre_infantry_lvl2" id="man_at_arms.ga">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -2119,14 +1839,7 @@
       <equipment id="mp_padded_mitten"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="GA"
-    color1="FF8e1818"
-    color2="FF263d7d"
-    banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
-    name="Sergent d'armes"
-    mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.ga">
+  <ClanClass clan="GA" color1="FF8e1818" color2="FF263d7d" banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0" name="Sergent d'armes" mpclassdivision="bre_infantry_lvl3" id="sergeant_at_arms.ga">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -2177,14 +1890,7 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="GA"
-    color1="FF8e1818"
-    color2="FF263d7d"
-    banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
-    name="Capitaine"
-    mpclassdivision="bre_infantry_lvl4"
-    id="captain.ga">
+  <ClanClass clan="GA" color1="FF8e1818" color2="FF263d7d" banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0" name="Capitaine" mpclassdivision="bre_infantry_lvl4" id="captain.ga">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -2257,14 +1963,7 @@
     </Gloves>
   </ClanClass>
 
-  <ClanClass 
-    clan="GA"
-    color1="FF8e1818"
-    color2="FF263d7d"
-    banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
-    name="Gardes du Dragon - Garde"
-    mpclassdivision="bre_infantry_lvl4"
-    id="dragonguard_guard.ga">
+  <ClanClass clan="GA" color1="FF8e1818" color2="FF263d7d" banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0" name="Gardes du Dragon - Garde" mpclassdivision="bre_infantry_lvl4" id="dragonguard_guard.ga">
     <Weapon0>
       <equipment id="b3_dragonguard_2h_sword"/>
     </Weapon0>
@@ -2290,14 +1989,7 @@
       <equipment id="b3_dragonguard_sergeants_gauntlets"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="GA"
-    color1="FF8e1818"
-    color2="FF263d7d"
-    banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
-    name="Gardes du Dragon - Sergent"
-    mpclassdivision="bre_infantry_lvl4"
-    id="dragonguard_sergeant.ga">
+  <ClanClass clan="GA" color1="FF8e1818" color2="FF263d7d" banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0" name="Gardes du Dragon - Sergent" mpclassdivision="bre_infantry_lvl4" id="dragonguard_sergeant.ga">
     <Weapon0>
       <equipment id="b3_dragonguard_2h_sword"/>
     </Weapon0>
@@ -2325,14 +2017,7 @@
       <equipment id="b3_dragonguard_sergeants_gauntlets"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="GA"
-    color1="FF8e1818"
-    color2="FF263d7d"
-    banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
-    name="Gardes du Dragon - Capitaine"
-    mpclassdivision="bre_infantry_lvl4"
-    id="dragonguard_captain.ga">
+  <ClanClass clan="GA" color1="FF8e1818" color2="FF263d7d" banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0" name="Gardes du Dragon - Capitaine" mpclassdivision="bre_infantry_lvl4" id="dragonguard_captain.ga">
     <Weapon0>
       <equipment id="b3_dragonguard_2h_sword"/>
     </Weapon0>
@@ -2360,14 +2045,7 @@
       <equipment id="b3_dragonguard_captain_gauntlets"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="GA"
-    color1="FF8e1818"
-    color2="FF263d7d"
-    banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
-    name="Archer paysan "
-    mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.ga">
+  <ClanClass clan="GA" color1="FF8e1818" color2="FF263d7d" banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0" name="Archer paysan " mpclassdivision="bre_archer_lvl1" id="peasant_archer.ga">
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -2421,14 +2099,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="GA"
-    color1="FF8e1818"
-    color2="FF263d7d"
-    banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
-    name="Franc-archer"
-    mpclassdivision="bre_archer_lvl2"
-    id="free_archer.ga">
+  <ClanClass clan="GA" color1="FF8e1818" color2="FF263d7d" banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0" name="Franc-archer" mpclassdivision="bre_archer_lvl2" id="free_archer.ga">
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
       <equipment id="sp_yew_bow" />
@@ -2472,14 +2143,7 @@
       <equipment id="mp_guarded_padded_vambrace"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="GA"
-    color1="FF8e1818"
-    color2="FF263d7d"
-    banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
-    name="Maître archer"
-    mpclassdivision="bre_archer_lvl3"
-    id="master_archer.ga">
+  <ClanClass clan="GA" color1="FF8e1818" color2="FF263d7d" banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0" name="Maître archer" mpclassdivision="bre_archer_lvl3" id="master_archer.ga">
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
       <equipment id="sp_lowland_bow" />
@@ -2500,7 +2164,7 @@
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="b2_mail_shirt"/>
       <equipment id="b2_banded_leather_over_mail"/>
     </Body>
@@ -2524,14 +2188,7 @@
       <equipment id="mp_reinforced_leather_vambraces"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="GA"
-    color1="FF8e1818"
-    color2="FF263d7d"
-    banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
-    name="Sergent monté"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.ga">
+  <ClanClass clan="GA" color1="FF8e1818" color2="FF263d7d" banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0" name="Sergent monté" mpclassdivision="bre_cavalry_lvl1" id="mounted_sergeant.ga">
     <Weapon0>
       <equipment id="b2_lance_ga"/>
     </Weapon0>
@@ -2555,7 +2212,7 @@
       <equipment id="b2_norman_helmet_0"/>
       <equipment id="b2_norman_helmet_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="mp_studded_leather_over_aketon"/>
       <equipment id="mp_layered_leather_tunic"/>
       <equipment id="mp_leather_scale_armor"/>
@@ -2594,14 +2251,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="GA"
-    color1="FF6c1010"
-    color2="FF142441"
-    banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
-    name="Ecuyer"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="squire.ga">
+  <ClanClass clan="GA" color1="FF6c1010" color2="FF142441" banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0" name="Ecuyer" mpclassdivision="bre_cavalry_lvl1" id="squire.ga">
     <Weapon0>
       <equipment id="b2_lance_ga"/>
     </Weapon0>
@@ -2659,14 +2309,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="GA"
-    color1="FF8e1818"
-    color2="FF263d7d"
-    banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0"
-    name="Huebald de Gasconnie"
-    mpclassdivision="bre_cavalry_lvl2"
-    id="knight_of_the_realm.ga">
+  <ClanClass clan="GA" color1="FF8e1818" color2="FF263d7d" banner="1.550.551.1536.1536.764.764.0.0.0.5001.550.550.500.500.764.764.0.0.0" name="Huebald de Gasconnie" mpclassdivision="bre_cavalry_lvl2" id="knight_of_the_realm.ga">
     <Weapon0>
       <equipment id="b2_lance_ga"/>
       <equipment id="b3_grail_lance_ga" disablerandomize="true"/>
@@ -2707,14 +2350,7 @@
     </Horse>
   </ClanClass>
   <!--MOU-->
-  <ClanClass 
-    clan="MOU"
-    color1="FFdab42b"
-    color2="FF1f1a19"
-    banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
-    name="Armed peasant"
-    mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.mou">
+  <ClanClass clan="MOU" color1="FFdab42b" color2="FF1f1a19" banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0" name="Armed peasant" mpclassdivision="bre_infantry_lvl1" id="armed_peasant.mou">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -2778,14 +2414,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MOU"
-    color1="FFdab42b"
-    color2="FF1f1a19"
-    banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
-    name="Man at arms"
-    mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.mou">
+  <ClanClass clan="MOU" color1="FFdab42b" color2="FF1f1a19" banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0" name="Man at arms" mpclassdivision="bre_infantry_lvl2" id="man_at_arms.mou">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -2851,14 +2480,7 @@
       <equipment id="mp_padded_mitten"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MOU"
-    color1="FFdab42b"
-    color2="FF1f1a19"
-    banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
-    name="Sergeant at arms"
-    mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.mou">
+  <ClanClass clan="MOU" color1="FFdab42b" color2="FF1f1a19" banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0" name="Sergeant at arms" mpclassdivision="bre_infantry_lvl3" id="sergeant_at_arms.mou">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -2911,14 +2533,7 @@
       <equipment id="b2_crossbow_armor_hand_black"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MOU"
-    color1="FFdab42b"
-    color2="FF1f1a19"
-    banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
-    name="Captain"
-    mpclassdivision="bre_infantry_lvl4"
-    id="captain.mou">
+  <ClanClass clan="MOU" color1="FFdab42b" color2="FF1f1a19" banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0" name="Captain" mpclassdivision="bre_infantry_lvl4" id="captain.mou">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -2992,14 +2607,7 @@
       <equipment id="b2_crossbow_armor_hand_black"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MOU"
-    color1="FFdab42b"
-    color2="FF1f1a19"
-    banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
-    name="Grave guard"
-    mpclassdivision="bre_infantry_lvl4"
-    id="cryptguard_guardsman.mou">
+  <ClanClass clan="MOU" color1="FFdab42b" color2="FF1f1a19" banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0" name="Grave guard" mpclassdivision="bre_infantry_lvl4" id="cryptguard_guardsman.mou">
     <Weapon0>
       <equipment id="b3_peasant_polearm_1"/>
     </Weapon0>
@@ -3025,14 +2633,7 @@
       <equipment id="gg_gloves"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MOU"
-    color1="FFdab42b"
-    color2="FF1f1a19"
-    banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
-    name="Peasant archer"
-    mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.mou">
+  <ClanClass clan="MOU" color1="FFdab42b" color2="FF1f1a19" banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0" name="Peasant archer" mpclassdivision="bre_archer_lvl1" id="peasant_archer.mou">
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -3086,14 +2687,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MOU"
-    color1="FFdab42b"
-    color2="FF1f1a19"
-    banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
-    name="Free archer"
-    mpclassdivision="bre_archer_lvl2"
-    id="free_archer.mou">
+  <ClanClass clan="MOU" color1="FFdab42b" color2="FF1f1a19" banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0" name="Free archer" mpclassdivision="bre_archer_lvl2" id="free_archer.mou">
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
       <equipment id="sp_yew_bow" />
@@ -3135,21 +2729,14 @@
       <equipment id="mp_hood"/>
       <equipment id="null"/>
     </Cape>
-    <Gloves> 
+    <Gloves>
       <equipment id="b2_crossbow_armor_hand_black"/>
       <equipment id="mp_leather_gloves"/>
       <equipment id="mp_padded_vambrace"/>
       <equipment id="mp_guarded_padded_vambrace"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MOU"
-    color1="FFdab42b"
-    color2="FF1f1a19"
-    banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
-    name="Master archer"
-    mpclassdivision="bre_archer_lvl3"
-    id="master_archer.mou">
+  <ClanClass clan="MOU" color1="FFdab42b" color2="FF1f1a19" banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0" name="Master archer" mpclassdivision="bre_archer_lvl3" id="master_archer.mou">
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
       <equipment id="sp_lowland_bow" />
@@ -3171,7 +2758,7 @@
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="b2_mail_shirt"/>
       <equipment id="b2_banded_leather_over_mail"/>
     </Body>
@@ -3195,14 +2782,7 @@
       <equipment id="mp_reinforced_leather_vambraces"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MOU"
-    color1="FFdab42b"
-    color2="FF1f1a19"
-    banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
-    name="Mounted sergeant"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.mou">
+  <ClanClass clan="MOU" color1="FFdab42b" color2="FF1f1a19" banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0" name="Mounted sergeant" mpclassdivision="bre_cavalry_lvl1" id="mounted_sergeant.mou">
     <Weapon0>
       <equipment id="b2_lance_mou"/>
     </Weapon0>
@@ -3228,7 +2808,7 @@
       <equipment id="b2_norman_helmet_0"/>
       <equipment id="b2_norman_helmet_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="mp_studded_leather_over_aketon"/>
       <equipment id="mp_layered_leather_tunic"/>
       <equipment id="mp_leather_scale_armor"/>
@@ -3267,14 +2847,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="MOU"
-    color1="FF76621f"
-    color2="FF0e0f12"
-    banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
-    name="Squire"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="squire.mou">
+  <ClanClass clan="MOU" color1="FF76621f" color2="FF0e0f12" banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0" name="Squire" mpclassdivision="bre_cavalry_lvl1" id="squire.mou">
     <Weapon0>
       <equipment id="b2_lance_mou"/>
     </Weapon0>
@@ -3328,14 +2901,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="MOU"
-    color1="FFdab42b"
-    color2="FF1f1a19"
-    banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
-    name="Malory of Moussillon"
-    mpclassdivision="bre_cavalry_lvl2"
-    id="knight_of_the_realm.mou">
+  <ClanClass clan="MOU" color1="FFdab42b" color2="FF1f1a19" banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0" name="Malory of Moussillon" mpclassdivision="bre_cavalry_lvl2" id="knight_of_the_realm.mou">
     <Weapon0>
       <equipment id="b2_lance_mou"/>
       <equipment id="b3_grail_lance_mou" disablerandomize="true"/>
@@ -3379,14 +2945,7 @@
     </Horse>
   </ClanClass>
   <!--BRI-->
-  <ClanClass 
-    clan="BRI"
-    color1="FFbbbbbb"
-    color2="FF1a1a1a"
-    banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
-    name="Armed peasant"
-    mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.bri">
+  <ClanClass clan="BRI" color1="FFbbbbbb" color2="FF1a1a1a" banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0" name="Armed peasant" mpclassdivision="bre_infantry_lvl1" id="armed_peasant.bri">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -3450,14 +3009,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="BRI"
-    color1="FFbbbbbb"
-    color2="FF1a1a1a"
-    banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
-    name="Man at arms"
-    mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.bri">
+  <ClanClass clan="BRI" color1="FFbbbbbb" color2="FF1a1a1a" banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0" name="Man at arms" mpclassdivision="bre_infantry_lvl2" id="man_at_arms.bri">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -3523,14 +3075,7 @@
       <equipment id="mp_padded_mitten"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="BRI"
-    color1="FFbbbbbb"
-    color2="FF1a1a1a"
-    banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
-    name="Sergeant at arms"
-    mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.bri">
+  <ClanClass clan="BRI" color1="FFbbbbbb" color2="FF1a1a1a" banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0" name="Sergeant at arms" mpclassdivision="bre_infantry_lvl3" id="sergeant_at_arms.bri">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -3583,14 +3128,7 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="BRI"
-    color1="FFbbbbbb"
-    color2="FF1a1a1a"
-    banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
-    name="Captain"
-    mpclassdivision="bre_infantry_lvl4"
-    id="captain.bri">
+  <ClanClass clan="BRI" color1="FFbbbbbb" color2="FF1a1a1a" banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0" name="Captain" mpclassdivision="bre_infantry_lvl4" id="captain.bri">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -3663,14 +3201,7 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="BRI"
-    color1="FFbbbbbb"
-    color2="FF1a1a1a"
-    banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
-    name="Protectors of Brienne - Guard"
-    mpclassdivision="bre_infantry_lvl4"
-    id="protector_guard.bri">
+  <ClanClass clan="BRI" color1="FFbbbbbb" color2="FF1a1a1a" banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0" name="Protectors of Brienne - Guard" mpclassdivision="bre_infantry_lvl4" id="protector_guard.bri">
     <Weapon0>
       <equipment id="b3_protector_poleaxe"/>
     </Weapon0>
@@ -3700,14 +3231,7 @@
       <equipment id="b3_protector_guard_gauntlets_2"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="BRI"
-    color1="FFbbbbbb"
-    color2="FF1a1a1a"
-    banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
-    name="Protectors of Brienne - Veteran"
-    mpclassdivision="bre_infantry_lvl4"
-    id="protector_veteran.bri">
+  <ClanClass clan="BRI" color1="FFbbbbbb" color2="FF1a1a1a" banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0" name="Protectors of Brienne - Veteran" mpclassdivision="bre_infantry_lvl4" id="protector_veteran.bri">
     <Weapon0>
       <equipment id="b3_protector_poleaxe"/>
     </Weapon0>
@@ -3737,14 +3261,7 @@
       <equipment id="b3_protector_guard_gauntlets_2"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="BRI"
-    color1="FFbbbbbb"
-    color2="FF1a1a1a"
-    banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
-    name="Protectors of Brienne - Captain"
-    mpclassdivision="bre_infantry_lvl4"
-    id="protector_captain.bri">
+  <ClanClass clan="BRI" color1="FFbbbbbb" color2="FF1a1a1a" banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0" name="Protectors of Brienne - Captain" mpclassdivision="bre_infantry_lvl4" id="protector_captain.bri">
     <Weapon0>
       <equipment id="b3_protector_poleaxe"/>
     </Weapon0>
@@ -3772,14 +3289,7 @@
       <equipment id="b3_protector_captain_mittens"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="BRI"
-    color1="FFbbbbbb"
-    color2="FF1a1a1a"
-    banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
-    name="Peasant archer"
-    mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.bri">
+  <ClanClass clan="BRI" color1="FFbbbbbb" color2="FF1a1a1a" banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0" name="Peasant archer" mpclassdivision="bre_archer_lvl1" id="peasant_archer.bri">
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -3833,14 +3343,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="BRI"
-    color1="FFbbbbbb"
-    color2="FF1a1a1a"
-    banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
-    name="Free archer"
-    mpclassdivision="bre_archer_lvl2"
-    id="free_archer.bri">
+  <ClanClass clan="BRI" color1="FFbbbbbb" color2="FF1a1a1a" banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0" name="Free archer" mpclassdivision="bre_archer_lvl2" id="free_archer.bri">
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
       <equipment id="sp_yew_bow" />
@@ -3881,7 +3384,7 @@
       <equipment id="mp_hood"/>
       <equipment id="null"/>
     </Cape>
-    <Gloves> 
+    <Gloves>
       <equipment id="b2_crossbow_armor_hand_black"/>
       <equipment id="b2_crossbow_armor_hand_dark"/>
       <equipment id="mp_leather_gloves"/>
@@ -3889,14 +3392,7 @@
       <equipment id="mp_guarded_padded_vambrace"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="BRI"
-    color1="FFbbbbbb"
-    color2="FF1a1a1a"
-    banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
-    name="Master archer"
-    mpclassdivision="bre_archer_lvl3"
-    id="master_archer.bri">
+  <ClanClass clan="BRI" color1="FFbbbbbb" color2="FF1a1a1a" banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0" name="Master archer" mpclassdivision="bre_archer_lvl3" id="master_archer.bri">
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
       <equipment id="sp_lowland_bow" />
@@ -3917,7 +3413,7 @@
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="b2_mail_shirt"/>
       <equipment id="b2_banded_leather_over_mail"/>
     </Body>
@@ -3943,14 +3439,7 @@
       <equipment id="mp_reinforced_leather_vambraces"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="BRI"
-    color1="FFbbbbbb"
-    color2="FF1a1a1a"
-    banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
-    name="Mounted sergeant"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.bri">
+  <ClanClass clan="BRI" color1="FFbbbbbb" color2="FF1a1a1a" banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0" name="Mounted sergeant" mpclassdivision="bre_cavalry_lvl1" id="mounted_sergeant.bri">
     <Weapon0>
       <equipment id="b2_lance_bri"/>
     </Weapon0>
@@ -3974,7 +3463,7 @@
       <equipment id="b2_norman_helmet_0"/>
       <equipment id="b2_norman_helmet_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="mp_studded_leather_over_aketon"/>
       <equipment id="mp_layered_leather_tunic"/>
       <equipment id="mp_leather_scale_armor"/>
@@ -4015,14 +3504,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="BRI"
-    color1="FF82776d"
-    color2="FF0c0b0a"
-    banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
-    name="Squire"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="squire.bri">
+  <ClanClass clan="BRI" color1="FF82776d" color2="FF0c0b0a" banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0" name="Squire" mpclassdivision="bre_cavalry_lvl1" id="squire.bri">
     <Weapon0>
       <equipment id="b2_lance_bri"/>
     </Weapon0>
@@ -4080,14 +3562,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="BRI"
-    color1="FFbbbbbb"
-    color2="FF1a1a1a"
-    banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
-    name="Theodoric of Brionne"
-    mpclassdivision="bre_cavalry_lvl2"
-    id="knight_of_the_realm.bri">
+  <ClanClass clan="BRI" color1="FFbbbbbb" color2="FF1a1a1a" banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0" name="Theodoric of Brionne" mpclassdivision="bre_cavalry_lvl2" id="knight_of_the_realm.bri">
     <Weapon0>
       <equipment id="b2_lance_bri"/>
       <equipment id="b3_grail_lance_bri" disablerandomize="true"/>
@@ -4128,14 +3603,7 @@
     </Horse>
   </ClanClass>
   <!--CAS-->
-  <ClanClass 
-    clan="CAS"
-    color1="FF1c232c"
-    color2="FF29559f"
-    banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
-    name="Armed peasant"
-    mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.cas">
+  <ClanClass clan="CAS" color1="FF1c232c" color2="FF29559f" banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0" name="Armed peasant" mpclassdivision="bre_infantry_lvl1" id="armed_peasant.cas">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -4199,14 +3667,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="CAS"
-    color1="FF1c232c"
-    color2="FF29559f"
-    banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
-    name="Man at arms"
-    mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.cas">
+  <ClanClass clan="CAS" color1="FF1c232c" color2="FF29559f" banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0" name="Man at arms" mpclassdivision="bre_infantry_lvl2" id="man_at_arms.cas">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -4268,14 +3729,7 @@
       <equipment id="mp_padded_mitten"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="CAS"
-    color1="FF1c232c"
-    color2="FF29559f"
-    banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
-    name="Sergeant at arms"
-    mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.cas">
+  <ClanClass clan="CAS" color1="FF1c232c" color2="FF29559f" banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0" name="Sergeant at arms" mpclassdivision="bre_infantry_lvl3" id="sergeant_at_arms.cas">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -4327,14 +3781,7 @@
       <equipment id="b2_crossbow_armor_hand_black"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="CAS"
-    color1="FF1c232c"
-    color2="FF29559f"
-    banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
-    name="Captain"
-    mpclassdivision="bre_infantry_lvl4"
-    id="captain.cas">
+  <ClanClass clan="CAS" color1="FF1c232c" color2="FF29559f" banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0" name="Captain" mpclassdivision="bre_infantry_lvl4" id="captain.cas">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -4408,14 +3855,7 @@
       <equipment id="b2_crossbow_armor_hand_black"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="CAS"
-    color1="FF1c232c"
-    color2="FF29559f"
-    banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
-    name="Peasant archer"
-    mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.cas">
+  <ClanClass clan="CAS" color1="FF1c232c" color2="FF29559f" banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0" name="Peasant archer" mpclassdivision="bre_archer_lvl1" id="peasant_archer.cas">
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -4469,14 +3909,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="CAS"
-    color1="FF1c232c"
-    color2="FF29559f"
-    banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
-    name="Free archer"
-    mpclassdivision="bre_archer_lvl2"
-    id="free_archer.cas">
+  <ClanClass clan="CAS" color1="FF1c232c" color2="FF29559f" banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0" name="Free archer" mpclassdivision="bre_archer_lvl2" id="free_archer.cas">
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
       <equipment id="sp_yew_bow" />
@@ -4515,21 +3948,14 @@
       <equipment id="mp_hood"/>
       <equipment id="null"/>
     </Cape>
-    <Gloves> 
+    <Gloves>
       <equipment id="b2_crossbow_armor_hand_black"/>
       <equipment id="mp_leather_gloves"/>
       <equipment id="mp_padded_vambrace"/>
       <equipment id="mp_guarded_padded_vambrace"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="CAS"
-    color1="FF1c232c"
-    color2="FF29559f"
-    banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
-    name="Master archer"
-    mpclassdivision="bre_archer_lvl3"
-    id="master_archer.cas">
+  <ClanClass clan="CAS" color1="FF1c232c" color2="FF29559f" banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0" name="Master archer" mpclassdivision="bre_archer_lvl3" id="master_archer.cas">
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
       <equipment id="sp_lowland_bow" />
@@ -4551,7 +3977,7 @@
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="b2_mail_shirt"/>
       <equipment id="b2_banded_leather_over_mail"/>
     </Body>
@@ -4575,14 +4001,7 @@
       <equipment id="mp_reinforced_leather_vambraces"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="CAS"
-    color1="FF1c232c"
-    color2="FF29559f"
-    banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
-    name="Mounted sergeant"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.cas">
+  <ClanClass clan="CAS" color1="FF1c232c" color2="FF29559f" banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0" name="Mounted sergeant" mpclassdivision="bre_cavalry_lvl1" id="mounted_sergeant.cas">
     <Weapon0>
       <equipment id="b2_lance_cas"/>
     </Weapon0>
@@ -4608,7 +4027,7 @@
       <equipment id="b2_norman_helmet_0"/>
       <equipment id="b2_norman_helmet_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="mp_studded_leather_over_aketon"/>
       <equipment id="mp_layered_leather_tunic"/>
       <equipment id="mp_leather_scale_armor"/>
@@ -4647,14 +4066,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="CAS"
-    color1="FF25355e"
-    color2="FF0c0d0e"
-    banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
-    name="Squire"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="squire.cas">
+  <ClanClass clan="CAS" color1="FF25355e" color2="FF0c0d0e" banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0" name="Squire" mpclassdivision="bre_cavalry_lvl1" id="squire.cas">
     <Weapon0>
       <equipment id="b2_lance_cas"/>
     </Weapon0>
@@ -4708,14 +4120,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="CAS"
-    color1="FF1c232c"
-    color2="FF29559f"
-    banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
-    name="Dangorn of Castagne"
-    mpclassdivision="bre_cavalry_lvl2"
-    id="knight_of_the_realm.cas">
+  <ClanClass clan="CAS" color1="FF1c232c" color2="FF29559f" banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0" name="Dangorn of Castagne" mpclassdivision="bre_cavalry_lvl2" id="knight_of_the_realm.cas">
     <Weapon0>
       <equipment id="b2_lance_cas"/>
       <equipment id="b3_grail_lance_cas" disablerandomize="true"/>
@@ -4759,14 +4164,7 @@
     </Horse>
   </ClanClass>
   <!--LAB-->
-  <ClanClass 
-    clan="LAB"
-    color1="FF7f1b12"
-    color2="FFcac9bf"
-    banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0"
-    name="Paysan armé"
-    mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.lab">
+  <ClanClass clan="LAB" color1="FF7f1b12" color2="FFcac9bf" banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0" name="Paysan armé" mpclassdivision="bre_infantry_lvl1" id="armed_peasant.lab">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -4830,14 +4228,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="LAB"
-    color1="FF7f1b12"
-    color2="FFcac9bf"
-    banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0"
-    name="Homme d'armes"
-    mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.lab">
+  <ClanClass clan="LAB" color1="FF7f1b12" color2="FFcac9bf" banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0" name="Homme d'armes" mpclassdivision="bre_infantry_lvl2" id="man_at_arms.lab">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -4901,14 +4292,7 @@
       <equipment id="mp_padded_mitten"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="LAB"
-    color1="FF7f1b12"
-    color2="FFcac9bf"
-    banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0"
-    name="Sergent d'armes"
-    mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.lab">
+  <ClanClass clan="LAB" color1="FF7f1b12" color2="FFcac9bf" banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0" name="Sergent d'armes" mpclassdivision="bre_infantry_lvl3" id="sergeant_at_arms.lab">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -4960,14 +4344,7 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="LAB"
-    color1="FF7f1b12"
-    color2="FFcac9bf"
-    banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0"
-    name="Capitaine"
-    mpclassdivision="bre_infantry_lvl4"
-    id="captain.lab">
+  <ClanClass clan="LAB" color1="FF7f1b12" color2="FFcac9bf" banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0" name="Capitaine" mpclassdivision="bre_infantry_lvl4" id="captain.lab">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -5039,14 +4416,7 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="LAB"
-    color1="FF7f1b12"
-    color2="FFcac9bf"
-    banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0"
-    name="Archer paysan"
-    mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.lab">
+  <ClanClass clan="LAB" color1="FF7f1b12" color2="FFcac9bf" banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0" name="Archer paysan" mpclassdivision="bre_archer_lvl1" id="peasant_archer.lab">
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -5100,14 +4470,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="LAB"
-    color1="FF7f1b12"
-    color2="FFcac9bf"
-    banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0"
-    name="Franc-archer"
-    mpclassdivision="bre_archer_lvl2"
-    id="free_archer.lab">
+  <ClanClass clan="LAB" color1="FF7f1b12" color2="FFcac9bf" banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0" name="Franc-archer" mpclassdivision="bre_archer_lvl2" id="free_archer.lab">
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
       <equipment id="sp_yew_bow" />
@@ -5154,14 +4517,7 @@
       <equipment id="mp_guarded_padded_vambrace"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="LAB"
-    color1="FF7f1b12"
-    color2="FFcac9bf"
-    banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0"
-    name="Maître archer"
-    mpclassdivision="bre_archer_lvl3"
-    id="master_archer.lab">
+  <ClanClass clan="LAB" color1="FF7f1b12" color2="FFcac9bf" banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0" name="Maître archer" mpclassdivision="bre_archer_lvl3" id="master_archer.lab">
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
       <equipment id="sp_lowland_bow" />
@@ -5182,7 +4538,7 @@
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="b2_mail_shirt"/>
       <equipment id="b2_banded_leather_over_mail"/>
     </Body>
@@ -5206,14 +4562,7 @@
       <equipment id="mp_reinforced_leather_vambraces"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="LAB"
-    color1="FF7f1b12"
-    color2="FFcac9bf"
-    banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0"
-    name="Sergent monté"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.lab">
+  <ClanClass clan="LAB" color1="FF7f1b12" color2="FFcac9bf" banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0" name="Sergent monté" mpclassdivision="bre_cavalry_lvl1" id="mounted_sergeant.lab">
     <Weapon0>
       <equipment id="b2_lance_lab"/>
     </Weapon0>
@@ -5237,7 +4586,7 @@
       <equipment id="b2_norman_helmet_0"/>
       <equipment id="b2_norman_helmet_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="mp_studded_leather_over_aketon"/>
       <equipment id="mp_layered_leather_tunic"/>
       <equipment id="mp_leather_scale_armor"/>
@@ -5276,14 +4625,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="LAB"
-    color1="FF54110e"
-    color2="FF938d7f"
-    banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0"
-    name="Ecuyer"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="squire.lab">
+  <ClanClass clan="LAB" color1="FF54110e" color2="FF938d7f" banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0" name="Ecuyer" mpclassdivision="bre_cavalry_lvl1" id="squire.lab">
     <Weapon0>
       <equipment id="b2_lance_lab"/>
     </Weapon0>
@@ -5341,14 +4683,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="LAB"
-    color1="FF450c0a"
-    color2="FFadaca0"
-    banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0"
-    name="Seigneur de Labour"
-    mpclassdivision="bre_cavalry_lvl2"
-    id="knight_of_the_realm.lab">
+  <ClanClass clan="LAB" color1="FF450c0a" color2="FFadaca0" banner="11.560.560.1536.1536.764.764.0.0.0.5006.561.561.500.500.764.764.0.0.0" name="Seigneur de Labour" mpclassdivision="bre_cavalry_lvl2" id="knight_of_the_realm.lab">
     <Weapon0>
       <equipment id="b2_lance_lab"/>
       <equipment id="b3_kotr_lance_lab" disablerandomize="true"/>
@@ -5402,14 +4737,7 @@
     </Horse>
   </ClanClass>
   <!--BAG-->
-  <ClanClass 
-    clan="BAG"
-    color1="FF8a1816"
-    color2="FFffffff"
-    banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0"
-    name="Paysan armé"
-    mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.bag">
+  <ClanClass clan="BAG" color1="FF8a1816" color2="FFffffff" banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0" name="Paysan armé" mpclassdivision="bre_infantry_lvl1" id="armed_peasant.bag">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -5473,14 +4801,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="BAG"
-    color1="FF8a1816"
-    color2="FFffffff"
-    banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0"
-    name="Homme d'armes"
-    mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.bag">
+  <ClanClass clan="BAG" color1="FF8a1816" color2="FFffffff" banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0" name="Homme d'armes" mpclassdivision="bre_infantry_lvl2" id="man_at_arms.bag">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -5544,14 +4865,7 @@
       <equipment id="mp_padded_mitten"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="BAG"
-    color1="FF8a1816"
-    color2="FFffffff"
-    banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0"
-    name="Sergent d'armes"
-    mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.bag">
+  <ClanClass clan="BAG" color1="FF8a1816" color2="FFffffff" banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0" name="Sergent d'armes" mpclassdivision="bre_infantry_lvl3" id="sergeant_at_arms.bag">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -5603,14 +4917,7 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="BAG"
-    color1="FF8a1816"
-    color2="FFffffff"
-    banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0"
-    name="Capitaine"
-    mpclassdivision="bre_infantry_lvl4"
-    id="captain.bag">
+  <ClanClass clan="BAG" color1="FF8a1816" color2="FFffffff" banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0" name="Capitaine" mpclassdivision="bre_infantry_lvl4" id="captain.bag">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -5682,14 +4989,7 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="BAG"
-    color1="FF8a1816"
-    color2="FFffffff"
-    banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0"
-    name="Archer paysan"
-    mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.bag">
+  <ClanClass clan="BAG" color1="FF8a1816" color2="FFffffff" banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0" name="Archer paysan" mpclassdivision="bre_archer_lvl1" id="peasant_archer.bag">
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -5743,14 +5043,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="BAG"
-    color1="FF8a1816"
-    color2="FFffffff"
-    banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0"
-    name="Franc-archer"
-    mpclassdivision="bre_archer_lvl2"
-    id="free_archer.bag">
+  <ClanClass clan="BAG" color1="FF8a1816" color2="FFffffff" banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0" name="Franc-archer" mpclassdivision="bre_archer_lvl2" id="free_archer.bag">
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
       <equipment id="sp_yew_bow" />
@@ -5797,14 +5090,7 @@
       <equipment id="mp_guarded_padded_vambrace"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="BAG"
-    color1="FF8a1816"
-    color2="FFffffff"
-    banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0"
-    name="Maître archer"
-    mpclassdivision="bre_archer_lvl3"
-    id="master_archer.bag">
+  <ClanClass clan="BAG" color1="FF8a1816" color2="FFffffff" banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0" name="Maître archer" mpclassdivision="bre_archer_lvl3" id="master_archer.bag">
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
       <equipment id="sp_lowland_bow" />
@@ -5825,7 +5111,7 @@
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="b2_mail_shirt"/>
       <equipment id="b2_banded_leather_over_mail"/>
     </Body>
@@ -5849,14 +5135,7 @@
       <equipment id="mp_reinforced_leather_vambraces"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="BAG"
-    color1="FF8a1816"
-    color2="FFffffff"
-    banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0"
-    name="Sergent monté"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.bag">
+  <ClanClass clan="BAG" color1="FF8a1816" color2="FFffffff" banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0" name="Sergent monté" mpclassdivision="bre_cavalry_lvl1" id="mounted_sergeant.bag">
     <Weapon0>
       <equipment id="b2_lance_bag"/>
     </Weapon0>
@@ -5880,7 +5159,7 @@
       <equipment id="b2_norman_helmet_0"/>
       <equipment id="b2_norman_helmet_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="mp_studded_leather_over_aketon"/>
       <equipment id="mp_layered_leather_tunic"/>
       <equipment id="mp_leather_scale_armor"/>
@@ -5919,14 +5198,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="BAG"
-    color1="FF54110e"
-    color2="FF938d7f"
-    banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0"
-    name="Ecuyer"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="squire.bag">
+  <ClanClass clan="BAG" color1="FF54110e" color2="FF938d7f" banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0" name="Ecuyer" mpclassdivision="bre_cavalry_lvl1" id="squire.bag">
     <Weapon0>
       <equipment id="b2_lance_bag"/>
     </Weapon0>
@@ -5984,14 +5256,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="BAG"
-    color1="FF450c0a"
-    color2="FFadaca0"
-    banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0"
-    name="Théomer de Bagnac"
-    mpclassdivision="bre_bre_cavalry_lvl2"
-    id="knight_of_the_realm.bag">
+  <ClanClass clan="BAG" color1="FF450c0a" color2="FFadaca0" banner="11.582.582.1536.1536.764.764.0.0.0.5018.583.583.500.500.764.764.0.0.0" name="Théomer de Bagnac" mpclassdivision="bre_bre_cavalry_lvl2" id="knight_of_the_realm.bag">
     <Weapon0>
       <equipment id="b2_lance_bag"/>
       <equipment id="b3_kotr_lance_bag" disablerandomize="true"/>
@@ -6045,14 +5310,7 @@
     </Horse>
   </ClanClass>
   <!--TUR-->
-  <ClanClass 
-    clan="TUR"
-    color1="FF263d7d"
-    color2="FFd7a12b"
-    banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0"
-    name="Paysan armé"
-    mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.tur">
+  <ClanClass clan="TUR" color1="FF263d7d" color2="FFd7a12b" banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0" name="Paysan armé" mpclassdivision="bre_infantry_lvl1" id="armed_peasant.tur">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -6116,14 +5374,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="TUR"
-    color1="FF263d7d"
-    color2="FFd7a12b"
-    banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0"
-    name="Homme d'armes"
-    mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.tur">
+  <ClanClass clan="TUR" color1="FF263d7d" color2="FFd7a12b" banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0" name="Homme d'armes" mpclassdivision="bre_infantry_lvl2" id="man_at_arms.tur">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -6187,14 +5438,7 @@
       <equipment id="mp_padded_mitten"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="TUR"
-    color1="FF263d7d"
-    color2="FFd7a12b"
-    banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0"
-    name="Sergent d'armes"
-    mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.tur">
+  <ClanClass clan="TUR" color1="FF263d7d" color2="FFd7a12b" banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0" name="Sergent d'armes" mpclassdivision="bre_infantry_lvl3" id="sergeant_at_arms.tur">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -6246,14 +5490,7 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="TUR"
-    color1="FF263d7d"
-    color2="FFd7a12b"
-    banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0"
-    name="Capitaine"
-    mpclassdivision="bre_infantry_lvl4"
-    id="captain.tur">
+  <ClanClass clan="TUR" color1="FF263d7d" color2="FFd7a12b" banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0" name="Capitaine" mpclassdivision="bre_infantry_lvl4" id="captain.tur">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -6325,14 +5562,7 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="TUR"
-    color1="FF263d7d"
-    color2="FFd7a12b"
-    banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0"
-    name="Archer paysan"
-    mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.tur">
+  <ClanClass clan="TUR" color1="FF263d7d" color2="FFd7a12b" banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0" name="Archer paysan" mpclassdivision="bre_archer_lvl1" id="peasant_archer.tur">
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -6386,14 +5616,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="TUR"
-    color1="FF263d7d"
-    color2="FFd7a12b"
-    banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0"
-    name="Franc-archer"
-    mpclassdivision="bre_archer_lvl2"
-    id="free_archer.tur">
+  <ClanClass clan="TUR" color1="FF263d7d" color2="FFd7a12b" banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0" name="Franc-archer" mpclassdivision="bre_archer_lvl2" id="free_archer.tur">
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
       <equipment id="sp_yew_bow" />
@@ -6440,14 +5663,7 @@
       <equipment id="mp_guarded_padded_vambrace"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="TUR"
-    color1="FF263d7d"
-    color2="FFd7a12b"
-    banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0"
-    name="Maître archer"
-    mpclassdivision="bre_archer_lvl3"
-    id="master_archer.tur">
+  <ClanClass clan="TUR" color1="FF263d7d" color2="FFd7a12b" banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0" name="Maître archer" mpclassdivision="bre_archer_lvl3" id="master_archer.tur">
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
       <equipment id="sp_lowland_bow" />
@@ -6468,7 +5684,7 @@
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="b2_mail_shirt"/>
       <equipment id="b2_banded_leather_over_mail"/>
     </Body>
@@ -6492,14 +5708,7 @@
       <equipment id="mp_reinforced_leather_vambraces"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="TUR"
-    color1="FF263d7d"
-    color2="FFd7a12b"
-    banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0"
-    name="Sergent monté"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.tur">
+  <ClanClass clan="TUR" color1="FF263d7d" color2="FFd7a12b" banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0" name="Sergent monté" mpclassdivision="bre_cavalry_lvl1" id="mounted_sergeant.tur">
     <Weapon0>
       <equipment id="b2_lance_tur"/>
     </Weapon0>
@@ -6523,7 +5732,7 @@
       <equipment id="b2_norman_helmet_0"/>
       <equipment id="b2_norman_helmet_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="mp_studded_leather_over_aketon"/>
       <equipment id="mp_layered_leather_tunic"/>
       <equipment id="mp_leather_scale_armor"/>
@@ -6562,14 +5771,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="TUR"
-    color1="FF122447"
-    color2="FF9c7018"
-    banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0"
-    name="Ecuyer"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="squire.tur">
+  <ClanClass clan="TUR" color1="FF122447" color2="FF9c7018" banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0" name="Ecuyer" mpclassdivision="bre_cavalry_lvl1" id="squire.tur">
     <Weapon0>
       <equipment id="b2_lance_tur"/>
     </Weapon0>
@@ -6627,14 +5829,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="TUR"
-    color1="FF0e1940"
-    color2="FFb0690c"
-    banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0"
-    name="Janduiá de Turín"
-    mpclassdivision="bre_cavalry_lvl2"
-    id="knight_of_the_realm.tur">
+  <ClanClass clan="TUR" color1="FF0e1940" color2="FFb0690c" banner="11.576.576.1536.1536.764.764.0.0.0.5013.577.577.500.500.764.764.0.0.0" name="Janduiá de Turín" mpclassdivision="bre_cavalry_lvl2" id="knight_of_the_realm.tur">
     <Weapon0>
       <equipment id="b2_lance_tur"/>
       <equipment id="b3_kotr_lance_tur" disablerandomize="true"/>
@@ -6688,14 +5883,7 @@
     </Horse>
   </ClanClass>
   <!--MOR-->
-  <ClanClass 
-    clan="MOR"
-    color1="FF194a13"
-    color2="FF7f1b12"
-    banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0"
-    name="Armed peasant"
-    mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.mor">
+  <ClanClass clan="MOR" color1="FF194a13" color2="FF7f1b12" banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0" name="Armed peasant" mpclassdivision="bre_infantry_lvl1" id="armed_peasant.mor">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -6759,14 +5947,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MOR"
-    color1="FF194a13"
-    color2="FF7f1b12"
-    banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0"
-    name="Man at arms"
-    mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.mor">
+  <ClanClass clan="MOR" color1="FF194a13" color2="FF7f1b12" banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0" name="Man at arms" mpclassdivision="bre_infantry_lvl2" id="man_at_arms.mor">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -6830,14 +6011,7 @@
       <equipment id="mp_padded_mitten"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MOR"
-    color1="FF194a13"
-    color2="FF7f1b12"
-    banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0"
-    name="Sergeant at arms"
-    mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.mor">
+  <ClanClass clan="MOR" color1="FF194a13" color2="FF7f1b12" banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0" name="Sergeant at arms" mpclassdivision="bre_infantry_lvl3" id="sergeant_at_arms.mor">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -6889,14 +6063,7 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MOR"
-    color1="FF194a13"
-    color2="FF7f1b12"
-    banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0"
-    name="Captain"
-    mpclassdivision="bre_infantry_lvl4"
-    id="captain.mor">
+  <ClanClass clan="MOR" color1="FF194a13" color2="FF7f1b12" banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0" name="Captain" mpclassdivision="bre_infantry_lvl4" id="captain.mor">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -6968,14 +6135,7 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MOR"
-    color1="FF194a13"
-    color2="FF7f1b12"
-    banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0"
-    name="Peasant archer"
-    mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.mor">
+  <ClanClass clan="MOR" color1="FF194a13" color2="FF7f1b12" banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0" name="Peasant archer" mpclassdivision="bre_archer_lvl1" id="peasant_archer.mor">
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -7029,14 +6189,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MOR"
-    color1="FF194a13"
-    color2="FF7f1b12"
-    banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0"
-    name="Free archer"
-    mpclassdivision="bre_archer_lvl2"
-    id="free_archer.mor">
+  <ClanClass clan="MOR" color1="FF194a13" color2="FF7f1b12" banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0" name="Free archer" mpclassdivision="bre_archer_lvl2" id="free_archer.mor">
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
       <equipment id="sp_yew_bow" />
@@ -7076,21 +6229,14 @@
       <equipment id="mp_hood"/>
       <equipment id="null"/>
     </Cape>
-    <Gloves> 
+    <Gloves>
       <equipment id="b2_crossbow_armor_hand_dark"/>
       <equipment id="mp_leather_gloves"/>
       <equipment id="mp_padded_vambrace"/>
       <equipment id="mp_guarded_padded_vambrace"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MOR"
-    color1="FF194a13"
-    color2="FF7f1b12"
-    banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0"
-    name="Master archer"
-    mpclassdivision="bre_archer_lvl3"
-    id="master_archer.mor">
+  <ClanClass clan="MOR" color1="FF194a13" color2="FF7f1b12" banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0" name="Master archer" mpclassdivision="bre_archer_lvl3" id="master_archer.mor">
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
       <equipment id="sp_lowland_bow" />
@@ -7111,7 +6257,7 @@
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="b2_mail_shirt"/>
       <equipment id="b2_banded_leather_over_mail"/>
     </Body>
@@ -7135,14 +6281,7 @@
       <equipment id="mp_reinforced_leather_vambraces"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MOR"
-    color1="FF194a13"
-    color2="FF7f1b12"
-    banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0"
-    name="Mounted sergeant"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.mor">
+  <ClanClass clan="MOR" color1="FF194a13" color2="FF7f1b12" banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0" name="Mounted sergeant" mpclassdivision="bre_cavalry_lvl1" id="mounted_sergeant.mor">
     <Weapon0>
       <equipment id="b2_lance_mor"/>
     </Weapon0>
@@ -7166,7 +6305,7 @@
       <equipment id="b2_norman_helmet_0"/>
       <equipment id="b2_norman_helmet_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="mp_studded_leather_over_aketon"/>
       <equipment id="mp_layered_leather_tunic"/>
       <equipment id="mp_leather_scale_armor"/>
@@ -7205,14 +6344,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="MOR"
-    color1="FF102b10"
-    color2="FF541613"
-    banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0"
-    name="Squire"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="squire.mor">
+  <ClanClass clan="MOR" color1="FF102b10" color2="FF541613" banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0" name="Squire" mpclassdivision="bre_cavalry_lvl1" id="squire.mor">
     <Weapon0>
       <equipment id="b2_lance_mor"/>
     </Weapon0>
@@ -7270,14 +6402,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="MOR"
-    color1="FF091f0a"
-    color2="FF450c0c"
-    banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0"
-    name="Hildebrand of Mortenel"
-    mpclassdivision="bre_cavalry_lvl2"
-    id="knight_of_the_realm.mor">
+  <ClanClass clan="MOR" color1="FF091f0a" color2="FF450c0c" banner="11.562.562.1536.1536.764.764.0.0.0.5007.563.563.500.500.764.764.0.0.0" name="Hildebrand of Mortenel" mpclassdivision="bre_cavalry_lvl2" id="knight_of_the_realm.mor">
     <Weapon0>
       <equipment id="b2_lance_mor"/>
       <equipment id="b3_kotr_lance_mor" disablerandomize="true"/>
@@ -7331,14 +6456,7 @@
     </Horse>
   </ClanClass>
   <!--ART-->
-  <ClanClass 
-    clan="ART"
-    color1="FF470c0c"
-    color2="FFf4ebe9"
-    banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
-    name="Armed peasant"
-    mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.art">
+  <ClanClass clan="ART" color1="FF470c0c" color2="FFf4ebe9" banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0" name="Armed peasant" mpclassdivision="bre_infantry_lvl1" id="armed_peasant.art">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -7402,14 +6520,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="ART"
-    color1="FF470c0c"
-    color2="FFf4ebe9"
-    banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
-    name="Man at arms"
-    mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.art">
+  <ClanClass clan="ART" color1="FF470c0c" color2="FFf4ebe9" banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0" name="Man at arms" mpclassdivision="bre_infantry_lvl2" id="man_at_arms.art">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -7473,14 +6584,7 @@
       <equipment id="mp_padded_mitten"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="ART"
-    color1="FF470c0c"
-    color2="FFf4ebe9"
-    banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
-    name="Sergeant at arms"
-    mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.art">
+  <ClanClass clan="ART" color1="FF470c0c" color2="FFf4ebe9" banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0" name="Sergeant at arms" mpclassdivision="bre_infantry_lvl3" id="sergeant_at_arms.art">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -7532,14 +6636,7 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="ART"
-    color1="FF470c0c"
-    color2="FFf4ebe9"
-    banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
-    name="Captain"
-    mpclassdivision="bre_infantry_lvl4"
-    id="captain.art">
+  <ClanClass clan="ART" color1="FF470c0c" color2="FFf4ebe9" banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0" name="Captain" mpclassdivision="bre_infantry_lvl4" id="captain.art">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -7611,14 +6708,7 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="ART"
-    color1="FF470c0c"
-    color2="FFf4ebe9"
-    banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
-    name="Peasant archer"
-    mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.art">
+  <ClanClass clan="ART" color1="FF470c0c" color2="FFf4ebe9" banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0" name="Peasant archer" mpclassdivision="bre_archer_lvl1" id="peasant_archer.art">
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -7672,14 +6762,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="ART"
-    color1="FF470c0c"
-    color2="FFf4ebe9"
-    banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
-    name="Free archer"
-    mpclassdivision="bre_archer_lvl2"
-    id="free_archer.art">
+  <ClanClass clan="ART" color1="FF470c0c" color2="FFf4ebe9" banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0" name="Free archer" mpclassdivision="bre_archer_lvl2" id="free_archer.art">
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
       <equipment id="sp_yew_bow" />
@@ -7719,21 +6802,14 @@
       <equipment id="mp_hood"/>
       <equipment id="null"/>
     </Cape>
-    <Gloves> 
+    <Gloves>
       <equipment id="b2_crossbow_armor_hand_dark"/>
       <equipment id="mp_leather_gloves"/>
       <equipment id="mp_padded_vambrace"/>
       <equipment id="mp_guarded_padded_vambrace"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="ART"
-    color1="FF470c0c"
-    color2="FFf4ebe9"
-    banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
-    name="Master archer"
-    mpclassdivision="bre_archer_lvl3"
-    id="master_archer.art">
+  <ClanClass clan="ART" color1="FF470c0c" color2="FFf4ebe9" banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0" name="Master archer" mpclassdivision="bre_archer_lvl3" id="master_archer.art">
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
       <equipment id="sp_lowland_bow" />
@@ -7754,7 +6830,7 @@
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="b2_mail_shirt"/>
       <equipment id="b2_banded_leather_over_mail"/>
     </Body>
@@ -7778,14 +6854,7 @@
       <equipment id="mp_reinforced_leather_vambraces"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="ART"
-    color1="FF470c0c"
-    color2="FFf4ebe9"
-    banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
-    name="Mounted sergeant"
-    mpclassdivision="bre_cavalry"
-    id="mounted_sergeant.art">
+  <ClanClass clan="ART" color1="FF470c0c" color2="FFf4ebe9" banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0" name="Mounted sergeant" mpclassdivision="bre_cavalry" id="mounted_sergeant.art">
     <Weapon0>
       <equipment id="b2_lance_art"/>
     </Weapon0>
@@ -7809,7 +6878,7 @@
       <equipment id="b2_norman_helmet_0"/>
       <equipment id="b2_norman_helmet_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="mp_studded_leather_over_aketon"/>
       <equipment id="mp_layered_leather_tunic"/>
       <equipment id="mp_leather_scale_armor"/>
@@ -7848,14 +6917,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="ART"
-    color1="FF2d0d0d"
-    color2="FF938d7f"
-    banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
-    name="Squire"
-    mpclassdivision="bre_cavalry"
-    id="squire.art">
+  <ClanClass clan="ART" color1="FF2d0d0d" color2="FF938d7f" banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0" name="Squire" mpclassdivision="bre_cavalry" id="squire.art">
     <Weapon0>
       <equipment id="b2_lance_art"/>
     </Weapon0>
@@ -7913,14 +6975,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="ART"
-    color1="FF1d0504"
-    color2="FFa6a59a"
-    banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
-    name="Chilfroy d' Artenois"
-    mpclassdivision="bre_cavalry_lvl2"
-    id="knight_of_the_realm.art">
+  <ClanClass clan="ART" color1="FF1d0504" color2="FFa6a59a" banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0" name="Chilfroy d' Artenois" mpclassdivision="bre_cavalry_lvl2" id="knight_of_the_realm.art">
     <Weapon0>
       <equipment id="b2_lance_art"/>
       <equipment id="b3_kotr_lance_art" disablerandomize="true"/>
@@ -7973,660 +7028,8 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <!--GAR-->
-  <ClanClass 
-    clan="GAR"
-    color1="FF181616"
-    color2="FF701712"
-    banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
-    name="Armed peasant"
-    mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.gar">
-    <Weapon0>
-      <equipment id="b2_peasant_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
-    </Weapon0>
-    <Weapon1>
-      <equipment id="b3_tower_shield1_gar"/>
-      <equipment id="b3_tower_shield2_gar"/>
-      <equipment id="b3_tower_shield3_gar"/>
-    </Weapon1>
-    <Weapon2>
-      <equipment id="b2_peasant_mace"/>
-      <equipment id="b2_peasant_axe"/>
-      <equipment id="b2_peasant_sword"/>
-    </Weapon2>
-    <Head>
-      <equipment id="mp_imperial_cloth_coif"/>
-      <equipment id="mp_pilgrim_hood"/>
-      <equipment id="mp_wrapped_headcloth"/>
-      <equipment id="mp_leather_cap"/>
-      <equipment id="mp_padded_cap"/>
-      <equipment id="mp_laced_coif"/>
-      <equipment id="null"/>
-    </Head>
-    <Body>
-      <equipment id="mp_bandit_envelope_dress_v2"/>
-      <equipment id="mp_sackcloth_tunic"/>
-      <equipment id="mp_cloth_tunic"/>
-      <equipment id="mp_bandit_leather_water_flask"/>
-      <equipment id="sp_half_apron"/>
-      <equipment id="mp_bandit_envelope_dress_v1"/>
-      <equipment id="sp_leather_apron"/>
-      <equipment id="mp_vlandia_bandit_b"/>
-      <equipment id="sp_torn_bandit_clothes"/>
-      <equipment id="mp_long_hemp_tunic"/>
-      <equipment id="mp_vlandia_bandit_a"/>
-    </Body>
-    <Leg>
-      <equipment id="mp_leather_shoes"/>
-      <equipment id="mp_steppe_leather_boots"/>
-      <equipment id="mp_wrapped_shoes"/>
-      <equipment id="mp_ragged_boots"/>
-      <equipment id="mp_khuzait_curved_boots"/>
-      <equipment id="mp_strapped_leather_boots"/>
-      <equipment id="mp_strapped_shoes"/>
-      <equipment id="mp_rough_tied_boots"/>
-      <equipment id="mp_wrapped_leather_boots"/>
-      <equipment id="mp_fine_town_boots"/>
-      <equipment id="mp_highland_leg_wrappings"/>
-    </Leg>
-    <Gloves>
-      <equipment id="mp_armwraps"/>
-      <equipment id="mp_ragged_armwraps"/>
-      <equipment id="mp_leather_gloves"/>
-      <equipment id="null"/>
-    </Gloves>
-  </ClanClass>
-  <ClanClass 
-    clan="GAR"
-    color1="FF181616"
-    color2="FF701712"
-    banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
-    name="Man at arms"
-    mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.gar">
-    <Weapon0>
-      <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
-    </Weapon0>
-    <Weapon1>
-      <equipment id="b3_tower_shield1_gar"/>
-      <equipment id="b3_tower_shield2_gar"/>
-      <equipment id="b3_tower_shield3_gar"/>
-    </Weapon1>
-    <Weapon2>
-      <equipment id="b2_man_mace"/>
-      <equipment id="b2_man_axe"/>
-      <equipment id="b2_man_sword"/>
-    </Weapon2>
-    <Head>
-      <equipment id="b2_spiked_helmet_0"/>
-      <equipment id="b2_spiked_helmet_1"/>
-      <equipment id="b2_flattop_helmet_0"/>
-      <equipment id="b2_flattop_helmet_1"/>
-      <equipment id="b2_kettle_helmet_0"/>
-      <equipment id="b2_kettle_helmet_1"/>
-      <equipment id="b2_kettle_helmet_2"/>
-      <equipment id="b2_kettle_helmet_3"/>
-      <equipment id="b2_kettle_helmet_4"/>
-      <equipment id="b2_kettle_helmet_5"/>
-      <equipment id="b2_norman_helmet_0"/>
-      <equipment id="b2_norman_helmet_1"/>
-      <equipment id="b2_flattop_cap"/>
-      <equipment id="b2_norman_cap"/>
-      <equipment id="b2_kettle_0_cap"/>
-      <equipment id="b2_kettle_1_cap"/>
-      <equipment id="b2_kettle_2_cap"/>
-    </Head>
-    <Body>
-      <equipment id="b2_bandit_1"/>
-      <equipment id="b2_bandit_0"/>
-      <equipment id="b2_gambeson_0"/>
-      <equipment id="b2_gambeson_1"/>
-      <equipment id="b2_padded_coat_0"/>
-      <equipment id="b2_padded_coat_1"/>
-      <equipment id="b2_empire_warrior_padded_armor_e"/>
-      <equipment id="b2_empire_warrior_padded_armor_e_2"/>
-    </Body>
-    <Leg>
-      <equipment id="mp_leather_cavalier_boots"/>
-      <equipment id="mp_steppe_leather_boots"/>
-      <equipment id="mp_empire_horseman_boots"/>
-      <equipment id="mp_eastern_leather_boots"/>
-      <equipment id="mp_leather_boots"/>
-    </Leg>
-    <Cape>
-      <equipment id="mp_hood"/>
-      <equipment id="mp_padded_leather_shoulders"/>
-      <equipment id="null"/>
-    </Cape>
-    <Gloves>
-      <equipment id="b2_crossbow_armor_hand_dark"/>
-      <equipment id="mp_leather_gloves"/>
-      <equipment id="mp_padded_vambrace"/>
-      <equipment id="mp_padded_mitten"/>
-    </Gloves>
-  </ClanClass>
-  <ClanClass 
-    clan="GAR"
-    color1="FF181616"
-    color2="FF701712"
-    banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
-    name="Sergeant at arms"
-    mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.gar">
-    <Weapon0>
-      <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
-    </Weapon0>
-    <Weapon1>
-      <equipment id="b3_tower_shield1_gar"/>
-      <equipment id="b3_tower_shield2_gar"/>
-      <equipment id="b3_tower_shield3_gar"/>
-      <equipment id="sp_banner_vlandia1" disablegroup="Weapon0" disablerandomize="true"/>
-    </Weapon1>
-    <Weapon2>
-      <equipment id="b2_man_mace"/>
-      <equipment id="b2_sergeant_axe"/>
-      <equipment id="b2_sergeant_sword"/>
-    </Weapon2>
-    <Head>
-      <equipment id="b2_spiked_mail"/>
-      <equipment id="b2_flattop_mail"/>
-      <equipment id="b2_faceplate_mail"/>
-      <equipment id="b2_kettle_mail_0"/>
-      <equipment id="b2_kettle_mail_1"/>
-      <equipment id="b2_kettle_mail_2"/>
-      <equipment id="b2_norman_mail_0"/>
-      <equipment id="b2_norman_mail_1"/>
-      <equipment id="b3_dizinier_kettle" disablerandomize="true"/>
-      <equipment id="b3_dizinier_kettle_painted_old" disablerandomize="true"/>
-      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
-      <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
-    </Head>
-    <Body>
-      <equipment id="b2_templar_1"/>
-      <equipment id="b2_templar_2"/>
-      <equipment id="b2_templar_3"/>
-    </Body>
-    <Leg>
-      <equipment id="mp_strapped_mail_chausses"/>
-      <equipment id="mp_mail_chausses"/>
-    </Leg>
-    <Cape>
-      <equipment id="mp_hood"/>
-      <equipment id="null"/>
-    </Cape>
-    <Gloves>
-      <equipment id="mp_mail_mitten"/>
-      <equipment id="b2_crossbow_armor_hand_dark"/>
-    </Gloves>
-  </ClanClass>
-  <ClanClass 
-    clan="GAR"
-    color1="FF181616"
-    color2="FF701712"
-    banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
-    name="Captain"
-    mpclassdivision="bre_infantry_lvl4"
-    id="captain.gar">
-    <Weapon0>
-      <equipment id="b2_man_spear"/>
-      <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_2" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_3" disablerandomize="true"/>
-      <equipment id="b3_peasant_polearm_4" disablerandomize="true"/>
-    </Weapon0>
-    <Weapon1>
-      <equipment id="b3_tower_shield1_gar"/>
-      <equipment id="b3_tower_shield2_gar"/>
-      <equipment id="b3_tower_shield3_gar"/>
-    </Weapon1>
-    <Weapon2>
-      <equipment id="b2_man_mace"/>
-      <equipment id="b2_sergeant_axe"/>
-      <equipment id="b2_sergeant_sword"/>
-    </Weapon2>
-    <Weapon3>
-      <equipment id="b2_2h_sword"/>
-      <equipment id="null" disablerandomize="true"/>
-    </Weapon3>
-    <Head>
-      <equipment id="b2_spiked_mail"/>
-      <equipment id="sa_vlandian_helm_with_faceplate"/>
-      <equipment id="sa_vlandian_helm_with_faceplate_painted"/>
-      <equipment id="sa_vlandian_helm_with_faceplate_brass"/>
-      <equipment id="sa_pothelm2"/>
-      <equipment id="sa_pothelm"/>
-      <equipment id="sa_fluted_helm_with_faceplate"/>
-      <equipment id="b2_flattop_mail"/>
-      <equipment id="b2_faceplate_mail"/>
-      <equipment id="b2_kettle_mail_0"/>
-      <equipment id="b2_kettle_mail_1"/>
-      <equipment id="b2_kettle_mail_2"/>
-      <equipment id="b2_norman_mail_0"/>
-      <equipment id="b2_norman_mail_1"/>
-      <equipment id="b3_dizinier_kettle" disablerandomize="true"/>
-      <equipment id="b3_dizinier_kettle_painted_old" disablerandomize="true"/>
-      <equipment id="b3_dizinier_flattop" disablerandomize="true"/>
-      <equipment id="b3_dizinier_flattop_painted_old" disablerandomize="true"/>
-    </Head>
-    <Body>
-      <equipment id="sa_coat_of_plates1_c"/>
-      <equipment id="sa_coat_of_plates2_c"/>
-      <equipment id="sa_coat_of_plates3_c"/>
-      <equipment id="sa_coat_of_plates4_c"/>
-      <equipment id="sa_coat_of_plates5_c"/>
-      <equipment id="sa_sacoat1"/>
-      <equipment id="sa_sacoat2"/>
-      <equipment id="sa_sacoat3"/>
-      <equipment id="b2_coat_of_plates_over_mail"/>
-    </Body>
-    <Leg>
-      <equipment id="mp_strapped_mail_chausses"/>
-      <equipment id="mp_mail_chausses"/>
-      <equipment id="mp_mail_cavalier_boots"/>
-      <equipment id="mp_plated_strip_boots"/>
-    </Leg>
-    <Cape>
-      <equipment id="mp_hood"/>
-      <equipment id="sp_empire_cape_a"/>
-      <equipment id="sa_western_chain_shoulders"/>
-      <equipment id="b2_pauldron_cape_a"/>
-      <equipment id="null"/>
-    </Cape>
-    <Gloves>
-      <equipment id="mp_mail_mitten"/>
-      <equipment id="mp_reinforced_mail_mitten"/>
-      <equipment id="mp_lordly_mail_mitten"/>
-      <equipment id="b2_crossbow_armor_hand_dark"/>
-    </Gloves>
-  </ClanClass>
-  <ClanClass 
-    clan="GAR"
-    color1="FF181616"
-    color2="FF701712"
-    banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
-    name="Peasant archer"
-    mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.gar">
-    <Weapon0>
-      <equipment id="sp_cheap_bow" archeritem="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
-    </Weapon0>
-    <Weapon1>
-      <equipment id="sp_arrows" archeritem="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
-    </Weapon1>
-    <Weapon2>
-      <equipment id="b2_peasant_axe"/>
-      <equipment id="b2_peasant_sword"/>
-      <equipment id="b2_peasant_dagger"/>
-    </Weapon2>
-    <Head>
-      <equipment id="mp_imperial_cloth_coif"/>
-      <equipment id="mp_pilgrim_hood"/>
-      <equipment id="mp_wrapped_headcloth"/>
-      <equipment id="mp_leather_cap"/>
-      <equipment id="mp_padded_cap"/>
-      <equipment id="mp_laced_coif"/>
-      <equipment id="null"/>
-    </Head>
-    <Body>
-      <equipment id="mp_bandit_envelope_dress_v2"/>
-      <equipment id="mp_sackcloth_tunic"/>
-      <equipment id="mp_cloth_tunic"/>
-      <equipment id="mp_bandit_leather_water_flask"/>
-      <equipment id="mp_bandit_envelope_dress_v1"/>
-      <equipment id="mp_vlandia_bandit_b"/>
-      <equipment id="sp_torn_bandit_clothes"/>
-      <equipment id="mp_long_hemp_tunic"/>
-      <equipment id="mp_vlandia_bandit_a"/>
-    </Body>
-    <Leg>
-      <equipment id="mp_leather_shoes"/>
-      <equipment id="mp_steppe_leather_boots"/>
-      <equipment id="mp_wrapped_shoes"/>
-      <equipment id="mp_ragged_boots"/>
-      <equipment id="mp_khuzait_curved_boots"/>
-      <equipment id="mp_strapped_leather_boots"/>
-      <equipment id="mp_strapped_shoes"/>
-      <equipment id="mp_rough_tied_boots"/>
-      <equipment id="mp_wrapped_leather_boots"/>
-      <equipment id="mp_fine_town_boots"/>
-      <equipment id="mp_highland_leg_wrappings"/>
-    </Leg>
-    <Gloves>
-      <equipment id="mp_armwraps"/>
-      <equipment id="mp_ragged_armwraps"/>
-      <equipment id="mp_leather_gloves"/>
-      <equipment id="null"/>
-    </Gloves>
-  </ClanClass>
-  <ClanClass 
-    clan="GAR"
-    color1="FF181616"
-    color2="FF701712"
-    banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
-    name="Free archer"
-    mpclassdivision="bre_archer_lvl2"
-    id="free_archer.gar">
-    <Weapon0>
-      <equipment id="sp_lowland_bow" archeritem="true"/>
-      <equipment id="sp_yew_bow" />
-      <equipment id="null" hidden="true" disablerandomize="true"/>
-    </Weapon0>
-    <Weapon1>
-      <equipment id="sp_arrows" archeritem="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
-    </Weapon1>
-    <Weapon2>
-      <equipment id="b2_man_axe"/>
-      <equipment id="b2_man_sword"/>
-      <equipment id="b2_peasant_dagger"/>
-    </Weapon2>
-    <Head>
-      <equipment id="b2_flattop_helmet_0"/>
-      <equipment id="b2_flattop_helmet_1"/>
-      <equipment id="b2_norman_helmet_0"/>
-      <equipment id="b2_norman_helmet_1"/>
-      <equipment id="b2_flattop_cap"/>
-      <equipment id="b2_norman_cap"/>
-    </Head>
-    <Body>
-      <equipment id="b2_spiked_helmet_0"/>
-      <equipment id="b2_spiked_helmet_1"/>
-      <equipment id="b2_gambeson_0"/>
-      <equipment id="b2_gambeson_1"/>
-      <equipment id="b2_padded_coat_0"/>
-      <equipment id="b2_padded_coat_1"/>
-      <equipment id="b2_empire_warrior_padded_armor_e"/>
-      <equipment id="b2_empire_warrior_padded_armor_e_2"/>
-    </Body>
-    <Leg>
-      <equipment id="mp_leather_cavalier_boots"/>
-      <equipment id="mp_steppe_leather_boots"/>
-      <equipment id="mp_empire_horseman_boots"/>
-    </Leg>
-    <Cape>
-      <equipment id="mp_hood"/>
-      <equipment id="null"/>
-    </Cape>
-    <Gloves> 
-      <equipment id="b2_crossbow_armor_hand_dark"/>
-      <equipment id="mp_leather_gloves"/>
-      <equipment id="mp_padded_vambrace"/>
-      <equipment id="mp_guarded_padded_vambrace"/>
-    </Gloves>
-  </ClanClass>
-  <ClanClass 
-    clan="GAR"
-    color1="FF181616"
-    color2="FF701712"
-    banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
-    name="Master archer"
-    mpclassdivision="bre_archer_lvl3"
-    id="master_archer.gar">
-    <Weapon0>
-      <equipment id="sp_yew_bow" archeritem="true"/>
-      <equipment id="sp_lowland_bow" />
-      <equipment id="sp_noble_long_bow" />
-      <equipment id="null" hidden="true" disablerandomize="true"/>
-    </Weapon0>
-    <Weapon1>
-      <equipment id="sp_arrows" archeritem="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
-    </Weapon1>
-    <Weapon2>
-      <equipment id="b2_sergeant_axe"/>
-      <equipment id="b2_sergeant_sword"/>
-      <equipment id="b2_peasant_dagger"/>
-    </Weapon2>
-    <Head>
-      <equipment id="b2_spiked_mail"/>
-      <equipment id="b2_flattop_mail"/>
-      <equipment id="b2_norman_mail_0"/>
-      <equipment id="b2_norman_mail_1"/>
-    </Head>
-     <Body>
-      <equipment id="b2_mail_shirt"/>
-      <equipment id="b2_banded_leather_over_mail"/>
-    </Body>
-    <Leg>
-      <equipment id="mp_plated_strip_boots"/>
-      <equipment id="mp_strapped_mail_chausses"/>
-      <equipment id="mp_mail_chausses"/>
-      <equipment id="mp_leather_cavalier_boots"/>
-      <equipment id="mp_battania_leather_boots"/>
-    </Leg>
-    <Cape>
-      <equipment id="mp_hood"/>
-      <equipment id="null"/>
-    </Cape>
-    <Gloves>
-      <equipment id="b2_crossbow_armor_hand_dark"/>
-      <equipment id="mp_leather_gloves"/>
-      <equipment id="mp_padded_vambrace"/>
-      <equipment id="mp_guarded_padded_vambrace"/>
-      <equipment id="mp_plated_strip_gauntlets"/>
-      <equipment id="mp_reinforced_leather_vambraces"/>
-    </Gloves>
-  </ClanClass>
-  <ClanClass 
-    clan="GAR"
-    color1="FF181616"
-    color2="FF701712"
-    banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
-    name="Mounted sergeant"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.gar">
-    <Weapon0>
-      <equipment id="b2_lance_gar"/>
-    </Weapon0>
-    <Weapon1>
-      <equipment id="b3_kite_shield_j_auto"/>
-    </Weapon1>
-    <Weapon2>
-      <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
-      <equipment id="b2_bastard_axe"/>
-    </Weapon2>
-    <Head>
-      <equipment id="b2_flattop_helmet_0"/>
-      <equipment id="b2_flattop_helmet_1"/>
-      <equipment id="b2_kettle_helmet_0"/>
-      <equipment id="b2_kettle_helmet_1"/>
-      <equipment id="b2_kettle_helmet_2"/>
-      <equipment id="b2_kettle_helmet_3"/>
-      <equipment id="b2_kettle_helmet_4"/>
-      <equipment id="b2_kettle_helmet_5"/>
-      <equipment id="b2_norman_helmet_0"/>
-      <equipment id="b2_norman_helmet_1"/>
-    </Head>
-     <Body>
-      <equipment id="mp_studded_leather_over_aketon"/>
-      <equipment id="mp_layered_leather_tunic"/>
-      <equipment id="mp_leather_scale_armor"/>
-    </Body>
-    <Leg>
-      <equipment id="mp_leather_cavalier_boots"/>
-      <equipment id="mp_steppe_leather_boots"/>
-      <equipment id="mp_empire_horseman_boots"/>
-      <equipment id="mp_plated_strip_boots"/>
-      <equipment id="mp_eastern_leather_boots"/>
-      <equipment id="mp_leather_boots"/>
-    </Leg>
-    <Cape>
-      <equipment id="mp_hood"/>
-      <equipment id="mp_padded_leather_shoulders"/>
-      <equipment id="null"/>
-    </Cape>
-    <Gloves>
-      <equipment id="b2_crossbow_armor_hand_dark"/>
-      <equipment id="mp_leather_gloves"/>
-      <equipment id="mp_padded_mitten"/>
-      <equipment id="mp_reinforced_padded_mitten"/>
-    </Gloves>
-    <HorseHarness>
-      <equipment id="mp_light_harness" cavalryitem="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
-    </HorseHarness>
-    <Horse>
-      <equipment id="b2_horse_brown" cavalryitem="true"/>
-      <equipment id="b2_horse_gold" />
-      <equipment id="b2_horse_white" />
-      <equipment id="b2_horse_grey" />
-      <equipment id="b2_horse_darkgrey" />
-      <equipment id="b2_horse_black" />
-      <equipment id="null" disablegroup="HorseHarness" disablerandomize="true" />
-      <equipment id="null" hidden="true" disablerandomize="true"/>
-    </Horse>
-  </ClanClass>
-  <ClanClass 
-    clan="GAR"
-    color1="FF0f0d0b"
-    color2="FF51110e"
-    banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
-    name="Squire"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="squire.gar">
-    <Weapon0>
-      <equipment id="b2_lance_gar"/>
-    </Weapon0>
-    <Weapon1>
-      <equipment id="b3_squire_kiteshield"/>
-    </Weapon1>
-    <Weapon2>
-      <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
-      <equipment id="b2_bastard_axe"/>
-    </Weapon2>
-    <Head>
-      <equipment id="b3_squire_coif_1"/>
-      <equipment id="b3_squire_coif_2"/>
-      <equipment id="b3_squire_coif_3"/>
-      <equipment id="b3_squire_helmet_colored_old_1"/>
-      <equipment id="b3_squire_helmet_colored_old_2"/>
-    </Head>
-    <Body>
-      <equipment id="b3_squire_body_v1_1"/>
-      <equipment id="b3_squire_body_v1_2"/>
-      <equipment id="b3_squire_body_v1_3"/>
-      <equipment id="b3_squire_body_v2_1"/>
-      <equipment id="b3_squire_body_v2_2"/>
-      <equipment id="b3_squire_body_v2_3"/>
-      <equipment id="b3_squire_body_v3_1"/>
-      <equipment id="b3_squire_body_v3_2"/>
-      <equipment id="b3_squire_body_v3_3"/>
-    </Body>
-    <Leg>
-      <equipment id="b3_kerrant_leg_dark"/>
-    </Leg>
-    <Cape>
-      <equipment id="b3_squire_backpack"/>
-    </Cape>
-    <Gloves>
-      <equipment id="b3_kerrant_gloves_dark"/>
-    </Gloves>
-    <HorseHarness>
-      <equipment id="b3_squire_horse_gar" cavalryitem="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
-    </HorseHarness>
-    <Horse>
-      <equipment id="b2_horse_brown" cavalryitem="true"/>
-      <equipment id="b2_horse_gold"/>
-      <equipment id="b2_horse_white"/>
-      <equipment id="b2_horse_grey"/>
-      <equipment id="b2_horse_darkgrey"/>
-      <equipment id="b2_horse_black"/>
-      <equipment id="null" disablegroup="HorseHarness" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
-    </Horse>
-  </ClanClass>
-  <ClanClass 
-    clan="GAR"
-    color1="FF080808"
-    color2="FF660704"
-    banner="12.566.567.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
-    name="Bertelis of Garamont"
-    mpclassdivision="bre_cavalry_lvl2"
-    id="knight_of_the_realm.gar">
-    <Weapon0>
-      <equipment id="b2_lance_gar"/>
-      <equipment id="b3_kotr_lance_gar" disablerandomize="true"/>
-    </Weapon0>
-    <Weapon1>
-      <equipment id="b3_knight_shield_gar"/>
-    </Weapon1>
-    <Weapon2>
-      <equipment id="b2_man_mace"/>
-      <equipment id="b2_bastard_sword"/>
-      <equipment id="b2_bastard_axe"/>
-    </Weapon2>
-    <Head>
-      <equipment id="b3_kotr_head_1_dark"/>
-      <equipment id="b3_kotr_head_2_dark"/>
-      <equipment id="b3_kotr_head_3_dark"/>
-      <equipment id="b3_kotr_head_4_dark"/>
-      <equipment id="b3_kotr_head_5_dark"/>
-      <equipment id="b3_kotr_head_6_dark"/>
-      <equipment id="b3_kotr_head_7_dark"/>
-    </Head>
-    <Body>
-      <equipment id="b3_kotr_body_v1_gar_dark"/>
-      <equipment id="b3_kotr_body_v2_gar_dark"/>
-      <equipment id="b3_kotr_body_v3_gar_dark"/>
-    </Body>
-    <Leg>
-      <equipment id="b3_kotr_leg_1_dark"/>
-      <equipment id="b3_kotr_leg_2_dark"/>
-    </Leg>
-    <Cape>
-      <equipment id="b3_crest_gar"/>
-    </Cape>
-    <Gloves>
-      <equipment id="b3_kotr_gloves_1_dark"/>
-      <equipment id="b3_kotr_gloves_2_dark"/>
-    </Gloves>
-    <HorseHarness>
-      <equipment id="b3_kotr_horse_gar" cavalryitem="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
-    </HorseHarness>
-    <Horse>
-      <equipment id="b2_horse_brown" cavalryitem="true"/>
-      <equipment id="b2_horse_gold"/>
-      <equipment id="b2_horse_white"/>
-      <equipment id="b2_horse_grey"/>
-      <equipment id="b2_horse_darkgrey"/>
-      <equipment id="b2_horse_black"/>
-      <equipment id="null" disablegroup="HorseHarness" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
-    </Horse>
-  </ClanClass>
   <!--GRI-->
-  <ClanClass 
-    clan="GRI"
-    color1="FFe0ddd2"
-    color2="FF194a13"
-    banner="7000.568.569.1536.1536.764.764.0.0.0"
-    name="Armed peasant"
-    mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.gri">
+  <ClanClass clan="GRI" color1="FFe0ddd2" color2="FF194a13" banner="7000.568.569.1536.1536.764.764.0.0.0" name="Armed peasant" mpclassdivision="bre_infantry_lvl1" id="armed_peasant.gri">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -8690,14 +7093,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="GRI"
-    color1="FFe0ddd2"
-    color2="FF194a13"
-    banner="7000.568.569.1536.1536.764.764.0.0.0"
-    name="Man at arms"
-    mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.gri">
+  <ClanClass clan="GRI" color1="FFe0ddd2" color2="FF194a13" banner="7000.568.569.1536.1536.764.764.0.0.0" name="Man at arms" mpclassdivision="bre_infantry_lvl2" id="man_at_arms.gri">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -8761,14 +7157,7 @@
       <equipment id="mp_padded_mitten"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="GRI"
-    color1="FFe0ddd2"
-    color2="FF194a13"
-    banner="7000.568.569.1536.1536.764.764.0.0.0"
-    name="Sergeant at arms"
-    mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.gri">
+  <ClanClass clan="GRI" color1="FFe0ddd2" color2="FF194a13" banner="7000.568.569.1536.1536.764.764.0.0.0" name="Sergeant at arms" mpclassdivision="bre_infantry_lvl3" id="sergeant_at_arms.gri">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -8819,14 +7208,7 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="GRI"
-    color1="FFe0ddd2"
-    color2="FF194a13"
-    banner="7000.568.569.1536.1536.764.764.0.0.0"
-    name="Captain"
-    mpclassdivision="bre_infantry_lvl4"
-    id="captain.gri">
+  <ClanClass clan="GRI" color1="FFe0ddd2" color2="FF194a13" banner="7000.568.569.1536.1536.764.764.0.0.0" name="Captain" mpclassdivision="bre_infantry_lvl4" id="captain.gri">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -8898,14 +7280,7 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="GRI"
-    color1="FFe0ddd2"
-    color2="FF194a13"
-    banner="7000.568.569.1536.1536.764.764.0.0.0"
-    name="Peasant archer"
-    mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.gri">
+  <ClanClass clan="GRI" color1="FFe0ddd2" color2="FF194a13" banner="7000.568.569.1536.1536.764.764.0.0.0" name="Peasant archer" mpclassdivision="bre_archer_lvl1" id="peasant_archer.gri">
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -8959,14 +7334,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="GRI"
-    color1="FFe0ddd2"
-    color2="FF194a13"
-    banner="7000.568.569.1536.1536.764.764.0.0.0"
-    name="Free archer"
-    mpclassdivision="bre_archer_lvl2"
-    id="free_archer.gri">
+  <ClanClass clan="GRI" color1="FFe0ddd2" color2="FF194a13" banner="7000.568.569.1536.1536.764.764.0.0.0" name="Free archer" mpclassdivision="bre_archer_lvl2" id="free_archer.gri">
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
       <equipment id="sp_yew_bow" />
@@ -9006,21 +7374,14 @@
       <equipment id="mp_hood"/>
       <equipment id="null"/>
     </Cape>
-    <Gloves> 
+    <Gloves>
       <equipment id="b2_crossbow_armor_hand_dark"/>
       <equipment id="mp_leather_gloves"/>
       <equipment id="mp_padded_vambrace"/>
       <equipment id="mp_guarded_padded_vambrace"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="GRI"
-    color1="FFe0ddd2"
-    color2="FF194a13"
-    banner="7000.568.569.1536.1536.764.764.0.0.0"
-    name="Master archer"
-    mpclassdivision="bre_archer_lvl3"
-    id="master_archer.gri">
+  <ClanClass clan="GRI" color1="FFe0ddd2" color2="FF194a13" banner="7000.568.569.1536.1536.764.764.0.0.0" name="Master archer" mpclassdivision="bre_archer_lvl3" id="master_archer.gri">
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
       <equipment id="sp_lowland_bow" />
@@ -9041,7 +7402,7 @@
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="b2_mail_shirt"/>
       <equipment id="b2_banded_leather_over_mail"/>
     </Body>
@@ -9065,14 +7426,7 @@
       <equipment id="mp_reinforced_leather_vambraces"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="GRI"
-    color1="FFe0ddd2"
-    color2="FF194a13"
-    banner="7000.568.569.1536.1536.764.764.0.0.0"
-    name="Mounted sergeant"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.gri">
+  <ClanClass clan="GRI" color1="FFe0ddd2" color2="FF194a13" banner="7000.568.569.1536.1536.764.764.0.0.0" name="Mounted sergeant" mpclassdivision="bre_cavalry_lvl1" id="mounted_sergeant.gri">
     <Weapon0>
       <equipment id="b2_lance_gri"/>
     </Weapon0>
@@ -9096,7 +7450,7 @@
       <equipment id="b2_norman_helmet_0"/>
       <equipment id="b2_norman_helmet_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="mp_studded_leather_over_aketon"/>
       <equipment id="mp_layered_leather_tunic"/>
       <equipment id="mp_leather_scale_armor"/>
@@ -9135,14 +7489,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="GRI"
-    color1="FF163415"
-    color2="FF938d7f"
-    banner="7000.568.569.1536.1536.764.764.0.0.0"
-    name="Squire"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="squire.gri">
+  <ClanClass clan="GRI" color1="FF163415" color2="FF938d7f" banner="7000.568.569.1536.1536.764.764.0.0.0" name="Squire" mpclassdivision="bre_cavalry_lvl1" id="squire.gri">
     <Weapon0>
       <equipment id="b2_lance_gri"/>
     </Weapon0>
@@ -9200,14 +7547,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="GRI"
-    color1="FF0d330d"
-    color2="FFcfc9b5"
-    banner="7000.568.569.1536.1536.764.764.0.0.0"
-    name="Hercule de Grimeux"
-    mpclassdivision="bre_cavalry_lvl2"
-    id="knight_errant.gri">
+  <ClanClass clan="GRI" color1="FF0d330d" color2="FFcfc9b5" banner="7000.568.569.1536.1536.764.764.0.0.0" name="Hercule de Grimeux" mpclassdivision="bre_cavalry_lvl2" id="knight_errant.gri">
     <Weapon0>
       <equipment id="b2_lance_gri"/>
       <equipment id="b3_kerrant_lance_gri" disablerandomize="true"/>
@@ -9262,14 +7602,7 @@
     </Horse>
   </ClanClass>
   <!--MAR-->
-  <ClanClass 
-    clan="MAR"
-    color1="FF3a3a3a"
-    color2="FFc5c6bb"
-    banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0"
-    name="Paysan armé"
-    mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.mar">
+  <ClanClass clan="MAR" color1="FF3a3a3a" color2="FFc5c6bb" banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0" name="Paysan armé" mpclassdivision="bre_infantry_lvl1" id="armed_peasant.mar">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -9333,14 +7666,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MAR"
-    color1="FF3a3a3a"
-    color2="FFc5c6bb"
-    banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0"
-    name="Homme d'arme"
-    mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.mar">
+  <ClanClass clan="MAR" color1="FF3a3a3a" color2="FFc5c6bb" banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0" name="Homme d'arme" mpclassdivision="bre_infantry_lvl2" id="man_at_arms.mar">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -9404,14 +7730,7 @@
       <equipment id="mp_padded_mitten"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MAR"
-    color1="FF3a3a3a"
-    color2="FFc5c6bb"
-    banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0"
-    name="Sergent d'arme"
-    mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.mar">
+  <ClanClass clan="MAR" color1="FF3a3a3a" color2="FFc5c6bb" banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0" name="Sergent d'arme" mpclassdivision="bre_infantry_lvl3" id="sergeant_at_arms.mar">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -9463,14 +7782,7 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MAR"
-    color1="FF3a3a3a"
-    color2="FFc5c6bb"
-    banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0"
-    name="Capitaine"
-    mpclassdivision="bre_infantry_lvl4"
-    id="captain.mar">
+  <ClanClass clan="MAR" color1="FF3a3a3a" color2="FFc5c6bb" banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0" name="Capitaine" mpclassdivision="bre_infantry_lvl4" id="captain.mar">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -9542,14 +7854,7 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MAR"
-    color1="FF3a3a3a"
-    color2="FFc5c6bb"
-    banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0"
-    name="Archer paysan"
-    mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.mar">
+  <ClanClass clan="MAR" color1="FF3a3a3a" color2="FFc5c6bb" banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0" name="Archer paysan" mpclassdivision="bre_archer_lvl1" id="peasant_archer.mar">
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -9603,14 +7908,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MAR"
-    color1="FF3a3a3a"
-    color2="FFc5c6bb"
-    banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0"
-    name="Franc-Archer"
-    mpclassdivision="bre_archer_lvl2"
-    id="free_archer.mar">
+  <ClanClass clan="MAR" color1="FF3a3a3a" color2="FFc5c6bb" banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0" name="Franc-Archer" mpclassdivision="bre_archer_lvl2" id="free_archer.mar">
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
       <equipment id="sp_yew_bow" />
@@ -9650,21 +7948,14 @@
       <equipment id="mp_hood"/>
       <equipment id="null"/>
     </Cape>
-    <Gloves> 
+    <Gloves>
       <equipment id="b2_crossbow_armor_hand_dark"/>
       <equipment id="mp_leather_gloves"/>
       <equipment id="mp_padded_vambrace"/>
       <equipment id="mp_guarded_padded_vambrace"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MAR"
-    color1="FF3a3a3a"
-    color2="FFc5c6bb"
-    banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0"
-    name="Maître archer"
-    mpclassdivision="bre_archer_lvl3"
-    id="master_archer.mar">
+  <ClanClass clan="MAR" color1="FF3a3a3a" color2="FFc5c6bb" banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0" name="Maître archer" mpclassdivision="bre_archer_lvl3" id="master_archer.mar">
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
       <equipment id="sp_lowland_bow" />
@@ -9685,7 +7976,7 @@
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="b2_mail_shirt"/>
       <equipment id="b2_banded_leather_over_mail"/>
     </Body>
@@ -9709,14 +8000,7 @@
       <equipment id="mp_reinforced_leather_vambraces"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MAR"
-    color1="FF3a3a3a"
-    color2="FFc5c6bb"
-    banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0"
-    name="Sergent monté"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.mar">
+  <ClanClass clan="MAR" color1="FF3a3a3a" color2="FFc5c6bb" banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0" name="Sergent monté" mpclassdivision="bre_cavalry_lvl1" id="mounted_sergeant.mar">
     <Weapon0>
       <equipment id="b2_lance_mar"/>
     </Weapon0>
@@ -9740,7 +8024,7 @@
       <equipment id="b2_norman_helmet_0"/>
       <equipment id="b2_norman_helmet_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="mp_studded_leather_over_aketon"/>
       <equipment id="mp_layered_leather_tunic"/>
       <equipment id="mp_leather_scale_armor"/>
@@ -9779,14 +8063,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="MAR"
-    color1="FF21201f"
-    color2="FF9e9d9b"
-    banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0"
-    name="Ecuyer"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="squire.mar">
+  <ClanClass clan="MAR" color1="FF21201f" color2="FF9e9d9b" banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0" name="Ecuyer" mpclassdivision="bre_cavalry_lvl1" id="squire.mar">
     <Weapon0>
       <equipment id="b2_lance_mar"/>
     </Weapon0>
@@ -9844,14 +8121,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="MAR"
-    color1="FFa1a09c"
-    color2="FF141414"
-    banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0"
-    name="Roland le Maréchal"
-    mpclassdivision="bre_cavalry_lvl2"
-    id="knight_of_the_realm.mar">
+  <ClanClass clan="MAR" color1="FFa1a09c" color2="FF141414" banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0" name="Roland le Maréchal" mpclassdivision="bre_cavalry_lvl2" id="knight_of_the_realm.mar">
     <Weapon0>
       <equipment id="b2_lance_mar"/>
       <equipment id="b3_kotr_lance_mar" disablerandomize="true"/>
@@ -9905,14 +8175,7 @@
     </Horse>
   </ClanClass>
   <!--FRO-->
-  <ClanClass 
-    clan="FRO"
-    color1="FFe0ddd2"
-    color2="FF22498c"
-    banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0"
-    name="Armed peasant"
-    mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.fro">
+  <ClanClass clan="FRO" color1="FFe0ddd2" color2="FF22498c" banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0" name="Armed peasant" mpclassdivision="bre_infantry_lvl1" id="armed_peasant.fro">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -9976,14 +8239,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="FRO"
-    color1="FFe0ddd2"
-    color2="FF22498c"
-    banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0"
-    name="Man at arms"
-    mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.fro">
+  <ClanClass clan="FRO" color1="FFe0ddd2" color2="FF22498c" banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0" name="Man at arms" mpclassdivision="bre_infantry_lvl2" id="man_at_arms.fro">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -10047,14 +8303,7 @@
       <equipment id="mp_padded_mitten"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="FRO"
-    color1="FFe0ddd2"
-    color2="FF22498c"
-    banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0"
-    name="Sergeant at arms"
-    mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.fro">
+  <ClanClass clan="FRO" color1="FFe0ddd2" color2="FF22498c" banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0" name="Sergeant at arms" mpclassdivision="bre_infantry_lvl3" id="sergeant_at_arms.fro">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -10105,14 +8354,7 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="FRO"
-    color1="FFe0ddd2"
-    color2="FF22498c"
-    banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0"
-    name="Captain"
-    mpclassdivision="bre_infantry_lvl4"
-    id="captain.fro">
+  <ClanClass clan="FRO" color1="FFe0ddd2" color2="FF22498c" banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0" name="Captain" mpclassdivision="bre_infantry_lvl4" id="captain.fro">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -10184,14 +8426,7 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="FRO"
-    color1="FFe0ddd2"
-    color2="FF22498c"
-    banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0"
-    name="Peasant archer"
-    mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.fro">
+  <ClanClass clan="FRO" color1="FFe0ddd2" color2="FF22498c" banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0" name="Peasant archer" mpclassdivision="bre_archer_lvl1" id="peasant_archer.fro">
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -10245,14 +8480,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="FRO"
-    color1="FFe0ddd2"
-    color2="FF22498c"
-    banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0"
-    name="Free archer"
-    mpclassdivision="bre_archer_lvl2"
-    id="free_archer.fro">
+  <ClanClass clan="FRO" color1="FFe0ddd2" color2="FF22498c" banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0" name="Free archer" mpclassdivision="bre_archer_lvl2" id="free_archer.fro">
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
       <equipment id="sp_yew_bow" />
@@ -10292,21 +8520,14 @@
       <equipment id="mp_hood"/>
       <equipment id="null"/>
     </Cape>
-    <Gloves> 
+    <Gloves>
       <equipment id="b2_crossbow_armor_hand_dark"/>
       <equipment id="mp_leather_gloves"/>
       <equipment id="mp_padded_vambrace"/>
       <equipment id="mp_guarded_padded_vambrace"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="FRO"
-    color1="FFe0ddd2"
-    color2="FF22498c"
-    banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0"
-    name="Master archer"
-    mpclassdivision="bre_archer_lvl3"
-    id="master_archer.fro">
+  <ClanClass clan="FRO" color1="FFe0ddd2" color2="FF22498c" banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0" name="Master archer" mpclassdivision="bre_archer_lvl3" id="master_archer.fro">
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
       <equipment id="sp_lowland_bow" />
@@ -10327,7 +8548,7 @@
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="b2_mail_shirt"/>
       <equipment id="b2_banded_leather_over_mail"/>
     </Body>
@@ -10351,14 +8572,7 @@
       <equipment id="mp_reinforced_leather_vambraces"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="FRO"
-    color1="FFe0ddd2"
-    color2="FF22498c"
-    banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0"
-    name="Mounted sergeant"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.fro">
+  <ClanClass clan="FRO" color1="FFe0ddd2" color2="FF22498c" banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0" name="Mounted sergeant" mpclassdivision="bre_cavalry_lvl1" id="mounted_sergeant.fro">
     <Weapon0>
       <equipment id="b2_lance_fro"/>
     </Weapon0>
@@ -10382,7 +8596,7 @@
       <equipment id="b2_norman_helmet_0"/>
       <equipment id="b2_norman_helmet_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="mp_studded_leather_over_aketon"/>
       <equipment id="mp_layered_leather_tunic"/>
       <equipment id="mp_leather_scale_armor"/>
@@ -10421,14 +8635,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="FRO"
-    color1="FF14253f"
-    color2="FF9e9d9b"
-    banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0"
-    name="Squire"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="squire.fro">
+  <ClanClass clan="FRO" color1="FF14253f" color2="FF9e9d9b" banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0" name="Squire" mpclassdivision="bre_cavalry_lvl1" id="squire.fro">
     <Weapon0>
       <equipment id="b2_lance_fro"/>
     </Weapon0>
@@ -10486,14 +8693,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="FRO"
-    color1="FF0c2d5e"
-    color2="FFc7cfd6"
-    banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0"
-    name="Alaron de Frontiere"
-    mpclassdivision="bre_cavalry_lvl2"
-    id="knight_errant.fro">
+  <ClanClass clan="FRO" color1="FF0c2d5e" color2="FFc7cfd6" banner="3.574.575.1536.1536.764.764.1.0.0.5015.575.575.512.512.764.764.1.0.0" name="Alaron de Frontiere" mpclassdivision="bre_cavalry_lvl2" id="knight_errant.fro">
     <Weapon0>
       <equipment id="b2_lance_fro"/>
       <equipment id="b3_kerrant_lance_fro" disablerandomize="true"/>
@@ -10548,14 +8748,7 @@
     </Horse>
   </ClanClass>
   <!--LAN-->
-  <ClanClass 
-    clan="LAN"
-    color1="FFffffff"
-    color2="FF101545"
-    banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0"
-    name="Armed peasant"
-    mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.lan">
+  <ClanClass clan="LAN" color1="FFffffff" color2="FF101545" banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0" name="Armed peasant" mpclassdivision="bre_infantry_lvl1" id="armed_peasant.lan">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -10619,14 +8812,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="LAN"
-    color1="FFffffff"
-    color2="FF101545"
-    banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0"
-    name="Man at arms"
-    mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.lan">
+  <ClanClass clan="LAN" color1="FFffffff" color2="FF101545" banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0" name="Man at arms" mpclassdivision="bre_infantry_lvl2" id="man_at_arms.lan">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -10690,14 +8876,7 @@
       <equipment id="mp_padded_mitten"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="LAN"
-    color1="FFffffff"
-    color2="FF101545"
-    banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0"
-    name="Sergeant at arms"
-    mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.lan">
+  <ClanClass clan="LAN" color1="FFffffff" color2="FF101545" banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0" name="Sergeant at arms" mpclassdivision="bre_infantry_lvl3" id="sergeant_at_arms.lan">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -10748,14 +8927,7 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="LAN"
-    color1="FFffffff"
-    color2="FF101545"
-    banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0"
-    name="Captain"
-    mpclassdivision="bre_infantry_lvl4"
-    id="captain.lan">
+  <ClanClass clan="LAN" color1="FFffffff" color2="FF101545" banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0" name="Captain" mpclassdivision="bre_infantry_lvl4" id="captain.lan">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -10827,14 +8999,7 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="LAN"
-    color1="FFffffff"
-    color2="FF101545"
-    banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0"
-    name="Peasant archer"
-    mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.lan">
+  <ClanClass clan="LAN" color1="FFffffff" color2="FF101545" banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0" name="Peasant archer" mpclassdivision="bre_archer_lvl1" id="peasant_archer.lan">
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -10888,14 +9053,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="LAN"
-    color1="FFffffff"
-    color2="FF101545"
-    banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0"
-    name="Free archer"
-    mpclassdivision="bre_archer_lvl2"
-    id="free_archer.lan">
+  <ClanClass clan="LAN" color1="FFffffff" color2="FF101545" banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0" name="Free archer" mpclassdivision="bre_archer_lvl2" id="free_archer.lan">
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
       <equipment id="sp_yew_bow" />
@@ -10935,21 +9093,14 @@
       <equipment id="mp_hood"/>
       <equipment id="null"/>
     </Cape>
-    <Gloves> 
+    <Gloves>
       <equipment id="b2_crossbow_armor_hand_dark"/>
       <equipment id="mp_leather_gloves"/>
       <equipment id="mp_padded_vambrace"/>
       <equipment id="mp_guarded_padded_vambrace"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="LAN"
-    color1="FFffffff"
-    color2="FF101545"
-    banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0"
-    name="Master archer"
-    mpclassdivision="bre_archer_lvl3"
-    id="master_archer.lan">
+  <ClanClass clan="LAN" color1="FFffffff" color2="FF101545" banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0" name="Master archer" mpclassdivision="bre_archer_lvl3" id="master_archer.lan">
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
       <equipment id="sp_lowland_bow" />
@@ -10970,7 +9121,7 @@
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="b2_mail_shirt"/>
       <equipment id="b2_banded_leather_over_mail"/>
     </Body>
@@ -10994,14 +9145,7 @@
       <equipment id="mp_reinforced_leather_vambraces"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="LAN"
-    color1="FFffffff"
-    color2="FF101545"
-    banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0"
-    name="Mounted sergeant"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.lan">
+  <ClanClass clan="LAN" color1="FFffffff" color2="FF101545" banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0" name="Mounted sergeant" mpclassdivision="bre_cavalry_lvl1" id="mounted_sergeant.lan">
     <Weapon0>
       <equipment id="b2_lance_lan"/>
     </Weapon0>
@@ -11025,7 +9169,7 @@
       <equipment id="b2_norman_helmet_0"/>
       <equipment id="b2_norman_helmet_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="mp_studded_leather_over_aketon"/>
       <equipment id="mp_layered_leather_tunic"/>
       <equipment id="mp_leather_scale_armor"/>
@@ -11064,14 +9208,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="LAN"
-    color1="FF0d1228"
-    color2="FF9b9ca5"
-    banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0"
-    name="Squire"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="squire.lan">
+  <ClanClass clan="LAN" color1="FF0d1228" color2="FF9b9ca5" banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0" name="Squire" mpclassdivision="bre_cavalry_lvl1" id="squire.lan">
     <Weapon0>
       <equipment id="b2_lance_lan"/>
     </Weapon0>
@@ -11129,14 +9266,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="LAN"
-    color1="FFbdbbc9"
-    color2="FF0f0f30"
-    banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0"
-    name="Taubert de L'Anguille"
-    mpclassdivision="bre_cavalry_lvl2"
-    id="knight_of_the_realm.lan">
+  <ClanClass clan="LAN" color1="FFbdbbc9" color2="FF0f0f30" banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0" name="Taubert de L'Anguille" mpclassdivision="bre_cavalry_lvl2" id="knight_of_the_realm.lan">
     <Weapon0>
       <equipment id="b2_lance_lan"/>
       <equipment id="b3_kotr_lance_lan" disablerandomize="true"/>
@@ -11190,14 +9320,7 @@
     </Horse>
   </ClanClass>
   <!--BAS-->
-  <ClanClass 
-    clan="BAS"
-    color1="FFd7a12b"
-    color2="FF8e1818"
-    banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
-    name="Paysan armé"
-    mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.bas">
+  <ClanClass clan="BAS" color1="FFd7a12b" color2="FF8e1818" banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0" name="Paysan armé" mpclassdivision="bre_infantry_lvl1" id="armed_peasant.bas">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -11261,14 +9384,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="BAS"
-    color1="FFd7a12b"
-    color2="FF8e1818"
-    banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
-    name="Homme d'armes"
-    mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.bas">
+  <ClanClass clan="BAS" color1="FFd7a12b" color2="FF8e1818" banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0" name="Homme d'armes" mpclassdivision="bre_infantry_lvl2" id="man_at_arms.bas">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -11332,14 +9448,7 @@
       <equipment id="mp_padded_mitten"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="BAS"
-    color1="FFd7a12b"
-    color2="FF8e1818"
-    banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
-    name="Sergent d'armes"
-    mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.bas">
+  <ClanClass clan="BAS" color1="FFd7a12b" color2="FF8e1818" banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0" name="Sergent d'armes" mpclassdivision="bre_infantry_lvl3" id="sergeant_at_arms.bas">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -11390,14 +9499,7 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="BAS"
-    color1="FFd7a12b"
-    color2="FF8e1818"
-    banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
-    name="Capitaine"
-    mpclassdivision="bre_infantry_lvl4"
-    id="captain.bas">
+  <ClanClass clan="BAS" color1="FFd7a12b" color2="FF8e1818" banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0" name="Capitaine" mpclassdivision="bre_infantry_lvl4" id="captain.bas">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -11469,14 +9571,7 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="BAS"
-    color1="FFd7a12b"
-    color2="FF8e1818"
-    banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
-    name="Archer paysan"
-    mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.bas">
+  <ClanClass clan="BAS" color1="FFd7a12b" color2="FF8e1818" banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0" name="Archer paysan" mpclassdivision="bre_archer_lvl1" id="peasant_archer.bas">
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -11530,14 +9625,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="BAS"
-    color1="FFd7a12b"
-    color2="FF8e1818"
-    banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
-    name="Franc-archer"
-    mpclassdivision="bre_archer_lvl2"
-    id="free_archer.bas">
+  <ClanClass clan="BAS" color1="FFd7a12b" color2="FF8e1818" banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0" name="Franc-archer" mpclassdivision="bre_archer_lvl2" id="free_archer.bas">
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
       <equipment id="sp_yew_bow" />
@@ -11577,21 +9665,14 @@
       <equipment id="mp_hood"/>
       <equipment id="null"/>
     </Cape>
-    <Gloves> 
+    <Gloves>
       <equipment id="b2_crossbow_armor_hand_dark"/>
       <equipment id="mp_leather_gloves"/>
       <equipment id="mp_padded_vambrace"/>
       <equipment id="mp_guarded_padded_vambrace"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="BAS"
-    color1="FFd7a12b"
-    color2="FF8e1818"
-    banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
-    name="Maître archer"
-    mpclassdivision="bre_archer_lvl3"
-    id="master_archer.bas">
+  <ClanClass clan="BAS" color1="FFd7a12b" color2="FF8e1818" banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0" name="Maître archer" mpclassdivision="bre_archer_lvl3" id="master_archer.bas">
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
       <equipment id="sp_lowland_bow" />
@@ -11612,7 +9693,7 @@
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="b2_mail_shirt"/>
       <equipment id="b2_banded_leather_over_mail"/>
     </Body>
@@ -11636,14 +9717,7 @@
       <equipment id="mp_reinforced_leather_vambraces"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="BAS"
-    color1="FFd7a12b"
-    color2="FF8e1818"
-    banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
-    name="Sergent monté"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.bas">
+  <ClanClass clan="BAS" color1="FFd7a12b" color2="FF8e1818" banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0" name="Sergent monté" mpclassdivision="bre_cavalry_lvl1" id="mounted_sergeant.bas">
     <Weapon0>
       <equipment id="b2_lance_bas"/>
     </Weapon0>
@@ -11667,7 +9741,7 @@
       <equipment id="b2_norman_helmet_0"/>
       <equipment id="b2_norman_helmet_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="mp_studded_leather_over_aketon"/>
       <equipment id="mp_layered_leather_tunic"/>
       <equipment id="mp_leather_scale_armor"/>
@@ -11706,14 +9780,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="BAS"
-    color1="FFd7a12b"
-    color2="FF8e1818"
-    banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
-    name="Écuyer"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="squire.bas">
+  <ClanClass clan="BAS" color1="FFd7a12b" color2="FF8e1818" banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0" name="Écuyer" mpclassdivision="bre_cavalry_lvl1" id="squire.bas">
     <Weapon0>
       <equipment id="b2_lance_bas"/>
     </Weapon0>
@@ -11771,14 +9838,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="BAS"
-    color1="FFd7a12b"
-    color2="FF8e1818"
-    banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0"
-    name="Bohémond de Bastogne"
-    mpclassdivision="bre_cavalry_lvl2"
-    id="knight_errant.bas">
+  <ClanClass clan="BAS" color1="FFd7a12b" color2="FF8e1818" banner="11.552.552.1536.1536.764.764.1.0.0.5019.550.550.512.512.764.764.1.0.0" name="Bohémond de Bastogne" mpclassdivision="bre_cavalry_lvl2" id="knight_errant.bas">
     <Weapon0>
       <equipment id="b2_lance_bas"/>
       <equipment id="b3_kotr_lance_bas" disablerandomize="true"/>
@@ -11833,14 +9893,7 @@
     </Horse>
   </ClanClass>
   <!--MON-->
-  <ClanClass 
-    clan="MON"
-    color1="FF171617"
-    color2="FFbbbbbb"
-    banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0"
-    name="Armed peasant"
-    mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.mon">
+  <ClanClass clan="MON" color1="FF171617" color2="FFbbbbbb" banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0" name="Armed peasant" mpclassdivision="bre_infantry_lvl1" id="armed_peasant.mon">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -11904,14 +9957,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MON"
-    color1="FF171617"
-    color2="FFbbbbbb"
-    banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0"
-    name="Man at arms"
-    mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.mon">
+  <ClanClass clan="MON" color1="FF171617" color2="FFbbbbbb" banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0" name="Man at arms" mpclassdivision="bre_infantry_lvl2" id="man_at_arms.mon">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -11977,14 +10023,7 @@
       <equipment id="mp_padded_mitten"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MON"
-    color1="FF171617"
-    color2="FFbbbbbb"
-    banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0"
-    name="Sergeant at arms"
-    mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.mon">
+  <ClanClass clan="MON" color1="FF171617" color2="FFbbbbbb" banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0" name="Sergeant at arms" mpclassdivision="bre_infantry_lvl3" id="sergeant_at_arms.mon">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -12037,14 +10076,7 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MON"
-    color1="FF171617"
-    color2="FFbbbbbb"
-    banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0"
-    name="Captain"
-    mpclassdivision="bre_infantry_lvl4"
-    id="captain.mon">
+  <ClanClass clan="MON" color1="FF171617" color2="FFbbbbbb" banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0" name="Captain" mpclassdivision="bre_infantry_lvl4" id="captain.mon">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -12117,14 +10149,7 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MON"
-    color1="FF171617"
-    color2="FFbbbbbb"
-    banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0"
-    name="Peasant archer"
-    mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.mon">
+  <ClanClass clan="MON" color1="FF171617" color2="FFbbbbbb" banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0" name="Peasant archer" mpclassdivision="bre_archer_lvl1" id="peasant_archer.mon">
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -12178,14 +10203,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MON"
-    color1="FF171617"
-    color2="FFbbbbbb"
-    banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0"
-    name="Free archer"
-    mpclassdivision="bre_archer_lvl2"
-    id="free_archer.mon">
+  <ClanClass clan="MON" color1="FF171617" color2="FFbbbbbb" banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0" name="Free archer" mpclassdivision="bre_archer_lvl2" id="free_archer.mon">
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
       <equipment id="sp_yew_bow" />
@@ -12226,7 +10244,7 @@
       <equipment id="mp_hood"/>
       <equipment id="null"/>
     </Cape>
-    <Gloves> 
+    <Gloves>
       <equipment id="b2_crossbow_armor_hand_black"/>
       <equipment id="b2_crossbow_armor_hand_dark"/>
       <equipment id="mp_leather_gloves"/>
@@ -12234,14 +10252,7 @@
       <equipment id="mp_guarded_padded_vambrace"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MON"
-    color1="FF171617"
-    color2="FFbbbbbb"
-    banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0"
-    name="Master archer"
-    mpclassdivision="bre_archer_lvl3"
-    id="master_archer.mon">
+  <ClanClass clan="MON" color1="FF171617" color2="FFbbbbbb" banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0" name="Master archer" mpclassdivision="bre_archer_lvl3" id="master_archer.mon">
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
       <equipment id="sp_lowland_bow" />
@@ -12262,7 +10273,7 @@
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="b2_mail_shirt"/>
       <equipment id="b2_banded_leather_over_mail"/>
     </Body>
@@ -12288,14 +10299,7 @@
       <equipment id="mp_reinforced_leather_vambraces"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MON"
-    color1="FF171617"
-    color2="FFbbbbbb"
-    banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0"
-    name="Mounted sergeant"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.mon">
+  <ClanClass clan="MON" color1="FF171617" color2="FFbbbbbb" banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0" name="Mounted sergeant" mpclassdivision="bre_cavalry_lvl1" id="mounted_sergeant.mon">
     <Weapon0>
       <equipment id="b2_lance_mon"/>
     </Weapon0>
@@ -12319,7 +10323,7 @@
       <equipment id="b2_norman_helmet_0"/>
       <equipment id="b2_norman_helmet_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="mp_studded_leather_over_aketon"/>
       <equipment id="mp_layered_leather_tunic"/>
       <equipment id="mp_leather_scale_armor"/>
@@ -12360,14 +10364,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="MON"
-    color1="FF0c0b0a"
-    color2="FF82776d"
-    banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0"
-    name="Squire"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="squire.mon">
+  <ClanClass clan="MON" color1="FF0c0b0a" color2="FF82776d" banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0" name="Squire" mpclassdivision="bre_cavalry_lvl1" id="squire.mon">
     <Weapon0>
       <equipment id="b2_lance_mon"/>
     </Weapon0>
@@ -12425,14 +10422,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="MON"
-    color1="FF040404"
-    color2="FFbbbbbb"
-    banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0"
-    name="Folcard de Montford"
-    mpclassdivision="bre_cavalry_lvl2"
-    id="knight_of_the_realm.mon">
+  <ClanClass clan="MON" color1="FF040404" color2="FFbbbbbb" banner="11.572.573.1536.1536.764.764.0.0.0.5014.573.573.500.500.764.764.0.0.0" name="Folcard de Montford" mpclassdivision="bre_cavalry_lvl2" id="knight_of_the_realm.mon">
     <Weapon0>
       <equipment id="b2_lance_mon"/>
       <equipment id="b3_kotr_lance_mon" disablerandomize="true"/>
@@ -12490,14 +10480,7 @@
     </Horse>
   </ClanClass>
   <!--MAU-->
-  <ClanClass 
-    clan="MAU"
-    color1="FF242121"
-    color2="FF69244a"
-    banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
-    name="Armed peasant"
-    mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.mau">
+  <ClanClass clan="MAU" color1="FF242121" color2="FF69244a" banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0" name="Armed peasant" mpclassdivision="bre_infantry_lvl1" id="armed_peasant.mau">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -12561,14 +10544,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MAU"
-    color1="FF242121"
-    color2="FF69244a"
-    banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
-    name="Man at arms"
-    mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.mau">
+  <ClanClass clan="MAU" color1="FF242121" color2="FF69244a" banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0" name="Man at arms" mpclassdivision="bre_infantry_lvl2" id="man_at_arms.mau">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -12634,14 +10610,7 @@
       <equipment id="mp_padded_mitten"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MAU"
-    color1="FF242121"
-    color2="FF69244a"
-    banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
-    name="Sergeant at arms"
-    mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.mau">
+  <ClanClass clan="MAU" color1="FF242121" color2="FF69244a" banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0" name="Sergeant at arms" mpclassdivision="bre_infantry_lvl3" id="sergeant_at_arms.mau">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -12693,14 +10662,7 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MAU"
-    color1="FF291e1d"
-    color2="FF7e335d"
-    banner="13.578.579.1536.1536.764.508.0.0.180.5016.556.556.500.500.764.764.0.0.0"
-    name="Captain"
-    mpclassdivision="bre_infantry_lvl4"
-    id="captain.mau">
+  <ClanClass clan="MAU" color1="FF291e1d" color2="FF7e335d" banner="13.578.579.1536.1536.764.508.0.0.180.5016.556.556.500.500.764.764.0.0.0" name="Captain" mpclassdivision="bre_infantry_lvl4" id="captain.mau">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -12773,14 +10735,7 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MAU"
-    color1="FF242121"
-    color2="FF69244a"
-    banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
-    name="Peasant archer"
-    mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.mau">
+  <ClanClass clan="MAU" color1="FF242121" color2="FF69244a" banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0" name="Peasant archer" mpclassdivision="bre_archer_lvl1" id="peasant_archer.mau">
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -12834,14 +10789,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MAU"
-    color1="FF242121"
-    color2="FF69244a"
-    banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
-    name="Free archer"
-    mpclassdivision="bre_archer_lvl2"
-    id="free_archer.mau">
+  <ClanClass clan="MAU" color1="FF242121" color2="FF69244a" banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0" name="Free archer" mpclassdivision="bre_archer_lvl2" id="free_archer.mau">
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
       <equipment id="sp_yew_bow" />
@@ -12883,21 +10831,14 @@
       <equipment id="mp_hood"/>
       <equipment id="null"/>
     </Cape>
-    <Gloves> 
+    <Gloves>
       <equipment id="b2_crossbow_armor_hand_dark"/>
       <equipment id="mp_leather_gloves"/>
       <equipment id="mp_padded_vambrace"/>
       <equipment id="mp_guarded_padded_vambrace"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MAU"
-    color1="FF242121"
-    color2="FF69244a"
-    banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
-    name="Master archer"
-    mpclassdivision="bre_archer_lvl3"
-    id="master_archer.mau">
+  <ClanClass clan="MAU" color1="FF242121" color2="FF69244a" banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0" name="Master archer" mpclassdivision="bre_archer_lvl3" id="master_archer.mau">
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
       <equipment id="sp_lowland_bow" />
@@ -12919,7 +10860,7 @@
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="b2_mail_shirt"/>
       <equipment id="b2_banded_leather_over_mail"/>
     </Body>
@@ -12943,14 +10884,7 @@
       <equipment id="mp_reinforced_leather_vambraces"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="MAU"
-    color1="FF242121"
-    color2="FF69244a"
-    banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
-    name="Mounted sergeant"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.mau">
+  <ClanClass clan="MAU" color1="FF242121" color2="FF69244a" banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0" name="Mounted sergeant" mpclassdivision="bre_cavalry_lvl1" id="mounted_sergeant.mau">
     <Weapon0>
       <equipment id="b2_lance_mau"/>
     </Weapon0>
@@ -12974,7 +10908,7 @@
       <equipment id="b2_norman_helmet_0"/>
       <equipment id="b2_norman_helmet_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="mp_studded_leather_over_aketon"/>
       <equipment id="mp_layered_leather_tunic"/>
       <equipment id="mp_leather_scale_armor"/>
@@ -13013,14 +10947,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="MAU"
-    color1="FF351226"
-    color2="FF100f0d"
-    banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
-    name="Squire"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="squire.mau">
+  <ClanClass clan="MAU" color1="FF351226" color2="FF100f0d" banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0" name="Squire" mpclassdivision="bre_cavalry_lvl1" id="squire.mau">
     <Weapon0>
       <equipment id="b2_lance_mau"/>
     </Weapon0>
@@ -13074,14 +11001,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="MAU"
-    color1="FF43102c"
-    color2="FF171716"
-    banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
-    name="Dreu de Maulièvre"
-    mpclassdivision="bre_cavalry_lvl2"
-    id="knight_errant.mau">
+  <ClanClass clan="MAU" color1="FF43102c" color2="FF171716" banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0" name="Dreu de Maulièvre" mpclassdivision="bre_cavalry_lvl2" id="knight_errant.mau">
     <Weapon0>
       <equipment id="b2_lance_mau"/>
       <equipment id="b3_kerrant_lance_mau" disablerandomize="true"/>
@@ -13132,14 +11052,7 @@
     </Horse>
   </ClanClass>
   <!--EPE-->
-  <ClanClass 
-    clan="EPE"
-    color1="FF144ea8"
-    color2="FFd7a12b"
-    banner="11.508.508.1536.1536.764.764.1.0.0.5020.502.502.512.512.764.764.1.0.0"
-    name="Armed peasant"
-    mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.epe">
+  <ClanClass clan="EPE" color1="FF144ea8" color2="FFd7a12b" banner="11.508.508.1536.1536.764.764.1.0.0.5020.502.502.512.512.764.764.1.0.0" name="Armed peasant" mpclassdivision="bre_infantry_lvl1" id="armed_peasant.epe">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -13203,14 +11116,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="EPE"
-    color1="FF144ea8"
-    color2="FFd7a12b"
-    banner="11.508.508.1536.1536.764.764.1.0.0.5020.502.502.512.512.764.764.1.0.0"
-    name="Man at arms"
-    mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.epe">
+  <ClanClass clan="EPE" color1="FF144ea8" color2="FFd7a12b" banner="11.508.508.1536.1536.764.764.1.0.0.5020.502.502.512.512.764.764.1.0.0" name="Man at arms" mpclassdivision="bre_infantry_lvl2" id="man_at_arms.epe">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -13274,14 +11180,7 @@
       <equipment id="mp_padded_mitten"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="EPE"
-    color1="FF144ea8"
-    color2="FFd7a12b"
-    banner="11.508.508.1536.1536.764.764.1.0.0.5020.502.502.512.512.764.764.1.0.0"
-    name="Sergeant at arms"
-    mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.epe">
+  <ClanClass clan="EPE" color1="FF144ea8" color2="FFd7a12b" banner="11.508.508.1536.1536.764.764.1.0.0.5020.502.502.512.512.764.764.1.0.0" name="Sergeant at arms" mpclassdivision="bre_infantry_lvl3" id="sergeant_at_arms.epe">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -13332,14 +11231,7 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="EPE"
-    color1="FF144ea8"
-    color2="FFd7a12b"
-    banner="11.508.508.1536.1536.764.764.1.0.0.5020.502.502.512.512.764.764.1.0.0"
-    name="Captain"
-    mpclassdivision="bre_infantry_lvl4"
-    id="captain.epe">
+  <ClanClass clan="EPE" color1="FF144ea8" color2="FFd7a12b" banner="11.508.508.1536.1536.764.764.1.0.0.5020.502.502.512.512.764.764.1.0.0" name="Captain" mpclassdivision="bre_infantry_lvl4" id="captain.epe">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -13411,14 +11303,7 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="EPE"
-    color1="FF144ea8"
-    color2="FFd7a12b"
-    banner="11.508.508.1536.1536.764.764.1.0.0.5020.502.502.512.512.764.764.1.0.0"
-    name="Peasant archer"
-    mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.epe">
+  <ClanClass clan="EPE" color1="FF144ea8" color2="FFd7a12b" banner="11.508.508.1536.1536.764.764.1.0.0.5020.502.502.512.512.764.764.1.0.0" name="Peasant archer" mpclassdivision="bre_archer_lvl1" id="peasant_archer.epe">
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -13472,14 +11357,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="EPE"
-    color1="FF144ea8"
-    color2="FFd7a12b"
-    banner="11.508.508.1536.1536.764.764.1.0.0.5020.502.502.512.512.764.764.1.0.0"
-    name="Free archer"
-    mpclassdivision="bre_archer_lvl2"
-    id="free_archer.epe">
+  <ClanClass clan="EPE" color1="FF144ea8" color2="FFd7a12b" banner="11.508.508.1536.1536.764.764.1.0.0.5020.502.502.512.512.764.764.1.0.0" name="Free archer" mpclassdivision="bre_archer_lvl2" id="free_archer.epe">
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
       <equipment id="sp_yew_bow" />
@@ -13519,21 +11397,14 @@
       <equipment id="mp_hood"/>
       <equipment id="null"/>
     </Cape>
-    <Gloves> 
+    <Gloves>
       <equipment id="b2_crossbow_armor_hand_dark"/>
       <equipment id="mp_leather_gloves"/>
       <equipment id="mp_padded_vambrace"/>
       <equipment id="mp_guarded_padded_vambrace"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="EPE"
-    color1="FF144ea8"
-    color2="FFd7a12b"
-    banner="11.508.508.1536.1536.764.764.1.0.0.5020.502.502.512.512.764.764.1.0.0"
-    name="Master archer"
-    mpclassdivision="bre_archer_lvl3"
-    id="master_archer.epe">
+  <ClanClass clan="EPE" color1="FF144ea8" color2="FFd7a12b" banner="11.508.508.1536.1536.764.764.1.0.0.5020.502.502.512.512.764.764.1.0.0" name="Master archer" mpclassdivision="bre_archer_lvl3" id="master_archer.epe">
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
       <equipment id="sp_lowland_bow" />
@@ -13554,7 +11425,7 @@
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="b2_mail_shirt"/>
       <equipment id="b2_banded_leather_over_mail"/>
     </Body>
@@ -13578,14 +11449,7 @@
       <equipment id="mp_reinforced_leather_vambraces"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="EPE"
-    color1="FF144ea8"
-    color2="FFd7a12b"
-    banner="11.508.508.1536.1536.764.764.1.0.0.5020.502.502.512.512.764.764.1.0.0"
-    name="Mounted sergeant"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.epe">
+  <ClanClass clan="EPE" color1="FF144ea8" color2="FFd7a12b" banner="11.508.508.1536.1536.764.764.1.0.0.5020.502.502.512.512.764.764.1.0.0" name="Mounted sergeant" mpclassdivision="bre_cavalry_lvl1" id="mounted_sergeant.epe">
     <Weapon0>
       <equipment id="b2_lance_epe"/>
     </Weapon0>
@@ -13609,7 +11473,7 @@
       <equipment id="b2_norman_helmet_0"/>
       <equipment id="b2_norman_helmet_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="mp_studded_leather_over_aketon"/>
       <equipment id="mp_layered_leather_tunic"/>
       <equipment id="mp_leather_scale_armor"/>
@@ -13648,14 +11512,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="EPE"
-    color1="FF144ea8"
-    color2="FFd7a12b"
-    banner="11.508.508.1536.1536.764.764.1.0.0.5020.502.502.512.512.764.764.1.0.0"
-    name="Squire"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="squire.epe">
+  <ClanClass clan="EPE" color1="FF144ea8" color2="FFd7a12b" banner="11.508.508.1536.1536.764.764.1.0.0.5020.502.502.512.512.764.764.1.0.0" name="Squire" mpclassdivision="bre_cavalry_lvl1" id="squire.epe">
     <Weapon0>
       <equipment id="b2_lance_epe"/>
     </Weapon0>
@@ -13713,14 +11570,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="EPE"
-    color1="FF0e1940"
-    color2="FFb0690c"
-    banner="11.508.508.1536.1536.764.764.1.0.0.5020.502.502.512.512.764.764.1.0.0"
-    name="Harland d'Espée"
-    mpclassdivision="bre_cavalry_lvl2"
-    id="knight_errant.epe">
+  <ClanClass clan="EPE" color1="FF0e1940" color2="FFb0690c" banner="11.508.508.1536.1536.764.764.1.0.0.5020.502.502.512.512.764.764.1.0.0" name="Harland d'Espée" mpclassdivision="bre_cavalry_lvl2" id="knight_errant.epe">
     <Weapon0>
       <equipment id="b2_lance_epe"/>
       <equipment id="b3_kerrant_lance_epe" disablerandomize="true"/>
@@ -13775,14 +11625,7 @@
     </Horse>
   </ClanClass>
   <!--GRISM-->
-  <ClanClass 
-    clan="GRISM"
-    color1="FF470c0c"
-    color2="FF181616"
-    banner="3.556.564.1536.1536.764.764.0.0.0.5021.557.557.500.500.764.764.0.0.0"
-    name="Armed peasant"
-    mpclassdivision="bre_infantry_lvl1"
-    id="armed_peasant.grism">
+  <ClanClass clan="GRISM" color1="FF470c0c" color2="FF181616" banner="3.556.564.1536.1536.764.764.0.0.0.5021.557.557.500.500.764.764.0.0.0" name="Armed peasant" mpclassdivision="bre_infantry_lvl1" id="armed_peasant.grism">
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -13846,14 +11689,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="GRISM"
-    color1="FF470c0c"
-    color2="FF181616"
-    banner="3.556.564.1536.1536.764.764.0.0.0.5021.557.557.500.500.764.764.0.0.0"
-    name="Man at arms"
-    mpclassdivision="bre_infantry_lvl2"
-    id="man_at_arms.grism">
+  <ClanClass clan="GRISM" color1="FF470c0c" color2="FF181616" banner="3.556.564.1536.1536.764.764.0.0.0.5021.557.557.500.500.764.764.0.0.0" name="Man at arms" mpclassdivision="bre_infantry_lvl2" id="man_at_arms.grism">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -13919,14 +11755,7 @@
       <equipment id="mp_padded_mitten"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="GRISM"
-    color1="FF470c0c"
-    color2="FF181616"
-    banner="3.556.564.1536.1536.764.764.0.0.0.5021.557.557.500.500.764.764.0.0.0"
-    name="Sergeant at arms"
-    mpclassdivision="bre_infantry_lvl3"
-    id="sergeant_at_arms.grism">
+  <ClanClass clan="GRISM" color1="FF470c0c" color2="FF181616" banner="3.556.564.1536.1536.764.764.0.0.0.5021.557.557.500.500.764.764.0.0.0" name="Sergeant at arms" mpclassdivision="bre_infantry_lvl3" id="sergeant_at_arms.grism">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -13978,14 +11807,7 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="GRISM"
-    color1="FF470c0c"
-    color2="FF181616"
-    banner="3.556.564.1536.1536.764.764.0.0.0.5021.557.557.500.500.764.764.0.0.0"
-    name="Captain"
-    mpclassdivision="bre_infantry_lvl4"
-    id="captain.grism">
+  <ClanClass clan="GRISM" color1="FF470c0c" color2="FF181616" banner="3.556.564.1536.1536.764.764.0.0.0.5021.557.557.500.500.764.764.0.0.0" name="Captain" mpclassdivision="bre_infantry_lvl4" id="captain.grism">
     <Weapon0>
       <equipment id="b2_man_spear"/>
       <equipment id="b3_peasant_polearm_1" disablerandomize="true"/>
@@ -14058,14 +11880,7 @@
       <equipment id="b2_crossbow_armor_hand_dark"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="GRISM"
-    color1="FF470c0c"
-    color2="FF181616"
-    banner="3.556.564.1536.1536.764.764.0.0.0.5021.557.557.500.500.764.764.0.0.0"
-    name="Peasant archer"
-    mpclassdivision="bre_archer_lvl1"
-    id="peasant_archer.grism">
+  <ClanClass clan="GRISM" color1="FF470c0c" color2="FF181616" banner="3.556.564.1536.1536.764.764.0.0.0.5021.557.557.500.500.764.764.0.0.0" name="Peasant archer" mpclassdivision="bre_archer_lvl1" id="peasant_archer.grism">
     <Weapon0>
       <equipment id="sp_cheap_bow" archeritem="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
@@ -14119,14 +11934,7 @@
       <equipment id="null"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="GRISM"
-    color1="FF470c0c"
-    color2="FF181616"
-    banner="3.556.564.1536.1536.764.764.0.0.0.5021.557.557.500.500.764.764.0.0.0"
-    name="Free archer"
-    mpclassdivision="bre_archer_lvl2"
-    id="free_archer.grism">
+  <ClanClass clan="GRISM" color1="FF470c0c" color2="FF181616" banner="3.556.564.1536.1536.764.764.0.0.0.5021.557.557.500.500.764.764.0.0.0" name="Free archer" mpclassdivision="bre_archer_lvl2" id="free_archer.grism">
     <Weapon0>
       <equipment id="sp_lowland_bow" archeritem="true"/>
       <equipment id="sp_yew_bow" />
@@ -14168,21 +11976,14 @@
       <equipment id="mp_hood"/>
       <equipment id="null"/>
     </Cape>
-    <Gloves> 
+    <Gloves>
       <equipment id="b2_crossbow_armor_hand_dark"/>
       <equipment id="mp_leather_gloves"/>
       <equipment id="mp_padded_vambrace"/>
       <equipment id="mp_guarded_padded_vambrace"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="GRISM"
-    color1="FF470c0c"
-    color2="FF181616"
-    banner="3.556.564.1536.1536.764.764.0.0.0.5021.557.557.500.500.764.764.0.0.0"
-    name="Master archer"
-    mpclassdivision="bre_archer_lvl3"
-    id="master_archer.grism">
+  <ClanClass clan="GRISM" color1="FF470c0c" color2="FF181616" banner="3.556.564.1536.1536.764.764.0.0.0.5021.557.557.500.500.764.764.0.0.0" name="Master archer" mpclassdivision="bre_archer_lvl3" id="master_archer.grism">
     <Weapon0>
       <equipment id="sp_yew_bow" archeritem="true"/>
       <equipment id="sp_lowland_bow" />
@@ -14204,7 +12005,7 @@
       <equipment id="b2_norman_mail_0"/>
       <equipment id="b2_norman_mail_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="b2_mail_shirt"/>
       <equipment id="b2_banded_leather_over_mail"/>
     </Body>
@@ -14228,14 +12029,7 @@
       <equipment id="mp_reinforced_leather_vambraces"/>
     </Gloves>
   </ClanClass>
-  <ClanClass 
-    clan="GRISM"
-    color1="FF470c0c"
-    color2="FF181616"
-    banner="3.556.564.1536.1536.764.764.0.0.0.5021.557.557.500.500.764.764.0.0.0"
-    name="Mounted sergeant"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="mounted_sergeant.grism">
+  <ClanClass clan="GRISM" color1="FF470c0c" color2="FF181616" banner="3.556.564.1536.1536.764.764.0.0.0.5021.557.557.500.500.764.764.0.0.0" name="Mounted sergeant" mpclassdivision="bre_cavalry_lvl1" id="mounted_sergeant.grism">
     <Weapon0>
       <equipment id="b2_lance_grism"/>
     </Weapon0>
@@ -14259,7 +12053,7 @@
       <equipment id="b2_norman_helmet_0"/>
       <equipment id="b2_norman_helmet_1"/>
     </Head>
-     <Body>
+    <Body>
       <equipment id="mp_studded_leather_over_aketon"/>
       <equipment id="mp_layered_leather_tunic"/>
       <equipment id="mp_leather_scale_armor"/>
@@ -14298,14 +12092,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="GRISM"
-    color1="FF2d0d0d"
-    color2="FF0f0d0b"
-    banner="3.556.564.1536.1536.764.764.0.0.0.5021.557.557.500.500.764.764.0.0.0"
-    name="Squire"
-    mpclassdivision="bre_cavalry_lvl1"
-    id="squire.grism">
+  <ClanClass clan="GRISM" color1="FF2d0d0d" color2="FF0f0d0b" banner="3.556.564.1536.1536.764.764.0.0.0.5021.557.557.500.500.764.764.0.0.0" name="Squire" mpclassdivision="bre_cavalry_lvl1" id="squire.grism">
     <Weapon0>
       <equipment id="b2_lance_grism"/>
     </Weapon0>
@@ -14359,14 +12146,7 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
-  <ClanClass 
-    clan="GRISM"
-    color1="FF470c0c"
-    color2="FF181616"
-    banner="3.556.564.1536.1536.764.764.0.0.0.5021.557.557.500.500.764.764.0.0.0"
-    name="Eustache de Grismerie"
-    mpclassdivision="bre_cavalry_lvl2"
-    id="knight_errant.grism">
+  <ClanClass clan="GRISM" color1="FF470c0c" color2="FF181616" banner="3.556.564.1536.1536.764.764.0.0.0.5021.557.557.500.500.764.764.0.0.0" name="Eustache de Grismerie" mpclassdivision="bre_cavalry_lvl2" id="knight_errant.grism">
     <Weapon0>
       <equipment id="b2_lance_grism"/>
       <equipment id="b3_kerrant_lance_grism" disablerandomize="true"/>
