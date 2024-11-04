@@ -866,6 +866,7 @@
     <Head>
       <equipment id="b3_order_novice_helmet1" />
       <equipment id="b3_order_novice_helmet2" />
+      <equipment id="null" disablerandomize="true" />
     </Head>
     <Body>
       <equipment id="b3_order_novice_body" />
@@ -898,6 +899,7 @@
     </Weapon1>
     <Head>
       <equipment id="b3_order_sergeant_helmet" />
+      <equipment id="null" disablerandomize="true" />
     </Head>
     <Body>
       <equipment id="b3_order_sergeant_body" />
