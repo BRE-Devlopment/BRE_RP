@@ -4,4 +4,5 @@
   <outputDirectory>../MBModule/MBModule/</outputDirectory>
   <XMLDirectory>../WOTS/Modules/BRE_RP/</XMLDirectory>
   <ModuleAssemblyDirectory>../WOTS/bin/</ModuleAssemblyDirectory>
+  <file id="soln_manifold_mappings" name="ModuleData/clothing_materials.xml" type="clothing_materials" />
 </base>
