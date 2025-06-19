@@ -43,7 +43,7 @@
 			eventRef.Play();
 		}
   -->
-		<module_sound name="troll_epic" sound_category="mission_voice" path="troll_epic.ogg"/>
+		<module_sound name="troll_puke" sound_category="mission_voice" path="troll_puke.ogg"/>
 		<module_sound name="vomit_missile_impact" sound_category="mission_material_impact" path="vomit_missile_impact.ogg"/>
 	</module_sounds>
 </base>

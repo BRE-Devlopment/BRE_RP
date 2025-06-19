@@ -6,7 +6,7 @@
     	skeleton="troll_skeleton">
 		<action
 			type="act_bre_troll_puke"
-			animation="puke_test" />
+			animation="troll_puke" />
 		<action
 			type="act_bre_troll_stomp"
 			animation="troll_stomp" />
