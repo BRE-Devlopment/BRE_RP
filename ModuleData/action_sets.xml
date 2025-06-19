@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<action_sets>
+    <action_set 
+    	id="as_troll" 
+    	base_set="as_human_warrior" 
+    	skeleton="troll_skeleton">
+		<action
+			type="act_bre_troll_puke"
+			animation="puke_test" />
+		<action
+			type="act_bre_troll_stomp"
+			animation="troll_stomp" />
+    </action_set>
+</action_sets>

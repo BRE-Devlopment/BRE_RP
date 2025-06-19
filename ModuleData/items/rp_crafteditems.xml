@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+	<!--MACES-->
+  	<CraftedItem multiplayer_item="true" id="b3_chaos_troll_mace" name="Chaos Troll Mace" crafting_template="B2_OneHandedMace">
+    	<Pieces>
+      		<Piece id="b3_chaos_troll_mace_head" Type="Blade" scale_factor ="150"/>
+      		<Piece id="b3_chaos_troll_mace_handle" Type="Handle" scale_factor ="150"/>
+    	</Pieces>
+  	</CraftedItem>
+</Items>

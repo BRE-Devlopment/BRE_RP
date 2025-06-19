@@ -1,46 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
-	<!--WIP-->
 	<BannerIconData>
-		<BannerIconGroup id="18" name="bannericons_casual" is_pattern="false">
-			<!--OMEY-->
-			<Icon id="6000" material_name="bannericons_casual" texture_index="0" />
-			<!--CI-->
-			<Icon id="6001" material_name="bannericons_casual" texture_index="1" />
-			<!--LBO-->
-			<Icon id="6002" material_name="bannericons_casual" texture_index="2" />
-			<!--IPL-->
-			<Icon id="6003" material_name="bannericons_casual" texture_index="3" />
-			<!--LBO-PRE-->
-			<Icon id="6004" material_name="bannericons_casual" texture_index="4" />
-			<!--KOH-->
-			<Icon id="6005" material_name="bannericons_casual" texture_index="5" />
-			<!--KOFE-->
-			<Icon id="6006" material_name="bannericons_casual" texture_index="6" />
-			<!--XIII-->
-			<Icon id="6007" material_name="bannericons_casual" texture_index="7" />
-			<!--KOTF-->
-			<Icon id="6008" material_name="bannericons_casual" texture_index="8" />
-			<!--HOST-->
-			<Icon id="6009" material_name="bannericons_casual" texture_index="9" />
-			<!--SVCI-->
-			<Icon id="6010" material_name="bannericons_casual" texture_index="10" />
-			<!--SAN-->
-			<Icon id="6011" material_name="bannericons_casual" texture_index="11" />
-			<!--TOL-->
-			<Icon id="6012" material_name="bannericons_casual" texture_index="12" />
-		</BannerIconGroup>
-		<BannerIconGroup id="21" name="bannericons_casual_ci" is_pattern="false">
-			<Icon id="6500" material_name="bannericons_casual_ci" texture_index="0" />
-			<Icon id="6501" material_name="bannericons_casual_ci" texture_index="1" />
-			<Icon id="6502" material_name="bannericons_casual_ci" texture_index="2" />
-			<Icon id="6503" material_name="bannericons_casual_ci" texture_index="3" />
-			<Icon id="6504" material_name="bannericons_casual_ci" texture_index="4" />
-			<Icon id="6505" material_name="bannericons_casual_ci" texture_index="5" />
-			<Icon id="6506" material_name="bannericons_casual_ci" texture_index="6" />
+		<BannerIconGroup id="18" name="bannericons_rp" is_pattern="false">
+			<Icon id="6000" material_name="bannericons_rp" texture_index="0" />
+			<Icon id="6001" material_name="bannericons_rp" texture_index="1" />
+			<Icon id="6002" material_name="bannericons_rp" texture_index="2" />
+			<Icon id="6003" material_name="bannericons_rp" texture_index="3" />
+			<Icon id="6004" material_name="bannericons_rp" texture_index="4" />
 		</BannerIconGroup>
 		<BannerColors>
-			<!--<Color id="600" hex="0xFF19357d"/>-->
+			<Color id="600" hex="0xFF5c1710"/>
+			<Color id="601" hex="0xFF38471a"/>
+			<Color id="602" hex="0xFF502a58"/>
+			<Color id="603" hex="0xFF134c64"/>
+			<Color id="604" hex="0xFF1f1f1f"/>
+
+			<Color id="605" hex="0xFFefede3"/>
 		</BannerColors>
 	</BannerIconData>
 </base>

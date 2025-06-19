@@ -1,0 +1,53 @@
+<Prefab>
+  <Constants>
+  </Constants>
+  <Window>
+    <Widget DoNotAcceptEvents="true" WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent">
+      <Children>
+        <ListPanel StackLayout.LayoutMethod="VerticalTopToBottom" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" VerticalAlignment="Bottom" PositionYOffset="55">
+          <Children>
+            <Widget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="465" SuggestedHeight="133" Sprite="magic_background" PositionYOffset="-55">
+              <Children>
+                <GridWidget DataSource="{Spells}" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" ColumnCount="5" DefaultCellHeight="85" DefaultCellWidth="82" HorizontalAlignment="Center" VerticalAlignment="Center" PositionYOffset="10">
+                  <ItemTemplate>
+                    <Widget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="85" SuggestedHeight="82">
+                      <Children>
+                        <Widget IsHidden="@IsEmpty" WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent">
+                          <Children>
+                            <Widget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="67" SuggestedHeight="67" Sprite="@SpriteName" HorizontalAlignment="Center" VerticalAlignment="Center">
+                              <Children>
+                                <StretchingWidget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="67" SuggestedHeight="67" Sprite="BlankWhiteSquare_9" Color="#FFFFFFFF" AlphaFactor="0.7" UseWidth="false" FullValue="@FullCooldown" Value="@CooldownLeft" VerticalAlignment="Bottom"/>
+                                <Widget IsHidden="@HasEnoughMana" WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" Sprite="BlankWhiteSquare_9" Color="#000000FF" AlphaFactor="0.5"/>
+                              </Children>
+                            </Widget>
+                            <Widget WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" Sprite="magic_frame"/>
+                          </Children>
+                        </Widget>
+                        <Widget IsVisible="@IsEmpty" WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" Sprite="magic_frame_empty"/>
+                      </Children>
+                    </Widget>
+                  </ItemTemplate>
+                </GridWidget>
+              </Children>
+            </Widget>
+            <Widget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center">
+              <Children>
+                <Widget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" PositionXOffset="20">
+                  <Children>
+                    <Widget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="405" SuggestedHeight="57" VerticalAlignment="Center" Sprite="General\Mission\hero_canvas"/>
+                    <Widget Id="DelayWidget" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="373" SuggestedHeight="20" VerticalAlignment="Center" Sprite="BlankWhiteSquare_9" Color="#FFFFFFFF" IsVisible="false"/>
+                    <StretchingWidget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="373" SuggestedHeight="20" VerticalAlignment="Center" Sprite="BlankWhiteSquare_9" Color="#0fb3dbFF" UseWidth="true" FullValue="@MaxMana" Value="@Mana" DelayWidget="..\DelayWidget"/>
+                    <Widget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="396" SuggestedHeight="57" VerticalAlignment="Center" Sprite="magic_bar"/>
+                  </Children>
+                </Widget>
+                <Widget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="70" SuggestedHeight="70" Sprite="magic_icon" PositionYOffset="-10"/>
+              </Children>
+            </Widget>
+          </Children>
+        </ListPanel>
+      </Children>
+      <!--<Widget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="373" SuggestedHeight="20" VerticalAlignment="Center" Sprite="BlankWhiteSquare_9" Color="#0fb3dbFF"/>-->
+      <!--<StretchingWidget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="373" SuggestedHeight="20" VerticalAlignment="Center" Sprite="BlankWhiteSquare_9" Color="#0fb3dbFF" UseWidth="true" FullValue="@MaxMana" Value="@Mana"/>-->
+    </Widget>
+  </Window>
+</Prefab>

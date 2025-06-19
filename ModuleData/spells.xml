@@ -1,0 +1,12 @@
+<Spells>
+	<Spell 
+		id="troll_vomit"
+		effect="TrollVomit"
+		cost="10.0"
+		delay="3.0"/>
+	<Spell 
+		id="troll_stomp"
+		effect="TrollStomp"
+		cost="5.0"
+		delay="3.0"/>
+</Spells>

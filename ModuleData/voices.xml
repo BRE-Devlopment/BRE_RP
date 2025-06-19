@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/xmlschema-instance" xmlns:xsd="http://www.w3.org/2001/xmlschema"
+	type="face_animation_record">
+	<face_animation_records>
+		<face_animation_record
+			id="bre_troll_puke"
+			animation_name="bre_troll_head">
+			<flags/>
+		</face_animation_record>
+	</face_animation_records>
+</base>

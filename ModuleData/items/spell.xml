@@ -1,0 +1,48 @@
+<Items>
+	<Item
+		id="troll_vomit_missile"
+		name="Troll Vomit"
+		body_name="bo_projectile_rock"
+		holster_body_name="bo_axe_short"
+		flying_mesh="empty_mesh"
+		mesh="empty_mesh"
+		holster_mesh=""
+		subtype="arrows"
+		weight="15"
+		Type="Thrown"
+		item_holsters="">
+		<ItemComponent>
+			<Weapon
+				weapon_class="Boulder"
+				ammo_class="Boulder"
+				stack_amount="1"
+				position="0.05, -0.15, 0"
+				physics_material="vomit_missile"
+				thrust_speed="100"
+				speed_rating="0"
+				missile_speed="8"
+				weapon_length="95"
+				thrust_damage="70"
+				item_usage="heavy_stone"
+				trail_particle_name="vomit_particle"
+				rotation_speed="2, 0.5, 0">
+				<WeaponFlags
+					RangedWeapon="true"
+					NotUsableWithOneHand="true"
+					TwoHandIdleOnMount="true"
+					CanPenetrateShield="true"
+					MissileWithPhysics="true"
+					Consumable="true"
+					LeavesTrail="true"
+					Burning="true"
+					AffectsAreaBig="true"
+					AmmoBreaksOnBounceBack="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			QuickFadeOut="true"
+			CannotBePickedUp="true"
+			DropOnWeaponChange="true"
+			DropOnAnyAction="true" />
+	</Item>
+</Items>

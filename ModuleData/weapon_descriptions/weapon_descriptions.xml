@@ -1,3 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <WeaponDescriptions>
+  <WeaponDescription id="TrollMace" weapon_class="Mace" item_usage_features="onehanded:block:shield:tipdraw:swing:thrust">
+    <WeaponFlags>
+      <WeaponFlag value="MeleeWeapon"/>
+    </WeaponFlags>
+    <AvailablePieces>
+      <AvailablePiece id="b3_chaos_troll_mace_head"/>
+      <AvailablePiece id="b3_chaos_troll_mace_handle"/>
+    </AvailablePieces>
+  </WeaponDescription>
 </WeaponDescriptions>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CraftingPieces>
+  <!--TROLL MACE-->
+  <CraftingPiece id="b3_chaos_troll_mace_head" name="Chaos Troll Mace Head" tier="2" piece_type="Blade" mesh="bre_chaos_troll_mace_head" length="31.53" weight="0.2" full_scale="true" excluded_item_usage_features="thrust">
+    <BuildData piece_offset="-20.0" />
+    <BladeData physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="4.25" />
+    </BladeData>
+  </CraftingPiece>
+  <CraftingPiece id="b3_chaos_troll_mace_handle" name="Chaos Troll Mace Handle" tier="2" piece_type="Handle" mesh="bre_chaos_troll_mace_handle" length="134.87" weight="0.40">
+    <BuildData piece_offset="20.0" />
+  </CraftingPiece>
+</CraftingPieces>
