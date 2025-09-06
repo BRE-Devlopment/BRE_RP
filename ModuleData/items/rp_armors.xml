@@ -1,0 +1,1427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+	<!--HEAD-->
+  <Item 
+    id="rp_cultist_head_chu_v1" 
+    name="Cultist's Hat" 
+    subtype="head_armor" 
+    mesh="chaos_cultist_head_undivided_v1" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0" 
+        hair_cover_type="all" 
+        modifier_group="cloth" 
+        material_type="Cloth" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_cultist_head_chu_v2" 
+    name="Cultist's Hat" 
+    subtype="head_armor" 
+    mesh="chaos_cultist_head_undivided_v2" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0" 
+        hair_cover_type="all" 
+        modifier_group="cloth" 
+        material_type="Cloth" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_cultist_head_chu_v3" 
+    name="Cultist's Hat" 
+    subtype="head_armor" 
+    mesh="chaos_cultist_head_undivided_v3" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0" 
+        hair_cover_type="all" 
+        modifier_group="cloth" 
+        material_type="Cloth" 
+        beard_cover_type="none" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_cultist_head_chk_v1" 
+    name="Cultist's Hat" 
+    subtype="head_armor" 
+    mesh="chaos_cultist_head_khorne_v1" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0" 
+        hair_cover_type="all" 
+        modifier_group="cloth" 
+        material_type="Cloth" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_cultist_head_chk_v2" 
+    name="Cultist's Hat" 
+    subtype="head_armor" 
+    mesh="chaos_cultist_head_khorne_v2" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0" 
+        hair_cover_type="all" 
+        modifier_group="cloth" 
+        material_type="Cloth" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_cultist_head_chk_v3" 
+    name="Cultist's Hat" 
+    subtype="head_armor" 
+    mesh="chaos_cultist_head_khorne_v3" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0" 
+        hair_cover_type="all" 
+        modifier_group="cloth" 
+        material_type="Cloth" 
+        beard_cover_type="none" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_cultist_head_chn_v1" 
+    name="Cultist's Hat" 
+    subtype="head_armor" 
+    mesh="chaos_cultist_head_nurgle_v1" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0" 
+        hair_cover_type="all" 
+        modifier_group="cloth" 
+        material_type="Cloth" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_cultist_head_chn_v2" 
+    name="Cultist's Hat" 
+    subtype="head_armor" 
+    mesh="chaos_cultist_head_nurgle_v2" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0" 
+        hair_cover_type="all" 
+        modifier_group="cloth" 
+        material_type="Cloth" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_cultist_head_chn_v3" 
+    name="Cultist's Hat" 
+    subtype="head_armor" 
+    mesh="chaos_cultist_head_nurgle_v3" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0" 
+        hair_cover_type="all" 
+        modifier_group="cloth" 
+        material_type="Cloth" 
+        beard_cover_type="none" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_cultist_head_chs_v1" 
+    name="Cultist's Hat" 
+    subtype="head_armor" 
+    mesh="chaos_cultist_head_slaanesh_v1" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0" 
+        hair_cover_type="all" 
+        modifier_group="cloth" 
+        material_type="Cloth" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_cultist_head_chs_v2" 
+    name="Cultist's Hat" 
+    subtype="head_armor" 
+    mesh="chaos_cultist_head_slaanesh_v2" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0" 
+        hair_cover_type="all" 
+        modifier_group="cloth" 
+        material_type="Cloth" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_cultist_head_chs_v3" 
+    name="Cultist's Hat" 
+    subtype="head_armor" 
+    mesh="chaos_cultist_head_slaanesh_v3" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0" 
+        hair_cover_type="all" 
+        modifier_group="cloth" 
+        material_type="Cloth" 
+        beard_cover_type="none" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_cultist_head_cht_v1" 
+    name="Cultist's Hat" 
+    subtype="head_armor" 
+    mesh="chaos_cultist_head_tzeentch_v1" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0" 
+        hair_cover_type="all" 
+        modifier_group="cloth" 
+        material_type="Cloth" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_cultist_head_cht_v2" 
+    name="Cultist's Hat" 
+    subtype="head_armor" 
+    mesh="chaos_cultist_head_tzeentch_v2" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0" 
+        hair_cover_type="all" 
+        modifier_group="cloth" 
+        material_type="Cloth" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_cultist_head_cht_v3" 
+    name="Cultist's Hat" 
+    subtype="head_armor" 
+    mesh="chaos_cultist_head_tzeentch_v3" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="cloth" 
+        material_type="Cloth" 
+        beard_cover_type="none" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_cultist_sergeant_head_chu" 
+    name="Cultist Sergeant's Hat"
+    subtype="head_armor" 
+    mesh="chaos_cultist_head_sergeant_undivided" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="cloth" 
+        material_type="Cloth" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_cultist_sergeant_head_chk" 
+    name="Cultist Sergeant's Hat"
+    subtype="head_armor" 
+    mesh="chaos_cultist_head_sergeant_khorne" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="cloth" 
+        material_type="Cloth" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_cultist_sergeant_head_chn"
+    name="Cultist Sergeant's Hat"
+    subtype="head_armor" 
+    mesh="chaos_cultist_head_sergeant_nurgle" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="cloth" 
+        material_type="Cloth" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_cultist_sergeant_head_chs" 
+    name="Cultist Sergeant's Hat"
+    subtype="head_armor" 
+    mesh="chaos_cultist_head_sergeant_slaanesh" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="cloth" 
+        material_type="Cloth" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_cultist_sergeant_head_cht" 
+    name="Cultist Sergeant's Hat"
+    subtype="head_armor" 
+    mesh="chaos_cultist_head_sergeant_tzeentch" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="cloth" 
+        material_type="Cloth" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <!--CAPE-->
+  <Item
+    id="rp_cultist_cape_chu_v1"
+    name="Cultist's Necklace"
+    mesh="chaos_cultist_shoulders_undivided_v1"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_cape_chu_v2"
+    name="Cultist's Necklace"
+    mesh="chaos_cultist_shoulders_undivided_v2"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_cape_chu_v3"
+    name="Cultist's Necklace"
+    mesh="chaos_cultist_shoulders_undivided_v3"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_cape_chk_v1"
+    name="Cultist's Necklace"
+    mesh="chaos_cultist_shoulders_khorne_v1"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_cape_chk_v2"
+    name="Cultist's Necklace"
+    mesh="chaos_cultist_shoulders_khorne_v2"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_cape_chk_v3"
+    name="Cultist's Necklace"
+    mesh="chaos_cultist_shoulders_khorne_v3"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_cape_chn_v1"
+    name="Cultist's Necklace"
+    mesh="chaos_cultist_shoulders_nurgle_v1"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_cape_chn_v2"
+    name="Cultist's Necklace"
+    mesh="chaos_cultist_shoulders_nurgle_v2"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_cape_chn_v3"
+    name="Cultist's Necklace"
+    mesh="chaos_cultist_shoulders_nurgle_v3"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_cape_chs_v1"
+    name="Cultist's Necklace"
+    mesh="chaos_cultist_shoulders_slaanesh_v1"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_cape_chs_v2"
+    name="Cultist's Necklace"
+    mesh="chaos_cultist_shoulders_slaanesh_v2"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_cape_chs_v3"
+    name="Cultist's Necklace"
+    mesh="chaos_cultist_shoulders_slaanesh_v3"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_cape_cht_v1"
+    name="Cultist's Necklace"
+    mesh="chaos_cultist_shoulders_tzeentch_v1"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_cape_cht_v2"
+    name="Cultist's Necklace"
+    mesh="chaos_cultist_shoulders_tzeentch_v2"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_cape_cht_v3"
+    name="Cultist's Necklace"
+    mesh="chaos_cultist_shoulders_tzeentch_v3"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_cape_cht_v3"
+    name="Cultist's Necklace"
+    mesh="chaos_cultist_shoulders_tzeentch_v3"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_sergeant_cape_chu"
+    name="Cultist's Symbol"
+    mesh="chaos_cultist_shoulders_sergeant_undivided"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_sergeant_cape_chk"
+    name="Cultist's Symbol"
+    mesh="chaos_cultist_shoulders_sergeant_khorne"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_sergeant_cape_chn"
+    name="Cultist's Symbol"
+    mesh="chaos_cultist_shoulders_sergeant_nurgle"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_sergeant_cape_chs"
+    name="Cultist's Symbol"
+    mesh="chaos_cultist_shoulders_sergeant_slaanesh"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_sergeant_cape_cht"
+    name="Cultist's Symbol"
+    mesh="chaos_cultist_shoulders_sergeant_tzeentch"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <!--BODY-->
+  <Item
+    id="rp_cultist_body_chu_v1"
+    name="Cultist's Robes"
+    mesh="chaos_cultist_torso_undivided_v1"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_body_chu_v2"
+    name="Cultist's Robes"
+    mesh="chaos_cultist_torso_undivided_v2"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_body_chu_v3"
+    name="Cultist's Robes"
+    mesh="chaos_cultist_torso_undivided_v3"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_body_chk_v1"
+    name="Cultist's Robes"
+    mesh="chaos_cultist_torso_khorne_v1"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_body_chk_v2"
+    name="Cultist's Robes"
+    mesh="chaos_cultist_torso_khorne_v2"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_body_chk_v3"
+    name="Cultist's Robes"
+    mesh="chaos_cultist_torso_khorne_v3"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_body_chn_v1"
+    name="Cultist's Robes"
+    mesh="chaos_cultist_torso_nurgle_v1"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_body_chn_v2"
+    name="Cultist's Robes"
+    mesh="chaos_cultist_torso_nurgle_v2"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_body_chn_v3"
+    name="Cultist's Robes"
+    mesh="chaos_cultist_torso_nurgle_v3"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_body_chs_v1"
+    name="Cultist's Robes"
+    mesh="chaos_cultist_torso_slaanesh_v1"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_body_chs_v2"
+    name="Cultist's Robes"
+    mesh="chaos_cultist_torso_slaanesh_v2"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_body_chs_v3"
+    name="Cultist's Robes"
+    mesh="chaos_cultist_torso_slaanesh_v3"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_body_cht_v1"
+    name="Cultist's Robes"
+    mesh="chaos_cultist_torso_tzeentch_v1"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_body_cht_v2"
+    name="Cultist's Robes"
+    mesh="chaos_cultist_torso_tzeentch_v2"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_body_cht_v3"
+    name="Cultist's Robes"
+    mesh="chaos_cultist_torso_tzeentch_v3"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_sergeant_body_chu"
+    name="Cultist Sergeant's Robes"
+    mesh="chaos_cultist_torso_sergeant_undivided"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_sergeant_body_chk"
+    name="Cultist Sergeant's Robes"
+    mesh="chaos_cultist_torso_sergeant_khorne"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_sergeant_body_chn"
+    name="Cultist Sergeant's Robes"
+    mesh="chaos_cultist_torso_sergeant_nurgle"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_sergeant_body_chs"
+    name="Cultist Sergeant's Robes"
+    mesh="chaos_cultist_torso_sergeant_slaanesh"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_sergeant_body_cht"
+    name="Cultist Sergeant's Robes"
+    mesh="chaos_cultist_torso_sergeant_tzeentch"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <!--GLOVES-->
+  <Item
+    id="rp_cultist_gloves_chu_v1"
+    name="Cultist's Armwraps"
+    mesh="chaos_cultist_gauntlets_undivided_v1"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_gloves_chu_v2"
+    name="Cultist's Armwraps"
+    mesh="chaos_cultist_gauntlets_undivided_v2"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_gloves_chu_v3"
+    name="Cultist's Armwraps"
+    mesh="chaos_cultist_gauntlets_undivided_v3"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_gloves_chk_v1"
+    name="Cultist's Armwraps"
+    mesh="chaos_cultist_gauntlets_khorne_v1"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_gloves_chk_v2"
+    name="Cultist's Armwraps"
+    mesh="chaos_cultist_gauntlets_khorne_v2"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_gloves_chk_v3"
+    name="Cultist's Armwraps"
+    mesh="chaos_cultist_gauntlets_khorne_v3"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_gloves_chn_v1"
+    name="Cultist's Armwraps"
+    mesh="chaos_cultist_gauntlets_nurgle_v1"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_gloves_chn_v2"
+    name="Cultist's Armwraps"
+    mesh="chaos_cultist_gauntlets_nurgle_v2"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_gloves_chn_v3"
+    name="Cultist's Armwraps"
+    mesh="chaos_cultist_gauntlets_nurgle_v3"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_gloves_chs_v1"
+    name="Cultist's Armwraps"
+    mesh="chaos_cultist_gauntlets_slaanesh_v1"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_gloves_chs_v2"
+    name="Cultist's Armwraps"
+    mesh="chaos_cultist_gauntlets_slaanesh_v2"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_gloves_chs_v3"
+    name="Cultist's Armwraps"
+    mesh="chaos_cultist_gauntlets_slaanesh_v3"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_gloves_cht_v1"
+    name="Cultist's Armwraps"
+    mesh="chaos_cultist_gauntlets_tzeentch_v1"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_gloves_cht_v2"
+    name="Cultist's Armwraps"
+    mesh="chaos_cultist_gauntlets_tzeentch_v2"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_gloves_cht_v3"
+    name="Cultist's Armwraps"
+    mesh="chaos_cultist_gauntlets_tzeentch_v3"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <!--LEG-->
+  <Item
+    id="rp_cultist_leg_chu_v1"
+    name="Protector Guard Boots"
+    mesh="chaos_cultist_boots_undivided_v1"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_leg_chu_v2"
+    name="Protector Guard Boots"
+    mesh="chaos_cultist_boots_undivided_v2"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_leg_chu_v3"
+    name="Protector Guard Boots"
+    mesh="chaos_cultist_boots_undivided_v3"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_leg_chk_v1"
+    name="Protector Guard Boots"
+    mesh="chaos_cultist_boots_khorne_v1"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_leg_chk_v2"
+    name="Protector Guard Boots"
+    mesh="chaos_cultist_boots_khorne_v2"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_leg_chk_v3"
+    name="Protector Guard Boots"
+    mesh="chaos_cultist_boots_khorne_v3"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_leg_chn_v1"
+    name="Protector Guard Boots"
+    mesh="chaos_cultist_boots_nurgle_v1"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_leg_chn_v2"
+    name="Protector Guard Boots"
+    mesh="chaos_cultist_boots_nurgle_v2"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_leg_chn_v3"
+    name="Protector Guard Boots"
+    mesh="chaos_cultist_boots_nurgle_v3"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_leg_chs_v1"
+    name="Protector Guard Boots"
+    mesh="chaos_cultist_boots_slaanesh_v1"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_leg_chs_v2"
+    name="Protector Guard Boots"
+    mesh="chaos_cultist_boots_slaanesh_v2"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_leg_chs_v3"
+    name="Protector Guard Boots"
+    mesh="chaos_cultist_boots_slaanesh_v3"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_leg_cht_v1"
+    name="Protector Guard Boots"
+    mesh="chaos_cultist_boots_tzeentch_v1"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_leg_cht_v2"
+    name="Protector Guard Boots"
+    mesh="chaos_cultist_boots_tzeentch_v2"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_cultist_leg_cht_v3"
+    name="Protector Guard Boots"
+    mesh="chaos_cultist_boots_tzeentch_v3"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+</Items>

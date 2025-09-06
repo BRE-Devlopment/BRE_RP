@@ -28,6 +28,108 @@
   <!--CHU-->
   <ClanClass 
     clan="CHU"
+    color1="FF1f1f1f"
+    color2="FFefede3"
+    banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
+    name="Cultist"
+    mpclassdivision="bre_infantry_human"
+    id="chaos_cultist.chu">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="b2_peasant_spear"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b2_peasant_mace"/>
+      <equipment id="b2_peasant_axe"/>
+      <equipment id="b2_peasant_sword"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="rp_cultist_shield_chu_v1"/>
+      <equipment id="rp_cultist_shield_chu_v2"/>
+      <equipment id="rp_cultist_shield_chu_v3"/>
+    </Weapon2>
+    <Head>
+      <equipment id="rp_cultist_head_chu_v1"/>
+      <equipment id="rp_cultist_head_chu_v2"/>
+      <equipment id="rp_cultist_head_chu_v3"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_cultist_cape_chu_v1"/>
+      <equipment id="rp_cultist_cape_chu_v2"/>
+      <equipment id="rp_cultist_cape_chu_v3"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_cultist_body_chu_v1"/>
+      <equipment id="rp_cultist_body_chu_v2"/>
+      <equipment id="rp_cultist_body_chu_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_cultist_gloves_chu_v1"/>
+      <equipment id="rp_cultist_gloves_chu_v2"/>
+      <equipment id="rp_cultist_gloves_chu_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_cultist_leg_chu_v1"/>
+      <equipment id="rp_cultist_leg_chu_v2"/>
+      <equipment id="rp_cultist_leg_chu_v3"/>
+    </Leg>
+  </ClanClass>
+  <ClanClass 
+    clan="CHU"
+    color1="FF1f1f1f"
+    color2="FFefede3"
+    banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
+    name="Cultist Sergeant"
+    mpclassdivision="bre_infantry_human"
+    id="chaos_cultist_sergeant.chu">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="b2_peasant_spear"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b2_peasant_mace"/>
+      <equipment id="b2_peasant_axe"/>
+      <equipment id="b2_peasant_sword"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="rp_cultist_shield_chu_v1"/>
+      <equipment id="rp_cultist_shield_chu_v2"/>
+      <equipment id="rp_cultist_shield_chu_v3"/>
+      <equipment id="b3_banner_chu_v1" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="b3_banner_chu_v2" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="b3_banner_chu_v3" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="b3_banner_chu_v4" disablegroup="Weapon0" disablerandomize="true"/>
+    </Weapon2>
+    <Head>
+      <equipment id="rp_cultist_sergeant_head_chu"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_cultist_cape_chu_v1"/>
+      <equipment id="rp_cultist_cape_chu_v2"/>
+      <equipment id="rp_cultist_cape_chu_v3"/>
+      <equipment id="rp_cultist_sergeant_cape_chu" disablerandomize="true"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_cultist_sergeant_body_chu"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_cultist_gloves_chu_v1"/>
+      <equipment id="rp_cultist_gloves_chu_v2"/>
+      <equipment id="rp_cultist_gloves_chu_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_cultist_leg_chu_v1"/>
+      <equipment id="rp_cultist_leg_chu_v2"/>
+      <equipment id="rp_cultist_leg_chu_v3"/>
+    </Leg>
+  </ClanClass>
+
+  <ClanClass 
+    clan="CHU"
     color1="FFdab42b"
     color2="FF1f1a19"
     banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
@@ -51,6 +153,56 @@
     </Weapon0>
   </ClanClass>
   <!--CHK-->
+  <ClanClass 
+    clan="CHK"
+    color1="FF5c1710"
+    color2="FFefede3"
+    banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0"
+    name="Cultist"
+    mpclassdivision="bre_infantry_human"
+    id="chaos_cultist.chk">
+    <UsableWeaponGroups>
+      <!--WIP-->
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="b2_peasant_mace"/>
+      <equipment id="b2_peasant_axe"/>
+      <equipment id="b2_peasant_sword"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_cultist_shield_chk_v1"/>
+      <equipment id="rp_cultist_shield_chk_v2"/>
+      <equipment id="rp_cultist_shield_chk_v3"/>
+    </Weapon1>
+    <Head>
+      <equipment id="rp_cultist_head_chk_v1"/>
+      <equipment id="rp_cultist_head_chk_v2"/>
+      <equipment id="rp_cultist_head_chk_v3"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_cultist_cape_chk_v1"/>
+      <equipment id="rp_cultist_cape_chk_v2"/>
+      <equipment id="rp_cultist_cape_chk_v3"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_cultist_body_chk_v1"/>
+      <equipment id="rp_cultist_body_chk_v2"/>
+      <equipment id="rp_cultist_body_chk_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_cultist_gloves_chk_v1"/>
+      <equipment id="rp_cultist_gloves_chk_v2"/>
+      <equipment id="rp_cultist_gloves_chk_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_cultist_leg_chk_v1"/>
+      <equipment id="rp_cultist_leg_chk_v2"/>
+      <equipment id="rp_cultist_leg_chk_v3"/>
+    </Leg>
+  </ClanClass>
+
+
   <ClanClass 
     clan="CHK"
     color1="FFdab42b"
@@ -78,6 +230,56 @@
   <!--CHN-->
   <ClanClass 
     clan="CHN"
+    color1="FF38471a"
+    color2="FFefede3"
+    banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
+    name="Cultist"
+    mpclassdivision="bre_infantry_human"
+    id="chaos_cultist.chn">
+    <UsableWeaponGroups>
+      <!--WIP-->
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="b2_peasant_mace"/>
+      <equipment id="b2_peasant_axe"/>
+      <equipment id="b2_peasant_sword"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_cultist_shield_chn_v1"/>
+      <equipment id="rp_cultist_shield_chn_v2"/>
+      <equipment id="rp_cultist_shield_chn_v3"/>
+    </Weapon1>
+    <Head>
+      <equipment id="rp_cultist_head_chn_v1"/>
+      <equipment id="rp_cultist_head_chn_v2"/>
+      <equipment id="rp_cultist_head_chn_v3"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_cultist_cape_chn_v1"/>
+      <equipment id="rp_cultist_cape_chn_v2"/>
+      <equipment id="rp_cultist_cape_chn_v3"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_cultist_body_chn_v1"/>
+      <equipment id="rp_cultist_body_chn_v2"/>
+      <equipment id="rp_cultist_body_chn_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_cultist_gloves_chn_v1"/>
+      <equipment id="rp_cultist_gloves_chn_v2"/>
+      <equipment id="rp_cultist_gloves_chn_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_cultist_leg_chn_v1"/>
+      <equipment id="rp_cultist_leg_chn_v2"/>
+      <equipment id="rp_cultist_leg_chn_v3"/>
+    </Leg>
+  </ClanClass>
+
+
+  <ClanClass 
+    clan="CHN"
     color1="FFdab42b"
     color2="FF1f1a19"
     banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
@@ -103,6 +305,56 @@
   <!--CHS-->
   <ClanClass 
     clan="CHS"
+    color1="FF502a58"
+    color2="FFefede3"
+    banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
+    name="Cultist"
+    mpclassdivision="bre_infantry_human"
+    id="chaos_cultist.chs">
+    <UsableWeaponGroups>
+      <!--WIP-->
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="b2_peasant_mace"/>
+      <equipment id="b2_peasant_axe"/>
+      <equipment id="b2_peasant_sword"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_cultist_shield_chs_v1"/>
+      <equipment id="rp_cultist_shield_chs_v2"/>
+      <equipment id="rp_cultist_shield_chs_v3"/>
+    </Weapon1>
+    <Head>
+      <equipment id="rp_cultist_head_chs_v1"/>
+      <equipment id="rp_cultist_head_chs_v2"/>
+      <equipment id="rp_cultist_head_chs_v3"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_cultist_cape_chs_v1"/>
+      <equipment id="rp_cultist_cape_chs_v2"/>
+      <equipment id="rp_cultist_cape_chs_v3"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_cultist_body_chs_v1"/>
+      <equipment id="rp_cultist_body_chs_v2"/>
+      <equipment id="rp_cultist_body_chs_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_cultist_gloves_chs_v1"/>
+      <equipment id="rp_cultist_gloves_chs_v2"/>
+      <equipment id="rp_cultist_gloves_chs_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_cultist_leg_chs_v1"/>
+      <equipment id="rp_cultist_leg_chs_v2"/>
+      <equipment id="rp_cultist_leg_chs_v3"/>
+    </Leg>
+  </ClanClass>
+
+
+  <ClanClass 
+    clan="CHS"
     color1="FFdab42b"
     color2="FF1f1a19"
     banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
@@ -126,6 +378,56 @@
     </Weapon0>
   </ClanClass>
   <!--CHT-->
+  <ClanClass 
+    clan="CHT"
+    color1="FF134c64"
+    color2="FFefede3"
+    banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0"
+    name="Cultist"
+    mpclassdivision="bre_infantry_human"
+    id="chaos_cultist.cht">
+    <UsableWeaponGroups>
+      <!--WIP-->
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="b2_peasant_mace"/>
+      <equipment id="b2_peasant_axe"/>
+      <equipment id="b2_peasant_sword"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_cultist_shield_cht_v1"/>
+      <equipment id="rp_cultist_shield_cht_v2"/>
+      <equipment id="rp_cultist_shield_cht_v3"/>
+    </Weapon1>
+    <Head>
+      <equipment id="rp_cultist_head_cht_v1"/>
+      <equipment id="rp_cultist_head_cht_v2"/>
+      <equipment id="rp_cultist_head_cht_v3"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_cultist_cape_cht_v1"/>
+      <equipment id="rp_cultist_cape_cht_v2"/>
+      <equipment id="rp_cultist_cape_cht_v3"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_cultist_body_cht_v1"/>
+      <equipment id="rp_cultist_body_cht_v2"/>
+      <equipment id="rp_cultist_body_cht_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_cultist_gloves_cht_v1"/>
+      <equipment id="rp_cultist_gloves_cht_v2"/>
+      <equipment id="rp_cultist_gloves_cht_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_cultist_leg_cht_v1"/>
+      <equipment id="rp_cultist_leg_cht_v2"/>
+      <equipment id="rp_cultist_leg_cht_v3"/>
+    </Leg>
+  </ClanClass>
+
+
   <ClanClass 
     clan="CHT"
     color1="FFdab42b"
