@@ -596,6 +596,91 @@
         beard_cover_type="type2" />
     </ItemComponent>
   </Item>
+  <Item 
+    id="rp_marauder_chieftain_head_chu" 
+    name="Marauder Chieftain's Helmet"
+    subtype="head_armor" 
+    mesh="b3_chaos_marauder_helmet_sergeant_undivided" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="type2" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_marauder_chieftain_head_chk" 
+    name="Marauder Chieftain's Helmet"
+    subtype="head_armor" 
+    mesh="b3_chaos_marauder_helmet_sergeant_khorne" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="type2" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_marauder_chieftain_head_chn" 
+    name="Marauder Chieftain's Helmet"
+    subtype="head_armor" 
+    mesh="b3_chaos_marauder_helmet_sergeant_nurgle" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="type2" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_marauder_chieftain_head_chs" 
+    name="Marauder Chieftain's Helmet"
+    subtype="head_armor" 
+    mesh="b3_chaos_marauder_helmet_sergeant_slaanesh" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="type2" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_marauder_chieftain_head_cht" 
+    name="Marauder Chieftain's Helmet"
+    subtype="head_armor" 
+    mesh="b3_chaos_marauder_helmet_sergeant_tzeentch" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="type2" />
+    </ItemComponent>
+  </Item>
   <!--CAPE-->
   <Item
     id="rp_cultist_cape_chu_v1"

@@ -180,6 +180,50 @@
       <equipment id="rp_marauder_leg_chu_v3"/>
     </Leg>
   </ClanClass>
+  <ClanClass 
+    clan="CHU"
+    color1="FF1f1f1f"
+    color2="FFefede3"
+    banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
+    name="Marauder Chieftain"
+    mpclassdivision="bre_infantry_chaos_marauder_chieftain"
+    id="chaos_marauder_chieftain.chu">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="b2_peasant_mace"/>
+      <equipment id="b2_peasant_axe"/>
+      <equipment id="b2_peasant_sword"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_marauder_shield_chu_v1"/>
+      <equipment id="rp_marauder_shield_chu_v2"/>
+      <equipment id="rp_marauder_shield_chu_v3"/>
+    </Weapon1>
+    <Head>
+      <equipment id="rp_marauder_chieftain_head_chu"/>
+    </Head>
+    <Cape>
+      <equipment id="mp_bearskin"/>
+      <equipment id="null"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_marauder_body_chu_v1"/>
+      <equipment id="rp_marauder_body_chu_v2"/>
+      <equipment id="rp_marauder_body_chu_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_marauder_gloves_chu_v1"/>
+      <equipment id="rp_marauder_gloves_chu_v2"/>
+      <equipment id="rp_marauder_gloves_chu_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_marauder_leg_chu_v1"/>
+      <equipment id="rp_marauder_leg_chu_v2"/>
+      <equipment id="rp_marauder_leg_chu_v3"/>
+    </Leg>
+  </ClanClass>
 
   <ClanClass 
     clan="CHU"
