@@ -224,6 +224,110 @@
       <equipment id="rp_marauder_leg_chu_v3"/>
     </Leg>
   </ClanClass>
+  <ClanClass 
+    clan="CHU"
+    color1="FF1f1f1f"
+    color2="FFefede3"
+    banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
+    name="Marauder Horseman"
+    mpclassdivision="bre_cavalry_chaos_marauder_horseman"
+    id="chaos_marauder_horseman.chu">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="b2_peasant_mace"/>
+      <equipment id="b2_peasant_axe"/>
+      <equipment id="b2_peasant_sword"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_marauder_shield_chu_v1"/>
+      <equipment id="rp_marauder_shield_chu_v2"/>
+      <equipment id="rp_marauder_shield_chu_v3"/>
+    </Weapon1>
+    <Head>
+      <equipment id="rp_marauder_head_chu_v1"/>
+      <equipment id="rp_marauder_head_chu_v2"/>
+      <equipment id="rp_marauder_head_chu_v3"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_marauder_cape_chu_v1"/>
+      <equipment id="rp_marauder_cape_chu_v2"/>
+      <equipment id="rp_marauder_cape_chu_v3"/>
+      <equipment id="null"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_marauder_body_chu_v1"/>
+      <equipment id="rp_marauder_body_chu_v2"/>
+      <equipment id="rp_marauder_body_chu_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_marauder_gloves_chu_v1"/>
+      <equipment id="rp_marauder_gloves_chu_v2"/>
+      <equipment id="rp_marauder_gloves_chu_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_marauder_leg_chu_v1"/>
+      <equipment id="rp_marauder_leg_chu_v2"/>
+      <equipment id="rp_marauder_leg_chu_v3"/>
+    </Leg>
+    <HorseHarness>
+      <equipment id="rp_marauder_horseharness_chx_v2"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="rp_marauder_horse_chx"/>
+    </Horse>
+  </ClanClass>
+  <ClanClass 
+    clan="CHU"
+    color1="FF1f1f1f"
+    color2="FFefede3"
+    banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
+    name="Marauder Chieftain (Mounted)"
+    mpclassdivision="bre_cavalry_chaos_mounted_marauder_chieftain"
+    id="chaos_mounted_marauder_chieftain.chu">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="b2_peasant_mace"/>
+      <equipment id="b2_peasant_axe"/>
+      <equipment id="b2_peasant_sword"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_marauder_shield_chu_v1"/>
+      <equipment id="rp_marauder_shield_chu_v2"/>
+      <equipment id="rp_marauder_shield_chu_v3"/>
+    </Weapon1>
+    <Head>
+      <equipment id="rp_marauder_chieftain_head_chu"/>
+    </Head>
+    <Cape>
+      <equipment id="mp_bearskin"/>
+      <equipment id="null"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_marauder_body_chu_v1"/>
+      <equipment id="rp_marauder_body_chu_v2"/>
+      <equipment id="rp_marauder_body_chu_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_marauder_gloves_chu_v1"/>
+      <equipment id="rp_marauder_gloves_chu_v2"/>
+      <equipment id="rp_marauder_gloves_chu_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_marauder_leg_chu_v1"/>
+      <equipment id="rp_marauder_leg_chu_v2"/>
+      <equipment id="rp_marauder_leg_chu_v3"/>
+    </Leg>
+    <HorseHarness>
+      <equipment id="rp_marauder_horseharness_chx_v1"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="rp_marauder_horse_chx"/>
+    </Horse>
+  </ClanClass>
 
   <ClanClass 
     clan="CHU"

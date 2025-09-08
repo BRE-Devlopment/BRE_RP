@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+  <!--HORSE-->
+  <Item
+    id="rp_marauder_horse_chx"
+    name="Marauder Steed"
+    mesh="chaos_war_horse"
+    culture="Culture.neutral_culture"
+    item_category="horse"
+    weight="410"
+    Type="Horse">
+    <ItemComponent>
+      <Horse
+        monster="Monster.horse"
+        maneuver="69"
+        speed="42"
+        charge_damage="7"
+        body_length="113"
+        is_mountable="true"
+        extra_health="75" />
+    </ItemComponent>
+  </Item>
+</Items>

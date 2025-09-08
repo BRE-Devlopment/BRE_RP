@@ -2679,4 +2679,47 @@
         material_type="Leather" />
     </ItemComponent>
   </Item>
+  <!--HORSEHARNESS-->
+  <Item
+    id="rp_marauder_horseharness_chx_v1"
+    name="Marauder Horse Armor"
+    mesh="bre_chaos_marauder_saddle"
+    culture="Culture.neutral_culture"
+    weight="95" 
+    appearance="0.5"
+    Type="HorseHarness">
+    <ItemComponent>
+      <Armor
+        body_armor="25" 
+        mane_cover_type="all"
+        tail_cover_type="all"
+        maneuver_bonus="0"
+        speed_bonus="0"
+        reins_mesh="bre_chaos_marauder_reins_v1"
+        charge_bonus="0"
+        family_type="1"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_horseharness_chx_v2"
+    name="Marauder Horse Armor"
+    mesh="bre_chaos_marauder_saddle"
+    culture="Culture.neutral_culture"
+    weight="95" 
+    appearance="0.5"
+    Type="HorseHarness">
+    <ItemComponent>
+      <Armor
+        body_armor="25" 
+        mane_cover_type="none"
+        tail_cover_type="none"
+        maneuver_bonus="0"
+        speed_bonus="0"
+        reins_mesh="bre_chaos_marauder_reins_v2"
+        charge_bonus="0"
+        family_type="1"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
 </Items>
