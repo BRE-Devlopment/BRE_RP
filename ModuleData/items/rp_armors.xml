@@ -341,6 +341,261 @@
         beard_cover_type="all" />
     </ItemComponent>
   </Item>
+  <Item 
+    id="rp_marauder_head_chu_v1" 
+    name="Marauder's Helmet"
+    subtype="head_armor" 
+    mesh="b3_chaos_marauder_undivided_helmet_v1" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="type2" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_marauder_head_chu_v2"
+    name="Marauder's Helmet"
+    subtype="head_armor" 
+    mesh="b3_chaos_marauder_undivided_helmet_v2" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="type2" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_marauder_head_chu_v3" 
+    name="Marauder's Helmet"
+    subtype="head_armor" 
+    mesh="b3_chaos_marauder_undivided_helmet_v3" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="type2" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_marauder_head_chk_v1" 
+    name="Marauder's Helmet"
+    subtype="head_armor" 
+    mesh="b3_chaos_marauder_khorne_helmet_v1" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="type2" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_marauder_head_chk_v2"
+    name="Marauder's Helmet"
+    subtype="head_armor" 
+    mesh="b3_chaos_marauder_khorne_helmet_v2" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="type2" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_marauder_head_chk_v3" 
+    name="Marauder's Helmet"
+    subtype="head_armor" 
+    mesh="b3_chaos_marauder_khorne_helmet_v3" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="type2" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_marauder_head_chn_v1" 
+    name="Marauder's Helmet"
+    subtype="head_armor" 
+    mesh="b3_chaos_marauder_nurgle_helmet_v1" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="type2" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_marauder_head_chn_v2"
+    name="Marauder's Helmet"
+    subtype="head_armor" 
+    mesh="b3_chaos_marauder_nurgle_helmet_v2" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="type2" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_marauder_head_chn_v3" 
+    name="Marauder's Helmet"
+    subtype="head_armor" 
+    mesh="b3_chaos_marauder_nurgle_helmet_v3" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="type2" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_marauder_head_chs_v1" 
+    name="Marauder's Helmet"
+    subtype="head_armor" 
+    mesh="b3_chaos_marauder_slaanesh_helmet_v1" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="type2" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_marauder_head_chs_v2"
+    name="Marauder's Helmet"
+    subtype="head_armor" 
+    mesh="b3_chaos_marauder_slaanesh_helmet_v2" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="type2" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_marauder_head_chs_v3" 
+    name="Marauder's Helmet"
+    subtype="head_armor" 
+    mesh="b3_chaos_marauder_slaanesh_helmet_v3" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="type2" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_marauder_head_cht_v1" 
+    name="Marauder's Helmet"
+    subtype="head_armor" 
+    mesh="b3_chaos_marauder_tzeentch_helmet_v1" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="type2" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_marauder_head_cht_v2"
+    name="Marauder's Helmet"
+    subtype="head_armor" 
+    mesh="b3_chaos_marauder_tzeentch_helmet_v2" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="type2" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_marauder_head_cht_v3" 
+    name="Marauder's Helmet"
+    subtype="head_armor" 
+    mesh="b3_chaos_marauder_tzeentch_helmet_v3" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="type2" />
+    </ItemComponent>
+  </Item>
   <!--CAPE-->
   <Item
     id="rp_cultist_cape_chu_v1"
@@ -634,6 +889,216 @@
         body_armor="0"
         modifier_group="cloth"
         material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_cape_chu_v1"
+    name="Marauder's Pauldrons"
+    mesh="b3_chaos_marauder_undivided_shoulders_v1"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_cape_chu_v2"
+    name="Marauder's Pauldrons"
+    mesh="b3_chaos_marauder_undivided_shoulders_v2"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_cape_chu_v3"
+    name="Marauder's Pauldrons"
+    mesh="b3_chaos_marauder_undivided_shoulders_v3"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_cape_chk_v1"
+    name="Marauder's Pauldrons"
+    mesh="b3_chaos_marauder_khorne_shoulders_v1"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_cape_chk_v2"
+    name="Marauder's Pauldrons"
+    mesh="b3_chaos_marauder_khorne_shoulders_v2"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_cape_chk_v3"
+    name="Marauder's Pauldrons"
+    mesh="b3_chaos_marauder_khorne_shoulders_v3"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_cape_chn_v1"
+    name="Marauder's Pauldrons"
+    mesh="b3_chaos_marauder_nurgle_shoulders_v1"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_cape_chn_v2"
+    name="Marauder's Pauldrons"
+    mesh="b3_chaos_marauder_nurgle_shoulders_v2"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_cape_chn_v3"
+    name="Marauder's Pauldrons"
+    mesh="b3_chaos_marauder_nurgle_shoulders_v3"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_cape_chs_v1"
+    name="Marauder's Pauldrons"
+    mesh="b3_chaos_marauder_slaanesh_shoulders_v1"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_cape_chs_v2"
+    name="Marauder's Pauldrons"
+    mesh="b3_chaos_marauder_slaanesh_shoulders_v2"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_cape_chs_v3"
+    name="Marauder's Pauldrons"
+    mesh="b3_chaos_marauder_slaanesh_shoulders_v3"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_cape_cht_v1"
+    name="Marauder's Pauldrons"
+    mesh="b3_chaos_marauder_tzeentch_shoulders_v1"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_cape_cht_v2"
+    name="Marauder's Pauldrons"
+    mesh="b3_chaos_marauder_tzeentch_shoulders_v2"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_cape_cht_v3"
+    name="Marauder's Pauldrons"
+    mesh="b3_chaos_marauder_tzeentch_shoulders_v3"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
     </ItemComponent>
   </Item>
   <!--BODY-->
@@ -957,6 +1422,246 @@
         material_type="Cloth" />
     </ItemComponent>
   </Item>
+  <Item
+    id="rp_marauder_body_chu_v1"
+    name="Marauder's Pants"
+    mesh="b3_chaos_marauder_undivided_torso_v1"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="false"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_body_chu_v2"
+    name="Marauder's Pants"
+    mesh="b3_chaos_marauder_undivided_torso_v2"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="false"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_body_chu_v3"
+    name="Marauder's Pants"
+    mesh="b3_chaos_marauder_undivided_torso_v3"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="false"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_body_chk_v1"
+    name="Marauder's Pants"
+    mesh="b3_chaos_marauder_khorne_torso_v1"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="false"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_body_chk_v2"
+    name="Marauder's Pants"
+    mesh="b3_chaos_marauder_khorne_torso_v2"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="false"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_body_chk_v3"
+    name="Marauder's Pants"
+    mesh="b3_chaos_marauder_khorne_torso_v3"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="false"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_body_chn_v1"
+    name="Marauder's Pants"
+    mesh="b3_chaos_marauder_nurgle_torso_v1"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="false"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_body_chn_v2"
+    name="Marauder's Pants"
+    mesh="b3_chaos_marauder_nurgle_torso_v2"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="false"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_body_chn_v3"
+    name="Marauder's Pants"
+    mesh="b3_chaos_marauder_nurgle_torso_v3"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="false"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_body_chs_v1"
+    name="Marauder's Pants"
+    mesh="b3_chaos_marauder_slaanesh_torso_v1"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="false"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_body_chs_v2"
+    name="Marauder's Pants"
+    mesh="b3_chaos_marauder_slaanesh_torso_v2"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="false"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_body_chs_v3"
+    name="Marauder's Pants"
+    mesh="b3_chaos_marauder_slaanesh_torso_v3"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="false"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_body_cht_v1"
+    name="Marauder's Pants"
+    mesh="b3_chaos_marauder_tzeentch_torso_v1"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="false"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_body_cht_v2"
+    name="Marauder's Pants"
+    mesh="b3_chaos_marauder_tzeentch_torso_v2"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="false"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_body_cht_v3"
+    name="Marauder's Pants"
+    mesh="b3_chaos_marauder_tzeentch_torso_v3"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="false"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
   <!--GLOVES-->
   <Item
     id="rp_cultist_gloves_chu_v1"
@@ -1198,10 +1903,250 @@
         material_type="Cloth" />
     </ItemComponent>
   </Item>
+  <Item
+    id="rp_marauder_gloves_chu_v1"
+    name="Marauder's Vambraces"
+    mesh="b3_chaos_marauder_undivided_gauntlets_v1"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="false"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_gloves_chu_v2"
+    name="Marauder's Vambraces"
+    mesh="b3_chaos_marauder_undivided_gauntlets_v2"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="false"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_gloves_chu_v3"
+    name="Marauder's Vambraces"
+    mesh="b3_chaos_marauder_undivided_gauntlets_v3"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="false"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_gloves_chk_v1"
+    name="Marauder's Vambraces"
+    mesh="b3_chaos_marauder_khorne_gauntlets_v1"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="false"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_gloves_chk_v2"
+    name="Marauder's Vambraces"
+    mesh="b3_chaos_marauder_khorne_gauntlets_v2"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="false"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_gloves_chk_v3"
+    name="Marauder's Vambraces"
+    mesh="b3_chaos_marauder_khorne_gauntlets_v3"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="false"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_gloves_chn_v1"
+    name="Marauder's Vambraces"
+    mesh="b3_chaos_marauder_nurgle_gauntlets_v1"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="false"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_gloves_chn_v2"
+    name="Marauder's Vambraces"
+    mesh="b3_chaos_marauder_nurgle_gauntlets_v2"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="false"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_gloves_chn_v3"
+    name="Marauder's Vambraces"
+    mesh="b3_chaos_marauder_nurgle_gauntlets_v3"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="false"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_gloves_chs_v1"
+    name="Marauder's Vambraces"
+    mesh="b3_chaos_marauder_slaanesh_gauntlets_v1"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="false"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_gloves_chs_v2"
+    name="Marauder's Vambraces"
+    mesh="b3_chaos_marauder_slaanesh_gauntlets_v2"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="false"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_gloves_chs_v3"
+    name="Marauder's Vambraces"
+    mesh="b3_chaos_marauder_slaanesh_gauntlets_v3"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="false"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_gloves_cht_v1"
+    name="Marauder's Vambraces"
+    mesh="b3_chaos_marauder_tzeentch_gauntlets_v1"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="false"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_gloves_cht_v2"
+    name="Marauder's Vambraces"
+    mesh="b3_chaos_marauder_tzeentch_gauntlets_v2"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="false"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_gloves_cht_v3"
+    name="Marauder's Vambraces"
+    mesh="b3_chaos_marauder_tzeentch_gauntlets_v3"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="false"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
   <!--LEG-->
   <Item
     id="rp_cultist_leg_chu_v1"
-    name="Protector Guard Boots"
+    name="Cultist's Boots"
     mesh="chaos_cultist_boots_undivided_v1"
     culture="Culture.neutral_culture"
     weight="0"
@@ -1216,7 +2161,7 @@
   </Item>
   <Item
     id="rp_cultist_leg_chu_v2"
-    name="Protector Guard Boots"
+    name="Cultist's Boots"
     mesh="chaos_cultist_boots_undivided_v2"
     culture="Culture.neutral_culture"
     weight="0"
@@ -1231,7 +2176,7 @@
   </Item>
   <Item
     id="rp_cultist_leg_chu_v3"
-    name="Protector Guard Boots"
+    name="Cultist's Boots"
     mesh="chaos_cultist_boots_undivided_v3"
     culture="Culture.neutral_culture"
     weight="0"
@@ -1246,7 +2191,7 @@
   </Item>
   <Item
     id="rp_cultist_leg_chk_v1"
-    name="Protector Guard Boots"
+    name="Cultist's Boots"
     mesh="chaos_cultist_boots_khorne_v1"
     culture="Culture.neutral_culture"
     weight="0"
@@ -1261,7 +2206,7 @@
   </Item>
   <Item
     id="rp_cultist_leg_chk_v2"
-    name="Protector Guard Boots"
+    name="Cultist's Boots"
     mesh="chaos_cultist_boots_khorne_v2"
     culture="Culture.neutral_culture"
     weight="0"
@@ -1276,7 +2221,7 @@
   </Item>
   <Item
     id="rp_cultist_leg_chk_v3"
-    name="Protector Guard Boots"
+    name="Cultist's Boots"
     mesh="chaos_cultist_boots_khorne_v3"
     culture="Culture.neutral_culture"
     weight="0"
@@ -1291,7 +2236,7 @@
   </Item>
   <Item
     id="rp_cultist_leg_chn_v1"
-    name="Protector Guard Boots"
+    name="Cultist's Boots"
     mesh="chaos_cultist_boots_nurgle_v1"
     culture="Culture.neutral_culture"
     weight="0"
@@ -1306,7 +2251,7 @@
   </Item>
   <Item
     id="rp_cultist_leg_chn_v2"
-    name="Protector Guard Boots"
+    name="Cultist's Boots"
     mesh="chaos_cultist_boots_nurgle_v2"
     culture="Culture.neutral_culture"
     weight="0"
@@ -1321,7 +2266,7 @@
   </Item>
   <Item
     id="rp_cultist_leg_chn_v3"
-    name="Protector Guard Boots"
+    name="Cultist's Boots"
     mesh="chaos_cultist_boots_nurgle_v3"
     culture="Culture.neutral_culture"
     weight="0"
@@ -1336,7 +2281,7 @@
   </Item>
   <Item
     id="rp_cultist_leg_chs_v1"
-    name="Protector Guard Boots"
+    name="Cultist's Boots"
     mesh="chaos_cultist_boots_slaanesh_v1"
     culture="Culture.neutral_culture"
     weight="0"
@@ -1351,7 +2296,7 @@
   </Item>
   <Item
     id="rp_cultist_leg_chs_v2"
-    name="Protector Guard Boots"
+    name="Cultist's Boots"
     mesh="chaos_cultist_boots_slaanesh_v2"
     culture="Culture.neutral_culture"
     weight="0"
@@ -1366,7 +2311,7 @@
   </Item>
   <Item
     id="rp_cultist_leg_chs_v3"
-    name="Protector Guard Boots"
+    name="Cultist's Boots"
     mesh="chaos_cultist_boots_slaanesh_v3"
     culture="Culture.neutral_culture"
     weight="0"
@@ -1381,7 +2326,7 @@
   </Item>
   <Item
     id="rp_cultist_leg_cht_v1"
-    name="Protector Guard Boots"
+    name="Cultist's Boots"
     mesh="chaos_cultist_boots_tzeentch_v1"
     culture="Culture.neutral_culture"
     weight="0"
@@ -1396,7 +2341,7 @@
   </Item>
   <Item
     id="rp_cultist_leg_cht_v2"
-    name="Protector Guard Boots"
+    name="Cultist's Boots"
     mesh="chaos_cultist_boots_tzeentch_v2"
     culture="Culture.neutral_culture"
     weight="0"
@@ -1411,7 +2356,7 @@
   </Item>
   <Item
     id="rp_cultist_leg_cht_v3"
-    name="Protector Guard Boots"
+    name="Cultist's Boots"
     mesh="chaos_cultist_boots_tzeentch_v3"
     culture="Culture.neutral_culture"
     weight="0"
@@ -1422,6 +2367,231 @@
         covers_legs="true"
         modifier_group="cloth"
         material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_leg_chu_v1"
+    name="Marauder's Boots"
+    mesh="b3_chaos_marauder_undivided_boots_v1"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_leg_chu_v2"
+    name="Marauder's Boots"
+    mesh="b3_chaos_marauder_undivided_boots_v2"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_leg_chu_v3"
+    name="Marauder's Boots"
+    mesh="b3_chaos_marauder_undivided_boots_v3"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_leg_chk_v1"
+    name="Marauder's Boots"
+    mesh="b3_chaos_marauder_khorne_boots_v1"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_leg_chk_v2"
+    name="Marauder's Boots"
+    mesh="b3_chaos_marauder_khorne_boots_v2"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_leg_chk_v3"
+    name="Marauder's Boots"
+    mesh="b3_chaos_marauder_khorne_boots_v3"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_leg_chn_v1"
+    name="Marauder's Boots"
+    mesh="b3_chaos_marauder_nurgle_boots_v1"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_leg_chn_v2"
+    name="Marauder's Boots"
+    mesh="b3_chaos_marauder_nurgle_boots_v2"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_leg_chn_v3"
+    name="Marauder's Boots"
+    mesh="b3_chaos_marauder_nurgle_boots_v3"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_leg_chs_v1"
+    name="Marauder's Boots"
+    mesh="b3_chaos_marauder_slaanesh_boots_v1"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_leg_chs_v2"
+    name="Marauder's Boots"
+    mesh="b3_chaos_marauder_slaanesh_boots_v2"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_leg_chs_v3"
+    name="Marauder's Boots"
+    mesh="b3_chaos_marauder_slaanesh_boots_v3"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_leg_cht_v1"
+    name="Marauder's Boots"
+    mesh="b3_chaos_marauder_tzeentch_boots_v1"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_leg_cht_v2"
+    name="Marauder's Boots"
+    mesh="b3_chaos_marauder_tzeentch_boots_v2"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="leather"
+        material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_marauder_leg_cht_v3"
+    name="Marauder's Boots"
+    mesh="b3_chaos_marauder_tzeentch_boots_v3"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="leather"
+        material_type="Leather" />
     </ItemComponent>
   </Item>
 </Items>

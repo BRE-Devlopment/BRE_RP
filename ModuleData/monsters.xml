@@ -121,9 +121,9 @@
 		-->
 	</Monster>
 	<Monster
-		id="chaos_warrior"
+		id="chaos_marauder"
 		base_monster="human"
 		weight="150"
-		hit_points="200"
+		hit_points="100"
 	/>
 </Monsters>

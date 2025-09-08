@@ -49,10 +49,57 @@
       <EquipmentRoster/>
     </Equipments>
   </NPCCharacter>
-
-
   <NPCCharacter 
-    id="bre_infantry_troll_hero"
+    id="bre_infantry_chaos_marauder"
+    default_group="Infantry"
+    level="25"
+    name="Infantry"
+    race="chaos_marauder"
+    occupation="Soldier"
+    culture="Culture.chaos">
+    <face> 
+      <BodyProperties 
+        version="4" 
+        age="25" 
+        weight="0" 
+        build="0.75"  
+        key="FFC000000000004000000000000000000000100000000000001000000000001001A770130A00000000000000000000000000000000FC00000000000007540000"/>
+      <BodyPropertiesMax
+        version="4" 
+        age="71.41" 
+        weight="0.4" 
+        build="1"  
+        key="FFC0FC0FC0000500FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07A7707808FFFFFF00000000000000000000000000FC00000000000027549000"/>
+    </face>
+    <skills>
+      <skill 
+        id="Riding"
+        value="150"/>
+      <skill 
+        id="OneHanded"
+        value="50"/>
+      <skill 
+        id="TwoHanded"
+        value="50"/>
+      <skill 
+        id="Polearm"
+        value="150"/>
+      <skill 
+        id="Crossbow"
+        value="20"/>
+      <skill 
+        id="Bow"
+        value="20"/>
+      <skill 
+        id="Throwing"
+        value="100"/>
+    </skills>
+    <Equipments>
+      <EquipmentRoster/>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter 
+    id="bre_infantry_troll"
     default_group="Infantry"
     level="25"
     name="Infantry"
