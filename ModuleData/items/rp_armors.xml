@@ -681,6 +681,771 @@
         beard_cover_type="type2" />
     </ItemComponent>
   </Item>
+  <Item 
+    id="rp_warrior_head_chu_v1" 
+    name="Chaos Warrior's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_warrior_undivided_helmet_v1" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_warrior_head_chu_v2" 
+    name="Chaos Warrior's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_warrior_undivided_helmet_v2" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_warrior_head_chu_v3" 
+    name="Chaos Warrior's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_warrior_undivided_helmet_v3" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_warrior_head_chu_v4" 
+    name="Chaos Warrior's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_warrior_undivided_helmet_v4" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_warrior_head_chu_v5" 
+    name="Chaos Warrior's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_warrior_undivided_helmet_v5" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_warrior_head_chu_v6" 
+    name="Chaos Warrior's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_warrior_undivided_helmet_v6" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_warrior_head_chu_v7" 
+    name="Chaos Warrior's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_warrior_undivided_helmet_v7" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_warrior_head_chk_v1" 
+    name="Chaos Warrior's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_warrior_khorne_helmet_v1" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_warrior_head_chk_v2" 
+    name="Chaos Warrior's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_warrior_khorne_helmet_v2" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_warrior_head_chk_v3" 
+    name="Chaos Warrior's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_warrior_khorne_helmet_v3" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_warrior_head_chk_v4" 
+    name="Chaos Warrior's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_warrior_khorne_helmet_v4" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_warrior_head_chk_v5" 
+    name="Chaos Warrior's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_warrior_khorne_helmet_v5" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_warrior_head_chk_v6" 
+    name="Chaos Warrior's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_warrior_khorne_helmet_v6" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_warrior_head_chk_v7" 
+    name="Chaos Warrior's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_warrior_khorne_helmet_v7" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_warrior_head_chn_v1" 
+    name="Chaos Warrior's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_warrior_nurgle_helmet_v1" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_warrior_head_chn_v2" 
+    name="Chaos Warrior's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_warrior_nurgle_helmet_v2" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_warrior_head_chn_v3" 
+    name="Chaos Warrior's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_warrior_nurgle_helmet_v3" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_warrior_head_chn_v4" 
+    name="Chaos Warrior's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_warrior_nurgle_helmet_v4" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_warrior_head_chn_v5" 
+    name="Chaos Warrior's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_warrior_nurgle_helmet_v5" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_warrior_head_chn_v6" 
+    name="Chaos Warrior's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_warrior_nurgle_helmet_v6" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_warrior_head_chn_v7" 
+    name="Chaos Warrior's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_warrior_nurgle_helmet_v7" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_warrior_head_chs_v1" 
+    name="Chaos Warrior's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_warrior_slaanesh_helmet_v1" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_warrior_head_chs_v2" 
+    name="Chaos Warrior's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_warrior_slaanesh_helmet_v2" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_warrior_head_chs_v3" 
+    name="Chaos Warrior's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_warrior_slaanesh_helmet_v3" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_warrior_head_chs_v4" 
+    name="Chaos Warrior's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_warrior_slaanesh_helmet_v4" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_warrior_head_chs_v5" 
+    name="Chaos Warrior's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_warrior_slaanesh_helmet_v5" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_warrior_head_chs_v6" 
+    name="Chaos Warrior's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_warrior_slaanesh_helmet_v6" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_warrior_head_chs_v7" 
+    name="Chaos Warrior's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_warrior_slaanesh_helmet_v7" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_warrior_head_cht_v1" 
+    name="Chaos Warrior's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_warrior_tzeentch_helmet_v1" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_warrior_head_cht_v2" 
+    name="Chaos Warrior's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_warrior_tzeentch_helmet_v2" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_warrior_head_cht_v3" 
+    name="Chaos Warrior's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_warrior_tzeentch_helmet_v3" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_warrior_head_cht_v4" 
+    name="Chaos Warrior's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_warrior_tzeentch_helmet_v4" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_warrior_head_cht_v5" 
+    name="Chaos Warrior's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_warrior_tzeentch_helmet_v5" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_warrior_head_cht_v6" 
+    name="Chaos Warrior's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_warrior_tzeentch_helmet_v6" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_warrior_head_cht_v7" 
+    name="Chaos Warrior's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_warrior_tzeentch_helmet_v7" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_chosen_head_chu" 
+    name="Chaos Chosen's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_chosen_undivided_helmet" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_chosen_head_chk" 
+    name="Chaos Chosen's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_chosen_khorne_helmet" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_chosen_head_chn" 
+    name="Chaos Chosen's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_chosen_nurgle_helmet" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_chosen_head_chs" 
+    name="Chaos Chosen's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_chosen_slaanesh_helmet" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_chosen_head_cht" 
+    name="Chaos Chosen's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_chosen_tzeentch_helmet" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_lord_head_chu" 
+    name="Chaos Lord's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_undivided_lord_helmet" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_lord_head_chk" 
+    name="Chaos Lord's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_khorne_lord_helmet" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_lord_head_chn" 
+    name="Chaos Lord's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_nurgle_lord_helmet" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_lord_head_chs" 
+    name="Chaos Lord's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_slaanesh_lord_helmet" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_lord_head_cht" 
+    name="Chaos Lord's Helmet"
+    subtype="head_armor" 
+    mesh="bre_chaos_tzeentch_lord_helmet" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="plate" 
+        material_type="Plate" 
+        beard_cover_type="all" />
+    </ItemComponent>
+  </Item>
   <!--CAPE-->
   <Item
     id="rp_cultist_cape_chu_v1"
@@ -1176,6 +1941,356 @@
     id="rp_marauder_cape_cht_v3"
     name="Marauder's Pauldrons"
     mesh="b3_chaos_marauder_tzeentch_shoulders_v3"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_cape_chu_v1"
+    name="Chaos Warrior's Cape"
+    mesh="bre_chaos_warrior_undivided_shoulders_v1"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_cape_chu_v2"
+    name="Chaos Warrior's Cape"
+    mesh="bre_chaos_warrior_undivided_shoulders_v2"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_cape_chu_v3"
+    name="Chaos Warrior's Cape"
+    mesh="bre_chaos_warrior_undivided_shoulders_v3"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_cape_chk_v1"
+    name="Chaos Warrior's Cape"
+    mesh="bre_chaos_warrior_khorne_shoulders_v1"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_cape_chk_v2"
+    name="Chaos Warrior's Cape"
+    mesh="bre_chaos_warrior_khorne_shoulders_v2"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_cape_chk_v3"
+    name="Chaos Warrior's Cape"
+    mesh="bre_chaos_warrior_khorne_shoulders_v3"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_cape_chn_v1"
+    name="Chaos Warrior's Cape"
+    mesh="bre_chaos_warrior_nurgle_shoulders_v1"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_cape_chn_v2"
+    name="Chaos Warrior's Cape"
+    mesh="bre_chaos_warrior_nurgle_shoulders_v2"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_cape_chn_v3"
+    name="Chaos Warrior's Cape"
+    mesh="bre_chaos_warrior_nurgle_shoulders_v3"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_cape_chs_v1"
+    name="Chaos Warrior's Cape"
+    mesh="bre_chaos_warrior_slaanesh_shoulders_v1"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_cape_chs_v2"
+    name="Chaos Warrior's Cape"
+    mesh="bre_chaos_warrior_slaanesh_shoulders_v2"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_cape_chs_v3"
+    name="Chaos Warrior's Cape"
+    mesh="bre_chaos_warrior_slaanesh_shoulders_v3"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_cape_cht_v1"
+    name="Chaos Warrior's Cape"
+    mesh="bre_chaos_warrior_tzeentch_shoulders_v1"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_cape_cht_v2"
+    name="Chaos Warrior's Cape"
+    mesh="bre_chaos_warrior_tzeentch_shoulders_v2"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_cape_cht_v3"
+    name="Chaos Warrior's Cape"
+    mesh="bre_chaos_warrior_tzeentch_shoulders_v3"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_chosen_cape_chu"
+    name="Chaos Chosen's Cape"
+    mesh="bre_chaos_chosen_undivided_shoulders"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_chosen_cape_chk"
+    name="Chaos Chosen's Cape"
+    mesh="bre_chaos_chosen_undivided_shoulders"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_chosen_cape_chn"
+    name="Chaos Chosen's Cape"
+    mesh="bre_chaos_chosen_undivided_shoulders"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_chosen_cape_chs"
+    name="Chaos Chosen's Cape"
+    mesh="bre_chaos_chosen_undivided_shoulders"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_chosen_cape_cht"
+    name="Chaos Chosen's Cape"
+    mesh="bre_chaos_chosen_undivided_shoulders"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_lord_cape_chu"
+    name="Chaos Lord's Cape"
+    mesh="bre_chaos_undivided_lord_shoulders"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_lord_cape_chk"
+    name="Chaos Lord's Cape"
+    mesh="bre_chaos_khorne_lord_shoulders"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_lord_cape_chn"
+    name="Chaos Lord's Cape"
+    mesh="bre_chaos_nurgle_lord_shoulders"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_lord_cape_chs"
+    name="Chaos Lord's Cape"
+    mesh="bre_chaos_slaanesh_lord_shoulders"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_lord_cape_cht"
+    name="Chaos Lord's Cape"
+    mesh="bre_chaos_tzeentch_lord_shoulders"
     culture="Culture.neutral_culture"
     weight="0"
     Type="Cape">
@@ -1747,6 +2862,406 @@
         material_type="Leather" />
     </ItemComponent>
   </Item>
+  <Item
+    id="rp_warrior_body_chu_v1"
+    name="Chaos Warrior's Armor"
+    mesh="bre_chaos_warrior_undivided_torso_v1"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_body_chu_v2"
+    name="Chaos Warrior's Armor"
+    mesh="bre_chaos_warrior_undivided_torso_v2"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_body_chu_v3"
+    name="Chaos Warrior's Armor"
+    mesh="bre_chaos_warrior_undivided_torso_v3"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_body_chk_v1"
+    name="Chaos Warrior's Armor"
+    mesh="bre_chaos_warrior_khorne_torso_v1"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_body_chk_v2"
+    name="Chaos Warrior's Armor"
+    mesh="bre_chaos_warrior_khorne_torso_v2"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_body_chk_v3"
+    name="Chaos Warrior's Armor"
+    mesh="bre_chaos_warrior_khorne_torso_v3"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_body_chn_v1"
+    name="Chaos Warrior's Armor"
+    mesh="bre_chaos_warrior_nurgle_torso_v1"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_body_chn_v2"
+    name="Chaos Warrior's Armor"
+    mesh="bre_chaos_warrior_nurgle_torso_v2"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_body_chn_v3"
+    name="Chaos Warrior's Armor"
+    mesh="bre_chaos_warrior_nurgle_torso_v3"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_body_chs_v1"
+    name="Chaos Warrior's Armor"
+    mesh="bre_chaos_warrior_slaanesh_torso_v1"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_body_chs_v2"
+    name="Chaos Warrior's Armor"
+    mesh="bre_chaos_warrior_slaanesh_torso_v2"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_body_chs_v3"
+    name="Chaos Warrior's Armor"
+    mesh="bre_chaos_warrior_slaanesh_torso_v3"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_body_cht_v1"
+    name="Chaos Warrior's Armor"
+    mesh="bre_chaos_warrior_tzeentch_torso_v1"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_body_cht_v2"
+    name="Chaos Warrior's Armor"
+    mesh="bre_chaos_warrior_tzeentch_torso_v2"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_body_cht_v3"
+    name="Chaos Warrior's Armor"
+    mesh="bre_chaos_warrior_tzeentch_torso_v3"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_chosen_body_chu"
+    name="Chaos Chosen's Armor"
+    mesh="bre_chaos_chosen_undivided_torso"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_chosen_body_chk"
+    name="Chaos Chosen's Armor"
+    mesh="bre_chaos_chosen_khorne_torso"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_chosen_body_chn"
+    name="Chaos Chosen's Armor"
+    mesh="bre_chaos_chosen_nurgle_torso"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_chosen_body_chs"
+    name="Chaos Chosen's Armor"
+    mesh="bre_chaos_chosen_slaanesh_torso"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_chosen_body_cht"
+    name="Chaos Chosen's Armor"
+    mesh="bre_chaos_chosen_tzeentch_torso"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_lord_body_chu"
+    name="Chaos Lord's Armor"
+    mesh="bre_chaos_undivided_lord_torso"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_lord_body_chk"
+    name="Chaos Lord's Armor"
+    mesh="bre_chaos_khorne_lord_torso"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_lord_body_chn"
+    name="Chaos Lord's Armor"
+    mesh="bre_chaos_nurgle_lord_torso"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_lord_body_chs"
+    name="Chaos Lord's Armor"
+    mesh="bre_chaos_slaanesh_lord_torso"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_lord_body_cht"
+    name="Chaos Lord's Armor"
+    mesh="bre_chaos_tzeentch_lord_torso"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
   <!--GLOVES-->
   <Item
     id="rp_cultist_gloves_chu_v1"
@@ -2228,6 +3743,406 @@
         material_type="Leather" />
     </ItemComponent>
   </Item>
+  <Item
+    id="rp_warrior_gloves_chu_v1"
+    name="Chaos Warrior's Gauntlets"
+    mesh="bre_chaos_warrior_undivided_gauntlets_v1"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_gloves_chu_v2"
+    name="Chaos Warrior's Gauntlets"
+    mesh="bre_chaos_warrior_undivided_gauntlets_v2"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_gloves_chu_v3"
+    name="Chaos Warrior's Gauntlets"
+    mesh="bre_chaos_warrior_undivided_gauntlets_v3"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_gloves_chk_v1"
+    name="Chaos Warrior's Gauntlets"
+    mesh="bre_chaos_warrior_khorne_gauntlets_v1"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_gloves_chk_v2"
+    name="Chaos Warrior's Gauntlets"
+    mesh="bre_chaos_warrior_khorne_gauntlets_v2"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_gloves_chk_v3"
+    name="Chaos Warrior's Gauntlets"
+    mesh="bre_chaos_warrior_khorne_gauntlets_v3"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_gloves_chn_v1"
+    name="Chaos Warrior's Gauntlets"
+    mesh="bre_chaos_warrior_nurgle_gauntlets_v1"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_gloves_chn_v2"
+    name="Chaos Warrior's Gauntlets"
+    mesh="bre_chaos_warrior_nurgle_gauntlets_v2"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_gloves_chn_v3"
+    name="Chaos Warrior's Gauntlets"
+    mesh="bre_chaos_warrior_nurgle_gauntlets_v3"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_gloves_chs_v1"
+    name="Chaos Warrior's Gauntlets"
+    mesh="bre_chaos_warrior_slaanesh_gauntlets_v1"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_gloves_chs_v2"
+    name="Chaos Warrior's Gauntlets"
+    mesh="bre_chaos_warrior_slaanesh_gauntlets_v2"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_gloves_chs_v3"
+    name="Chaos Warrior's Gauntlets"
+    mesh="bre_chaos_warrior_slaanesh_gauntlets_v3"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_gloves_cht_v1"
+    name="Chaos Warrior's Gauntlets"
+    mesh="bre_chaos_warrior_tzeentch_gauntlets_v1"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_gloves_cht_v2"
+    name="Chaos Warrior's Gauntlets"
+    mesh="bre_chaos_warrior_tzeentch_gauntlets_v2"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_gloves_cht_v3"
+    name="Chaos Warrior's Gauntlets"
+    mesh="bre_chaos_warrior_tzeentch_gauntlets_v3"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_chosen_gloves_chu"
+    name="Chaos Chosen's Gauntlets"
+    mesh="bre_chaos_chosen_undivided_gauntlets"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_chosen_gloves_chk"
+    name="Chaos Chosen's Gauntlets"
+    mesh="bre_chaos_chosen_khorne_gauntlets"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_chosen_gloves_chn"
+    name="Chaos Chosen's Gauntlets"
+    mesh="bre_chaos_chosen_nurgle_gauntlets"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_chosen_gloves_chs"
+    name="Chaos Chosen's Gauntlets"
+    mesh="bre_chaos_chosen_slaanesh_gauntlets"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_chosen_gloves_cht"
+    name="Chaos Chosen's Gauntlets"
+    mesh="bre_chaos_chosen_tzeentch_gauntlets"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_lord_gloves_chu"
+    name="Chaos Lord's Gauntlets"
+    mesh="bre_chaos_undivided_lord_gauntlets"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_lord_gloves_chk"
+    name="Chaos Lord's Gauntlets"
+    mesh="bre_chaos_khorne_lord_gauntlets"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_lord_gloves_chn"
+    name="Chaos Lord's Gauntlets"
+    mesh="bre_chaos_nurgle_lord_gauntlets"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_lord_gloves_chs"
+    name="Chaos Lord's Gauntlets"
+    mesh="bre_chaos_slaanesh_lord_gauntlets"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_lord_gloves_cht"
+    name="Chaos Lord's Gauntlets"
+    mesh="bre_chaos_tzeentch_lord_gauntlets"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
   <!--LEG-->
   <Item
     id="rp_cultist_leg_chu_v1"
@@ -2679,6 +4594,381 @@
         material_type="Leather" />
     </ItemComponent>
   </Item>
+  <Item
+    id="rp_warrior_leg_chu_v1"
+    name="Chaos Warrior's Boots"
+    mesh="bre_chaos_warrior_undivided_boots_v1"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_leg_chu_v2"
+    name="Chaos Warrior's Boots"
+    mesh="bre_chaos_warrior_undivided_boots_v2"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_leg_chu_v3"
+    name="Chaos Warrior's Boots"
+    mesh="bre_chaos_warrior_undivided_boots_v3"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_leg_chk_v1"
+    name="Chaos Warrior's Boots"
+    mesh="bre_chaos_warrior_khorne_boots_v1"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_leg_chk_v2"
+    name="Chaos Warrior's Boots"
+    mesh="bre_chaos_warrior_khorne_boots_v2"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_leg_chk_v3"
+    name="Chaos Warrior's Boots"
+    mesh="bre_chaos_warrior_khorne_boots_v3"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_leg_chn_v1"
+    name="Chaos Warrior's Boots"
+    mesh="bre_chaos_warrior_nurgle_boots_v1"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_leg_chn_v2"
+    name="Chaos Warrior's Boots"
+    mesh="bre_chaos_warrior_nurgle_boots_v2"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_leg_chn_v3"
+    name="Chaos Warrior's Boots"
+    mesh="bre_chaos_warrior_nurgle_boots_v3"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_leg_chs_v1"
+    name="Chaos Warrior's Boots"
+    mesh="bre_chaos_warrior_slaanesh_boots_v1"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_leg_chs_v2"
+    name="Chaos Warrior's Boots"
+    mesh="bre_chaos_warrior_slaanesh_boots_v2"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_leg_chs_v3"
+    name="Chaos Warrior's Boots"
+    mesh="bre_chaos_warrior_slaanesh_boots_v3"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_leg_cht_v1"
+    name="Chaos Warrior's Boots"
+    mesh="bre_chaos_warrior_tzeentch_boots_v1"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_leg_cht_v2"
+    name="Chaos Warrior's Boots"
+    mesh="bre_chaos_warrior_tzeentch_boots_v2"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_leg_cht_v3"
+    name="Chaos Warrior's Boots"
+    mesh="bre_chaos_warrior_tzeentch_boots_v3"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_chosen_leg_chu"
+    name="Chaos Chosen's Boots"
+    mesh="bre_chaos_chosen_undivided_boots"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_chosen_leg_chk"
+    name="Chaos Chosen's Boots"
+    mesh="bre_chaos_chosen_khorne_boots"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_chosen_leg_chn"
+    name="Chaos Chosen's Boots"
+    mesh="bre_chaos_chosen_nurgle_boots"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_chosen_leg_chs"
+    name="Chaos Chosen's Boots"
+    mesh="bre_chaos_chosen_slaanesh_boots"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_chosen_leg_cht"
+    name="Chaos Chosen's Boots"
+    mesh="bre_chaos_chosen_tzeentch_boots"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_lord_leg_chu"
+    name="Chaos Lord's Boots"
+    mesh="bre_chaos_undivided_lord_boots"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_lord_leg_chk"
+    name="Chaos Lord's Boots"
+    mesh="bre_chaos_khorne_lord_boots"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_lord_leg_chn"
+    name="Chaos Lord's Boots"
+    mesh="bre_chaos_nurgle_lord_boots"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_lord_leg_chs"
+    name="Chaos Lord's Boots"
+    mesh="bre_chaos_slaanesh_lord_boots"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_lord_leg_cht"
+    name="Chaos Lord's Boots"
+    mesh="bre_chaos_tzeentch_lord_boots"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="plate"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
   <!--HORSEHARNESS-->
   <Item
     id="rp_marauder_horseharness_chx_v1"
@@ -2691,8 +4981,8 @@
     <ItemComponent>
       <Armor
         body_armor="25" 
-        mane_cover_type="all"
-        tail_cover_type="all"
+        mane_cover_type="none"
+        tail_cover_type="none"
         maneuver_bonus="0"
         speed_bonus="0"
         reins_mesh="bre_chaos_marauder_reins_v1"
@@ -2720,6 +5010,216 @@
         charge_bonus="0"
         family_type="1"
         material_type="Leather" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_horseharness_chu_v1"
+    name="Chaos Horse Armor"
+    mesh="bre_chaos_warrior_undivided_horse_armour"
+    culture="Culture.neutral_culture"
+    weight="95" 
+    appearance="0.5"
+    Type="HorseHarness">
+    <ItemComponent>
+      <Armor
+        body_armor="25" 
+        mane_cover_type="all"
+        tail_cover_type="all"
+        maneuver_bonus="0"
+        speed_bonus="0"
+        reins_mesh="bre_chaos_warrior_undivided_reins"
+        charge_bonus="0"
+        family_type="1"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_horseharness_chu_v2"
+    name="Chaos Horse Armor"
+    mesh="bre_chaos_warrior_undivided_horse_armour"
+    culture="Culture.neutral_culture"
+    weight="95" 
+    appearance="0.5"
+    Type="HorseHarness">
+    <ItemComponent>
+      <Armor
+        body_armor="25" 
+        mane_cover_type="all"
+        tail_cover_type="all"
+        maneuver_bonus="0"
+        speed_bonus="0"
+        reins_mesh="bre_chaos_warrior_undivided_reins_02"
+        charge_bonus="0"
+        family_type="1"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_horseharness_chk_v1"
+    name="Chaos Horse Armor"
+    mesh="bre_chaos_warrior_khorne_horse_armour"
+    culture="Culture.neutral_culture"
+    weight="95" 
+    appearance="0.5"
+    Type="HorseHarness">
+    <ItemComponent>
+      <Armor
+        body_armor="25" 
+        mane_cover_type="all"
+        tail_cover_type="all"
+        maneuver_bonus="0"
+        speed_bonus="0"
+        reins_mesh="bre_chaos_warrior_khorne_reins"
+        charge_bonus="0"
+        family_type="1"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_horseharness_chk_v2"
+    name="Chaos Horse Armor"
+    mesh="bre_chaos_warrior_khorne_horse_armour"
+    culture="Culture.neutral_culture"
+    weight="95" 
+    appearance="0.5"
+    Type="HorseHarness">
+    <ItemComponent>
+      <Armor
+        body_armor="25" 
+        mane_cover_type="all"
+        tail_cover_type="all"
+        maneuver_bonus="0"
+        speed_bonus="0"
+        reins_mesh="bre_chaos_warrior_khorne_reins_02"
+        charge_bonus="0"
+        family_type="1"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_horseharness_chn_v1"
+    name="Chaos Horse Armor"
+    mesh="bre_chaos_warrior_nurgle_horse_armour"
+    culture="Culture.neutral_culture"
+    weight="95" 
+    appearance="0.5"
+    Type="HorseHarness">
+    <ItemComponent>
+      <Armor
+        body_armor="25" 
+        mane_cover_type="all"
+        tail_cover_type="all"
+        maneuver_bonus="0"
+        speed_bonus="0"
+        reins_mesh="bre_chaos_warrior_nurgle_reins"
+        charge_bonus="0"
+        family_type="1"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_horseharness_chn_v2"
+    name="Chaos Horse Armor"
+    mesh="bre_chaos_warrior_nurgle_horse_armour"
+    culture="Culture.neutral_culture"
+    weight="95" 
+    appearance="0.5"
+    Type="HorseHarness">
+    <ItemComponent>
+      <Armor
+        body_armor="25" 
+        mane_cover_type="all"
+        tail_cover_type="all"
+        maneuver_bonus="0"
+        speed_bonus="0"
+        reins_mesh="bre_chaos_warrior_nurgle_reins_02"
+        charge_bonus="0"
+        family_type="1"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_horseharness_chs_v1"
+    name="Chaos Horse Armor"
+    mesh="bre_chaos_warrior_slaanesh_horse_armour"
+    culture="Culture.neutral_culture"
+    weight="95" 
+    appearance="0.5"
+    Type="HorseHarness">
+    <ItemComponent>
+      <Armor
+        body_armor="25" 
+        mane_cover_type="all"
+        tail_cover_type="all"
+        maneuver_bonus="0"
+        speed_bonus="0"
+        reins_mesh="bre_chaos_warrior_slaanesh_reins"
+        charge_bonus="0"
+        family_type="1"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_horseharness_chs_v2"
+    name="Chaos Horse Armor"
+    mesh="bre_chaos_warrior_slaanesh_horse_armour"
+    culture="Culture.neutral_culture"
+    weight="95" 
+    appearance="0.5"
+    Type="HorseHarness">
+    <ItemComponent>
+      <Armor
+        body_armor="25" 
+        mane_cover_type="all"
+        tail_cover_type="all"
+        maneuver_bonus="0"
+        speed_bonus="0"
+        reins_mesh="bre_chaos_warrior_slaanesh_reins_02"
+        charge_bonus="0"
+        family_type="1"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_horseharness_cht_v1"
+    name="Chaos Horse Armor"
+    mesh="bre_chaos_warrior_tzeentch_horse_armour"
+    culture="Culture.neutral_culture"
+    weight="95" 
+    appearance="0.5"
+    Type="HorseHarness">
+    <ItemComponent>
+      <Armor
+        body_armor="25" 
+        mane_cover_type="all"
+        tail_cover_type="all"
+        maneuver_bonus="0"
+        speed_bonus="0"
+        reins_mesh="bre_chaos_warrior_tzeentch_reins"
+        charge_bonus="0"
+        family_type="1"
+        material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_warrior_horseharness_cht_v2"
+    name="Chaos Horse Armor"
+    mesh="bre_chaos_warrior_tzeentch_horse_armour"
+    culture="Culture.neutral_culture"
+    weight="95" 
+    appearance="0.5"
+    Type="HorseHarness">
+    <ItemComponent>
+      <Armor
+        body_armor="25" 
+        mane_cover_type="all"
+        tail_cover_type="all"
+        maneuver_bonus="0"
+        speed_bonus="0"
+        reins_mesh="bre_chaos_warrior_tzeentch_reins_02"
+        charge_bonus="0"
+        family_type="1"
+        material_type="Plate" />
     </ItemComponent>
   </Item>
 </Items>

@@ -100,10 +100,10 @@
       <equipment id="rp_cultist_shield_chu_v1"/>
       <equipment id="rp_cultist_shield_chu_v2"/>
       <equipment id="rp_cultist_shield_chu_v3"/>
-      <equipment id="b3_banner_chu_v1" disablegroup="Weapon0" disablerandomize="true"/>
-      <equipment id="b3_banner_chu_v2" disablegroup="Weapon0" disablerandomize="true"/>
-      <equipment id="b3_banner_chu_v3" disablegroup="Weapon0" disablerandomize="true"/>
-      <equipment id="b3_banner_chu_v4" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="rp_banner_chu_v1" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="rp_banner_chu_v2" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="rp_banner_chu_v3" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="rp_banner_chu_v4" disablegroup="Weapon0" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="rp_cultist_sergeant_head_chu"/>
@@ -135,6 +135,7 @@
     banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
     name="Marauder"
     mpclassdivision="bre_infantry_chaos_marauder"
+    premade_bodyproperties="marauder"
     id="chaos_marauder.chu">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
@@ -148,10 +149,10 @@
       <equipment id="rp_marauder_shield_chu_v1"/>
       <equipment id="rp_marauder_shield_chu_v2"/>
       <equipment id="rp_marauder_shield_chu_v3"/>
-      <equipment id="b3_banner_chu_v1" disablerandomize="true"/>
-      <equipment id="b3_banner_chu_v2" disablerandomize="true"/>
-      <equipment id="b3_banner_chu_v3" disablerandomize="true"/>
-      <equipment id="b3_banner_chu_v4" disablerandomize="true"/>
+      <equipment id="rp_banner_chu_v1" disablerandomize="true"/>
+      <equipment id="rp_banner_chu_v2" disablerandomize="true"/>
+      <equipment id="rp_banner_chu_v3" disablerandomize="true"/>
+      <equipment id="rp_banner_chu_v4" disablerandomize="true"/>
     </Weapon1>
     <Head>
       <equipment id="rp_marauder_head_chu_v1"/>
@@ -187,6 +188,7 @@
     banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
     name="Marauder Chieftain"
     mpclassdivision="bre_infantry_chaos_marauder_chieftain"
+    premade_bodyproperties="marauder_chieftain"
     id="chaos_marauder_chieftain.chu">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
@@ -222,6 +224,103 @@
       <equipment id="rp_marauder_leg_chu_v1"/>
       <equipment id="rp_marauder_leg_chu_v2"/>
       <equipment id="rp_marauder_leg_chu_v3"/>
+    </Leg>
+  </ClanClass>
+  <ClanClass 
+    clan="CHU"
+    color1="FF1f1f1f"
+    color2="FFefede3"
+    banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
+    name="Chaos Warrior"
+    mpclassdivision="bre_infantry_chaos_warrior"
+    premade_bodyproperties="chaos_warrior"
+    id="chaos_warrior.chu">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="b2_peasant_mace"/>
+      <equipment id="b2_peasant_axe"/>
+      <equipment id="b2_peasant_sword"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_warrior_shield_chu_v1"/>
+      <equipment id="rp_warrior_shield_chu_v2"/>
+      <equipment id="rp_warrior_shield_chu_v3"/>
+      <equipment id="rp_warrior_shield_chu_v4"/>
+      <equipment id="rp_warrior_shield_chu_v5"/>
+      <equipment id="rp_warrior_shield_chu_v6"/>
+      <equipment id="rp_warrior_banner_chu" disablerandomize="true"/>
+    </Weapon1>
+    <Head>
+      <equipment id="rp_warrior_head_chu_v1"/>
+      <equipment id="rp_warrior_head_chu_v2"/>
+      <equipment id="rp_warrior_head_chu_v3"/>
+      <equipment id="rp_warrior_head_chu_v4"/>
+      <equipment id="rp_warrior_head_chu_v5"/>
+      <equipment id="rp_warrior_head_chu_v6"/>
+      <equipment id="rp_warrior_head_chu_v7"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_warrior_cape_chu_v1"/>
+      <equipment id="rp_warrior_cape_chu_v2"/>
+      <equipment id="rp_warrior_cape_chu_v3"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_warrior_body_chu_v1"/>
+      <equipment id="rp_warrior_body_chu_v2"/>
+      <equipment id="rp_warrior_body_chu_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_warrior_gloves_chu_v1"/>
+      <equipment id="rp_warrior_gloves_chu_v2"/>
+      <equipment id="rp_warrior_gloves_chu_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_warrior_leg_chu_v1"/>
+      <equipment id="rp_warrior_leg_chu_v2"/>
+      <equipment id="rp_warrior_leg_chu_v3"/>
+    </Leg>
+  </ClanClass>
+  <ClanClass 
+    clan="CHU"
+    color1="FF1f1f1f"
+    color2="FFefede3"
+    banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
+    name="Chaos Chosen"
+    mpclassdivision="bre_infantry_chaos_chosen"
+    premade_bodyproperties="chaos_chosen"
+    id="chaos_chosen.chu">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="b2_peasant_mace"/>
+      <equipment id="b2_peasant_axe"/>
+      <equipment id="b2_peasant_sword"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_warrior_shield_chu_v1"/>
+      <equipment id="rp_warrior_shield_chu_v2"/>
+      <equipment id="rp_warrior_shield_chu_v3"/>
+      <equipment id="rp_warrior_shield_chu_v4"/>
+      <equipment id="rp_warrior_shield_chu_v5"/>
+      <equipment id="rp_warrior_shield_chu_v6"/>
+    </Weapon1>
+    <Head>
+      <equipment id="rp_chosen_head_chu"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_chosen_cape_chu"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_chosen_body_chu"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_chosen_gloves_chu"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_chosen_leg_chu"/>
     </Leg>
   </ClanClass>
   <ClanClass 
@@ -279,6 +378,7 @@
     banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
     name="Marauder Horseman"
     mpclassdivision="bre_cavalry_chaos_marauder_horseman"
+    premade_bodyproperties="marauder"
     id="chaos_marauder_horseman.chu">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
@@ -331,8 +431,9 @@
     color1="FF1f1f1f"
     color2="FFefede3"
     banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
-    name="Marauder Chieftain (Mounted)"
+    name="Mounted Marauder Chieftain"
     mpclassdivision="bre_cavalry_chaos_mounted_marauder_chieftain"
+    premade_bodyproperties="marauder_chieftain"
     id="chaos_mounted_marauder_chieftain.chu">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
@@ -374,6 +475,116 @@
     </HorseHarness>
     <Horse>
       <equipment id="rp_marauder_horse_chx"/>
+    </Horse>
+  </ClanClass>
+  <ClanClass 
+    clan="CHU"
+    color1="FF1f1f1f"
+    color2="FFefede3"
+    banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
+    name="Chaos Knight"
+    mpclassdivision="bre_cavalry_chaos_knight"
+    premade_bodyproperties="chaos_warrior"
+    id="chaos_knight.chu">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="b2_peasant_mace"/>
+      <equipment id="b2_peasant_axe"/>
+      <equipment id="b2_peasant_sword"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_warrior_shield_chu_v1"/>
+      <equipment id="rp_warrior_shield_chu_v2"/>
+      <equipment id="rp_warrior_shield_chu_v3"/>
+      <equipment id="rp_warrior_shield_chu_v4"/>
+      <equipment id="rp_warrior_shield_chu_v5"/>
+      <equipment id="rp_warrior_shield_chu_v6"/>
+    </Weapon1>
+    <Head>
+      <equipment id="rp_warrior_head_chu_v1"/>
+      <equipment id="rp_warrior_head_chu_v2"/>
+      <equipment id="rp_warrior_head_chu_v3"/>
+      <equipment id="rp_warrior_head_chu_v4"/>
+      <equipment id="rp_warrior_head_chu_v5"/>
+      <equipment id="rp_warrior_head_chu_v6"/>
+      <equipment id="rp_warrior_head_chu_v7"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_warrior_cape_chu_v1"/>
+      <equipment id="rp_warrior_cape_chu_v2"/>
+      <equipment id="rp_warrior_cape_chu_v3"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_warrior_body_chu_v1"/>
+      <equipment id="rp_warrior_body_chu_v2"/>
+      <equipment id="rp_warrior_body_chu_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_warrior_gloves_chu_v1"/>
+      <equipment id="rp_warrior_gloves_chu_v2"/>
+      <equipment id="rp_warrior_gloves_chu_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_warrior_leg_chu_v1"/>
+      <equipment id="rp_warrior_leg_chu_v2"/>
+      <equipment id="rp_warrior_leg_chu_v3"/>
+    </Leg>
+    <HorseHarness>
+      <equipment id="rp_warrior_horseharness_chu_v1"/>
+      <equipment id="rp_warrior_horseharness_chu_v2"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="rp_chaos_horse_chx"/>
+    </Horse>
+  </ClanClass>
+  <ClanClass 
+    clan="CHU"
+    color1="FF1f1f1f"
+    color2="FFefede3"
+    banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
+    name="Chaos Lord"
+    mpclassdivision="bre_cavalry_chaos_lord"
+    premade_bodyproperties="chaos_lord"
+    id="chaos_lord.chu">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="b2_peasant_mace"/>
+      <equipment id="b2_peasant_axe"/>
+      <equipment id="b2_peasant_sword"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_warrior_shield_chu_v1"/>
+      <equipment id="rp_warrior_shield_chu_v2"/>
+      <equipment id="rp_warrior_shield_chu_v3"/>
+      <equipment id="rp_warrior_shield_chu_v4"/>
+      <equipment id="rp_warrior_shield_chu_v5"/>
+      <equipment id="rp_warrior_shield_chu_v6"/>
+    </Weapon1>
+    <Head>
+      <equipment id="rp_lord_head_chu"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_lord_cape_chu"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_lord_body_chu"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_lord_gloves_chu"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_lord_leg_chu"/>
+    </Leg>
+    <HorseHarness>
+      <equipment id="rp_warrior_horseharness_chu_v1"/>
+      <equipment id="rp_warrior_horseharness_chu_v2"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="rp_chaos_horse_chx"/>
     </Horse>
   </ClanClass>
 
@@ -474,10 +685,10 @@
       <equipment id="rp_cultist_shield_chk_v1"/>
       <equipment id="rp_cultist_shield_chk_v2"/>
       <equipment id="rp_cultist_shield_chk_v3"/>
-      <equipment id="b3_banner_chk_v1" disablegroup="Weapon0" disablerandomize="true"/>
-      <equipment id="b3_banner_chk_v2" disablegroup="Weapon0" disablerandomize="true"/>
-      <equipment id="b3_banner_chk_v3" disablegroup="Weapon0" disablerandomize="true"/>
-      <equipment id="b3_banner_chk_v4" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="rp_banner_chk_v1" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="rp_banner_chk_v2" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="rp_banner_chk_v3" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="rp_banner_chk_v4" disablegroup="Weapon0" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="rp_cultist_sergeant_head_chk"/>
@@ -601,10 +812,10 @@
       <equipment id="rp_cultist_shield_chn_v1"/>
       <equipment id="rp_cultist_shield_chn_v2"/>
       <equipment id="rp_cultist_shield_chn_v3"/>
-      <equipment id="b3_banner_chn_v1" disablegroup="Weapon0" disablerandomize="true"/>
-      <equipment id="b3_banner_chn_v2" disablegroup="Weapon0" disablerandomize="true"/>
-      <equipment id="b3_banner_chn_v3" disablegroup="Weapon0" disablerandomize="true"/>
-      <equipment id="b3_banner_chn_v4" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="rp_banner_chn_v1" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="rp_banner_chn_v2" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="rp_banner_chn_v3" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="rp_banner_chn_v4" disablegroup="Weapon0" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="rp_cultist_sergeant_head_chn"/>
@@ -728,10 +939,10 @@
       <equipment id="rp_cultist_shield_chs_v1"/>
       <equipment id="rp_cultist_shield_chs_v2"/>
       <equipment id="rp_cultist_shield_chs_v3"/>
-      <equipment id="b3_banner_chs_v1" disablegroup="Weapon0" disablerandomize="true"/>
-      <equipment id="b3_banner_chs_v2" disablegroup="Weapon0" disablerandomize="true"/>
-      <equipment id="b3_banner_chs_v3" disablegroup="Weapon0" disablerandomize="true"/>
-      <equipment id="b3_banner_chs_v4" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="rp_banner_chs_v1" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="rp_banner_chs_v2" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="rp_banner_chs_v3" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="rp_banner_chs_v4" disablegroup="Weapon0" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="rp_cultist_sergeant_head_chs"/>
@@ -855,10 +1066,10 @@
       <equipment id="rp_cultist_shield_cht_v1"/>
       <equipment id="rp_cultist_shield_cht_v2"/>
       <equipment id="rp_cultist_shield_cht_v3"/>
-      <equipment id="b3_banner_cht_v1" disablegroup="Weapon0" disablerandomize="true"/>
-      <equipment id="b3_banner_cht_v2" disablegroup="Weapon0" disablerandomize="true"/>
-      <equipment id="b3_banner_cht_v3" disablegroup="Weapon0" disablerandomize="true"/>
-      <equipment id="b3_banner_cht_v4" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="rp_banner_cht_v1" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="rp_banner_cht_v2" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="rp_banner_cht_v3" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="rp_banner_cht_v4" disablegroup="Weapon0" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="rp_cultist_sergeant_head_cht"/>

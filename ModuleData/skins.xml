@@ -1592,4 +1592,118 @@
 			</mouth_textures>
 		</skin>
 	</race>
+	<race
+		id="chaos_warrior">
+		<skin
+			gender="0"
+			name="chaos_warrior_man"
+			mesh_maturity_type="adult"
+			morph_key="0"
+			uses_stitching="true"
+			body_mesh_suffix=""
+			min_scale="1.4"
+			skeleton="human_skeleton"
+			body_meta_mesh="bre_marauder_body_male_a"
+			body_meta_mesh_shoulders="empty_mesh"
+			body_meta_mesh_upperbody="empty_mesh"
+			legs_mesh="empty_mesh"
+			hands_mesh="empty_mesh"
+			face_meta_mesh="empty_mesh"
+			underwear_bottom_mesh="empty_mesh"
+			underwear_top_mesh="">
+			<voice_types>
+				<voice_type
+					name="chaos_warrior" />
+			</voice_types>
+			<deform_keys>
+				<deform_key
+					id="weight"
+					key_time_point="1"
+					name="Weight"
+					group_id="0">
+					<bone_scales>
+						<bone_scale
+							bone_type="biped_head"
+							axis="x"
+							key_min="0.87"
+							key_max="0.9" />
+						<bone_scale
+							bone_type="biped_head"
+							axis="y"
+							key_min="0.87"
+							key_max="0.9" />
+						<bone_scale
+							bone_type="biped_head"
+							axis="z"
+							key_min="0.87"
+							key_max="0.9" />
+					</bone_scales>
+				</deform_key>
+				<deform_key
+					id="height"
+					key_time_point="2"
+					name="Height Multiplier"
+					group_id="0" />
+			</deform_keys>
+			<hair_meshes
+				group_id="7">
+				<hair_mesh>
+					<style_tags>
+						<style_tag
+							name="Bald" />
+					</style_tags>
+				</hair_mesh>
+			</hair_meshes>
+			<eyebrow_meshes>
+				<eyebrow_mesh
+					name="empty_mesh" />
+			</eyebrow_meshes>
+			<beard_meshes>
+				<beard_mesh>
+					<style_tags>
+						<style_tag
+							name="Cleanshaven" />
+					</style_tags>
+				</beard_mesh>
+			</beard_meshes>
+			<tattoo_materials
+				group_id="8"
+				zero_probability="100">
+			</tattoo_materials>
+			<tattoo_color_gradient_points>
+				<tattoo_color_gradient_point
+					point="0.0, 0.0, 0.0" />
+			</tattoo_color_gradient_points>
+			<hair_color_gradient_points>
+				<hair_color_gradient_point
+					point="0.0, 0.0, 0.0" />
+			</hair_color_gradient_points>
+			<skin_color_gradient_points>
+				<skin_color_gradient_point
+					point="1.0, 1.0, 1.0" />
+			</skin_color_gradient_points>
+			<eye_color_gradient_points>
+				<eye_color_gradient_point
+					point="0.0, 0.0, 0.0" />
+			</eye_color_gradient_points>
+			<face_textures
+				group_id="1">
+				<face_texture
+					name="empty_material_skinning"
+					lod_material="empty_material_skinning"
+					color="0xFFFF0000"
+					tags="face_texture1">
+				</face_texture>
+			</face_textures>
+			<mouth_textures
+				group_id="4">
+				<mouth_texture
+					name="empty_material_skinning"
+					lod_material="empty_material_skinning"
+					color="0xFFFFFFFF"
+					tags="mouth_texture1">
+				</mouth_texture>
+			</mouth_textures>
+		</skin>
+	</race>
 </skins>

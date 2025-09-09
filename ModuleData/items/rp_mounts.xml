@@ -17,7 +17,33 @@
         charge_damage="7"
         body_length="113"
         is_mountable="true"
-        extra_health="75" />
+        extra_health="75">
+        <AdditionalMeshes>
+          <Mesh
+            name="chaos_mane_type1"
+            affected_by_cover="true" />
+        </AdditionalMeshes>
+      </Horse>
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_chaos_horse_chx"
+    name="Chaos Steed"
+    mesh="chaos_war_horse"
+    culture="Culture.neutral_culture"
+    item_category="horse"
+    weight="410"
+    Type="Horse">
+    <ItemComponent>
+      <Horse
+        monster="Monster.horse"
+        maneuver="69"
+        speed="42"
+        charge_damage="7"
+        body_length="130"
+        is_mountable="true"
+        extra_health="75">
+      </Horse>
     </ItemComponent>
   </Item>
 </Items>
