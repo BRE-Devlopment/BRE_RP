@@ -2,7 +2,7 @@
 <MPCharacters>
   <!--FOR NOW ALL CLASSES WILL USE THE SAME CHARACTER IF THEY CAN STATS LIKE HP AND AP WILL BE CHANGED LATER AND PROBABLY THROUGH CODE-->
   <NPCCharacter 
-    id="bre_infantry_human"
+    id="infantry_human"
     default_group="Infantry"
     level="25"
     name="Infantry"
@@ -50,7 +50,7 @@
     </Equipments>
   </NPCCharacter>
   <NPCCharacter 
-    id="bre_archer_human"
+    id="archer_human"
     default_group="Archer"
     level="25"
     name="Archer"
@@ -98,7 +98,7 @@
     </Equipments>
   </NPCCharacter>
   <NPCCharacter 
-    id="bre_infantry_chaos_marauder"
+    id="infantry_chaos_human"
     default_group="Infantry"
     level="25"
     name="Infantry"
@@ -147,56 +147,7 @@
     </Equipments>
   </NPCCharacter>
   <NPCCharacter 
-    id="bre_infantry_chaos_marauder_chieftain"
-    default_group="Infantry"
-    level="25"
-    name="Infantry"
-    race="chaos_marauder"
-    occupation="Soldier"
-    culture="Culture.chaos">
-    <face> 
-      <BodyProperties 
-        version="4" 
-        age="25" 
-        weight="0" 
-        build="0.75"  
-        key="FFC000000000004000000000000000000000100000000000001000000000001001AA70130A00000000000000000000000000000000FC000000000000075C0000"/>
-      <BodyPropertiesMax
-        version="4" 
-        age="71.41" 
-        weight="0.4" 
-        build="1"  
-        key="FFC0FC0FC0000500FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07B770780AFFFFFF00000000000000000000000000FC00000000000017749000"/>
-    </face>
-    <skills>
-      <skill 
-        id="Riding"
-        value="150"/>
-      <skill 
-        id="OneHanded"
-        value="50"/>
-      <skill 
-        id="TwoHanded"
-        value="50"/>
-      <skill 
-        id="Polearm"
-        value="150"/>
-      <skill 
-        id="Crossbow"
-        value="20"/>
-      <skill 
-        id="Bow"
-        value="20"/>
-      <skill 
-        id="Throwing"
-        value="100"/>
-    </skills>
-    <Equipments>
-      <EquipmentRoster/>
-    </Equipments>
-  </NPCCharacter>
-  <NPCCharacter 
-    id="bre_infantry_chaos_warrior"
+    id="infantry_chaos_warrior"
     default_group="Infantry"
     level="25"
     name="Infantry"
@@ -245,56 +196,7 @@
     </Equipments>
   </NPCCharacter>
   <NPCCharacter 
-    id="bre_infantry_chaos_chosen"
-    default_group="Infantry"
-    level="25"
-    name="Infantry"
-    race="chaos_warrior"
-    occupation="Soldier"
-    culture="Culture.chaos">
-    <face> 
-      <BodyProperties 
-        version="4" 
-        age="25" 
-        weight="0" 
-        build="0"  
-        key="FFC0000000000000000100000100010001010000011110001001000100000101017050330800000000000000000000000000000000FC0000000000000EEC0000"/>
-      <BodyPropertiesMax
-        version="4"
-        age="25"
-        weight="0.25"
-        build="0"
-        key="FFC000000000000000010000010001000101000001111000100100010000010101A050330800000000000000000000000000000000FC0000000000000F4C0000"/>
-    </face>
-    <skills>
-      <skill 
-        id="Riding"
-        value="150"/>
-      <skill 
-        id="OneHanded"
-        value="50"/>
-      <skill 
-        id="TwoHanded"
-        value="50"/>
-      <skill 
-        id="Polearm"
-        value="150"/>
-      <skill 
-        id="Crossbow"
-        value="20"/>
-      <skill 
-        id="Bow"
-        value="20"/>
-      <skill 
-        id="Throwing"
-        value="100"/>
-    </skills>
-    <Equipments>
-      <EquipmentRoster/>
-    </Equipments>
-  </NPCCharacter>
-  <NPCCharacter 
-    id="bre_cavalry_chaos_marauder_horseman"
+    id="cavalry_chaos_human"
     default_group="Cavalry"
     level="25"
     name="Cavalry"
@@ -347,60 +249,7 @@
     </Equipments>
   </NPCCharacter>
   <NPCCharacter 
-    id="bre_cavalry_chaos_mounted_marauder_chieftain"
-    default_group="Cavalry"
-    level="25"
-    name="Cavalry"
-    race="chaos_marauder"
-    occupation="Soldier"
-    culture="Culture.chaos">
-    <face> 
-      <BodyProperties 
-        version="4" 
-        age="25" 
-        weight="0" 
-        build="0.75"  
-        key="FFC000000000004000000000000000000000100000000000001000000000001001AA70130A00000000000000000000000000000000FC000000000000075C0000"/>
-      <BodyPropertiesMax
-        version="4" 
-        age="71.41" 
-        weight="0.4" 
-        build="1"  
-        key="FFC0FC0FC0000500FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07B770780AFFFFFF00000000000000000000000000FC00000000000017749000"/>
-    </face>
-    <skills>
-      <skill 
-        id="Riding"
-        value="150"/>
-      <skill 
-        id="OneHanded"
-        value="50"/>
-      <skill 
-        id="TwoHanded"
-        value="50"/>
-      <skill 
-        id="Polearm"
-        value="150"/>
-      <skill 
-        id="Crossbow"
-        value="20"/>
-      <skill 
-        id="Bow"
-        value="20"/>
-      <skill 
-        id="Throwing"
-       value="100"/>
-    </skills>
-    <Equipments>
-      <EquipmentRoster>
-        <equipment 
-          slot="Horse"
-          id="Item.b2_vlandia_horse_war_tougher"/>
-      </EquipmentRoster>
-    </Equipments>
-  </NPCCharacter>
-  <NPCCharacter 
-    id="bre_cavalry_chaos_knight"
+    id="cavalry_chaos_warrior"
     default_group="Cavalry"
     level="25"
     name="Cavalry"
@@ -453,118 +302,13 @@
     </Equipments>
   </NPCCharacter>
   <NPCCharacter 
-    id="bre_cavalry_chaos_lord"
-    default_group="Cavalry"
-    level="25"
-    name="Cavalry"
-    race="chaos_warrior"
-    occupation="Soldier"
-    culture="Culture.chaos">
-    <face> 
-      <BodyProperties 
-        version="4" 
-        age="25" 
-        weight="0" 
-        build="0.75"  
-        key="FFC000000000004000000000000000000000100000000000001000000000001001AA70130A00000000000000000000000000000000FC000000000000075C0000"/>
-      <BodyPropertiesMax
-        version="4" 
-        age="71.41" 
-        weight="0.4" 
-        build="1"  
-        key="FFC0FC0FC0000500FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07B770780AFFFFFF00000000000000000000000000FC00000000000017749000"/>
-    </face>
-    <skills>
-      <skill 
-        id="Riding"
-        value="150"/>
-      <skill 
-        id="OneHanded"
-        value="50"/>
-      <skill 
-        id="TwoHanded"
-        value="50"/>
-      <skill 
-        id="Polearm"
-        value="150"/>
-      <skill 
-        id="Crossbow"
-        value="20"/>
-      <skill 
-        id="Bow"
-        value="20"/>
-      <skill 
-        id="Throwing"
-       value="100"/>
-    </skills>
-    <Equipments>
-      <EquipmentRoster>
-        <equipment 
-          slot="Horse"
-          id="Item.b2_vlandia_horse_war_tougher"/>
-      </EquipmentRoster>
-    </Equipments>
-  </NPCCharacter>
-
-
-  <NPCCharacter 
-    id="bre_infantry_troll"
+    id="infantry_troll"
     default_group="Infantry"
     level="25"
     name="Infantry"
     race="troll"
     occupation="Soldier"
     culture="Culture.chaos">
-    <face> 
-      <BodyProperties 
-        version="4"
-        age="34.12"
-        weight="0.4"
-        build="0.4568"
-        key="00000C07000000010011111211161111000701000010000000111011000101000007600407111110000000000000000000000000000000000000000000500000"/>
-      <BodyPropertiesMax 
-        version="4"
-        age="68.79"
-        weight="0.7253"
-        build="0.6852"
-        key="0011FC0FC03C384FFFFFFFFEFFFBEFFFFFFFFFA97EF7FEFFFFEFFFFFFFFFFFFF000ABFD80AFFFFFF000000000000000000000000000000000000000000C89101"/>
-    </face>
-    <skills>
-      <skill 
-        id="Riding"
-        value="15" />
-      <skill 
-        id="OneHanded"
-        value="50" />
-      <skill 
-        id="TwoHanded"
-        value="50" />
-      <skill 
-        id="Polearm"
-        value="50" />
-      <skill 
-        id="Crossbow"
-        value="20" />
-      <skill 
-        id="Bow"
-        value="20" />
-      <skill 
-        id="Throwing"
-        value="100" />
-    </skills>
-    <Equipments>
-      <EquipmentRoster/>
-    </Equipments>
-  </NPCCharacter>
-  <!--PLACEHOLDER SINCE THERE MUST BE AT LEAST ONE CHARACTER FOR FACTION OTHERWISE THE GAME CRASHES WHEN SELECTED-->
-  <NPCCharacter 
-    id="placeholder"
-    default_group="Infantry"
-    level="25"
-    name="Infantry"
-    race="troll"
-    occupation="Soldier"
-    culture="Culture.bretonnie">
     <face> 
       <BodyProperties 
         version="4"

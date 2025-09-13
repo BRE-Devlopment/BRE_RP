@@ -7,7 +7,7 @@
     color2="FF1f1a19"
     banner="11.2.127.1536.1536.764.764.1.0.0.160.127.127.512.512.764.764.1.0.0"
     name="PLACEHOLDER"
-    mpclassdivision="bre_infantry_troll"
+    mpclassdivision="infantry_troll_1000hp"
     id="placeholder.co">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
@@ -32,7 +32,7 @@
     color2="FFefede3"
     banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
     name="Cultist"
-    mpclassdivision="bre_infantry_human"
+    mpclassdivision="infantry_human_150hp"
     id="chaos_cultist.chu">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
@@ -87,7 +87,7 @@
     color2="FFefede3"
     banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
     name="Cultist Leader"
-    mpclassdivision="bre_infantry_human"
+    mpclassdivision="infantry_human_150hp"
     id="chaos_cultist_sergeant.chu">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
@@ -134,7 +134,7 @@
     color2="FFefede3"
     banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
     name="Marauder"
-    mpclassdivision="bre_infantry_chaos_marauder"
+    mpclassdivision="infantry_chaos_human_250hp"
     premade_bodyproperties="marauder"
     id="chaos_marauder.chu">
     <UsableWeaponGroups>
@@ -187,7 +187,7 @@
     color2="FFefede3"
     banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
     name="Marauder Chieftain"
-    mpclassdivision="bre_infantry_chaos_marauder_chieftain"
+    mpclassdivision="infantry_chaos_human_250hp"
     premade_bodyproperties="marauder_chieftain"
     id="chaos_marauder_chieftain.chu">
     <UsableWeaponGroups>
@@ -232,7 +232,7 @@
     color2="FFefede3"
     banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
     name="Chaos Warrior"
-    mpclassdivision="bre_infantry_chaos_warrior"
+    mpclassdivision="infantry_chaos_warrior_350hp"
     premade_bodyproperties="chaos_warrior"
     id="chaos_warrior.chu">
     <UsableWeaponGroups>
@@ -293,7 +293,7 @@
     color2="FFefede3"
     banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
     name="Chaos Chosen"
-    mpclassdivision="bre_infantry_chaos_chosen"
+    mpclassdivision="infantry_chaos_warrior_450hp"
     premade_bodyproperties="chaos_chosen"
     id="chaos_chosen.chu">
     <UsableWeaponGroups>
@@ -329,7 +329,7 @@
     color2="FFefede3"
     banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
     name="Cultist Archer"
-    mpclassdivision="bre_archer_human"
+    mpclassdivision="archer_human_150hp"
     id="chaos_cultist_archer.chu">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
@@ -377,7 +377,7 @@
     color2="FFefede3"
     banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
     name="Marauder Horseman"
-    mpclassdivision="bre_cavalry_chaos_marauder_horseman"
+    mpclassdivision="cavalry_chaos_human_250hp"
     premade_bodyproperties="marauder"
     id="chaos_marauder_horseman.chu">
     <UsableWeaponGroups>
@@ -435,7 +435,7 @@
     color2="FFefede3"
     banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
     name="Mounted Marauder Chieftain"
-    mpclassdivision="bre_cavalry_chaos_mounted_marauder_chieftain"
+    mpclassdivision="cavalry_chaos_human_250hp"
     premade_bodyproperties="marauder_chieftain"
     id="chaos_mounted_marauder_chieftain.chu">
     <UsableWeaponGroups>
@@ -489,7 +489,7 @@
     color2="FFefede3"
     banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
     name="Chaos Knight"
-    mpclassdivision="bre_cavalry_chaos_knight"
+    mpclassdivision="cavalry_chaos_warrior_400hp"
     premade_bodyproperties="chaos_warrior"
     id="chaos_knight.chu">
     <UsableWeaponGroups>
@@ -556,7 +556,7 @@
     color2="FFefede3"
     banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
     name="Chaos Lord"
-    mpclassdivision="bre_cavalry_chaos_lord"
+    mpclassdivision="cavalry_chaos_warrior_500hp"
     premade_bodyproperties="chaos_lord"
     id="chaos_lord.chu">
     <UsableWeaponGroups>
@@ -608,7 +608,7 @@
     color2="FF1f1a19"
     banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
     name="Troll"
-    mpclassdivision="bre_infantry_troll"
+    mpclassdivision="infantry_troll_1000hp"
     premade_bodyproperties="troll"
     id="troll.chu">
     <UsableWeaponGroups>
@@ -634,7 +634,7 @@
     color2="FFefede3"
     banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0"
     name="Cultist"
-    mpclassdivision="bre_infantry_human"
+    mpclassdivision="infantry_human_150hp"
     id="chaos_cultist.chk">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
@@ -689,7 +689,7 @@
     color2="FFefede3"
     banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0"
     name="Cultist Leader"
-    mpclassdivision="bre_infantry_human"
+    mpclassdivision="infantry_human_150hp"
     id="chaos_cultist_sergeant.chk">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
@@ -736,7 +736,7 @@
     color2="FFefede3"
     banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0"
     name="Marauder"
-    mpclassdivision="bre_infantry_chaos_marauder"
+    mpclassdivision="infantry_chaos_human_250hp"
     premade_bodyproperties="marauder"
     id="chaos_marauder.chk">
     <UsableWeaponGroups>
@@ -789,7 +789,7 @@
     color2="FFefede3"
     banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0"
     name="Marauder Chieftain"
-    mpclassdivision="bre_infantry_chaos_marauder_chieftain"
+    mpclassdivision="infantry_chaos_human_250hp"
     premade_bodyproperties="marauder_chieftain"
     id="chaos_marauder_chieftain.chk">
     <UsableWeaponGroups>
@@ -834,7 +834,7 @@
     color2="FFefede3"
     banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0"
     name="Chaos Warrior"
-    mpclassdivision="bre_infantry_chaos_warrior"
+    mpclassdivision="infantry_chaos_warrior_350hp"
     premade_bodyproperties="chaos_warrior"
     id="chaos_warrior.chk">
     <UsableWeaponGroups>
@@ -895,7 +895,7 @@
     color2="FFefede3"
     banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0"
     name="Chaos Chosen"
-    mpclassdivision="bre_infantry_chaos_chosen"
+    mpclassdivision="infantry_chaos_warrior_450hp"
     premade_bodyproperties="chaos_chosen"
     id="chaos_chosen.chk">
     <UsableWeaponGroups>
@@ -931,7 +931,7 @@
     color2="FFefede3"
     banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0"
     name="Cultist Archer"
-    mpclassdivision="bre_archer_human"
+    mpclassdivision="archer_human_150hp"
     id="chaos_cultist_archer.chk">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
@@ -979,7 +979,7 @@
     color2="FFefede3"
     banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0"
     name="Marauder Horseman"
-    mpclassdivision="bre_cavalry_chaos_marauder_horseman"
+    mpclassdivision="cavalry_chaos_human_250hp"
     premade_bodyproperties="marauder"
     id="chaos_marauder_horseman.chk">
     <UsableWeaponGroups>
@@ -1037,7 +1037,7 @@
     color2="FFefede3"
     banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0"
     name="Mounted Marauder Chieftain"
-    mpclassdivision="bre_cavalry_chaos_mounted_marauder_chieftain"
+    mpclassdivision="cavalry_chaos_human_250hp"
     premade_bodyproperties="marauder_chieftain"
     id="chaos_mounted_marauder_chieftain.chk">
     <UsableWeaponGroups>
@@ -1091,7 +1091,7 @@
     color2="FFefede3"
     banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0"
     name="Chaos Knight"
-    mpclassdivision="bre_cavalry_chaos_knight"
+    mpclassdivision="cavalry_chaos_warrior_400hp"
     premade_bodyproperties="chaos_warrior"
     id="chaos_knight.chk">
     <UsableWeaponGroups>
@@ -1158,7 +1158,7 @@
     color2="FFefede3"
     banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0"
     name="Chaos Lord"
-    mpclassdivision="bre_cavalry_chaos_lord"
+    mpclassdivision="cavalry_chaos_warrior_500hp"
     premade_bodyproperties="chaos_lord"
     id="chaos_lord.chk">
     <UsableWeaponGroups>
@@ -1210,7 +1210,7 @@
     color2="FFefede3"
     banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0"
     name="Troll"
-    mpclassdivision="bre_infantry_troll"
+    mpclassdivision="infantry_troll_1000hp"
     premade_bodyproperties="troll"
     id="troll.chk">
     <UsableWeaponGroups>
@@ -1236,7 +1236,7 @@
     color2="FF1f1a19"
     banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
     name="Cultist"
-    mpclassdivision="bre_infantry_human"
+    mpclassdivision="infantry_human_150hp"
     id="chaos_cultist.chn">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
@@ -1291,7 +1291,7 @@
     color2="FF1f1a19"
     banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
     name="Cultist Leader"
-    mpclassdivision="bre_infantry_human"
+    mpclassdivision="infantry_human_150hp"
     id="chaos_cultist_sergeant.chn">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
@@ -1338,7 +1338,7 @@
     color2="FF1f1a19"
     banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
     name="Marauder"
-    mpclassdivision="bre_infantry_chaos_marauder"
+    mpclassdivision="infantry_chaos_human_250hp"
     premade_bodyproperties="marauder"
     id="chaos_marauder.chn">
     <UsableWeaponGroups>
@@ -1391,7 +1391,7 @@
     color2="FF1f1a19"
     banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
     name="Marauder Chieftain"
-    mpclassdivision="bre_infantry_chaos_marauder_chieftain"
+    mpclassdivision="infantry_chaos_human_250hp"
     premade_bodyproperties="marauder_chieftain"
     id="chaos_marauder_chieftain.chn">
     <UsableWeaponGroups>
@@ -1436,7 +1436,7 @@
     color2="FF1f1a19"
     banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
     name="Chaos Warrior"
-    mpclassdivision="bre_infantry_chaos_warrior"
+    mpclassdivision="infantry_chaos_warrior_350hp"
     premade_bodyproperties="chaos_warrior"
     id="chaos_warrior.chn">
     <UsableWeaponGroups>
@@ -1497,7 +1497,7 @@
     color2="FF1f1a19"
     banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
     name="Chaos Chosen"
-    mpclassdivision="bre_infantry_chaos_chosen"
+    mpclassdivision="infantry_chaos_warrior_450hp"
     premade_bodyproperties="chaos_chosen"
     id="chaos_chosen.chn">
     <UsableWeaponGroups>
@@ -1533,7 +1533,7 @@
     color2="FF1f1a19"
     banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
     name="Cultist Archer"
-    mpclassdivision="bre_archer_human"
+    mpclassdivision="archer_human_150hp"
     id="chaos_cultist_archer.chn">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
@@ -1581,7 +1581,7 @@
     color2="FF1f1a19"
     banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
     name="Marauder Horseman"
-    mpclassdivision="bre_cavalry_chaos_marauder_horseman"
+    mpclassdivision="cavalry_chaos_human_250hp"
     premade_bodyproperties="marauder"
     id="chaos_marauder_horseman.chn">
     <UsableWeaponGroups>
@@ -1639,7 +1639,7 @@
     color2="FF1f1a19"
     banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
     name="Mounted Marauder Chieftain"
-    mpclassdivision="bre_cavalry_chaos_mounted_marauder_chieftain"
+    mpclassdivision="cavalry_chaos_human_250hp"
     premade_bodyproperties="marauder_chieftain"
     id="chaos_mounted_marauder_chieftain.chn">
     <UsableWeaponGroups>
@@ -1693,7 +1693,7 @@
     color2="FF1f1a19"
     banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
     name="Chaos Knight"
-    mpclassdivision="bre_cavalry_chaos_knight"
+    mpclassdivision="cavalry_chaos_warrior_400hp"
     premade_bodyproperties="chaos_warrior"
     id="chaos_knight.chn">
     <UsableWeaponGroups>
@@ -1760,7 +1760,7 @@
     color2="FF1f1a19"
     banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
     name="Chaos Lord"
-    mpclassdivision="bre_cavalry_chaos_lord"
+    mpclassdivision="cavalry_chaos_warrior_500hp"
     premade_bodyproperties="chaos_lord"
     id="chaos_lord.chn">
     <UsableWeaponGroups>
@@ -1812,7 +1812,7 @@
     color2="FF1f1a19"
     banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
     name="Troll"
-    mpclassdivision="bre_infantry_troll"
+    mpclassdivision="infantry_troll_1000hp"
     premade_bodyproperties="troll"
     id="troll.chn">
     <UsableWeaponGroups>
@@ -1838,7 +1838,7 @@
     color2="FF1f1a19"
     banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
     name="Cultist"
-    mpclassdivision="bre_infantry_human"
+    mpclassdivision="infantry_human_150hp"
     id="chaos_cultist.chs">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
@@ -1893,7 +1893,7 @@
     color2="FF1f1a19"
     banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
     name="Cultist Leader"
-    mpclassdivision="bre_infantry_human"
+    mpclassdivision="infantry_human_150hp"
     id="chaos_cultist_sergeant.chs">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
@@ -1940,7 +1940,7 @@
     color2="FF1f1a19"
     banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
     name="Marauder"
-    mpclassdivision="bre_infantry_chaos_marauder"
+    mpclassdivision="infantry_chaos_human_250hp"
     premade_bodyproperties="marauder"
     id="chaos_marauder.chs">
     <UsableWeaponGroups>
@@ -1993,7 +1993,7 @@
     color2="FF1f1a19"
     banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
     name="Marauder Chieftain"
-    mpclassdivision="bre_infantry_chaos_marauder_chieftain"
+    mpclassdivision="infantry_chaos_human_250hp"
     premade_bodyproperties="marauder_chieftain"
     id="chaos_marauder_chieftain.chs">
     <UsableWeaponGroups>
@@ -2038,7 +2038,7 @@
     color2="FF1f1a19"
     banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
     name="Chaos Warrior"
-    mpclassdivision="bre_infantry_chaos_warrior"
+    mpclassdivision="infantry_chaos_warrior_350hp"
     premade_bodyproperties="chaos_warrior"
     id="chaos_warrior.chs">
     <UsableWeaponGroups>
@@ -2099,7 +2099,7 @@
     color2="FF1f1a19"
     banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
     name="Chaos Chosen"
-    mpclassdivision="bre_infantry_chaos_chosen"
+    mpclassdivision="infantry_chaos_warrior_450hp"
     premade_bodyproperties="chaos_chosen"
     id="chaos_chosen.chs">
     <UsableWeaponGroups>
@@ -2135,7 +2135,7 @@
     color2="FF1f1a19"
     banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
     name="Cultist Archer"
-    mpclassdivision="bre_archer_human"
+    mpclassdivision="archer_human_150hp"
     id="chaos_cultist_archer.chs">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
@@ -2183,7 +2183,7 @@
     color2="FF1f1a19"
     banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
     name="Marauder Horseman"
-    mpclassdivision="bre_cavalry_chaos_marauder_horseman"
+    mpclassdivision="cavalry_chaos_human_250hp"
     premade_bodyproperties="marauder"
     id="chaos_marauder_horseman.chs">
     <UsableWeaponGroups>
@@ -2241,7 +2241,7 @@
     color2="FF1f1a19"
     banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
     name="Mounted Marauder Chieftain"
-    mpclassdivision="bre_cavalry_chaos_mounted_marauder_chieftain"
+    mpclassdivision="cavalry_chaos_human_250hp"
     premade_bodyproperties="marauder_chieftain"
     id="chaos_mounted_marauder_chieftain.chs">
     <UsableWeaponGroups>
@@ -2295,7 +2295,7 @@
     color2="FF1f1a19"
     banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
     name="Chaos Knight"
-    mpclassdivision="bre_cavalry_chaos_knight"
+    mpclassdivision="cavalry_chaos_warrior_400hp"
     premade_bodyproperties="chaos_warrior"
     id="chaos_knight.chs">
     <UsableWeaponGroups>
@@ -2362,7 +2362,7 @@
     color2="FF1f1a19"
     banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
     name="Chaos Lord"
-    mpclassdivision="bre_cavalry_chaos_lord"
+    mpclassdivision="cavalry_chaos_warrior_500hp"
     premade_bodyproperties="chaos_lord"
     id="chaos_lord.chs">
     <UsableWeaponGroups>
@@ -2414,7 +2414,7 @@
     color2="FF1f1a19"
     banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
     name="Troll"
-    mpclassdivision="bre_infantry_troll"
+    mpclassdivision="infantry_troll_1000hp"
     premade_bodyproperties="troll"
     id="troll.chs">
     <UsableWeaponGroups>
@@ -2440,7 +2440,7 @@
     color2="FF1f1a19"
     banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0"
     name="Cultist"
-    mpclassdivision="bre_infantry_human"
+    mpclassdivision="infantry_human_150hp"
     id="chaos_cultist.cht">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
@@ -2495,7 +2495,7 @@
     color2="FF1f1a19"
     banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0"
     name="Cultist Leader"
-    mpclassdivision="bre_infantry_human"
+    mpclassdivision="infantry_human_150hp"
     id="chaos_cultist_sergeant.cht">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
@@ -2542,7 +2542,7 @@
     color2="FF1f1a19"
     banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0"
     name="Marauder"
-    mpclassdivision="bre_infantry_chaos_marauder"
+    mpclassdivision="infantry_chaos_human_250hp"
     premade_bodyproperties="marauder"
     id="chaos_marauder.cht">
     <UsableWeaponGroups>
@@ -2595,7 +2595,7 @@
     color2="FF1f1a19"
     banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0"
     name="Marauder Chieftain"
-    mpclassdivision="bre_infantry_chaos_marauder_chieftain"
+    mpclassdivision="infantry_chaos_human_250hp"
     premade_bodyproperties="marauder_chieftain"
     id="chaos_marauder_chieftain.cht">
     <UsableWeaponGroups>
@@ -2640,7 +2640,7 @@
     color2="FF1f1a19"
     banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0"
     name="Chaos Warrior"
-    mpclassdivision="bre_infantry_chaos_warrior"
+    mpclassdivision="infantry_chaos_warrior_350hp"
     premade_bodyproperties="chaos_warrior"
     id="chaos_warrior.cht">
     <UsableWeaponGroups>
@@ -2701,7 +2701,7 @@
     color2="FF1f1a19"
     banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0"
     name="Chaos Chosen"
-    mpclassdivision="bre_infantry_chaos_chosen"
+    mpclassdivision="infantry_chaos_warrior_450hp"
     premade_bodyproperties="chaos_chosen"
     id="chaos_chosen.cht">
     <UsableWeaponGroups>
@@ -2737,7 +2737,7 @@
     color2="FF1f1a19"
     banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0"
     name="Cultist Archer"
-    mpclassdivision="bre_archer_human"
+    mpclassdivision="archer_human_150hp"
     id="chaos_cultist_archer.cht">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
@@ -2785,7 +2785,7 @@
     color2="FF1f1a19"
     banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0"
     name="Marauder Horseman"
-    mpclassdivision="bre_cavalry_chaos_marauder_horseman"
+    mpclassdivision="cavalry_chaos_human_250hp"
     premade_bodyproperties="marauder"
     id="chaos_marauder_horseman.cht">
     <UsableWeaponGroups>
@@ -2843,7 +2843,7 @@
     color2="FF1f1a19"
     banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0"
     name="Mounted Marauder Chieftain"
-    mpclassdivision="bre_cavalry_chaos_mounted_marauder_chieftain"
+    mpclassdivision="cavalry_chaos_human_250hp"
     premade_bodyproperties="marauder_chieftain"
     id="chaos_mounted_marauder_chieftain.cht">
     <UsableWeaponGroups>
@@ -2897,7 +2897,7 @@
     color2="FF1f1a19"
     banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0"
     name="Chaos Knight"
-    mpclassdivision="bre_cavalry_chaos_knight"
+    mpclassdivision="cavalry_chaos_warrior_400hp"
     premade_bodyproperties="chaos_warrior"
     id="chaos_knight.cht">
     <UsableWeaponGroups>
@@ -2964,7 +2964,7 @@
     color2="FF1f1a19"
     banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0"
     name="Chaos Lord"
-    mpclassdivision="bre_cavalry_chaos_lord"
+    mpclassdivision="cavalry_chaos_warrior_500hp"
     premade_bodyproperties="chaos_lord"
     id="chaos_lord.cht">
     <UsableWeaponGroups>
@@ -3016,7 +3016,7 @@
     color2="FF1f1a19"
     banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0"
     name="Troll"
-    mpclassdivision="bre_infantry_troll"
+    mpclassdivision="infantry_troll_1000hp"
     premade_bodyproperties="troll"
     id="troll.cht">
     <UsableWeaponGroups>

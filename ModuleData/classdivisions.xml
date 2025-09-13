@@ -2,9 +2,9 @@
 <MPClassDivisions>
   <!--FOR NOW ALL CLASSES WILL USE THE SAME CHARACTER IF THEY CAN STATS LIKE HP AND AP WILL BE CHANGED LATER AND PROBABLY THROUGH CODE-->
   <MPClassDivision 
-    id="bre_infantry_human"
-    hero="bre_infantry_human"
-    troop="bre_infantry_human"
+    id="infantry_human_150hp"
+    hero="infantry_human"
+    troop="infantry_human"
     hero_idle_anim="act_vlandia_mp_sergeant_idle"
     troop_idle_anim="act_idle_1h_with_shield_1_left_stance"
     multiplier="1.0"
@@ -30,9 +30,9 @@
     </Perks>
   </MPClassDivision>
   <MPClassDivision 
-    id="bre_infantry_chaos_marauder"
-    hero="bre_infantry_chaos_marauder"
-    troop="bre_infantry_chaos_marauder"
+    id="infantry_chaos_human_250hp"
+    hero="infantry_chaos_human"
+    troop="infantry_chaos_human"
     hero_idle_anim="act_vlandia_mp_sergeant_idle"
     troop_idle_anim="act_idle_1h_with_shield_1_left_stance"
     multiplier="1.0"
@@ -43,7 +43,7 @@
     melee_ai="50"
     ranged_ai="50"
     armor="50"
-    hitpoints="150"
+    hitpoints="250"
     movement_speed="0.85"
     combat_movement_speed="0.9"
     acceleration="2.4">
@@ -58,37 +58,9 @@
     </Perks>
   </MPClassDivision>
   <MPClassDivision 
-    id="bre_infantry_chaos_marauder_chieftain"
-    hero="bre_infantry_chaos_marauder_chieftain"
-    troop="bre_infantry_chaos_marauder_chieftain"
-    hero_idle_anim="act_vlandia_mp_sergeant_idle"
-    troop_idle_anim="act_idle_1h_with_shield_1_left_stance"
-    multiplier="1.0"
-    cost="0"
-    casual_cost="0"
-    battle_cost="0"
-    icon="Infantry_Light"
-    melee_ai="50"
-    ranged_ai="50"
-    armor="50"
-    hitpoints="150"
-    movement_speed="0.85"
-    combat_movement_speed="0.9"
-    acceleration="2.4">
-    <Perks>
-      <Perk 
-        game_mode="all"
-        name="Empty perk"
-        description="-"
-        icon="PerkToughness"
-        perk_list="1">
-      </Perk>
-    </Perks>
-  </MPClassDivision>
-  <MPClassDivision 
-    id="bre_infantry_chaos_warrior"
-    hero="bre_infantry_chaos_warrior"
-    troop="bre_infantry_chaos_warrior"
+    id="infantry_chaos_warrior_350hp"
+    hero="infantry_chaos_warrior"
+    troop="infantry_chaos_warrior"
     hero_idle_anim="act_vlandia_mp_sergeant_idle"
     troop_idle_anim="act_idle_1h_with_shield_1_left_stance"
     multiplier="1.0"
@@ -99,7 +71,7 @@
     melee_ai="50"
     ranged_ai="50"
     armor="50"
-    hitpoints="150"
+    hitpoints="350"
     movement_speed="0.85"
     combat_movement_speed="0.9"
     acceleration="2.4">
@@ -114,9 +86,9 @@
     </Perks>
   </MPClassDivision>
   <MPClassDivision 
-    id="bre_infantry_chaos_chosen"
-    hero="bre_infantry_chaos_chosen"
-    troop="bre_infantry_chaos_chosen"
+    id="infantry_chaos_warrior_450hp"
+    hero="infantry_chaos_warrior"
+    troop="infantry_chaos_warrior"
     hero_idle_anim="act_vlandia_mp_sergeant_idle"
     troop_idle_anim="act_idle_1h_with_shield_1_left_stance"
     multiplier="1.0"
@@ -127,7 +99,7 @@
     melee_ai="50"
     ranged_ai="50"
     armor="50"
-    hitpoints="150"
+    hitpoints="450"
     movement_speed="0.85"
     combat_movement_speed="0.9"
     acceleration="2.4">
@@ -142,9 +114,9 @@
     </Perks>
   </MPClassDivision>
   <MPClassDivision 
-    id="bre_archer_human"
-    hero="bre_archer_human"
-    troop="bre_archer_human"
+    id="archer_human_150hp"
+    hero="archer_human"
+    troop="archer_human"
     hero_idle_anim="act_vlandia_mp_sergeant_idle"
     troop_idle_anim="act_idle_1h_with_shield_1_left_stance"
     multiplier="1.0"
@@ -189,9 +161,9 @@
     </Perks>
   </MPClassDivision>
   <MPClassDivision 
-    id="bre_cavalry_chaos_marauder_horseman"
-    hero="bre_cavalry_chaos_marauder_horseman"
-    troop="bre_cavalry_chaos_marauder_horseman"
+    id="cavalry_chaos_human_250hp"
+    hero="cavalry_chaos_human"
+    troop="cavalry_chaos_human"
     hero_idle_anim="act_vlandia_mp_sergeant_idle"
     hero_mount_idle_anim="act_vlandia_mp_knight_mount_idle"
     troop_mount_idle_anim="act_horse_idle_1"
@@ -203,7 +175,7 @@
     melee_ai="50"
     ranged_ai="50"
     armor="50"
-    hitpoints="150"
+    hitpoints="250"
     movement_speed="0.8"
     combat_movement_speed="0.9"
     acceleration="2.7">
@@ -227,47 +199,9 @@
     </Perks>
   </MPClassDivision>
   <MPClassDivision 
-    id="bre_cavalry_chaos_mounted_marauder_chieftain"
-    hero="bre_cavalry_chaos_mounted_marauder_chieftain"
-    troop="bre_cavalry_chaos_mounted_marauder_chieftain"
-    hero_idle_anim="act_vlandia_mp_sergeant_idle"
-    hero_mount_idle_anim="act_vlandia_mp_knight_mount_idle"
-    troop_mount_idle_anim="act_horse_idle_1"
-    multiplier="1.0"
-    cost="0"
-    casual_cost="0"
-    battle_cost="0"
-    icon="Cavalry_Light"
-    melee_ai="50"
-    ranged_ai="50"
-    armor="50"
-    hitpoints="150"
-    movement_speed="0.8"
-    combat_movement_speed="0.9"
-    acceleration="2.7">
-    <Perks>
-      <Perk 
-        game_mode="all"
-        name="Decreased received missile damage"
-        description="-"
-        icon="PerkToughness"
-        perk_list="1">
-        <Effect
-          type="MountDamageTaken"
-          value="-0.33"
-          hit_type="Ranged"
-          is_ratio="true" />
-        <Effect
-          type="DamageTaken"
-          value="-0.33"
-          hit_type="Ranged" />
-      </Perk>
-    </Perks>
-  </MPClassDivision>
-  <MPClassDivision 
-    id="bre_cavalry_chaos_knight"
-    hero="bre_cavalry_chaos_knight"
-    troop="bre_cavalry_chaos_knight"
+    id="cavalry_chaos_warrior_400hp"
+    hero="cavalry_chaos_warrior"
+    troop="cavalry_chaos_warrior"
     hero_idle_anim="act_vlandia_mp_sergeant_idle"
     hero_mount_idle_anim="act_vlandia_mp_knight_mount_idle"
     troop_mount_idle_anim="act_horse_idle_1"
@@ -279,7 +213,7 @@
     melee_ai="50"
     ranged_ai="50"
     armor="50"
-    hitpoints="150"
+    hitpoints="400"
     movement_speed="0.8"
     combat_movement_speed="0.9"
     acceleration="2.7">
@@ -303,9 +237,9 @@
     </Perks>
   </MPClassDivision>
   <MPClassDivision 
-    id="bre_cavalry_chaos_lord"
-    hero="bre_cavalry_chaos_lord"
-    troop="bre_cavalry_chaos_lord"
+    id="cavalry_chaos_warrior_500hp"
+    hero="cavalry_chaos_warrior"
+    troop="cavalry_chaos_warrior"
     hero_idle_anim="act_vlandia_mp_sergeant_idle"
     hero_mount_idle_anim="act_vlandia_mp_knight_mount_idle"
     troop_mount_idle_anim="act_horse_idle_1"
@@ -317,7 +251,7 @@
     melee_ai="50"
     ranged_ai="50"
     armor="50"
-    hitpoints="150"
+    hitpoints="500"
     movement_speed="0.8"
     combat_movement_speed="0.9"
     acceleration="2.7">
@@ -341,42 +275,9 @@
     </Perks>
   </MPClassDivision>
   <MPClassDivision 
-    id="bre_infantry_troll"
-    hero="bre_infantry_troll"
-    troop="bre_infantry_troll"
-    hero_idle_anim="act_vlandia_mp_sergeant_idle"
-    troop_idle_anim="act_idle_1h_with_shield_1_left_stance"
-    multiplier="0.50"
-    cost="0"
-    casual_cost="0"
-    battle_cost="0"
-    icon="Infantry_Light"
-    melee_ai="50"
-    ranged_ai="50"
-    armor="50"
-    hitpoints="1000"
-    movement_speed="1.0"
-    combat_movement_speed="0.9"
-    acceleration="2.4">
-    <Perks>
-      <Perk 
-        game_mode="all"
-        name="Decreased received missile damage"
-        description=""
-        icon="PerkToughness"
-        perk_list="1">
-        <Effect
-          type="DamageTaken"
-          value="-0.33"
-          hit_type="Ranged" />
-      </Perk>
-    </Perks>
-  </MPClassDivision>
-  <!--PLACEHOLDER SINCE THERE MUST BE AT LEAST ONE CHARACTER FOR FACTION OTHERWISE THE GAME CRASHES WHEN SELECTED-->
-  <MPClassDivision 
-    id="placeholder"
-    hero="placeholder"
-    troop="placeholder"
+    id="infantry_troll_1000hp"
+    hero="infantry_troll"
+    troop="infantry_troll"
     hero_idle_anim="act_vlandia_mp_sergeant_idle"
     troop_idle_anim="act_idle_1h_with_shield_1_left_stance"
     multiplier="0.50"
