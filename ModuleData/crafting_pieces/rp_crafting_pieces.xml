@@ -482,20 +482,19 @@
       piece_offset="-3"/>
   </CraftingPiece>
   <!--Chaos Marauders' War Pick-->
-  <!--TODO: CHANGE TO AXE SETTINGS-->
   <CraftingPiece 
     id="b3_chaos_marauder_1h_mace_head" 
     name="Chaos Marauder Mace Head" 
     tier="2" 
     piece_type="Blade" 
     mesh="bre_chaos_marauder_1h_mace_head" 
-    distance_to_next_piece="0.0" 
-    distance_to_previous_piece="0.0" 
+    distance_to_next_piece="5.5" 
+    distance_to_previous_piece="5.3" 
     weight="0.7"
     excluded_item_usage_features="thrust">
     <BladeData 
-      blade_length="11.15" 
-      blade_width="27.40" 
+      blade_length="11.5" 
+      blade_width="42.3" 
       physics_material="metal_weapon" 
       body_name="bo_axe_longer_b">
       <Swing 
@@ -513,7 +512,7 @@
     tier="2" 
     piece_type="Handle"
     mesh="bre_chaos_marauder_1h_mace_handle" 
-    length="71.93" 
+    length="71.0" 
     weight="0.40">
     <BuildData  piece_offset="18"/>
   </CraftingPiece>
