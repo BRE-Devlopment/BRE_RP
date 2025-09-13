@@ -525,8 +525,8 @@
     piece_type="Blade" 
     mesh="bre_chaos_marauder_1h_axe_blade" 
     weight="0.7"
-    distance_to_next_piece="0.0" 
-    distance_to_previous_piece="0.0" 
+    distance_to_next_piece="3.14" 
+    distance_to_previous_piece="2.9" 
     excluded_item_usage_features="thrust">
     <BladeData 
       blade_length="29.77" 
@@ -541,8 +541,6 @@
       <Flag 
         name="BonusAgainstShield" />
     </Flags>
-    <BuildData
-      piece_offset="-18.0"/>
   </CraftingPiece>
   <CraftingPiece 
     id="b3_chaos_marauder_1h_axe_handle" 
@@ -552,7 +550,8 @@
     mesh="bre_chaos_marauder_1h_axe_handle" 
     length="72.70" 
     weight="0.4">
-    <BuildData piece_offset="15"/>
+    <BuildData 
+      piece_offset="15"/>
   </CraftingPiece>
   <!--Chaos Mauraders' Spear-->
   <!--USES sp_spear_blade_2 A COPY FROM SP SAVED IN CORE-->

@@ -86,7 +86,7 @@
     color1="FF1f1f1f"
     color2="FFefede3"
     banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
-    name="Cultist Sergeant"
+    name="Cultist Leader"
     mpclassdivision="bre_infantry_human"
     id="chaos_cultist_sergeant.chu">
     <UsableWeaponGroups>
@@ -637,19 +637,26 @@
     mpclassdivision="bre_infantry_human"
     id="chaos_cultist.chk">
     <UsableWeaponGroups>
-      <!--WIP-->
       <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
+      <equipment id="b2_peasant_spear"/>
+      <equipment id="null" disablerandomize="true" hidden="true"/>
+    </Weapon0>
+    <Weapon1>
       <equipment id="b2_peasant_mace"/>
       <equipment id="b2_peasant_axe"/>
       <equipment id="b2_peasant_sword"/>
-    </Weapon0>
-    <Weapon1>
+    </Weapon1>
+    <Weapon2>
       <equipment id="rp_cultist_shield_chk_v1"/>
       <equipment id="rp_cultist_shield_chk_v2"/>
       <equipment id="rp_cultist_shield_chk_v3"/>
-    </Weapon1>
+      <equipment id="rp_banner_chk_v1" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="rp_banner_chk_v2" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="rp_banner_chk_v3" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="rp_banner_chk_v4" disablegroup="Weapon0" disablerandomize="true"/>
+    </Weapon2>
     <Head>
       <equipment id="rp_cultist_head_chk_v1"/>
       <equipment id="rp_cultist_head_chk_v2"/>
@@ -681,7 +688,7 @@
     color1="FF5c1710"
     color2="FFefede3"
     banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0"
-    name="Cultist Sergeant"
+    name="Cultist Leader"
     mpclassdivision="bre_infantry_human"
     id="chaos_cultist_sergeant.chk">
     <UsableWeaponGroups>
@@ -689,7 +696,6 @@
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
-      <equipment id="null" disablerandomize="true" hidden="true"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b2_peasant_mace"/>
@@ -700,10 +706,6 @@
       <equipment id="rp_cultist_shield_chk_v1"/>
       <equipment id="rp_cultist_shield_chk_v2"/>
       <equipment id="rp_cultist_shield_chk_v3"/>
-      <equipment id="rp_banner_chk_v1" disablegroup="Weapon0" disablerandomize="true"/>
-      <equipment id="rp_banner_chk_v2" disablegroup="Weapon0" disablerandomize="true"/>
-      <equipment id="rp_banner_chk_v3" disablegroup="Weapon0" disablerandomize="true"/>
-      <equipment id="rp_banner_chk_v4" disablegroup="Weapon0" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="rp_cultist_sergeant_head_chk"/>
@@ -728,16 +730,489 @@
       <equipment id="rp_cultist_leg_chk_v3"/>
     </Leg>
   </ClanClass>
-
-
   <ClanClass 
     clan="CHK"
-    color1="FFdab42b"
-    color2="FF1f1a19"
+    color1="FF5c1710"
+    color2="FFefede3"
     banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0"
-    name="PLACEHOLDER"
+    name="Marauder"
+    mpclassdivision="bre_infantry_chaos_marauder"
+    premade_bodyproperties="marauder"
+    id="chaos_marauder.chk">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="rp_chaos_marauder_1h_sword"/>
+      <equipment id="rp_chaos_marauder_1h_mace"/>
+      <equipment id="rp_chaos_marauder_1h_axe"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_marauder_shield_chk_v1"/>
+      <equipment id="rp_marauder_shield_chk_v2"/>
+      <equipment id="rp_marauder_shield_chk_v3"/>
+      <equipment id="rp_banner_chk_v1" disablerandomize="true"/>
+      <equipment id="rp_banner_chk_v2" disablerandomize="true"/>
+      <equipment id="rp_banner_chk_v3" disablerandomize="true"/>
+      <equipment id="rp_banner_chk_v4" disablerandomize="true"/>
+    </Weapon1>
+    <Head>
+      <equipment id="rp_marauder_head_chk_v1"/>
+      <equipment id="rp_marauder_head_chk_v2"/>
+      <equipment id="rp_marauder_head_chk_v3"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_marauder_cape_chk_v1"/>
+      <equipment id="rp_marauder_cape_chk_v2"/>
+      <equipment id="rp_marauder_cape_chk_v3"/>
+      <equipment id="null"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_marauder_body_chk_v1"/>
+      <equipment id="rp_marauder_body_chk_v2"/>
+      <equipment id="rp_marauder_body_chk_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_marauder_gloves_chk_v1"/>
+      <equipment id="rp_marauder_gloves_chk_v2"/>
+      <equipment id="rp_marauder_gloves_chk_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_marauder_leg_chk_v1"/>
+      <equipment id="rp_marauder_leg_chk_v2"/>
+      <equipment id="rp_marauder_leg_chk_v3"/>
+    </Leg>
+  </ClanClass>
+  <ClanClass 
+    clan="CHK"
+    color1="FF5c1710"
+    color2="FFefede3"
+    banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0"
+    name="Marauder Chieftain"
+    mpclassdivision="bre_infantry_chaos_marauder_chieftain"
+    premade_bodyproperties="marauder_chieftain"
+    id="chaos_marauder_chieftain.chk">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="rp_chaos_marauder_1h_sword"/>
+      <equipment id="rp_chaos_marauder_1h_mace"/>
+      <equipment id="rp_chaos_marauder_1h_axe"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_marauder_shield_chk_v1"/>
+      <equipment id="rp_marauder_shield_chk_v2"/>
+      <equipment id="rp_marauder_shield_chk_v3"/>
+    </Weapon1>
+    <Head>
+      <equipment id="rp_marauder_chieftain_head_chk"/>
+    </Head>
+    <Cape>
+      <equipment id="mp_bearskin"/>
+      <equipment id="null"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_marauder_body_chk_v1"/>
+      <equipment id="rp_marauder_body_chk_v2"/>
+      <equipment id="rp_marauder_body_chk_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_marauder_gloves_chk_v1"/>
+      <equipment id="rp_marauder_gloves_chk_v2"/>
+      <equipment id="rp_marauder_gloves_chk_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_marauder_leg_chk_v1"/>
+      <equipment id="rp_marauder_leg_chk_v2"/>
+      <equipment id="rp_marauder_leg_chk_v3"/>
+    </Leg>
+  </ClanClass>
+  <ClanClass 
+    clan="CHK"
+    color1="FF5c1710"
+    color2="FFefede3"
+    banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0"
+    name="Chaos Warrior"
+    mpclassdivision="bre_infantry_chaos_warrior"
+    premade_bodyproperties="chaos_warrior"
+    id="chaos_warrior.chk">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="rp_chaos_warrior_1h_sword"/>
+      <equipment id="rp_chaos_warrior_1h_mace"/>
+      <equipment id="rp_chaos_warrior_1h_axe"/>
+      <equipment id="rp_chaos_warrior_1h_flail"/>
+      <equipment id="rp_chaos_warrior_2h_sword" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_warrior_2h_mace" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_warrior_2h_axe" disablerandomize="true" disablegroup="Weapon1"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_warrior_shield_chk_v1"/>
+      <equipment id="rp_warrior_shield_chk_v2"/>
+      <equipment id="rp_warrior_shield_chk_v3"/>
+      <equipment id="rp_warrior_shield_chk_v4"/>
+      <equipment id="rp_warrior_shield_chk_v5"/>
+      <equipment id="rp_warrior_shield_chk_v6"/>
+      <equipment id="rp_warrior_banner_chk" disablerandomize="true"/>
+      <equipment id="null" disablerandomize="true" hidden="true"/>
+    </Weapon1>
+    <Head>
+      <equipment id="rp_warrior_head_chk_v1"/>
+      <equipment id="rp_warrior_head_chk_v2"/>
+      <equipment id="rp_warrior_head_chk_v3"/>
+      <equipment id="rp_warrior_head_chk_v4"/>
+      <equipment id="rp_warrior_head_chk_v5"/>
+      <equipment id="rp_warrior_head_chk_v6"/>
+      <equipment id="rp_warrior_head_chk_v7"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_warrior_cape_chk_v1"/>
+      <equipment id="rp_warrior_cape_chk_v2"/>
+      <equipment id="rp_warrior_cape_chk_v3"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_warrior_body_chk_v1"/>
+      <equipment id="rp_warrior_body_chk_v2"/>
+      <equipment id="rp_warrior_body_chk_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_warrior_gloves_chk_v1"/>
+      <equipment id="rp_warrior_gloves_chk_v2"/>
+      <equipment id="rp_warrior_gloves_chk_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_warrior_leg_chk_v1"/>
+      <equipment id="rp_warrior_leg_chk_v2"/>
+      <equipment id="rp_warrior_leg_chk_v3"/>
+    </Leg>
+  </ClanClass>
+  <ClanClass 
+    clan="CHK"
+    color1="FF5c1710"
+    color2="FFefede3"
+    banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0"
+    name="Chaos Chosen"
+    mpclassdivision="bre_infantry_chaos_chosen"
+    premade_bodyproperties="chaos_chosen"
+    id="chaos_chosen.chk">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="rp_chaos_lord_1h_sword"/>
+      <equipment id="rp_chaos_lord_1h_mace"/>
+      <equipment id="rp_chaos_lord_glaive"/>
+      <equipment id="rp_chaos_lord_2h_sword"/>
+      <equipment id="rp_chaos_lord_2h_mace"/>
+      <equipment id="rp_chaos_lord_2h_axe"/>
+    </Weapon0>
+    <Head>
+      <equipment id="rp_chosen_head_chk"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_chosen_cape_chk"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_chosen_body_chk"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_chosen_gloves_chk"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_chosen_leg_chk"/>
+    </Leg>
+  </ClanClass>
+  <ClanClass 
+    clan="CHK"
+    color1="FF5c1710"
+    color2="FFefede3"
+    banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0"
+    name="Cultist Archer"
+    mpclassdivision="bre_archer_human"
+    id="chaos_cultist_archer.chk">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="sp_cheap_bow"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_range_arrows"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_peasant_axe"/>
+      <equipment id="b2_peasant_sword"/>
+      <equipment id="b2_peasant_dagger"/>
+    </Weapon2>
+    <Head>
+      <equipment id="rp_cultist_head_chk_v1"/>
+      <equipment id="rp_cultist_head_chk_v2"/>
+      <equipment id="rp_cultist_head_chk_v3"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_cultist_cape_chk_v1"/>
+      <equipment id="rp_cultist_cape_chk_v2"/>
+      <equipment id="rp_cultist_cape_chk_v3"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_cultist_body_chk_v1"/>
+      <equipment id="rp_cultist_body_chk_v2"/>
+      <equipment id="rp_cultist_body_chk_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_cultist_gloves_chk_v1"/>
+      <equipment id="rp_cultist_gloves_chk_v2"/>
+      <equipment id="rp_cultist_gloves_chk_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_cultist_leg_chk_v1"/>
+      <equipment id="rp_cultist_leg_chk_v2"/>
+      <equipment id="rp_cultist_leg_chk_v3"/>
+    </Leg>
+  </ClanClass>
+  <ClanClass 
+    clan="CHK"
+    color1="FF5c1710"
+    color2="FFefede3"
+    banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0"
+    name="Marauder Horseman"
+    mpclassdivision="bre_cavalry_chaos_marauder_horseman"
+    premade_bodyproperties="marauder"
+    id="chaos_marauder_horseman.chk">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="rp_chaos_marauder_throwing_spear"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_marauder_shield_chk_v1"/>
+      <equipment id="rp_marauder_shield_chk_v2"/>
+      <equipment id="rp_marauder_shield_chk_v3"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="rp_chaos_marauder_1h_sword"/>
+      <equipment id="rp_chaos_marauder_1h_mace"/>
+      <equipment id="rp_chaos_marauder_1h_axe"/>
+    </Weapon2>
+    <Head>
+      <equipment id="rp_marauder_head_chk_v1"/>
+      <equipment id="rp_marauder_head_chk_v2"/>
+      <equipment id="rp_marauder_head_chk_v3"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_marauder_cape_chk_v1"/>
+      <equipment id="rp_marauder_cape_chk_v2"/>
+      <equipment id="rp_marauder_cape_chk_v3"/>
+      <equipment id="null"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_marauder_body_chk_v1"/>
+      <equipment id="rp_marauder_body_chk_v2"/>
+      <equipment id="rp_marauder_body_chk_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_marauder_gloves_chk_v1"/>
+      <equipment id="rp_marauder_gloves_chk_v2"/>
+      <equipment id="rp_marauder_gloves_chk_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_marauder_leg_chk_v1"/>
+      <equipment id="rp_marauder_leg_chk_v2"/>
+      <equipment id="rp_marauder_leg_chk_v3"/>
+    </Leg>
+    <HorseHarness>
+      <equipment id="rp_marauder_horseharness_chx_v2"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="rp_marauder_horse_chx"/>
+    </Horse>
+  </ClanClass>
+  <ClanClass 
+    clan="CHK"
+    color1="FF5c1710"
+    color2="FFefede3"
+    banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0"
+    name="Mounted Marauder Chieftain"
+    mpclassdivision="bre_cavalry_chaos_mounted_marauder_chieftain"
+    premade_bodyproperties="marauder_chieftain"
+    id="chaos_mounted_marauder_chieftain.chk">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="rp_chaos_marauder_throwing_spear"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_marauder_shield_chk_v1"/>
+      <equipment id="rp_marauder_shield_chk_v2"/>
+      <equipment id="rp_marauder_shield_chk_v3"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="rp_chaos_marauder_1h_sword"/>
+      <equipment id="rp_chaos_marauder_1h_mace"/>
+      <equipment id="rp_chaos_marauder_1h_axe"/>
+    </Weapon2>
+    <Head>
+      <equipment id="rp_marauder_chieftain_head_chk"/>
+    </Head>
+    <Cape>
+      <equipment id="mp_bearskin"/>
+      <equipment id="null"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_marauder_body_chk_v1"/>
+      <equipment id="rp_marauder_body_chk_v2"/>
+      <equipment id="rp_marauder_body_chk_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_marauder_gloves_chk_v1"/>
+      <equipment id="rp_marauder_gloves_chk_v2"/>
+      <equipment id="rp_marauder_gloves_chk_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_marauder_leg_chk_v1"/>
+      <equipment id="rp_marauder_leg_chk_v2"/>
+      <equipment id="rp_marauder_leg_chk_v3"/>
+    </Leg>
+    <HorseHarness>
+      <equipment id="rp_marauder_horseharness_chx_v1"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="rp_marauder_horse_chx"/>
+    </Horse>
+  </ClanClass>
+  <ClanClass 
+    clan="CHK"
+    color1="FF5c1710"
+    color2="FFefede3"
+    banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0"
+    name="Chaos Knight"
+    mpclassdivision="bre_cavalry_chaos_knight"
+    premade_bodyproperties="chaos_warrior"
+    id="chaos_knight.chk">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="rp_chaos_warrior_1h_sword"/>
+      <equipment id="rp_chaos_warrior_1h_mace"/>
+      <equipment id="rp_chaos_warrior_1h_axe"/>
+      <equipment id="rp_chaos_warrior_1h_flail"/>
+      <equipment id="rp_chaos_warrior_2h_sword" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_warrior_2h_mace" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_warrior_2h_axe" disablerandomize="true" disablegroup="Weapon1"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_warrior_shield_chk_v1"/>
+      <equipment id="rp_warrior_shield_chk_v2"/>
+      <equipment id="rp_warrior_shield_chk_v3"/>
+      <equipment id="rp_warrior_shield_chk_v4"/>
+      <equipment id="rp_warrior_shield_chk_v5"/>
+      <equipment id="rp_warrior_shield_chk_v6"/>
+      <equipment id="null" disablerandomize="true" hidden="true"/>
+    </Weapon1>
+    <Head>
+      <equipment id="rp_warrior_head_chk_v1"/>
+      <equipment id="rp_warrior_head_chk_v2"/>
+      <equipment id="rp_warrior_head_chk_v3"/>
+      <equipment id="rp_warrior_head_chk_v4"/>
+      <equipment id="rp_warrior_head_chk_v5"/>
+      <equipment id="rp_warrior_head_chk_v6"/>
+      <equipment id="rp_warrior_head_chk_v7"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_warrior_cape_chk_v1"/>
+      <equipment id="rp_warrior_cape_chk_v2"/>
+      <equipment id="rp_warrior_cape_chk_v3"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_warrior_body_chk_v1"/>
+      <equipment id="rp_warrior_body_chk_v2"/>
+      <equipment id="rp_warrior_body_chk_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_warrior_gloves_chk_v1"/>
+      <equipment id="rp_warrior_gloves_chk_v2"/>
+      <equipment id="rp_warrior_gloves_chk_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_warrior_leg_chk_v1"/>
+      <equipment id="rp_warrior_leg_chk_v2"/>
+      <equipment id="rp_warrior_leg_chk_v3"/>
+    </Leg>
+    <HorseHarness>
+      <equipment id="rp_warrior_horseharness_chk_v1"/>
+      <equipment id="rp_warrior_horseharness_chk_v2"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="rp_chaos_horse_chx"/>
+    </Horse>
+  </ClanClass>
+  <ClanClass 
+    clan="CHK"
+    color1="FF5c1710"
+    color2="FFefede3"
+    banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0"
+    name="Chaos Lord"
+    mpclassdivision="bre_cavalry_chaos_lord"
+    premade_bodyproperties="chaos_lord"
+    id="chaos_lord.chk">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="rp_chaos_lord_1h_sword"/>
+      <equipment id="rp_chaos_lord_1h_mace"/>
+      <equipment id="rp_chaos_lord_glaive" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_lord_2h_sword" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_lord_2h_mace" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_lord_2h_axe" disablerandomize="true" disablegroup="Weapon1"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_warrior_shield_chk_v1"/>
+      <equipment id="rp_warrior_shield_chk_v2"/>
+      <equipment id="rp_warrior_shield_chk_v3"/>
+      <equipment id="rp_warrior_shield_chk_v4"/>
+      <equipment id="rp_warrior_shield_chk_v5"/>
+      <equipment id="rp_warrior_shield_chk_v6"/>
+      <equipment id="null" disablerandomize="true" hidden="true"/>
+    </Weapon1>
+    <Head>
+      <equipment id="rp_lord_head_chk"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_lord_cape_chk"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_lord_body_chk"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_lord_gloves_chk"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_lord_leg_chk"/>
+    </Leg>
+    <HorseHarness>
+      <equipment id="rp_warrior_horseharness_chk_v1"/>
+      <equipment id="rp_warrior_horseharness_chk_v2"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="rp_chaos_horse_chx"/>
+    </Horse>
+  </ClanClass>
+  <ClanClass 
+    clan="CHK"
+    color1="FF5c1710"
+    color2="FFefede3"
+    banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0"
+    name="Troll"
     mpclassdivision="bre_infantry_troll"
-    id="placeholder.chk">
+    premade_bodyproperties="troll"
+    id="troll.chk">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
@@ -751,32 +1226,39 @@
       effect="Healing"
       intensity="0.5"/>
     <Weapon0>
-      <equipment id="b3_chaos_troll_mace"/>
+      <equipment id="rp_chaos_troll_mace"/>
     </Weapon0>
   </ClanClass>
   <!--CHN-->
   <ClanClass 
     clan="CHN"
-    color1="FF38471a"
-    color2="FFefede3"
+    color1="FFdab42b"
+    color2="FF1f1a19"
     banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
     name="Cultist"
     mpclassdivision="bre_infantry_human"
     id="chaos_cultist.chn">
     <UsableWeaponGroups>
-      <!--WIP-->
       <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
+      <equipment id="b2_peasant_spear"/>
+      <equipment id="null" disablerandomize="true" hidden="true"/>
+    </Weapon0>
+    <Weapon1>
       <equipment id="b2_peasant_mace"/>
       <equipment id="b2_peasant_axe"/>
       <equipment id="b2_peasant_sword"/>
-    </Weapon0>
-    <Weapon1>
+    </Weapon1>
+    <Weapon2>
       <equipment id="rp_cultist_shield_chn_v1"/>
       <equipment id="rp_cultist_shield_chn_v2"/>
       <equipment id="rp_cultist_shield_chn_v3"/>
-    </Weapon1>
+      <equipment id="rp_banner_chn_v1" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="rp_banner_chn_v2" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="rp_banner_chn_v3" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="rp_banner_chn_v4" disablegroup="Weapon0" disablerandomize="true"/>
+    </Weapon2>
     <Head>
       <equipment id="rp_cultist_head_chn_v1"/>
       <equipment id="rp_cultist_head_chn_v2"/>
@@ -805,10 +1287,10 @@
   </ClanClass>
   <ClanClass 
     clan="CHN"
-    color1="FF38471a"
-    color2="FFefede3"
+    color1="FFdab42b"
+    color2="FF1f1a19"
     banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
-    name="Cultist Sergeant"
+    name="Cultist Leader"
     mpclassdivision="bre_infantry_human"
     id="chaos_cultist_sergeant.chn">
     <UsableWeaponGroups>
@@ -816,7 +1298,6 @@
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
-      <equipment id="null" disablerandomize="true" hidden="true"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b2_peasant_mace"/>
@@ -827,10 +1308,6 @@
       <equipment id="rp_cultist_shield_chn_v1"/>
       <equipment id="rp_cultist_shield_chn_v2"/>
       <equipment id="rp_cultist_shield_chn_v3"/>
-      <equipment id="rp_banner_chn_v1" disablegroup="Weapon0" disablerandomize="true"/>
-      <equipment id="rp_banner_chn_v2" disablegroup="Weapon0" disablerandomize="true"/>
-      <equipment id="rp_banner_chn_v3" disablegroup="Weapon0" disablerandomize="true"/>
-      <equipment id="rp_banner_chn_v4" disablegroup="Weapon0" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="rp_cultist_sergeant_head_chn"/>
@@ -855,16 +1332,489 @@
       <equipment id="rp_cultist_leg_chn_v3"/>
     </Leg>
   </ClanClass>
-
-
   <ClanClass 
     clan="CHN"
     color1="FFdab42b"
     color2="FF1f1a19"
     banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
-    name="PLACEHOLDER"
+    name="Marauder"
+    mpclassdivision="bre_infantry_chaos_marauder"
+    premade_bodyproperties="marauder"
+    id="chaos_marauder.chn">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="rp_chaos_marauder_1h_sword"/>
+      <equipment id="rp_chaos_marauder_1h_mace"/>
+      <equipment id="rp_chaos_marauder_1h_axe"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_marauder_shield_chn_v1"/>
+      <equipment id="rp_marauder_shield_chn_v2"/>
+      <equipment id="rp_marauder_shield_chn_v3"/>
+      <equipment id="rp_banner_chn_v1" disablerandomize="true"/>
+      <equipment id="rp_banner_chn_v2" disablerandomize="true"/>
+      <equipment id="rp_banner_chn_v3" disablerandomize="true"/>
+      <equipment id="rp_banner_chn_v4" disablerandomize="true"/>
+    </Weapon1>
+    <Head>
+      <equipment id="rp_marauder_head_chn_v1"/>
+      <equipment id="rp_marauder_head_chn_v2"/>
+      <equipment id="rp_marauder_head_chn_v3"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_marauder_cape_chn_v1"/>
+      <equipment id="rp_marauder_cape_chn_v2"/>
+      <equipment id="rp_marauder_cape_chn_v3"/>
+      <equipment id="null"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_marauder_body_chn_v1"/>
+      <equipment id="rp_marauder_body_chn_v2"/>
+      <equipment id="rp_marauder_body_chn_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_marauder_gloves_chn_v1"/>
+      <equipment id="rp_marauder_gloves_chn_v2"/>
+      <equipment id="rp_marauder_gloves_chn_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_marauder_leg_chn_v1"/>
+      <equipment id="rp_marauder_leg_chn_v2"/>
+      <equipment id="rp_marauder_leg_chn_v3"/>
+    </Leg>
+  </ClanClass>
+  <ClanClass 
+    clan="CHN"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
+    name="Marauder Chieftain"
+    mpclassdivision="bre_infantry_chaos_marauder_chieftain"
+    premade_bodyproperties="marauder_chieftain"
+    id="chaos_marauder_chieftain.chn">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="rp_chaos_marauder_1h_sword"/>
+      <equipment id="rp_chaos_marauder_1h_mace"/>
+      <equipment id="rp_chaos_marauder_1h_axe"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_marauder_shield_chn_v1"/>
+      <equipment id="rp_marauder_shield_chn_v2"/>
+      <equipment id="rp_marauder_shield_chn_v3"/>
+    </Weapon1>
+    <Head>
+      <equipment id="rp_marauder_chieftain_head_chn"/>
+    </Head>
+    <Cape>
+      <equipment id="mp_bearskin"/>
+      <equipment id="null"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_marauder_body_chn_v1"/>
+      <equipment id="rp_marauder_body_chn_v2"/>
+      <equipment id="rp_marauder_body_chn_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_marauder_gloves_chn_v1"/>
+      <equipment id="rp_marauder_gloves_chn_v2"/>
+      <equipment id="rp_marauder_gloves_chn_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_marauder_leg_chn_v1"/>
+      <equipment id="rp_marauder_leg_chn_v2"/>
+      <equipment id="rp_marauder_leg_chn_v3"/>
+    </Leg>
+  </ClanClass>
+  <ClanClass 
+    clan="CHN"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
+    name="Chaos Warrior"
+    mpclassdivision="bre_infantry_chaos_warrior"
+    premade_bodyproperties="chaos_warrior"
+    id="chaos_warrior.chn">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="rp_chaos_warrior_1h_sword"/>
+      <equipment id="rp_chaos_warrior_1h_mace"/>
+      <equipment id="rp_chaos_warrior_1h_axe"/>
+      <equipment id="rp_chaos_warrior_1h_flail"/>
+      <equipment id="rp_chaos_warrior_2h_sword" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_warrior_2h_mace" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_warrior_2h_axe" disablerandomize="true" disablegroup="Weapon1"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_warrior_shield_chn_v1"/>
+      <equipment id="rp_warrior_shield_chn_v2"/>
+      <equipment id="rp_warrior_shield_chn_v3"/>
+      <equipment id="rp_warrior_shield_chn_v4"/>
+      <equipment id="rp_warrior_shield_chn_v5"/>
+      <equipment id="rp_warrior_shield_chn_v6"/>
+      <equipment id="rp_warrior_banner_chn" disablerandomize="true"/>
+      <equipment id="null" disablerandomize="true" hidden="true"/>
+    </Weapon1>
+    <Head>
+      <equipment id="rp_warrior_head_chn_v1"/>
+      <equipment id="rp_warrior_head_chn_v2"/>
+      <equipment id="rp_warrior_head_chn_v3"/>
+      <equipment id="rp_warrior_head_chn_v4"/>
+      <equipment id="rp_warrior_head_chn_v5"/>
+      <equipment id="rp_warrior_head_chn_v6"/>
+      <equipment id="rp_warrior_head_chn_v7"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_warrior_cape_chn_v1"/>
+      <equipment id="rp_warrior_cape_chn_v2"/>
+      <equipment id="rp_warrior_cape_chn_v3"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_warrior_body_chn_v1"/>
+      <equipment id="rp_warrior_body_chn_v2"/>
+      <equipment id="rp_warrior_body_chn_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_warrior_gloves_chn_v1"/>
+      <equipment id="rp_warrior_gloves_chn_v2"/>
+      <equipment id="rp_warrior_gloves_chn_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_warrior_leg_chn_v1"/>
+      <equipment id="rp_warrior_leg_chn_v2"/>
+      <equipment id="rp_warrior_leg_chn_v3"/>
+    </Leg>
+  </ClanClass>
+  <ClanClass 
+    clan="CHN"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
+    name="Chaos Chosen"
+    mpclassdivision="bre_infantry_chaos_chosen"
+    premade_bodyproperties="chaos_chosen"
+    id="chaos_chosen.chn">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="rp_chaos_lord_1h_sword"/>
+      <equipment id="rp_chaos_lord_1h_mace"/>
+      <equipment id="rp_chaos_lord_glaive"/>
+      <equipment id="rp_chaos_lord_2h_sword"/>
+      <equipment id="rp_chaos_lord_2h_mace"/>
+      <equipment id="rp_chaos_lord_2h_axe"/>
+    </Weapon0>
+    <Head>
+      <equipment id="rp_chosen_head_chn"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_chosen_cape_chn"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_chosen_body_chn"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_chosen_gloves_chn"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_chosen_leg_chn"/>
+    </Leg>
+  </ClanClass>
+  <ClanClass 
+    clan="CHN"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
+    name="Cultist Archer"
+    mpclassdivision="bre_archer_human"
+    id="chaos_cultist_archer.chn">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="sp_cheap_bow"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_range_arrows"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_peasant_axe"/>
+      <equipment id="b2_peasant_sword"/>
+      <equipment id="b2_peasant_dagger"/>
+    </Weapon2>
+    <Head>
+      <equipment id="rp_cultist_head_chn_v1"/>
+      <equipment id="rp_cultist_head_chn_v2"/>
+      <equipment id="rp_cultist_head_chn_v3"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_cultist_cape_chn_v1"/>
+      <equipment id="rp_cultist_cape_chn_v2"/>
+      <equipment id="rp_cultist_cape_chn_v3"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_cultist_body_chn_v1"/>
+      <equipment id="rp_cultist_body_chn_v2"/>
+      <equipment id="rp_cultist_body_chn_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_cultist_gloves_chn_v1"/>
+      <equipment id="rp_cultist_gloves_chn_v2"/>
+      <equipment id="rp_cultist_gloves_chn_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_cultist_leg_chn_v1"/>
+      <equipment id="rp_cultist_leg_chn_v2"/>
+      <equipment id="rp_cultist_leg_chn_v3"/>
+    </Leg>
+  </ClanClass>
+  <ClanClass 
+    clan="CHN"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
+    name="Marauder Horseman"
+    mpclassdivision="bre_cavalry_chaos_marauder_horseman"
+    premade_bodyproperties="marauder"
+    id="chaos_marauder_horseman.chn">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="rp_chaos_marauder_throwing_spear"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_marauder_shield_chn_v1"/>
+      <equipment id="rp_marauder_shield_chn_v2"/>
+      <equipment id="rp_marauder_shield_chn_v3"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="rp_chaos_marauder_1h_sword"/>
+      <equipment id="rp_chaos_marauder_1h_mace"/>
+      <equipment id="rp_chaos_marauder_1h_axe"/>
+    </Weapon2>
+    <Head>
+      <equipment id="rp_marauder_head_chn_v1"/>
+      <equipment id="rp_marauder_head_chn_v2"/>
+      <equipment id="rp_marauder_head_chn_v3"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_marauder_cape_chn_v1"/>
+      <equipment id="rp_marauder_cape_chn_v2"/>
+      <equipment id="rp_marauder_cape_chn_v3"/>
+      <equipment id="null"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_marauder_body_chn_v1"/>
+      <equipment id="rp_marauder_body_chn_v2"/>
+      <equipment id="rp_marauder_body_chn_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_marauder_gloves_chn_v1"/>
+      <equipment id="rp_marauder_gloves_chn_v2"/>
+      <equipment id="rp_marauder_gloves_chn_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_marauder_leg_chn_v1"/>
+      <equipment id="rp_marauder_leg_chn_v2"/>
+      <equipment id="rp_marauder_leg_chn_v3"/>
+    </Leg>
+    <HorseHarness>
+      <equipment id="rp_marauder_horseharness_chx_v2"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="rp_marauder_horse_chx"/>
+    </Horse>
+  </ClanClass>
+  <ClanClass 
+    clan="CHN"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
+    name="Mounted Marauder Chieftain"
+    mpclassdivision="bre_cavalry_chaos_mounted_marauder_chieftain"
+    premade_bodyproperties="marauder_chieftain"
+    id="chaos_mounted_marauder_chieftain.chn">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="rp_chaos_marauder_throwing_spear"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_marauder_shield_chn_v1"/>
+      <equipment id="rp_marauder_shield_chn_v2"/>
+      <equipment id="rp_marauder_shield_chn_v3"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="rp_chaos_marauder_1h_sword"/>
+      <equipment id="rp_chaos_marauder_1h_mace"/>
+      <equipment id="rp_chaos_marauder_1h_axe"/>
+    </Weapon2>
+    <Head>
+      <equipment id="rp_marauder_chieftain_head_chn"/>
+    </Head>
+    <Cape>
+      <equipment id="mp_bearskin"/>
+      <equipment id="null"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_marauder_body_chn_v1"/>
+      <equipment id="rp_marauder_body_chn_v2"/>
+      <equipment id="rp_marauder_body_chn_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_marauder_gloves_chn_v1"/>
+      <equipment id="rp_marauder_gloves_chn_v2"/>
+      <equipment id="rp_marauder_gloves_chn_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_marauder_leg_chn_v1"/>
+      <equipment id="rp_marauder_leg_chn_v2"/>
+      <equipment id="rp_marauder_leg_chn_v3"/>
+    </Leg>
+    <HorseHarness>
+      <equipment id="rp_marauder_horseharness_chx_v1"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="rp_marauder_horse_chx"/>
+    </Horse>
+  </ClanClass>
+  <ClanClass 
+    clan="CHN"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
+    name="Chaos Knight"
+    mpclassdivision="bre_cavalry_chaos_knight"
+    premade_bodyproperties="chaos_warrior"
+    id="chaos_knight.chn">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="rp_chaos_warrior_1h_sword"/>
+      <equipment id="rp_chaos_warrior_1h_mace"/>
+      <equipment id="rp_chaos_warrior_1h_axe"/>
+      <equipment id="rp_chaos_warrior_1h_flail"/>
+      <equipment id="rp_chaos_warrior_2h_sword" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_warrior_2h_mace" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_warrior_2h_axe" disablerandomize="true" disablegroup="Weapon1"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_warrior_shield_chn_v1"/>
+      <equipment id="rp_warrior_shield_chn_v2"/>
+      <equipment id="rp_warrior_shield_chn_v3"/>
+      <equipment id="rp_warrior_shield_chn_v4"/>
+      <equipment id="rp_warrior_shield_chn_v5"/>
+      <equipment id="rp_warrior_shield_chn_v6"/>
+      <equipment id="null" disablerandomize="true" hidden="true"/>
+    </Weapon1>
+    <Head>
+      <equipment id="rp_warrior_head_chn_v1"/>
+      <equipment id="rp_warrior_head_chn_v2"/>
+      <equipment id="rp_warrior_head_chn_v3"/>
+      <equipment id="rp_warrior_head_chn_v4"/>
+      <equipment id="rp_warrior_head_chn_v5"/>
+      <equipment id="rp_warrior_head_chn_v6"/>
+      <equipment id="rp_warrior_head_chn_v7"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_warrior_cape_chn_v1"/>
+      <equipment id="rp_warrior_cape_chn_v2"/>
+      <equipment id="rp_warrior_cape_chn_v3"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_warrior_body_chn_v1"/>
+      <equipment id="rp_warrior_body_chn_v2"/>
+      <equipment id="rp_warrior_body_chn_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_warrior_gloves_chn_v1"/>
+      <equipment id="rp_warrior_gloves_chn_v2"/>
+      <equipment id="rp_warrior_gloves_chn_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_warrior_leg_chn_v1"/>
+      <equipment id="rp_warrior_leg_chn_v2"/>
+      <equipment id="rp_warrior_leg_chn_v3"/>
+    </Leg>
+    <HorseHarness>
+      <equipment id="rp_warrior_horseharness_chn_v1"/>
+      <equipment id="rp_warrior_horseharness_chn_v2"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="rp_chaos_horse_chx"/>
+    </Horse>
+  </ClanClass>
+  <ClanClass 
+    clan="CHN"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
+    name="Chaos Lord"
+    mpclassdivision="bre_cavalry_chaos_lord"
+    premade_bodyproperties="chaos_lord"
+    id="chaos_lord.chn">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="rp_chaos_lord_1h_sword"/>
+      <equipment id="rp_chaos_lord_1h_mace"/>
+      <equipment id="rp_chaos_lord_glaive" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_lord_2h_sword" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_lord_2h_mace" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_lord_2h_axe" disablerandomize="true" disablegroup="Weapon1"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_warrior_shield_chn_v1"/>
+      <equipment id="rp_warrior_shield_chn_v2"/>
+      <equipment id="rp_warrior_shield_chn_v3"/>
+      <equipment id="rp_warrior_shield_chn_v4"/>
+      <equipment id="rp_warrior_shield_chn_v5"/>
+      <equipment id="rp_warrior_shield_chn_v6"/>
+      <equipment id="null" disablerandomize="true" hidden="true"/>
+    </Weapon1>
+    <Head>
+      <equipment id="rp_lord_head_chn"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_lord_cape_chn"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_lord_body_chn"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_lord_gloves_chn"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_lord_leg_chn"/>
+    </Leg>
+    <HorseHarness>
+      <equipment id="rp_warrior_horseharness_chn_v1"/>
+      <equipment id="rp_warrior_horseharness_chn_v2"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="rp_chaos_horse_chx"/>
+    </Horse>
+  </ClanClass>
+  <ClanClass 
+    clan="CHN"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
+    name="Troll"
     mpclassdivision="bre_infantry_troll"
-    id="placeholder.chn">
+    premade_bodyproperties="troll"
+    id="troll.chn">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
@@ -878,32 +1828,39 @@
       effect="Healing"
       intensity="0.5"/>
     <Weapon0>
-      <equipment id="b3_chaos_troll_mace"/>
+      <equipment id="rp_chaos_troll_mace"/>
     </Weapon0>
   </ClanClass>
   <!--CHS-->
   <ClanClass 
     clan="CHS"
-    color1="FF502a58"
-    color2="FFefede3"
+    color1="FFdab42b"
+    color2="FF1f1a19"
     banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
     name="Cultist"
     mpclassdivision="bre_infantry_human"
     id="chaos_cultist.chs">
     <UsableWeaponGroups>
-      <!--WIP-->
       <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
+      <equipment id="b2_peasant_spear"/>
+      <equipment id="null" disablerandomize="true" hidden="true"/>
+    </Weapon0>
+    <Weapon1>
       <equipment id="b2_peasant_mace"/>
       <equipment id="b2_peasant_axe"/>
       <equipment id="b2_peasant_sword"/>
-    </Weapon0>
-    <Weapon1>
+    </Weapon1>
+    <Weapon2>
       <equipment id="rp_cultist_shield_chs_v1"/>
       <equipment id="rp_cultist_shield_chs_v2"/>
       <equipment id="rp_cultist_shield_chs_v3"/>
-    </Weapon1>
+      <equipment id="rp_banner_chs_v1" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="rp_banner_chs_v2" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="rp_banner_chs_v3" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="rp_banner_chs_v4" disablegroup="Weapon0" disablerandomize="true"/>
+    </Weapon2>
     <Head>
       <equipment id="rp_cultist_head_chs_v1"/>
       <equipment id="rp_cultist_head_chs_v2"/>
@@ -932,10 +1889,10 @@
   </ClanClass>
   <ClanClass 
     clan="CHS"
-    color1="FF502a58"
-    color2="FFefede3"
+    color1="FFdab42b"
+    color2="FF1f1a19"
     banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
-    name="Cultist Sergeant"
+    name="Cultist Leader"
     mpclassdivision="bre_infantry_human"
     id="chaos_cultist_sergeant.chs">
     <UsableWeaponGroups>
@@ -943,7 +1900,6 @@
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
-      <equipment id="null" disablerandomize="true" hidden="true"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b2_peasant_mace"/>
@@ -954,10 +1910,6 @@
       <equipment id="rp_cultist_shield_chs_v1"/>
       <equipment id="rp_cultist_shield_chs_v2"/>
       <equipment id="rp_cultist_shield_chs_v3"/>
-      <equipment id="rp_banner_chs_v1" disablegroup="Weapon0" disablerandomize="true"/>
-      <equipment id="rp_banner_chs_v2" disablegroup="Weapon0" disablerandomize="true"/>
-      <equipment id="rp_banner_chs_v3" disablegroup="Weapon0" disablerandomize="true"/>
-      <equipment id="rp_banner_chs_v4" disablegroup="Weapon0" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="rp_cultist_sergeant_head_chs"/>
@@ -982,16 +1934,489 @@
       <equipment id="rp_cultist_leg_chs_v3"/>
     </Leg>
   </ClanClass>
-
-
   <ClanClass 
     clan="CHS"
     color1="FFdab42b"
     color2="FF1f1a19"
     banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
-    name="PLACEHOLDER"
+    name="Marauder"
+    mpclassdivision="bre_infantry_chaos_marauder"
+    premade_bodyproperties="marauder"
+    id="chaos_marauder.chs">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="rp_chaos_marauder_1h_sword"/>
+      <equipment id="rp_chaos_marauder_1h_mace"/>
+      <equipment id="rp_chaos_marauder_1h_axe"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_marauder_shield_chs_v1"/>
+      <equipment id="rp_marauder_shield_chs_v2"/>
+      <equipment id="rp_marauder_shield_chs_v3"/>
+      <equipment id="rp_banner_chs_v1" disablerandomize="true"/>
+      <equipment id="rp_banner_chs_v2" disablerandomize="true"/>
+      <equipment id="rp_banner_chs_v3" disablerandomize="true"/>
+      <equipment id="rp_banner_chs_v4" disablerandomize="true"/>
+    </Weapon1>
+    <Head>
+      <equipment id="rp_marauder_head_chs_v1"/>
+      <equipment id="rp_marauder_head_chs_v2"/>
+      <equipment id="rp_marauder_head_chs_v3"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_marauder_cape_chs_v1"/>
+      <equipment id="rp_marauder_cape_chs_v2"/>
+      <equipment id="rp_marauder_cape_chs_v3"/>
+      <equipment id="null"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_marauder_body_chs_v1"/>
+      <equipment id="rp_marauder_body_chs_v2"/>
+      <equipment id="rp_marauder_body_chs_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_marauder_gloves_chs_v1"/>
+      <equipment id="rp_marauder_gloves_chs_v2"/>
+      <equipment id="rp_marauder_gloves_chs_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_marauder_leg_chs_v1"/>
+      <equipment id="rp_marauder_leg_chs_v2"/>
+      <equipment id="rp_marauder_leg_chs_v3"/>
+    </Leg>
+  </ClanClass>
+  <ClanClass 
+    clan="CHS"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
+    name="Marauder Chieftain"
+    mpclassdivision="bre_infantry_chaos_marauder_chieftain"
+    premade_bodyproperties="marauder_chieftain"
+    id="chaos_marauder_chieftain.chs">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="rp_chaos_marauder_1h_sword"/>
+      <equipment id="rp_chaos_marauder_1h_mace"/>
+      <equipment id="rp_chaos_marauder_1h_axe"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_marauder_shield_chs_v1"/>
+      <equipment id="rp_marauder_shield_chs_v2"/>
+      <equipment id="rp_marauder_shield_chs_v3"/>
+    </Weapon1>
+    <Head>
+      <equipment id="rp_marauder_chieftain_head_chs"/>
+    </Head>
+    <Cape>
+      <equipment id="mp_bearskin"/>
+      <equipment id="null"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_marauder_body_chs_v1"/>
+      <equipment id="rp_marauder_body_chs_v2"/>
+      <equipment id="rp_marauder_body_chs_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_marauder_gloves_chs_v1"/>
+      <equipment id="rp_marauder_gloves_chs_v2"/>
+      <equipment id="rp_marauder_gloves_chs_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_marauder_leg_chs_v1"/>
+      <equipment id="rp_marauder_leg_chs_v2"/>
+      <equipment id="rp_marauder_leg_chs_v3"/>
+    </Leg>
+  </ClanClass>
+  <ClanClass 
+    clan="CHS"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
+    name="Chaos Warrior"
+    mpclassdivision="bre_infantry_chaos_warrior"
+    premade_bodyproperties="chaos_warrior"
+    id="chaos_warrior.chs">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="rp_chaos_warrior_1h_sword"/>
+      <equipment id="rp_chaos_warrior_1h_mace"/>
+      <equipment id="rp_chaos_warrior_1h_axe"/>
+      <equipment id="rp_chaos_warrior_1h_flail"/>
+      <equipment id="rp_chaos_warrior_2h_sword" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_warrior_2h_mace" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_warrior_2h_axe" disablerandomize="true" disablegroup="Weapon1"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_warrior_shield_chs_v1"/>
+      <equipment id="rp_warrior_shield_chs_v2"/>
+      <equipment id="rp_warrior_shield_chs_v3"/>
+      <equipment id="rp_warrior_shield_chs_v4"/>
+      <equipment id="rp_warrior_shield_chs_v5"/>
+      <equipment id="rp_warrior_shield_chs_v6"/>
+      <equipment id="rp_warrior_banner_chs" disablerandomize="true"/>
+      <equipment id="null" disablerandomize="true" hidden="true"/>
+    </Weapon1>
+    <Head>
+      <equipment id="rp_warrior_head_chs_v1"/>
+      <equipment id="rp_warrior_head_chs_v2"/>
+      <equipment id="rp_warrior_head_chs_v3"/>
+      <equipment id="rp_warrior_head_chs_v4"/>
+      <equipment id="rp_warrior_head_chs_v5"/>
+      <equipment id="rp_warrior_head_chs_v6"/>
+      <equipment id="rp_warrior_head_chs_v7"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_warrior_cape_chs_v1"/>
+      <equipment id="rp_warrior_cape_chs_v2"/>
+      <equipment id="rp_warrior_cape_chs_v3"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_warrior_body_chs_v1"/>
+      <equipment id="rp_warrior_body_chs_v2"/>
+      <equipment id="rp_warrior_body_chs_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_warrior_gloves_chs_v1"/>
+      <equipment id="rp_warrior_gloves_chs_v2"/>
+      <equipment id="rp_warrior_gloves_chs_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_warrior_leg_chs_v1"/>
+      <equipment id="rp_warrior_leg_chs_v2"/>
+      <equipment id="rp_warrior_leg_chs_v3"/>
+    </Leg>
+  </ClanClass>
+  <ClanClass 
+    clan="CHS"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
+    name="Chaos Chosen"
+    mpclassdivision="bre_infantry_chaos_chosen"
+    premade_bodyproperties="chaos_chosen"
+    id="chaos_chosen.chs">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="rp_chaos_lord_1h_sword"/>
+      <equipment id="rp_chaos_lord_1h_mace"/>
+      <equipment id="rp_chaos_lord_glaive"/>
+      <equipment id="rp_chaos_lord_2h_sword"/>
+      <equipment id="rp_chaos_lord_2h_mace"/>
+      <equipment id="rp_chaos_lord_2h_axe"/>
+    </Weapon0>
+    <Head>
+      <equipment id="rp_chosen_head_chs"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_chosen_cape_chs"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_chosen_body_chs"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_chosen_gloves_chs"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_chosen_leg_chs"/>
+    </Leg>
+  </ClanClass>
+  <ClanClass 
+    clan="CHS"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
+    name="Cultist Archer"
+    mpclassdivision="bre_archer_human"
+    id="chaos_cultist_archer.chs">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="sp_cheap_bow"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_range_arrows"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_peasant_axe"/>
+      <equipment id="b2_peasant_sword"/>
+      <equipment id="b2_peasant_dagger"/>
+    </Weapon2>
+    <Head>
+      <equipment id="rp_cultist_head_chs_v1"/>
+      <equipment id="rp_cultist_head_chs_v2"/>
+      <equipment id="rp_cultist_head_chs_v3"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_cultist_cape_chs_v1"/>
+      <equipment id="rp_cultist_cape_chs_v2"/>
+      <equipment id="rp_cultist_cape_chs_v3"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_cultist_body_chs_v1"/>
+      <equipment id="rp_cultist_body_chs_v2"/>
+      <equipment id="rp_cultist_body_chs_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_cultist_gloves_chs_v1"/>
+      <equipment id="rp_cultist_gloves_chs_v2"/>
+      <equipment id="rp_cultist_gloves_chs_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_cultist_leg_chs_v1"/>
+      <equipment id="rp_cultist_leg_chs_v2"/>
+      <equipment id="rp_cultist_leg_chs_v3"/>
+    </Leg>
+  </ClanClass>
+  <ClanClass 
+    clan="CHS"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
+    name="Marauder Horseman"
+    mpclassdivision="bre_cavalry_chaos_marauder_horseman"
+    premade_bodyproperties="marauder"
+    id="chaos_marauder_horseman.chs">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="rp_chaos_marauder_throwing_spear"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_marauder_shield_chs_v1"/>
+      <equipment id="rp_marauder_shield_chs_v2"/>
+      <equipment id="rp_marauder_shield_chs_v3"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="rp_chaos_marauder_1h_sword"/>
+      <equipment id="rp_chaos_marauder_1h_mace"/>
+      <equipment id="rp_chaos_marauder_1h_axe"/>
+    </Weapon2>
+    <Head>
+      <equipment id="rp_marauder_head_chs_v1"/>
+      <equipment id="rp_marauder_head_chs_v2"/>
+      <equipment id="rp_marauder_head_chs_v3"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_marauder_cape_chs_v1"/>
+      <equipment id="rp_marauder_cape_chs_v2"/>
+      <equipment id="rp_marauder_cape_chs_v3"/>
+      <equipment id="null"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_marauder_body_chs_v1"/>
+      <equipment id="rp_marauder_body_chs_v2"/>
+      <equipment id="rp_marauder_body_chs_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_marauder_gloves_chs_v1"/>
+      <equipment id="rp_marauder_gloves_chs_v2"/>
+      <equipment id="rp_marauder_gloves_chs_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_marauder_leg_chs_v1"/>
+      <equipment id="rp_marauder_leg_chs_v2"/>
+      <equipment id="rp_marauder_leg_chs_v3"/>
+    </Leg>
+    <HorseHarness>
+      <equipment id="rp_marauder_horseharness_chx_v2"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="rp_marauder_horse_chx"/>
+    </Horse>
+  </ClanClass>
+  <ClanClass 
+    clan="CHS"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
+    name="Mounted Marauder Chieftain"
+    mpclassdivision="bre_cavalry_chaos_mounted_marauder_chieftain"
+    premade_bodyproperties="marauder_chieftain"
+    id="chaos_mounted_marauder_chieftain.chs">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="rp_chaos_marauder_throwing_spear"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_marauder_shield_chs_v1"/>
+      <equipment id="rp_marauder_shield_chs_v2"/>
+      <equipment id="rp_marauder_shield_chs_v3"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="rp_chaos_marauder_1h_sword"/>
+      <equipment id="rp_chaos_marauder_1h_mace"/>
+      <equipment id="rp_chaos_marauder_1h_axe"/>
+    </Weapon2>
+    <Head>
+      <equipment id="rp_marauder_chieftain_head_chs"/>
+    </Head>
+    <Cape>
+      <equipment id="mp_bearskin"/>
+      <equipment id="null"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_marauder_body_chs_v1"/>
+      <equipment id="rp_marauder_body_chs_v2"/>
+      <equipment id="rp_marauder_body_chs_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_marauder_gloves_chs_v1"/>
+      <equipment id="rp_marauder_gloves_chs_v2"/>
+      <equipment id="rp_marauder_gloves_chs_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_marauder_leg_chs_v1"/>
+      <equipment id="rp_marauder_leg_chs_v2"/>
+      <equipment id="rp_marauder_leg_chs_v3"/>
+    </Leg>
+    <HorseHarness>
+      <equipment id="rp_marauder_horseharness_chx_v1"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="rp_marauder_horse_chx"/>
+    </Horse>
+  </ClanClass>
+  <ClanClass 
+    clan="CHS"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
+    name="Chaos Knight"
+    mpclassdivision="bre_cavalry_chaos_knight"
+    premade_bodyproperties="chaos_warrior"
+    id="chaos_knight.chs">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="rp_chaos_warrior_1h_sword"/>
+      <equipment id="rp_chaos_warrior_1h_mace"/>
+      <equipment id="rp_chaos_warrior_1h_axe"/>
+      <equipment id="rp_chaos_warrior_1h_flail"/>
+      <equipment id="rp_chaos_warrior_2h_sword" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_warrior_2h_mace" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_warrior_2h_axe" disablerandomize="true" disablegroup="Weapon1"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_warrior_shield_chs_v1"/>
+      <equipment id="rp_warrior_shield_chs_v2"/>
+      <equipment id="rp_warrior_shield_chs_v3"/>
+      <equipment id="rp_warrior_shield_chs_v4"/>
+      <equipment id="rp_warrior_shield_chs_v5"/>
+      <equipment id="rp_warrior_shield_chs_v6"/>
+      <equipment id="null" disablerandomize="true" hidden="true"/>
+    </Weapon1>
+    <Head>
+      <equipment id="rp_warrior_head_chs_v1"/>
+      <equipment id="rp_warrior_head_chs_v2"/>
+      <equipment id="rp_warrior_head_chs_v3"/>
+      <equipment id="rp_warrior_head_chs_v4"/>
+      <equipment id="rp_warrior_head_chs_v5"/>
+      <equipment id="rp_warrior_head_chs_v6"/>
+      <equipment id="rp_warrior_head_chs_v7"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_warrior_cape_chs_v1"/>
+      <equipment id="rp_warrior_cape_chs_v2"/>
+      <equipment id="rp_warrior_cape_chs_v3"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_warrior_body_chs_v1"/>
+      <equipment id="rp_warrior_body_chs_v2"/>
+      <equipment id="rp_warrior_body_chs_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_warrior_gloves_chs_v1"/>
+      <equipment id="rp_warrior_gloves_chs_v2"/>
+      <equipment id="rp_warrior_gloves_chs_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_warrior_leg_chs_v1"/>
+      <equipment id="rp_warrior_leg_chs_v2"/>
+      <equipment id="rp_warrior_leg_chs_v3"/>
+    </Leg>
+    <HorseHarness>
+      <equipment id="rp_warrior_horseharness_chs_v1"/>
+      <equipment id="rp_warrior_horseharness_chs_v2"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="rp_chaos_horse_chx"/>
+    </Horse>
+  </ClanClass>
+  <ClanClass 
+    clan="CHS"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
+    name="Chaos Lord"
+    mpclassdivision="bre_cavalry_chaos_lord"
+    premade_bodyproperties="chaos_lord"
+    id="chaos_lord.chs">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="rp_chaos_lord_1h_sword"/>
+      <equipment id="rp_chaos_lord_1h_mace"/>
+      <equipment id="rp_chaos_lord_glaive" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_lord_2h_sword" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_lord_2h_mace" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_lord_2h_axe" disablerandomize="true" disablegroup="Weapon1"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_warrior_shield_chs_v1"/>
+      <equipment id="rp_warrior_shield_chs_v2"/>
+      <equipment id="rp_warrior_shield_chs_v3"/>
+      <equipment id="rp_warrior_shield_chs_v4"/>
+      <equipment id="rp_warrior_shield_chs_v5"/>
+      <equipment id="rp_warrior_shield_chs_v6"/>
+      <equipment id="null" disablerandomize="true" hidden="true"/>
+    </Weapon1>
+    <Head>
+      <equipment id="rp_lord_head_chs"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_lord_cape_chs"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_lord_body_chs"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_lord_gloves_chs"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_lord_leg_chs"/>
+    </Leg>
+    <HorseHarness>
+      <equipment id="rp_warrior_horseharness_chs_v1"/>
+      <equipment id="rp_warrior_horseharness_chs_v2"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="rp_chaos_horse_chx"/>
+    </Horse>
+  </ClanClass>
+  <ClanClass 
+    clan="CHS"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
+    name="Troll"
     mpclassdivision="bre_infantry_troll"
-    id="placeholder.chs">
+    premade_bodyproperties="troll"
+    id="troll.chs">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
@@ -1005,32 +2430,39 @@
       effect="Healing"
       intensity="0.5"/>
     <Weapon0>
-      <equipment id="b3_chaos_troll_mace"/>
+      <equipment id="rp_chaos_troll_mace"/>
     </Weapon0>
   </ClanClass>
   <!--CHT-->
   <ClanClass 
     clan="CHT"
-    color1="FF134c64"
-    color2="FFefede3"
+    color1="FFdab42b"
+    color2="FF1f1a19"
     banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0"
     name="Cultist"
     mpclassdivision="bre_infantry_human"
     id="chaos_cultist.cht">
     <UsableWeaponGroups>
-      <!--WIP-->
       <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
+      <equipment id="b2_peasant_spear"/>
+      <equipment id="null" disablerandomize="true" hidden="true"/>
+    </Weapon0>
+    <Weapon1>
       <equipment id="b2_peasant_mace"/>
       <equipment id="b2_peasant_axe"/>
       <equipment id="b2_peasant_sword"/>
-    </Weapon0>
-    <Weapon1>
+    </Weapon1>
+    <Weapon2>
       <equipment id="rp_cultist_shield_cht_v1"/>
       <equipment id="rp_cultist_shield_cht_v2"/>
       <equipment id="rp_cultist_shield_cht_v3"/>
-    </Weapon1>
+      <equipment id="rp_banner_cht_v1" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="rp_banner_cht_v2" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="rp_banner_cht_v3" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="rp_banner_cht_v4" disablegroup="Weapon0" disablerandomize="true"/>
+    </Weapon2>
     <Head>
       <equipment id="rp_cultist_head_cht_v1"/>
       <equipment id="rp_cultist_head_cht_v2"/>
@@ -1059,10 +2491,10 @@
   </ClanClass>
   <ClanClass 
     clan="CHT"
-    color1="FF134c64"
-    color2="FFefede3"
+    color1="FFdab42b"
+    color2="FF1f1a19"
     banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0"
-    name="Cultist Sergeant"
+    name="Cultist Leader"
     mpclassdivision="bre_infantry_human"
     id="chaos_cultist_sergeant.cht">
     <UsableWeaponGroups>
@@ -1070,7 +2502,6 @@
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
-      <equipment id="null" disablerandomize="true" hidden="true"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b2_peasant_mace"/>
@@ -1081,10 +2512,6 @@
       <equipment id="rp_cultist_shield_cht_v1"/>
       <equipment id="rp_cultist_shield_cht_v2"/>
       <equipment id="rp_cultist_shield_cht_v3"/>
-      <equipment id="rp_banner_cht_v1" disablegroup="Weapon0" disablerandomize="true"/>
-      <equipment id="rp_banner_cht_v2" disablegroup="Weapon0" disablerandomize="true"/>
-      <equipment id="rp_banner_cht_v3" disablegroup="Weapon0" disablerandomize="true"/>
-      <equipment id="rp_banner_cht_v4" disablegroup="Weapon0" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="rp_cultist_sergeant_head_cht"/>
@@ -1109,16 +2536,489 @@
       <equipment id="rp_cultist_leg_cht_v3"/>
     </Leg>
   </ClanClass>
-
-
   <ClanClass 
     clan="CHT"
     color1="FFdab42b"
     color2="FF1f1a19"
     banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0"
-    name="PLACEHOLDER"
+    name="Marauder"
+    mpclassdivision="bre_infantry_chaos_marauder"
+    premade_bodyproperties="marauder"
+    id="chaos_marauder.cht">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="rp_chaos_marauder_1h_sword"/>
+      <equipment id="rp_chaos_marauder_1h_mace"/>
+      <equipment id="rp_chaos_marauder_1h_axe"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_marauder_shield_cht_v1"/>
+      <equipment id="rp_marauder_shield_cht_v2"/>
+      <equipment id="rp_marauder_shield_cht_v3"/>
+      <equipment id="rp_banner_cht_v1" disablerandomize="true"/>
+      <equipment id="rp_banner_cht_v2" disablerandomize="true"/>
+      <equipment id="rp_banner_cht_v3" disablerandomize="true"/>
+      <equipment id="rp_banner_cht_v4" disablerandomize="true"/>
+    </Weapon1>
+    <Head>
+      <equipment id="rp_marauder_head_cht_v1"/>
+      <equipment id="rp_marauder_head_cht_v2"/>
+      <equipment id="rp_marauder_head_cht_v3"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_marauder_cape_cht_v1"/>
+      <equipment id="rp_marauder_cape_cht_v2"/>
+      <equipment id="rp_marauder_cape_cht_v3"/>
+      <equipment id="null"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_marauder_body_cht_v1"/>
+      <equipment id="rp_marauder_body_cht_v2"/>
+      <equipment id="rp_marauder_body_cht_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_marauder_gloves_cht_v1"/>
+      <equipment id="rp_marauder_gloves_cht_v2"/>
+      <equipment id="rp_marauder_gloves_cht_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_marauder_leg_cht_v1"/>
+      <equipment id="rp_marauder_leg_cht_v2"/>
+      <equipment id="rp_marauder_leg_cht_v3"/>
+    </Leg>
+  </ClanClass>
+  <ClanClass 
+    clan="CHT"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0"
+    name="Marauder Chieftain"
+    mpclassdivision="bre_infantry_chaos_marauder_chieftain"
+    premade_bodyproperties="marauder_chieftain"
+    id="chaos_marauder_chieftain.cht">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="rp_chaos_marauder_1h_sword"/>
+      <equipment id="rp_chaos_marauder_1h_mace"/>
+      <equipment id="rp_chaos_marauder_1h_axe"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_marauder_shield_cht_v1"/>
+      <equipment id="rp_marauder_shield_cht_v2"/>
+      <equipment id="rp_marauder_shield_cht_v3"/>
+    </Weapon1>
+    <Head>
+      <equipment id="rp_marauder_chieftain_head_cht"/>
+    </Head>
+    <Cape>
+      <equipment id="mp_bearskin"/>
+      <equipment id="null"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_marauder_body_cht_v1"/>
+      <equipment id="rp_marauder_body_cht_v2"/>
+      <equipment id="rp_marauder_body_cht_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_marauder_gloves_cht_v1"/>
+      <equipment id="rp_marauder_gloves_cht_v2"/>
+      <equipment id="rp_marauder_gloves_cht_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_marauder_leg_cht_v1"/>
+      <equipment id="rp_marauder_leg_cht_v2"/>
+      <equipment id="rp_marauder_leg_cht_v3"/>
+    </Leg>
+  </ClanClass>
+  <ClanClass 
+    clan="CHT"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0"
+    name="Chaos Warrior"
+    mpclassdivision="bre_infantry_chaos_warrior"
+    premade_bodyproperties="chaos_warrior"
+    id="chaos_warrior.cht">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="rp_chaos_warrior_1h_sword"/>
+      <equipment id="rp_chaos_warrior_1h_mace"/>
+      <equipment id="rp_chaos_warrior_1h_axe"/>
+      <equipment id="rp_chaos_warrior_1h_flail"/>
+      <equipment id="rp_chaos_warrior_2h_sword" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_warrior_2h_mace" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_warrior_2h_axe" disablerandomize="true" disablegroup="Weapon1"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_warrior_shield_cht_v1"/>
+      <equipment id="rp_warrior_shield_cht_v2"/>
+      <equipment id="rp_warrior_shield_cht_v3"/>
+      <equipment id="rp_warrior_shield_cht_v4"/>
+      <equipment id="rp_warrior_shield_cht_v5"/>
+      <equipment id="rp_warrior_shield_cht_v6"/>
+      <equipment id="rp_warrior_banner_cht" disablerandomize="true"/>
+      <equipment id="null" disablerandomize="true" hidden="true"/>
+    </Weapon1>
+    <Head>
+      <equipment id="rp_warrior_head_cht_v1"/>
+      <equipment id="rp_warrior_head_cht_v2"/>
+      <equipment id="rp_warrior_head_cht_v3"/>
+      <equipment id="rp_warrior_head_cht_v4"/>
+      <equipment id="rp_warrior_head_cht_v5"/>
+      <equipment id="rp_warrior_head_cht_v6"/>
+      <equipment id="rp_warrior_head_cht_v7"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_warrior_cape_cht_v1"/>
+      <equipment id="rp_warrior_cape_cht_v2"/>
+      <equipment id="rp_warrior_cape_cht_v3"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_warrior_body_cht_v1"/>
+      <equipment id="rp_warrior_body_cht_v2"/>
+      <equipment id="rp_warrior_body_cht_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_warrior_gloves_cht_v1"/>
+      <equipment id="rp_warrior_gloves_cht_v2"/>
+      <equipment id="rp_warrior_gloves_cht_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_warrior_leg_cht_v1"/>
+      <equipment id="rp_warrior_leg_cht_v2"/>
+      <equipment id="rp_warrior_leg_cht_v3"/>
+    </Leg>
+  </ClanClass>
+  <ClanClass 
+    clan="CHT"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0"
+    name="Chaos Chosen"
+    mpclassdivision="bre_infantry_chaos_chosen"
+    premade_bodyproperties="chaos_chosen"
+    id="chaos_chosen.cht">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="rp_chaos_lord_1h_sword"/>
+      <equipment id="rp_chaos_lord_1h_mace"/>
+      <equipment id="rp_chaos_lord_glaive"/>
+      <equipment id="rp_chaos_lord_2h_sword"/>
+      <equipment id="rp_chaos_lord_2h_mace"/>
+      <equipment id="rp_chaos_lord_2h_axe"/>
+    </Weapon0>
+    <Head>
+      <equipment id="rp_chosen_head_cht"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_chosen_cape_cht"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_chosen_body_cht"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_chosen_gloves_cht"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_chosen_leg_cht"/>
+    </Leg>
+  </ClanClass>
+  <ClanClass 
+    clan="CHT"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0"
+    name="Cultist Archer"
+    mpclassdivision="bre_archer_human"
+    id="chaos_cultist_archer.cht">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="sp_cheap_bow"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="sp_range_arrows"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_peasant_axe"/>
+      <equipment id="b2_peasant_sword"/>
+      <equipment id="b2_peasant_dagger"/>
+    </Weapon2>
+    <Head>
+      <equipment id="rp_cultist_head_cht_v1"/>
+      <equipment id="rp_cultist_head_cht_v2"/>
+      <equipment id="rp_cultist_head_cht_v3"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_cultist_cape_cht_v1"/>
+      <equipment id="rp_cultist_cape_cht_v2"/>
+      <equipment id="rp_cultist_cape_cht_v3"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_cultist_body_cht_v1"/>
+      <equipment id="rp_cultist_body_cht_v2"/>
+      <equipment id="rp_cultist_body_cht_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_cultist_gloves_cht_v1"/>
+      <equipment id="rp_cultist_gloves_cht_v2"/>
+      <equipment id="rp_cultist_gloves_cht_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_cultist_leg_cht_v1"/>
+      <equipment id="rp_cultist_leg_cht_v2"/>
+      <equipment id="rp_cultist_leg_cht_v3"/>
+    </Leg>
+  </ClanClass>
+  <ClanClass 
+    clan="CHT"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0"
+    name="Marauder Horseman"
+    mpclassdivision="bre_cavalry_chaos_marauder_horseman"
+    premade_bodyproperties="marauder"
+    id="chaos_marauder_horseman.cht">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="rp_chaos_marauder_throwing_spear"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_marauder_shield_cht_v1"/>
+      <equipment id="rp_marauder_shield_cht_v2"/>
+      <equipment id="rp_marauder_shield_cht_v3"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="rp_chaos_marauder_1h_sword"/>
+      <equipment id="rp_chaos_marauder_1h_mace"/>
+      <equipment id="rp_chaos_marauder_1h_axe"/>
+    </Weapon2>
+    <Head>
+      <equipment id="rp_marauder_head_cht_v1"/>
+      <equipment id="rp_marauder_head_cht_v2"/>
+      <equipment id="rp_marauder_head_cht_v3"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_marauder_cape_cht_v1"/>
+      <equipment id="rp_marauder_cape_cht_v2"/>
+      <equipment id="rp_marauder_cape_cht_v3"/>
+      <equipment id="null"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_marauder_body_cht_v1"/>
+      <equipment id="rp_marauder_body_cht_v2"/>
+      <equipment id="rp_marauder_body_cht_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_marauder_gloves_cht_v1"/>
+      <equipment id="rp_marauder_gloves_cht_v2"/>
+      <equipment id="rp_marauder_gloves_cht_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_marauder_leg_cht_v1"/>
+      <equipment id="rp_marauder_leg_cht_v2"/>
+      <equipment id="rp_marauder_leg_cht_v3"/>
+    </Leg>
+    <HorseHarness>
+      <equipment id="rp_marauder_horseharness_chx_v2"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="rp_marauder_horse_chx"/>
+    </Horse>
+  </ClanClass>
+  <ClanClass 
+    clan="CHT"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0"
+    name="Mounted Marauder Chieftain"
+    mpclassdivision="bre_cavalry_chaos_mounted_marauder_chieftain"
+    premade_bodyproperties="marauder_chieftain"
+    id="chaos_mounted_marauder_chieftain.cht">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="rp_chaos_marauder_throwing_spear"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_marauder_shield_cht_v1"/>
+      <equipment id="rp_marauder_shield_cht_v2"/>
+      <equipment id="rp_marauder_shield_cht_v3"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="rp_chaos_marauder_1h_sword"/>
+      <equipment id="rp_chaos_marauder_1h_mace"/>
+      <equipment id="rp_chaos_marauder_1h_axe"/>
+    </Weapon2>
+    <Head>
+      <equipment id="rp_marauder_chieftain_head_cht"/>
+    </Head>
+    <Cape>
+      <equipment id="mp_bearskin"/>
+      <equipment id="null"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_marauder_body_cht_v1"/>
+      <equipment id="rp_marauder_body_cht_v2"/>
+      <equipment id="rp_marauder_body_cht_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_marauder_gloves_cht_v1"/>
+      <equipment id="rp_marauder_gloves_cht_v2"/>
+      <equipment id="rp_marauder_gloves_cht_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_marauder_leg_cht_v1"/>
+      <equipment id="rp_marauder_leg_cht_v2"/>
+      <equipment id="rp_marauder_leg_cht_v3"/>
+    </Leg>
+    <HorseHarness>
+      <equipment id="rp_marauder_horseharness_chx_v1"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="rp_marauder_horse_chx"/>
+    </Horse>
+  </ClanClass>
+  <ClanClass 
+    clan="CHT"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0"
+    name="Chaos Knight"
+    mpclassdivision="bre_cavalry_chaos_knight"
+    premade_bodyproperties="chaos_warrior"
+    id="chaos_knight.cht">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="rp_chaos_warrior_1h_sword"/>
+      <equipment id="rp_chaos_warrior_1h_mace"/>
+      <equipment id="rp_chaos_warrior_1h_axe"/>
+      <equipment id="rp_chaos_warrior_1h_flail"/>
+      <equipment id="rp_chaos_warrior_2h_sword" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_warrior_2h_mace" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_warrior_2h_axe" disablerandomize="true" disablegroup="Weapon1"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_warrior_shield_cht_v1"/>
+      <equipment id="rp_warrior_shield_cht_v2"/>
+      <equipment id="rp_warrior_shield_cht_v3"/>
+      <equipment id="rp_warrior_shield_cht_v4"/>
+      <equipment id="rp_warrior_shield_cht_v5"/>
+      <equipment id="rp_warrior_shield_cht_v6"/>
+      <equipment id="null" disablerandomize="true" hidden="true"/>
+    </Weapon1>
+    <Head>
+      <equipment id="rp_warrior_head_cht_v1"/>
+      <equipment id="rp_warrior_head_cht_v2"/>
+      <equipment id="rp_warrior_head_cht_v3"/>
+      <equipment id="rp_warrior_head_cht_v4"/>
+      <equipment id="rp_warrior_head_cht_v5"/>
+      <equipment id="rp_warrior_head_cht_v6"/>
+      <equipment id="rp_warrior_head_cht_v7"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_warrior_cape_cht_v1"/>
+      <equipment id="rp_warrior_cape_cht_v2"/>
+      <equipment id="rp_warrior_cape_cht_v3"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_warrior_body_cht_v1"/>
+      <equipment id="rp_warrior_body_cht_v2"/>
+      <equipment id="rp_warrior_body_cht_v3"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_warrior_gloves_cht_v1"/>
+      <equipment id="rp_warrior_gloves_cht_v2"/>
+      <equipment id="rp_warrior_gloves_cht_v3"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_warrior_leg_cht_v1"/>
+      <equipment id="rp_warrior_leg_cht_v2"/>
+      <equipment id="rp_warrior_leg_cht_v3"/>
+    </Leg>
+    <HorseHarness>
+      <equipment id="rp_warrior_horseharness_cht_v1"/>
+      <equipment id="rp_warrior_horseharness_cht_v2"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="rp_chaos_horse_chx"/>
+    </Horse>
+  </ClanClass>
+  <ClanClass 
+    clan="CHT"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0"
+    name="Chaos Lord"
+    mpclassdivision="bre_cavalry_chaos_lord"
+    premade_bodyproperties="chaos_lord"
+    id="chaos_lord.cht">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human_infantry_default"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="rp_chaos_lord_1h_sword"/>
+      <equipment id="rp_chaos_lord_1h_mace"/>
+      <equipment id="rp_chaos_lord_glaive" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_lord_2h_sword" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_lord_2h_mace" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_lord_2h_axe" disablerandomize="true" disablegroup="Weapon1"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="rp_warrior_shield_cht_v1"/>
+      <equipment id="rp_warrior_shield_cht_v2"/>
+      <equipment id="rp_warrior_shield_cht_v3"/>
+      <equipment id="rp_warrior_shield_cht_v4"/>
+      <equipment id="rp_warrior_shield_cht_v5"/>
+      <equipment id="rp_warrior_shield_cht_v6"/>
+      <equipment id="null" disablerandomize="true" hidden="true"/>
+    </Weapon1>
+    <Head>
+      <equipment id="rp_lord_head_cht"/>
+    </Head>
+    <Cape>
+      <equipment id="rp_lord_cape_cht"/>
+    </Cape>
+    <Body>
+      <equipment id="rp_lord_body_cht"/>
+    </Body>
+    <Gloves>
+      <equipment id="rp_lord_gloves_cht"/>
+    </Gloves>
+    <Leg>
+      <equipment id="rp_lord_leg_cht"/>
+    </Leg>
+    <HorseHarness>
+      <equipment id="rp_warrior_horseharness_cht_v1"/>
+      <equipment id="rp_warrior_horseharness_cht_v2"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="rp_chaos_horse_chx"/>
+    </Horse>
+  </ClanClass>
+  <ClanClass 
+    clan="CHT"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0"
+    name="Troll"
     mpclassdivision="bre_infantry_troll"
-    id="placeholder.cht">
+    premade_bodyproperties="troll"
+    id="troll.cht">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
@@ -1132,7 +3032,7 @@
       effect="Healing"
       intensity="0.5"/>
     <Weapon0>
-      <equipment id="b3_chaos_troll_mace"/>
+      <equipment id="rp_chaos_troll_mace"/>
     </Weapon0>
   </ClanClass>
 </ClanClasses>

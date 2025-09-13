@@ -430,7 +430,7 @@
     id="rp_marauder_head_chk_v3" 
     name="Marauder's Helmet"
     subtype="head_armor" 
-    mesh="b3_chaos_marauder_khorne_helmet_v3" 
+    mesh="b3_chaos_marauder_khorn_helmet_v3" 
     culture="Culture.neutral_culture" 
     weight="0" 
     Type="HeadArmor">
@@ -2178,7 +2178,7 @@
   <Item
     id="rp_chosen_cape_chk"
     name="Chaos Chosen's Cape"
-    mesh="bre_chaos_chosen_undivided_shoulders"
+    mesh="bre_chaos_chosen_khorne_shoulders"
     culture="Culture.neutral_culture"
     weight="0"
     Type="Cape">
@@ -2192,7 +2192,7 @@
   <Item
     id="rp_chosen_cape_chn"
     name="Chaos Chosen's Cape"
-    mesh="bre_chaos_chosen_undivided_shoulders"
+    mesh="bre_chaos_chosen_nurgle_shoulders"
     culture="Culture.neutral_culture"
     weight="0"
     Type="Cape">
@@ -2206,7 +2206,7 @@
   <Item
     id="rp_chosen_cape_chs"
     name="Chaos Chosen's Cape"
-    mesh="bre_chaos_chosen_undivided_shoulders"
+    mesh="bre_chaos_chosen_slaanesh_shoulders"
     culture="Culture.neutral_culture"
     weight="0"
     Type="Cape">
@@ -2220,7 +2220,7 @@
   <Item
     id="rp_chosen_cape_cht"
     name="Chaos Chosen's Cape"
-    mesh="bre_chaos_chosen_undivided_shoulders"
+    mesh="bre_chaos_chosen_tzeentch_shoulders"
     culture="Culture.neutral_culture"
     weight="0"
     Type="Cape">
