@@ -39,6 +39,7 @@
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
+      <equipment id="null" disablerandomize="true" hidden="true"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b2_peasant_mace"/>
@@ -49,6 +50,10 @@
       <equipment id="rp_cultist_shield_chu_v1"/>
       <equipment id="rp_cultist_shield_chu_v2"/>
       <equipment id="rp_cultist_shield_chu_v3"/>
+      <equipment id="rp_banner_chu_v1" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="rp_banner_chu_v2" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="rp_banner_chu_v3" disablegroup="Weapon0" disablerandomize="true"/>
+      <equipment id="rp_banner_chu_v4" disablegroup="Weapon0" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="rp_cultist_head_chu_v1"/>
@@ -89,7 +94,6 @@
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
-      <equipment id="null" disablerandomize="true" hidden="true"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b2_peasant_mace"/>
@@ -100,10 +104,6 @@
       <equipment id="rp_cultist_shield_chu_v1"/>
       <equipment id="rp_cultist_shield_chu_v2"/>
       <equipment id="rp_cultist_shield_chu_v3"/>
-      <equipment id="rp_banner_chu_v1" disablegroup="Weapon0" disablerandomize="true"/>
-      <equipment id="rp_banner_chu_v2" disablegroup="Weapon0" disablerandomize="true"/>
-      <equipment id="rp_banner_chu_v3" disablegroup="Weapon0" disablerandomize="true"/>
-      <equipment id="rp_banner_chu_v4" disablegroup="Weapon0" disablerandomize="true"/>
     </Weapon2>
     <Head>
       <equipment id="rp_cultist_sergeant_head_chu"/>
@@ -141,9 +141,9 @@
       <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
-      <equipment id="b2_peasant_mace"/>
-      <equipment id="b2_peasant_axe"/>
-      <equipment id="b2_peasant_sword"/>
+      <equipment id="rp_chaos_marauder_1h_sword"/>
+      <equipment id="rp_chaos_marauder_1h_mace"/>
+      <equipment id="rp_chaos_marauder_1h_axe"/>
     </Weapon0>
     <Weapon1>
       <equipment id="rp_marauder_shield_chu_v1"/>
@@ -194,9 +194,9 @@
       <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
-      <equipment id="b2_peasant_mace"/>
-      <equipment id="b2_peasant_axe"/>
-      <equipment id="b2_peasant_sword"/>
+      <equipment id="rp_chaos_marauder_1h_sword"/>
+      <equipment id="rp_chaos_marauder_1h_mace"/>
+      <equipment id="rp_chaos_marauder_1h_axe"/>
     </Weapon0>
     <Weapon1>
       <equipment id="rp_marauder_shield_chu_v1"/>
@@ -239,9 +239,13 @@
       <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
-      <equipment id="b2_peasant_mace"/>
-      <equipment id="b2_peasant_axe"/>
-      <equipment id="b2_peasant_sword"/>
+      <equipment id="rp_chaos_warrior_1h_sword"/>
+      <equipment id="rp_chaos_warrior_1h_mace"/>
+      <equipment id="rp_chaos_warrior_1h_axe"/>
+      <equipment id="rp_chaos_warrior_1h_flail"/>
+      <equipment id="rp_chaos_warrior_2h_sword" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_warrior_2h_mace" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_warrior_2h_axe" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="rp_warrior_shield_chu_v1"/>
@@ -251,6 +255,7 @@
       <equipment id="rp_warrior_shield_chu_v5"/>
       <equipment id="rp_warrior_shield_chu_v6"/>
       <equipment id="rp_warrior_banner_chu" disablerandomize="true"/>
+      <equipment id="null" disablerandomize="true" hidden="true"/>
     </Weapon1>
     <Head>
       <equipment id="rp_warrior_head_chu_v1"/>
@@ -295,18 +300,13 @@
       <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
-      <equipment id="b2_peasant_mace"/>
-      <equipment id="b2_peasant_axe"/>
-      <equipment id="b2_peasant_sword"/>
+      <equipment id="rp_chaos_lord_1h_sword"/>
+      <equipment id="rp_chaos_lord_1h_mace"/>
+      <equipment id="rp_chaos_lord_glaive"/>
+      <equipment id="rp_chaos_lord_2h_sword"/>
+      <equipment id="rp_chaos_lord_2h_mace"/>
+      <equipment id="rp_chaos_lord_2h_axe"/>
     </Weapon0>
-    <Weapon1>
-      <equipment id="rp_warrior_shield_chu_v1"/>
-      <equipment id="rp_warrior_shield_chu_v2"/>
-      <equipment id="rp_warrior_shield_chu_v3"/>
-      <equipment id="rp_warrior_shield_chu_v4"/>
-      <equipment id="rp_warrior_shield_chu_v5"/>
-      <equipment id="rp_warrior_shield_chu_v6"/>
-    </Weapon1>
     <Head>
       <equipment id="rp_chosen_head_chu"/>
     </Head>
@@ -384,15 +384,18 @@
       <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
-      <equipment id="b2_peasant_mace"/>
-      <equipment id="b2_peasant_axe"/>
-      <equipment id="b2_peasant_sword"/>
+      <equipment id="rp_chaos_marauder_throwing_spear"/>
     </Weapon0>
     <Weapon1>
       <equipment id="rp_marauder_shield_chu_v1"/>
       <equipment id="rp_marauder_shield_chu_v2"/>
       <equipment id="rp_marauder_shield_chu_v3"/>
     </Weapon1>
+    <Weapon2>
+      <equipment id="rp_chaos_marauder_1h_sword"/>
+      <equipment id="rp_chaos_marauder_1h_mace"/>
+      <equipment id="rp_chaos_marauder_1h_axe"/>
+    </Weapon2>
     <Head>
       <equipment id="rp_marauder_head_chu_v1"/>
       <equipment id="rp_marauder_head_chu_v2"/>
@@ -439,15 +442,18 @@
       <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
-      <equipment id="b2_peasant_mace"/>
-      <equipment id="b2_peasant_axe"/>
-      <equipment id="b2_peasant_sword"/>
+      <equipment id="rp_chaos_marauder_throwing_spear"/>
     </Weapon0>
     <Weapon1>
       <equipment id="rp_marauder_shield_chu_v1"/>
       <equipment id="rp_marauder_shield_chu_v2"/>
       <equipment id="rp_marauder_shield_chu_v3"/>
     </Weapon1>
+    <Weapon2>
+      <equipment id="rp_chaos_marauder_1h_sword"/>
+      <equipment id="rp_chaos_marauder_1h_mace"/>
+      <equipment id="rp_chaos_marauder_1h_axe"/>
+    </Weapon2>
     <Head>
       <equipment id="rp_marauder_chieftain_head_chu"/>
     </Head>
@@ -490,9 +496,13 @@
       <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
-      <equipment id="b2_peasant_mace"/>
-      <equipment id="b2_peasant_axe"/>
-      <equipment id="b2_peasant_sword"/>
+      <equipment id="rp_chaos_warrior_1h_sword"/>
+      <equipment id="rp_chaos_warrior_1h_mace"/>
+      <equipment id="rp_chaos_warrior_1h_axe"/>
+      <equipment id="rp_chaos_warrior_1h_flail"/>
+      <equipment id="rp_chaos_warrior_2h_sword" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_warrior_2h_mace" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_warrior_2h_axe" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="rp_warrior_shield_chu_v1"/>
@@ -501,6 +511,7 @@
       <equipment id="rp_warrior_shield_chu_v4"/>
       <equipment id="rp_warrior_shield_chu_v5"/>
       <equipment id="rp_warrior_shield_chu_v6"/>
+      <equipment id="null" disablerandomize="true" hidden="true"/>
     </Weapon1>
     <Head>
       <equipment id="rp_warrior_head_chu_v1"/>
@@ -552,9 +563,12 @@
       <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
-      <equipment id="b2_peasant_mace"/>
-      <equipment id="b2_peasant_axe"/>
-      <equipment id="b2_peasant_sword"/>
+      <equipment id="rp_chaos_lord_1h_sword"/>
+      <equipment id="rp_chaos_lord_1h_mace"/>
+      <equipment id="rp_chaos_lord_glaive" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_lord_2h_sword" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_lord_2h_mace" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_lord_2h_axe" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="rp_warrior_shield_chu_v1"/>
@@ -563,6 +577,7 @@
       <equipment id="rp_warrior_shield_chu_v4"/>
       <equipment id="rp_warrior_shield_chu_v5"/>
       <equipment id="rp_warrior_shield_chu_v6"/>
+      <equipment id="null" disablerandomize="true" hidden="true"/>
     </Weapon1>
     <Head>
       <equipment id="rp_lord_head_chu"/>
@@ -587,15 +602,15 @@
       <equipment id="rp_chaos_horse_chx"/>
     </Horse>
   </ClanClass>
-
   <ClanClass 
     clan="CHU"
     color1="FFdab42b"
     color2="FF1f1a19"
     banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
-    name="PLACEHOLDER"
+    name="Troll"
     mpclassdivision="bre_infantry_troll"
-    id="placeholder.chu">
+    premade_bodyproperties="troll"
+    id="troll.chu">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
@@ -609,7 +624,7 @@
       effect="Healing"
       intensity="0.5"/>
     <Weapon0>
-      <equipment id="b3_chaos_troll_mace"/>
+      <equipment id="rp_chaos_troll_mace"/>
     </Weapon0>
   </ClanClass>
   <!--CHK-->

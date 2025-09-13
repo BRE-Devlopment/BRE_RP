@@ -1,13 +1,595 @@
 <?xml version="1.0" encoding="utf-8"?>
 <CraftingPieces>
-  <!--TROLL MACE-->
-  <CraftingPiece id="b3_chaos_troll_mace_head" name="Chaos Troll Mace Head" tier="2" piece_type="Blade" mesh="bre_chaos_troll_mace_head" length="31.53" weight="0.2" full_scale="true" excluded_item_usage_features="thrust">
-    <BuildData piece_offset="-20.0" />
-    <BladeData physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="4.25" />
+  <!--Runed Chaos Great Sword-->
+  <CraftingPiece 
+    id="b3_chaos_lord_2h_sword_blade" 
+    name="Runed Chaos Great Sword Blade" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_lord_2h_sword_blade" 
+    length="165.0" 
+    weight="1.25"
+    excluded_item_usage_features="thrust">
+    <BladeData 
+      physics_material="metal_weapon" 
+      body_name="bo_sword_one_handed" 
+      holster_mesh="bre_chaos_warrior_2h_sword_scabbard">
+      <Swing 
+        damage_type="Cut" 
+        damage_factor="3.15" />
+    </BladeData>
+    <BuildData 
+      piece_offset="-36.5" />
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lord_2h_sword_handle" 
+    name="Runed Chaos Great Sword Handle" 
+    tier="2" 
+    piece_type="Handle" 
+    mesh="bre_chaos_lord_2h_sword_guard" 
+    length="110.0" 
+    weight="0.2" 
+    item_holster_pos_shift="0.05,0,-0.05">
+    <BuildData 
+      piece_offset="10.0" />
+  </CraftingPiece>
+  <!--Chaos Great Sword-->
+  <CraftingPiece 
+    id="b3_chaos_warrior_2h_sword_blade" 
+    name="Chaos Great Sword Blade" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_warrior_2h_sword_blade" 
+    length="151.0" 
+    weight="1.25">
+    <BladeData 
+      physics_material="metal_weapon" 
+      body_name="bo_sword_one_handed" 
+      holster_mesh="bre_chaos_warrior_2h_sword_scabbard">
+      <Thrust 
+        damage_type="Pierce" 
+        damage_factor="2.9" />
+      <Swing 
+        damage_type="Cut" 
+        damage_factor="3.15" />
+    </BladeData>
+    <BuildData 
+      piece_offset="-9.5" />
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_warrior_2h_sword_handle" 
+    name="Chaos Great Sword Handle" 
+    tier="2" 
+    piece_type="Handle" 
+    mesh="bre_chaos_warrior_2h_sword_handle" 
+    length="79.5" 
+    weight="0.2" 
+    item_holster_pos_shift="0.05,0,-0.05">
+    <BuildData 
+      piece_offset="-10.0"/>
+  </CraftingPiece>
+  <!--Runed Chaos Sword-->
+  <CraftingPiece 
+    id="b3_chaos_lord_1h_sword_blade" 
+    name="Runed Chaos Sword Blade" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_lord_1h_sword_blade" 
+    length="133.0" 
+    weight="0.87">
+    <BuildData 
+      piece_offset="-11.2"/>
+    <BladeData 
+      physics_material="metal_weapon" 
+      body_name="bo_sword_one_handed" 
+      holster_mesh="">
+      <Thrust 
+        damage_type="Pierce" 
+        damage_factor="2.8" />
+      <Swing 
+        damage_type="Cut" 
+        damage_factor="3.66" />
     </BladeData>
   </CraftingPiece>
-  <CraftingPiece id="b3_chaos_troll_mace_handle" name="Chaos Troll Mace Handle" tier="2" piece_type="Handle" mesh="bre_chaos_troll_mace_handle" length="134.87" weight="0.40">
-    <BuildData piece_offset="20.0" />
+  <CraftingPiece 
+    id="b3_chaos_lord_1h_sword_handle" 
+    name="Runed Chaos Sword Handle" 
+    tier="2" 
+    piece_type="Handle" 
+    mesh="bre_chaos_lord_1h_sword_handle" 
+    length="50.4" 
+    weight="0.1">
+    <BuildData piece_offset="-3.0"/>
+  </CraftingPiece>
+  <!--Chaos Sword-->
+  <CraftingPiece 
+    id="b3_chaos_warrior_1h_sword_blade" 
+    name="Chaos Sword Blade" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_warrior_1h_sword_blade" 
+    length="120.0" 
+    weight="0.87">
+    <BuildData 
+      piece_offset="-3.64"/>
+    <BladeData 
+      physics_material="metal_weapon" 
+      body_name="bo_sword_one_handed" 
+      holster_mesh="">
+      <Thrust 
+        damage_type="Pierce" 
+        damage_factor="2.8" />
+      <Swing 
+        damage_type="Cut" 
+        damage_factor="3.66" />
+    </BladeData>
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_warrior_1h_sword_handle" 
+    name="Chaos Sword Handle" 
+    tier="2" 
+    piece_type="Handle" 
+    mesh="bre_chaos_warrior_1h_sword_handle" 
+    length="42.8" 
+    weight="0.1">
+    <BuildData 
+      piece_offset="-6"/>
+  </CraftingPiece>
+  <!--Runed Chaos Great Axe-->
+  <CraftingPiece 
+    id="b3_chaos_lord_2h_axe_blade" 
+    name="Runed Chaos Great Axe Blade" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_lord_2h_axe_head" 
+    distance_to_next_piece="19.68"
+    distance_to_previous_piece="7.2"
+    weight="0.9">
+    <BladeData 
+      blade_length="65.3"
+      blade_width="68.5"
+      physics_material="wood_weapon" 
+      body_name="bo_axe_longer_b">
+      <Swing 
+        damage_type="Cut" 
+        damage_factor="3.40" />
+      <Thrust 
+        damage_type="Blunt" 
+        damage_factor="0.01" />
+    </BladeData>
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lord_2h_axe_handle" 
+    name="Runed Chaos Great Axe Handle" 
+    tier="2" 
+    piece_type="Handle" 
+    mesh="bre_chaos_lord_2h_axe_handle" 
+    length="180.0" 
+    weight="0.30" 
+    item_holster_pos_shift="0,0.08,-0.05">
+    <BuildData 
+      piece_offset="25.0" />
+  </CraftingPiece>
+  <!--Chaos Great Axe-->
+  <CraftingPiece 
+    id="b3_chaos_warrior_2h_axe_blade" 
+    name="Chaos Great Axe Blade" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_warrior_2h_axe_blade"
+    weight="0.9"
+    distance_to_next_piece="40.0"
+    distance_to_previous_piece="28.0">
+    <BladeData 
+      blade_length="62.0"
+      blade_width="62.0"
+      physics_material="wood_weapon" 
+      body_name="bo_axe_longer_b">
+      <Swing 
+        damage_type="Cut" 
+        damage_factor="3.40" />
+      <Thrust 
+        damage_type="Blunt" 
+        damage_factor="0.01" />
+    </BladeData>
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_warrior_2h_axe_handle" 
+    name="Chaos Great Axe Handle" 
+    tier="2" 
+    piece_type="Handle" 
+    mesh="bre_chaos_warrior_2h_axe_handle" 
+    length="145.0" 
+    weight="0.30" 
+    item_holster_pos_shift="0,0.08,-0.05">
+    <BuildData 
+      piece_offset="23.0" />
+  </CraftingPiece>
+  <!--Runed Chaos Warhammer-->
+  <CraftingPiece 
+    id="b3_chaos_lord_2h_mace_head" 
+    name="Runed Chaos Warhammer Head" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_lord_2h_mace_head" 
+    weight="1.4" 
+    distance_to_next_piece="14.15"
+    distance_to_previous_piece="13.45"
+    excluded_item_usage_features="thrust">
+    <BladeData 
+      blade_length="42.9"
+      blade_width="61.5"
+      physics_material="metal_weapon" 
+      body_name="bo_axe_longer_b">
+      <Swing 
+        damage_type="Blunt" 
+        damage_factor="1.3" />
+    </BladeData>
+    <Flags>
+      <Flag 
+        name="CanCrushThrough" />
+    </Flags>
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lord_2h_mace_handle" 
+    name="Runed Chaos Warhammer Handle" 
+    tier="2" 
+    piece_type="Handle" 
+    mesh="bre_chaos_lord_2h_mace_handle" 
+    length="173.0" 
+    weight="1">
+    <BuildData
+      piece_offset="30"/>
+  </CraftingPiece>
+  <!--Chaos Great Mace-->
+  <CraftingPiece 
+    id="b3_chaos_warrior_2h_mace_head" 
+    name="Chaos Great Mace Head" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_warrior_2h_mace_head" 
+    length="80.5" 
+    weight="1.4" 
+    full_scale="true" 
+    excluded_item_usage_features="thrust">
+    <BladeData 
+      physics_material="wood_weapon" 
+      body_name="bo_mace_a">
+      <Swing 
+        damage_type="Blunt" 
+        damage_factor="1.3" />
+    </BladeData>
+    <Flags>
+      <Flag 
+        name="CanCrushThrough" />
+    </Flags>
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_warrior_2h_mace_handle" 
+    name="Chaos Great Mace Handle" 
+    tier="2" 
+    piece_type="Handle" 
+    mesh="bre_chaos_warrior_2h_mace_handle" 
+    length="130.0" 
+    weight="1">
+    <BuildData piece_offset="20.0"/>
+  </CraftingPiece>
+  <!--Chaos Axe-->
+  <CraftingPiece 
+    id="b3_chaos_warrior_1h_axe_blade" 
+    name="Chaos Axe Blade" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_warrior_1h_axe_blade" 
+    distance_to_next_piece="3.6" 
+    distance_to_previous_piece="3.6" 
+    weight="0.7"
+    excluded_item_usage_features="thrust">
+    <BuildData 
+      piece_offset="-10.4" />
+    <BladeData 
+      blade_length="28.6" 
+      blade_width="40.1" 
+      physics_material="metal_weapon" 
+      body_name="bo_axe_longer_b">
+      <Swing 
+        damage_type="Cut" 
+        damage_factor="3.45" />
+    </BladeData>
+    <Flags>
+      <Flag 
+        name="BonusAgainstShield" />
+    </Flags>
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_warrior_1h_axe_handle" 
+    name="Chaos Axe Handle" 
+    tier="2" 
+    piece_type="Handle" 
+    mesh="bre_chaos_warrior_1h_axe_handle" 
+    length="97.8" 
+    weight="0.4">
+    <BuildData 
+      piece_offset="25.0" />
+  </CraftingPiece>
+  <!--Runed Chaos Flail-->
+  <CraftingPiece 
+    id="b3_chaos_lord_1h_mace_head" 
+    name="Runed Chaos Flail Head" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_lord_flail_blade" 
+    length="39.92" 
+    weight="0.95"
+    excluded_item_usage_features="thrust">
+    <BladeData 
+      physics_material="metal_weapon" 
+      body_name="bo_mace_a">
+      <Swing 
+        damage_type="Blunt" 
+        damage_factor="1.65" />
+    </BladeData>
+    <BuildData
+      piece_offset="67.0"/>
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lord_1h_mace_handle" 
+    name="Runed Chaos Flail Handle" 
+    tier="2" 
+    piece_type="Handle" 
+    mesh="bre_chaos_lord_flail_handle" 
+    length="72.6" 
+    weight="0.40">
+  </CraftingPiece>
+  <!--Runed Chaos Glaive-->
+  <CraftingPiece 
+    id="b3_chaos_lord_glaive_head" 
+    name="Runed Chaos Glaive Head" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_lord_glaive_spear_blade" 
+    length="119.0" 
+    weight="0.95">
+    <BladeData 
+      physics_material="wood_weapon" 
+      body_name="bo_spear_b">
+      <Thrust 
+        damage_type="Pierce" 
+        damage_factor="2.8" />
+      <Swing 
+        damage_type="Cut" 
+        damage_factor="3.66" />
+    </BladeData>
+    <Flags>
+      <Flag
+        name="CanHook" />
+      <Flag
+        name="CanDismount" />
+    </Flags>
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lord_glaive_handle" 
+    name="Runed Chaos Glaive Handle" 
+    tier="2" 
+    piece_type="Handle" 
+    mesh="bre_chaos_lord_glaive_spear_handle" 
+    length="173.0" 
+    weight="0.40">
+    <BuildData
+      piece_offset="10.0"/>
+  </CraftingPiece>
+  <!--Chaos Warhammer-->
+  <CraftingPiece 
+    id="b3_chaos_warrior_1h_mace_head" 
+    name="Chaos Mace Head" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_warrior_1h_mace_head" 
+    distance_to_next_piece="9.4" 
+    distance_to_previous_piece="7.2" 
+    weight="0.7"
+    excluded_item_usage_features="thrust">
+    <BladeData 
+      blade_length="26.4" 
+      blade_width="51.7" 
+      physics_material="metal_weapon" 
+      body_name="bo_axe_longer_b">
+      <Swing 
+        damage_type="Blunt" 
+        damage_factor="1.65" />
+    </BladeData>
+    <Flags>
+      <Flag 
+        name="BonusAgainstShield" />
+    </Flags>
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_warrior_1h_mace_handle" 
+    name="Chaos Mace Handle" 
+    tier="2" 
+    piece_type="Handle" 
+    mesh="bre_chaos_warrior_1h_mace_handle" 
+    length="81.3" 
+    weight="0.40">
+    <BuildData 
+      piece_offset="20.0" />
+  </CraftingPiece>
+  <!--Chaos Flail-->
+  <CraftingPiece 
+    id="b3_chaos_warrior_1h_flail_head" 
+    name="Chaos Flail Head" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_warrior_1h_flail_blade"
+    length="37.4"
+    weight="0.7"
+    excluded_item_usage_features="thrust">
+    <BuildData 
+      piece_offset="60.0"/>
+    <BladeData 
+      physics_material="metal_weapon" 
+      body_name="bo_mace_a">
+      <Swing 
+        damage_type="Blunt" 
+        damage_factor="1.65" />
+    </BladeData>
+    <Flags>
+      <Flag 
+        name="BonusAgainstShield" />
+    </Flags>
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_warrior_1h_flail_handle" 
+    name="Chaos Flail Handle" 
+    tier="2" 
+    piece_type="Handle" 
+    mesh="bre_chaos_warrior_1h_flail_handle" 
+    length="67.8" 
+    weight="0.40">
+  </CraftingPiece>
+  <!--Marauders' Sword-->
+  <CraftingPiece 
+    id="b3_chaos_marauder_1h_sword_blade" 
+    name="Chaos Marauder Sword Blade" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_marauder_1h_sword_blade" 
+    length="99.98" 
+    weight="0.87">
+    <BladeData 
+      physics_material="metal_weapon" 
+      body_name="bo_sword_one_handed" 
+      holster_mesh="">
+      <Thrust 
+        damage_type="Pierce" 
+        damage_factor="2.8" />
+      <Swing 
+        damage_type="Cut" 
+        damage_factor="3.66" />
+    </BladeData>
+    <BuildData 
+      piece_offset="-1.3"/>
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_marauder_1h_sword_handle" 
+    name="Chaos Marauder Sword Handle" 
+    tier="2" 
+    piece_type="Handle" 
+    mesh="bre_chaos_marauder_1h_sword_handle" 
+    length="28.02"
+    weight="0.1">
+    <BuildData 
+      piece_offset="-3"/>
+  </CraftingPiece>
+  <!--Chaos Marauders' War Pick-->
+  <!--TODO: CHANGE TO AXE SETTINGS-->
+  <CraftingPiece 
+    id="b3_chaos_marauder_1h_mace_head" 
+    name="Chaos Marauder Mace Head" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_marauder_1h_mace_head" 
+    distance_to_next_piece="0.0" 
+    distance_to_previous_piece="0.0" 
+    weight="0.7"
+    excluded_item_usage_features="thrust">
+    <BladeData 
+      blade_length="11.15" 
+      blade_width="27.40" 
+      physics_material="metal_weapon" 
+      body_name="bo_axe_longer_b">
+      <Swing 
+        damage_type="Blunt" 
+        damage_factor="1.65" />
+    </BladeData>
+    <Flags>
+      <Flag 
+        name="BonusAgainstShield" />
+    </Flags>
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_marauder_1h_mace_handle" 
+    name="Chaos Marauder Mace Handle" 
+    tier="2" 
+    piece_type="Handle"
+    mesh="bre_chaos_marauder_1h_mace_handle" 
+    length="71.93" 
+    weight="0.40">
+    <BuildData  piece_offset="18"/>
+  </CraftingPiece>
+  <!--Chaos Marauders' Axe-->
+  <CraftingPiece 
+    id="b3_chaos_marauder_1h_axe_blade" 
+    name="Chaos Marauder Axe Blade" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_marauder_1h_axe_blade" 
+    weight="0.7"
+    distance_to_next_piece="0.0" 
+    distance_to_previous_piece="0.0" 
+    excluded_item_usage_features="thrust">
+    <BladeData 
+      blade_length="29.77" 
+      blade_width="18.54" 
+      physics_material="metal_weapon" 
+      body_name="bo_axe_longer_b">
+      <Swing 
+        damage_type="Cut" 
+        damage_factor="3.45" />
+    </BladeData>
+    <Flags>
+      <Flag 
+        name="BonusAgainstShield" />
+    </Flags>
+    <BuildData
+      piece_offset="-18.0"/>
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_marauder_1h_axe_handle" 
+    name="Chaos Marauder Axe Handle" 
+    tier="2" 
+    piece_type="Handle"
+    mesh="bre_chaos_marauder_1h_axe_handle" 
+    length="72.70" 
+    weight="0.4">
+    <BuildData piece_offset="15"/>
+  </CraftingPiece>
+  <!--Chaos Mauraders' Spear-->
+  <!--USES sp_spear_blade_2 A COPY FROM SP SAVED IN CORE-->
+  <!--USES NATIVE mp_spear_guard_19 MIGHT WANT TO CREATE COPY FOR BALANCING-->
+  <!--USES sp_spear_handle_22 A COPY FROM SP SAVED IN CORE-->
+  <!--Troll's Club-->
+  <CraftingPiece 
+    id="b3_chaos_troll_mace_head" 
+    name="Troll Club Head" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_troll_mace_head" 
+    distance_to_next_piece="23.3" 
+    distance_to_previous_piece="9.8" 
+    weight="0.7"
+    excluded_item_usage_features="thrust">
+    <BladeData 
+      blade_length="47.9" 
+      blade_width="58.9" 
+      physics_material="wood_weapon" 
+      body_name="bo_axe_longer_b">
+      <Swing 
+        damage_type="Blunt" 
+        damage_factor="4.25" />
+    </BladeData>
+    <BuildData 
+      piece_offset="-14.2" />
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_troll_mace_handle" 
+    name="Troll Club Handle" 
+    tier="2" 
+    piece_type="Handle" 
+    mesh="bre_chaos_troll_mace_handle" 
+    length="205.0" 
+    weight="0.40">
+    <BuildData 
+      piece_offset="30.0" />
   </CraftingPiece>
 </CraftingPieces>
