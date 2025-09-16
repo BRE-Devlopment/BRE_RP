@@ -4,7 +4,7 @@
   <NPCCharacter 
     id="infantry_human"
     default_group="Infantry"
-    level="25"
+    level="0"
     name="Infantry"
     occupation="Soldier"
     culture="Culture.bretonnie">
@@ -52,7 +52,7 @@
   <NPCCharacter 
     id="archer_human"
     default_group="Archer"
-    level="25"
+    level="0"
     name="Archer"
     occupation="Soldier"
     culture="Culture.bretonnie">
@@ -100,7 +100,7 @@
   <NPCCharacter 
     id="infantry_chaos_human"
     default_group="Infantry"
-    level="25"
+    level="0"
     name="Infantry"
     race="chaos_marauder"
     occupation="Soldier"
@@ -149,7 +149,7 @@
   <NPCCharacter 
     id="infantry_chaos_warrior"
     default_group="Infantry"
-    level="25"
+    level="0"
     name="Infantry"
     race="chaos_warrior"
     occupation="Soldier"
@@ -203,7 +203,7 @@
   <NPCCharacter 
     id="cavalry_chaos_human"
     default_group="Cavalry"
-    level="25"
+    level="0"
     name="Cavalry"
     race="chaos_marauder"
     occupation="Soldier"
@@ -256,7 +256,7 @@
   <NPCCharacter 
     id="cavalry_chaos_warrior"
     default_group="Cavalry"
-    level="25"
+    level="0"
     name="Cavalry"
     race="chaos_warrior"
     occupation="Soldier"
@@ -311,10 +311,71 @@
       knockback="100.0">
     </Resistances>
   </NPCCharacter>
+  <!--ALWAYS KNOCK DOWN-->
   <NPCCharacter 
-    id="infantry_troll"
+    id="cavalry_chaos_warrior_l2"
+    default_group="Cavalry"
+    level="2"
+    name="Cavalry"
+    race="chaos_warrior"
+    occupation="Soldier"
+    culture="Culture.chaos">
+    <face> 
+      <BodyProperties 
+        version="4" 
+        age="25" 
+        weight="0" 
+        build="0.75"  
+        key="FFC000000000004000000000000000000000100000000000001000000000001001AA70130A00000000000000000000000000000000FC000000000000075C0000"/>
+      <BodyPropertiesMax
+        version="4" 
+        age="71.41" 
+        weight="0.4" 
+        build="1"  
+        key="FFC0FC0FC0000500FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF07B770780AFFFFFF00000000000000000000000000FC00000000000017749000"/>
+    </face>
+    <skills>
+      <skill 
+        id="Riding"
+        value="150"/>
+      <skill 
+        id="OneHanded"
+        value="50"/>
+      <skill 
+        id="TwoHanded"
+        value="50"/>
+      <skill 
+        id="Polearm"
+        value="150"/>
+      <skill 
+        id="Crossbow"
+        value="20"/>
+      <skill 
+        id="Bow"
+        value="20"/>
+      <skill 
+        id="Throwing"
+       value="100"/>
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment 
+          slot="Horse"
+          id="Item.b2_vlandia_horse_war_tougher"/>
+      </EquipmentRoster>
+    </Equipments>
+    <Resistances
+      dismount="0.0"
+      knockdown="100.0"
+      knockback="100.0">
+    </Resistances>
+  </NPCCharacter>
+  <!--ALWAYS KNOCK DOWN-->
+  <!--KICK RESISTANT-->
+  <NPCCharacter 
+    id="infantry_troll_l3"
     default_group="Infantry"
-    level="25"
+    level="7"
     name="Infantry"
     race="troll"
     occupation="Soldier"
@@ -336,7 +397,7 @@
     <skills>
       <skill 
         id="Riding"
-        value="15" />
+        value="0" />
       <skill 
         id="OneHanded"
         value="50" />

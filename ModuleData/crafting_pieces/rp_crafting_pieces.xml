@@ -228,6 +228,8 @@
     <Flags>
       <Flag 
         name="CanCrushThrough" />
+      <Flag 
+        name="CanKnockDown" />
     </Flags>
   </CraftingPiece>
   <CraftingPiece 
@@ -262,6 +264,8 @@
     <Flags>
       <Flag 
         name="CanCrushThrough" />
+      <Flag 
+        name="CanKnockDown" />
     </Flags>
   </CraftingPiece>
   <CraftingPiece 
@@ -578,6 +582,14 @@
     </BladeData>
     <BuildData 
       piece_offset="-14.2" />
+    <Flags>
+      <Flag 
+        name="CanCrushThrough" />
+      <Flag 
+        name="CanKnockDown" />
+      <Flag 
+        name="CanDismount" />
+    </Flags>
   </CraftingPiece>
   <CraftingPiece 
     id="b3_chaos_troll_mace_handle" 

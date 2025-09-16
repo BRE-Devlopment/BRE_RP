@@ -237,9 +237,9 @@
     </Perks>
   </MPClassDivision>
   <MPClassDivision 
-    id="cavalry_chaos_warrior_500hp"
-    hero="cavalry_chaos_warrior"
-    troop="cavalry_chaos_warrior"
+    id="cavalry_chaos_warrior_l2_500hp"
+    hero="cavalry_chaos_warrior_l2"
+    troop="cavalry_chaos_warrior_l2"
     hero_idle_anim="act_vlandia_mp_sergeant_idle"
     hero_mount_idle_anim="act_vlandia_mp_knight_mount_idle"
     troop_mount_idle_anim="act_horse_idle_1"
@@ -275,9 +275,9 @@
     </Perks>
   </MPClassDivision>
   <MPClassDivision 
-    id="infantry_troll_1000hp"
-    hero="infantry_troll"
-    troop="infantry_troll"
+    id="infantry_troll_l3_1000hp"
+    hero="infantry_troll_l3"
+    troop="infantry_troll_l3"
     hero_idle_anim="act_vlandia_mp_sergeant_idle"
     troop_idle_anim="act_idle_1h_with_shield_1_left_stance"
     multiplier="0.50"
