@@ -189,6 +189,7 @@
     name="Marauder Chieftain"
     mpclassdivision="infantry_chaos_human_250hp"
     premade_bodyproperties="marauder_chieftain"
+    selection_screen_character_size="1.06"
     id="chaos_marauder_chieftain.chu">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
@@ -234,6 +235,7 @@
     name="Chaos Warrior"
     mpclassdivision="infantry_chaos_warrior_350hp"
     premade_bodyproperties="chaos_warrior"
+    selection_screen_character_size="1.19"
     id="chaos_warrior.chu">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
@@ -295,6 +297,7 @@
     name="Chaos Chosen"
     mpclassdivision="infantry_chaos_warrior_450hp"
     premade_bodyproperties="chaos_chosen"
+    selection_screen_character_size="1.265"
     id="chaos_chosen.chu">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
@@ -437,6 +440,7 @@
     name="Mounted Marauder Chieftain"
     mpclassdivision="cavalry_chaos_human_250hp"
     premade_bodyproperties="marauder_chieftain"
+    selection_screen_character_size="1.06"
     id="chaos_mounted_marauder_chieftain.chu">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
@@ -491,6 +495,7 @@
     name="Chaos Knight"
     mpclassdivision="cavalry_chaos_warrior_400hp"
     premade_bodyproperties="chaos_warrior"
+    selection_screen_character_size="1.19"
     id="chaos_knight.chu">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
@@ -558,6 +563,7 @@
     name="Chaos Lord"
     mpclassdivision="cavalry_chaos_warrior_500hp"
     premade_bodyproperties="chaos_lord"
+    selection_screen_character_size="1.4"
     id="chaos_lord.chu">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
@@ -610,6 +616,7 @@
     name="Troll"
     mpclassdivision="infantry_troll_1000hp"
     premade_bodyproperties="troll"
+    selection_screen_character_size="2.0"
     id="troll.chu">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
