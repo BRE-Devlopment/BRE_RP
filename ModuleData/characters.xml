@@ -194,6 +194,11 @@
     <Equipments>
       <EquipmentRoster/>
     </Equipments>
+    <Resistances
+      dismount="0.0"
+      knockdown="100.0"
+      knockback="100.0">
+    </Resistances>
   </NPCCharacter>
   <NPCCharacter 
     id="cavalry_chaos_human"
@@ -300,6 +305,11 @@
           id="Item.b2_vlandia_horse_war_tougher"/>
       </EquipmentRoster>
     </Equipments>
+    <Resistances
+      dismount="0.0"
+      knockdown="100.0"
+      knockback="100.0">
+    </Resistances>
   </NPCCharacter>
   <NPCCharacter 
     id="infantry_troll"
@@ -349,5 +359,10 @@
     <Equipments>
       <EquipmentRoster/>
     </Equipments>
+    <Resistances
+      dismount="0.0"
+      knockdown="100.0"
+      knockback="100.0">
+    </Resistances>
   </NPCCharacter>
 </MPCharacters>
