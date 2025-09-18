@@ -58,9 +58,9 @@
     </Perks>
   </MPClassDivision>
   <MPClassDivision 
-    id="infantry_chaos_warrior_350hp"
-    hero="infantry_chaos_warrior"
-    troop="infantry_chaos_warrior"
+    id="infantry_chaos_warrior_l8192_350hp"
+    hero="infantry_chaos_warrior_l8192"
+    troop="infantry_chaos_warrior_l8192"
     hero_idle_anim="act_vlandia_mp_sergeant_idle"
     troop_idle_anim="act_idle_1h_with_shield_1_left_stance"
     multiplier="1.0"
@@ -86,9 +86,9 @@
     </Perks>
   </MPClassDivision>
   <MPClassDivision 
-    id="infantry_chaos_warrior_450hp"
-    hero="infantry_chaos_warrior"
-    troop="infantry_chaos_warrior"
+    id="infantry_chaos_warrior_l8192_450hp"
+    hero="infantry_chaos_warrior_l8192"
+    troop="infantry_chaos_warrior_l8192"
     hero_idle_anim="act_vlandia_mp_sergeant_idle"
     troop_idle_anim="act_idle_1h_with_shield_1_left_stance"
     multiplier="1.0"
@@ -199,9 +199,9 @@
     </Perks>
   </MPClassDivision>
   <MPClassDivision 
-    id="cavalry_chaos_warrior_400hp"
-    hero="cavalry_chaos_warrior"
-    troop="cavalry_chaos_warrior"
+    id="cavalry_chaos_warrior_l8192_400hp"
+    hero="cavalry_chaos_warrior_l8192"
+    troop="cavalry_chaos_warrior_l8192"
     hero_idle_anim="act_vlandia_mp_sergeant_idle"
     hero_mount_idle_anim="act_vlandia_mp_knight_mount_idle"
     troop_mount_idle_anim="act_horse_idle_1"
@@ -237,9 +237,9 @@
     </Perks>
   </MPClassDivision>
   <MPClassDivision 
-    id="cavalry_chaos_warrior_l2_500hp"
-    hero="cavalry_chaos_warrior_l2"
-    troop="cavalry_chaos_warrior_l2"
+    id="cavalry_chaos_warrior_l8194_500hp"
+    hero="cavalry_chaos_warrior_l8194"
+    troop="cavalry_chaos_warrior_l8194"
     hero_idle_anim="act_vlandia_mp_sergeant_idle"
     hero_mount_idle_anim="act_vlandia_mp_knight_mount_idle"
     troop_mount_idle_anim="act_horse_idle_1"
@@ -275,9 +275,9 @@
     </Perks>
   </MPClassDivision>
   <MPClassDivision 
-    id="infantry_troll_l3_1000hp"
-    hero="infantry_troll_l3"
-    troop="infantry_troll_l3"
+    id="infantry_troll_l57351_1000hp"
+    hero="infantry_troll_l57351"
+    troop="infantry_troll_l57351"
     hero_idle_anim="act_vlandia_mp_sergeant_idle"
     troop_idle_anim="act_idle_1h_with_shield_1_left_stance"
     multiplier="0.50"

@@ -20,6 +20,10 @@
     </BladeData>
     <BuildData 
       piece_offset="-36.5" />
+    <Flags>
+      <Flag
+        name="CanHook" />
+    </Flags>
   </CraftingPiece>
   <CraftingPiece 
     id="b3_chaos_lord_2h_sword_handle" 
@@ -157,6 +161,12 @@
         damage_type="Blunt" 
         damage_factor="0.01" />
     </BladeData>
+    <Flags>
+      <Flag
+        name="BonusAgainstShield" />
+      <Flag
+        name="CanHook" />
+    </Flags>
   </CraftingPiece>
   <CraftingPiece 
     id="b3_chaos_lord_2h_axe_handle" 
@@ -192,6 +202,12 @@
         damage_type="Blunt" 
         damage_factor="0.01" />
     </BladeData>
+    <Flags>
+      <Flag
+        name="BonusAgainstShield" />
+      <Flag
+        name="CanHook" />
+    </Flags>
   </CraftingPiece>
   <CraftingPiece 
     id="b3_chaos_warrior_2h_axe_handle" 
@@ -230,6 +246,8 @@
         name="CanCrushThrough" />
       <Flag 
         name="CanKnockDown" />
+      <Flag
+        name="CanHook" />
     </Flags>
   </CraftingPiece>
   <CraftingPiece 
@@ -402,10 +420,6 @@
         damage_type="Blunt" 
         damage_factor="1.65" />
     </BladeData>
-    <Flags>
-      <Flag 
-        name="BonusAgainstShield" />
-    </Flags>
   </CraftingPiece>
   <CraftingPiece 
     id="b3_chaos_warrior_1h_mace_handle" 
@@ -437,10 +451,6 @@
         damage_type="Blunt" 
         damage_factor="1.65" />
     </BladeData>
-    <Flags>
-      <Flag 
-        name="BonusAgainstShield" />
-    </Flags>
   </CraftingPiece>
   <CraftingPiece 
     id="b3_chaos_warrior_1h_flail_handle" 
@@ -588,7 +598,7 @@
       <Flag 
         name="CanKnockDown" />
       <Flag 
-        name="CanDismount" />
+        name="CanHook" />
     </Flags>
   </CraftingPiece>
   <CraftingPiece 

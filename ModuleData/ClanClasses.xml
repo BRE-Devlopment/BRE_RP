@@ -7,7 +7,7 @@
     color2="FF1f1a19"
     banner="11.2.127.1536.1536.764.764.1.0.0.160.127.127.512.512.764.764.1.0.0"
     name="PLACEHOLDER"
-    mpclassdivision="infantry_troll_l3_1000hp"
+    mpclassdivision="infantry_troll_l57351_1000hp"
     id="placeholder.co">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
@@ -233,7 +233,7 @@
     color2="FFefede3"
     banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
     name="Chaos Warrior"
-    mpclassdivision="infantry_chaos_warrior_350hp"
+    mpclassdivision="infantry_chaos_warrior_l8192_350hp"
     premade_bodyproperties="chaos_warrior"
     selection_screen_character_size="1.19"
     id="chaos_warrior.chu">
@@ -295,7 +295,7 @@
     color2="FFefede3"
     banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
     name="Chaos Chosen"
-    mpclassdivision="infantry_chaos_warrior_450hp"
+    mpclassdivision="infantry_chaos_warrior_l8192_450hp"
     premade_bodyproperties="chaos_chosen"
     selection_screen_character_size="1.265"
     id="chaos_chosen.chu">
@@ -493,7 +493,7 @@
     color2="FFefede3"
     banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
     name="Chaos Knight"
-    mpclassdivision="cavalry_chaos_warrior_400hp"
+    mpclassdivision="cavalry_chaos_warrior_l8192_400hp"
     premade_bodyproperties="chaos_warrior"
     selection_screen_character_size="1.19"
     id="chaos_knight.chu">
@@ -561,7 +561,7 @@
     color2="FFefede3"
     banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
     name="Chaos Lord"
-    mpclassdivision="cavalry_chaos_warrior_l2_500hp"
+    mpclassdivision="cavalry_chaos_warrior_l8194_500hp"
     premade_bodyproperties="chaos_lord"
     selection_screen_character_size="1.4"
     id="chaos_lord.chu">
@@ -614,7 +614,7 @@
     color2="FF1f1a19"
     banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
     name="Troll"
-    mpclassdivision="infantry_troll_l3_1000hp"
+    mpclassdivision="infantry_troll_l57351_1000hp"
     premade_bodyproperties="troll"
     selection_screen_character_size="2.0"
     id="troll.chu">
@@ -842,7 +842,7 @@
     color2="FFefede3"
     banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0"
     name="Chaos Warrior"
-    mpclassdivision="infantry_chaos_warrior_350hp"
+    mpclassdivision="infantry_chaos_warrior_l8192_350hp"
     premade_bodyproperties="chaos_warrior"
     selection_screen_character_size="1.19"
     id="chaos_warrior.chk">
@@ -904,7 +904,7 @@
     color2="FFefede3"
     banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0"
     name="Chaos Chosen"
-    mpclassdivision="infantry_chaos_warrior_450hp"
+    mpclassdivision="infantry_chaos_warrior_l8192_450hp"
     premade_bodyproperties="chaos_chosen"
     selection_screen_character_size="1.265"
     id="chaos_chosen.chk">
@@ -1102,7 +1102,7 @@
     color2="FFefede3"
     banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0"
     name="Chaos Knight"
-    mpclassdivision="cavalry_chaos_warrior_400hp"
+    mpclassdivision="cavalry_chaos_warrior_l8192_400hp"
     premade_bodyproperties="chaos_warrior"
     selection_screen_character_size="1.19"
     id="chaos_knight.chk">
@@ -1170,7 +1170,7 @@
     color2="FFefede3"
     banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0"
     name="Chaos Lord"
-    mpclassdivision="cavalry_chaos_warrior_l2_500hp"
+    mpclassdivision="cavalry_chaos_warrior_l8194_500hp"
     premade_bodyproperties="chaos_lord"
     selection_screen_character_size="1.4"
 
@@ -1224,7 +1224,7 @@
     color2="FFefede3"
     banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0"
     name="Troll"
-    mpclassdivision="infantry_troll_l3_1000hp"
+    mpclassdivision="infantry_troll_l57351_1000hp"
     premade_bodyproperties="troll"
     selection_screen_character_size="2.0"
     id="troll.chk">
@@ -1452,7 +1452,7 @@
     color2="FF1f1a19"
     banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
     name="Chaos Warrior"
-    mpclassdivision="infantry_chaos_warrior_350hp"
+    mpclassdivision="infantry_chaos_warrior_l8192_350hp"
     premade_bodyproperties="chaos_warrior"
     selection_screen_character_size="1.19"
     id="chaos_warrior.chn">
@@ -1514,7 +1514,7 @@
     color2="FF1f1a19"
     banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
     name="Chaos Chosen"
-    mpclassdivision="infantry_chaos_warrior_450hp"
+    mpclassdivision="infantry_chaos_warrior_l8192_450hp"
     premade_bodyproperties="chaos_chosen"
     selection_screen_character_size="1.265"
     id="chaos_chosen.chn">
@@ -1712,7 +1712,7 @@
     color2="FF1f1a19"
     banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
     name="Chaos Knight"
-    mpclassdivision="cavalry_chaos_warrior_400hp"
+    mpclassdivision="cavalry_chaos_warrior_l8192_400hp"
     premade_bodyproperties="chaos_warrior"
     selection_screen_character_size="1.19"
     id="chaos_knight.chn">
@@ -1780,7 +1780,7 @@
     color2="FF1f1a19"
     banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
     name="Chaos Lord"
-    mpclassdivision="cavalry_chaos_warrior_l2_500hp"
+    mpclassdivision="cavalry_chaos_warrior_l8194_500hp"
     premade_bodyproperties="chaos_lord"
     selection_screen_character_size="1.4"
 
@@ -1834,7 +1834,7 @@
     color2="FF1f1a19"
     banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
     name="Troll"
-    mpclassdivision="infantry_troll_l3_1000hp"
+    mpclassdivision="infantry_troll_l57351_1000hp"
     premade_bodyproperties="troll"
     selection_screen_character_size="2.0"
     id="troll.chn">
@@ -2062,7 +2062,7 @@
     color2="FF1f1a19"
     banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
     name="Chaos Warrior"
-    mpclassdivision="infantry_chaos_warrior_350hp"
+    mpclassdivision="infantry_chaos_warrior_l8192_350hp"
     premade_bodyproperties="chaos_warrior"
     selection_screen_character_size="1.19"
     id="chaos_warrior.chs">
@@ -2124,7 +2124,7 @@
     color2="FF1f1a19"
     banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
     name="Chaos Chosen"
-    mpclassdivision="infantry_chaos_warrior_450hp"
+    mpclassdivision="infantry_chaos_warrior_l8192_450hp"
     premade_bodyproperties="chaos_chosen"
     selection_screen_character_size="1.265"
     id="chaos_chosen.chs">
@@ -2322,7 +2322,7 @@
     color2="FF1f1a19"
     banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
     name="Chaos Knight"
-    mpclassdivision="cavalry_chaos_warrior_400hp"
+    mpclassdivision="cavalry_chaos_warrior_l8192_400hp"
     premade_bodyproperties="chaos_warrior"
     selection_screen_character_size="1.19"
     id="chaos_knight.chs">
@@ -2390,7 +2390,7 @@
     color2="FF1f1a19"
     banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
     name="Chaos Lord"
-    mpclassdivision="cavalry_chaos_warrior_l2_500hp"
+    mpclassdivision="cavalry_chaos_warrior_l8194_500hp"
     premade_bodyproperties="chaos_lord"
     selection_screen_character_size="1.4"
 
@@ -2444,7 +2444,7 @@
     color2="FF1f1a19"
     banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
     name="Troll"
-    mpclassdivision="infantry_troll_l3_1000hp"
+    mpclassdivision="infantry_troll_l57351_1000hp"
     premade_bodyproperties="troll"
     selection_screen_character_size="2.0"
     id="troll.chs">
@@ -2672,7 +2672,7 @@
     color2="FF1f1a19"
     banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0"
     name="Chaos Warrior"
-    mpclassdivision="infantry_chaos_warrior_350hp"
+    mpclassdivision="infantry_chaos_warrior_l8192_350hp"
     premade_bodyproperties="chaos_warrior"
     selection_screen_character_size="1.19"
     id="chaos_warrior.cht">
@@ -2734,7 +2734,7 @@
     color2="FF1f1a19"
     banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0"
     name="Chaos Chosen"
-    mpclassdivision="infantry_chaos_warrior_450hp"
+    mpclassdivision="infantry_chaos_warrior_l8192_450hp"
     premade_bodyproperties="chaos_chosen"
     selection_screen_character_size="1.265"
     id="chaos_chosen.cht">
@@ -2932,7 +2932,7 @@
     color2="FF1f1a19"
     banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0"
     name="Chaos Knight"
-    mpclassdivision="cavalry_chaos_warrior_400hp"
+    mpclassdivision="cavalry_chaos_warrior_l8192_400hp"
     premade_bodyproperties="chaos_warrior"
     selection_screen_character_size="1.19"
     id="chaos_knight.cht">
@@ -3000,7 +3000,7 @@
     color2="FF1f1a19"
     banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0"
     name="Chaos Lord"
-    mpclassdivision="cavalry_chaos_warrior_l2_500hp"
+    mpclassdivision="cavalry_chaos_warrior_l8194_500hp"
     premade_bodyproperties="chaos_lord"
     selection_screen_character_size="1.4"
 
@@ -3054,7 +3054,7 @@
     color2="FF1f1a19"
     banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0"
     name="Troll"
-    mpclassdivision="infantry_troll_l3_1000hp"
+    mpclassdivision="infantry_troll_l57351_1000hp"
     premade_bodyproperties="troll"
     selection_screen_character_size="2.0"
     id="troll.cht">

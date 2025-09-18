@@ -146,8 +146,9 @@
       <EquipmentRoster/>
     </Equipments>
   </NPCCharacter>
+  <!--BASIC WARRIOR INF-->
   <NPCCharacter 
-    id="infantry_chaos_warrior"
+    id="infantry_chaos_warrior_l8192"
     default_group="Infantry"
     level="8192"
     name="Infantry"
@@ -253,8 +254,9 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
+  <!--BASIC WARRIOR CAV-->
   <NPCCharacter 
-    id="cavalry_chaos_warrior"
+    id="cavalry_chaos_warrior_l8192"
     default_group="Cavalry"
     level="8192"
     name="Cavalry"
@@ -311,10 +313,11 @@
       knockback="100.0">
     </Resistances>
   </NPCCharacter>
+  <!--LORD-->
   <NPCCharacter 
-    id="cavalry_chaos_warrior_l2"
+    id="cavalry_chaos_warrior_l8194"
     default_group="Cavalry"
-    level="8195"
+    level="8194"
     name="Cavalry"
     race="chaos_warrior"
     occupation="Soldier"
@@ -372,7 +375,7 @@
   <!--ALWAYS KNOCK DOWN-->
   <!--KICK RESISTANT-->
   <NPCCharacter 
-    id="infantry_troll_l3"
+    id="infantry_troll_l57351"
     default_group="Infantry"
     level="57351"
     name="Infantry"
