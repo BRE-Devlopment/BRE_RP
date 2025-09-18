@@ -311,7 +311,6 @@
       knockback="100.0">
     </Resistances>
   </NPCCharacter>
-  <!--ALWAYS KNOCK DOWN-->
   <NPCCharacter 
     id="cavalry_chaos_warrior_l2"
     default_group="Cavalry"
@@ -365,7 +364,7 @@
       </EquipmentRoster>
     </Equipments>
     <Resistances
-      dismount="0.0"
+      dismount="100.0"
       knockdown="100.0"
       knockback="100.0">
     </Resistances>
