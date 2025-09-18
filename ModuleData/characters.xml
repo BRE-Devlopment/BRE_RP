@@ -196,10 +196,9 @@
       <EquipmentRoster/>
     </Equipments>
     <Resistances
-      dismount="0.0"
-      knockdown="100.0"
-      knockback="100.0">
-    </Resistances>
+      dismount="0"
+      knockdown="100"
+      knockback="100"/>
   </NPCCharacter>
   <NPCCharacter 
     id="cavalry_chaos_human"
@@ -308,10 +307,9 @@
       </EquipmentRoster>
     </Equipments>
     <Resistances
-      dismount="0.0"
-      knockdown="100.0"
-      knockback="100.0">
-    </Resistances>
+      dismount="0"
+      knockdown="100"
+      knockback="100"/>
   </NPCCharacter>
   <!--LORD-->
   <NPCCharacter 
@@ -367,10 +365,9 @@
       </EquipmentRoster>
     </Equipments>
     <Resistances
-      dismount="100.0"
-      knockdown="100.0"
-      knockback="100.0">
-    </Resistances>
+      dismount="100"
+      knockdown="100"
+      knockback="100"/>
   </NPCCharacter>
   <!--ALWAYS KNOCK DOWN-->
   <!--KICK RESISTANT-->
@@ -423,9 +420,8 @@
       <EquipmentRoster/>
     </Equipments>
     <Resistances
-      dismount="0.0"
-      knockdown="100.0"
-      knockback="100.0">
-    </Resistances>
+      dismount="0"
+      knockdown="100"
+      knockback="100"/>
   </NPCCharacter>
 </MPCharacters>

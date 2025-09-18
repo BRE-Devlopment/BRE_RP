@@ -342,6 +342,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sprp_range_arrows"/>
+      <equipment id="sp_arrows_fire"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -951,6 +952,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sprp_range_arrows"/>
+      <equipment id="sp_arrows_fire"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -1173,7 +1175,6 @@
     mpclassdivision="cavalry_chaos_warrior_l8194_500hp"
     premade_bodyproperties="chaos_lord"
     selection_screen_character_size="1.4"
-
     id="chaos_lord.chk">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
@@ -1561,6 +1562,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sprp_range_arrows"/>
+      <equipment id="sp_arrows_fire"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -1783,7 +1785,6 @@
     mpclassdivision="cavalry_chaos_warrior_l8194_500hp"
     premade_bodyproperties="chaos_lord"
     selection_screen_character_size="1.4"
-
     id="chaos_lord.chn">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
@@ -2171,6 +2172,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sprp_range_arrows"/>
+      <equipment id="sp_arrows_fire"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -2393,7 +2395,6 @@
     mpclassdivision="cavalry_chaos_warrior_l8194_500hp"
     premade_bodyproperties="chaos_lord"
     selection_screen_character_size="1.4"
-
     id="chaos_lord.chs">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
@@ -2781,6 +2782,7 @@
     </Weapon0>
     <Weapon1>
       <equipment id="sprp_range_arrows"/>
+      <equipment id="sp_arrows_fire"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -3003,7 +3005,6 @@
     mpclassdivision="cavalry_chaos_warrior_l8194_500hp"
     premade_bodyproperties="chaos_lord"
     selection_screen_character_size="1.4"
-
     id="chaos_lord.cht">
     <UsableWeaponGroups>
       <WeaponGroup id="human_infantry_default"/>
