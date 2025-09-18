@@ -18,7 +18,7 @@
         charge_damage="0"
         body_length="113"
         is_mountable="true"
-        extra_health="0">
+        extra_health="-50">
         <AdditionalMeshes>
           <Mesh
             name="chaos_mane_type1"
