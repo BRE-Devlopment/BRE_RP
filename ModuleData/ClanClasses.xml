@@ -341,7 +341,7 @@
       <equipment id="sp_cheap_bow"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="sp_range_arrows"/>
+      <equipment id="sprp_range_arrows"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -950,7 +950,7 @@
       <equipment id="sp_cheap_bow"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="sp_range_arrows"/>
+      <equipment id="sprp_range_arrows"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -1560,7 +1560,7 @@
       <equipment id="sp_cheap_bow"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="sp_range_arrows"/>
+      <equipment id="sprp_range_arrows"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -2170,7 +2170,7 @@
       <equipment id="sp_cheap_bow"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="sp_range_arrows"/>
+      <equipment id="sprp_range_arrows"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
@@ -2780,7 +2780,7 @@
       <equipment id="sp_cheap_bow"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="sp_range_arrows"/>
+      <equipment id="sprp_range_arrows"/>
     </Weapon1>
     <Weapon2>
       <equipment id="b2_peasant_axe"/>
