@@ -8,7 +8,8 @@
     culture="Culture.neutral_culture"
     item_category="horse"
     weight="410"
-    Type="Horse">
+    Type="Horse"
+    difficulty="0">
     <ItemComponent>
       <Horse
         monster="Monster.horse"
@@ -33,7 +34,8 @@
     culture="Culture.neutral_culture"
     item_category="horse"
     weight="410"
-    Type="Horse">
+    Type="Horse"
+    difficulty="1">
     <ItemComponent>
       <Horse
         monster="Monster.horse"

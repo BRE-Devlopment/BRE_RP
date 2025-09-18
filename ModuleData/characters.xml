@@ -149,7 +149,7 @@
   <NPCCharacter 
     id="infantry_chaos_warrior"
     default_group="Infantry"
-    level="0"
+    level="8192"
     name="Infantry"
     race="chaos_warrior"
     occupation="Soldier"
@@ -256,7 +256,7 @@
   <NPCCharacter 
     id="cavalry_chaos_warrior"
     default_group="Cavalry"
-    level="0"
+    level="8192"
     name="Cavalry"
     race="chaos_warrior"
     occupation="Soldier"
@@ -315,7 +315,7 @@
   <NPCCharacter 
     id="cavalry_chaos_warrior_l2"
     default_group="Cavalry"
-    level="2"
+    level="8195"
     name="Cavalry"
     race="chaos_warrior"
     occupation="Soldier"
@@ -375,7 +375,7 @@
   <NPCCharacter 
     id="infantry_troll_l3"
     default_group="Infantry"
-    level="7"
+    level="57351"
     name="Infantry"
     race="troll"
     occupation="Soldier"
