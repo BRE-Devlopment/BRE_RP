@@ -26,6 +26,78 @@
     </Flags>
   </CraftingPiece>
   <CraftingPiece 
+    id="b3_chaos_lord_2h_sword_blade_chn" 
+    name="Nurgle Runed Chaos Great Sword Blade" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_lord_2h_nurgle_sword_blade" 
+    length="165.0" 
+    weight="1.25"
+    excluded_item_usage_features="thrust">
+    <BladeData 
+      physics_material="metal_weapon" 
+      body_name="bo_sword_one_handed" 
+      holster_mesh="bre_chaos_warrior_2h_sword_scabbard">
+      <Swing 
+        damage_type="Cut" 
+        damage_factor="3.15" />
+    </BladeData>
+    <BuildData 
+      piece_offset="-36.5" />
+    <Flags>
+      <Flag
+        name="CanHook" />
+    </Flags>
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lord_2h_sword_blade_chs" 
+    name="Slaanesh Runed Chaos Great Sword Blade" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_lord_2h_slaanesh_sword_blade" 
+    length="165.0" 
+    weight="1.25"
+    excluded_item_usage_features="thrust">
+    <BladeData 
+      physics_material="metal_weapon" 
+      body_name="bo_sword_one_handed" 
+      holster_mesh="bre_chaos_warrior_2h_sword_scabbard">
+      <Swing 
+        damage_type="Cut" 
+        damage_factor="3.15" />
+    </BladeData>
+    <BuildData 
+      piece_offset="-36.5" />
+    <Flags>
+      <Flag
+        name="CanHook" />
+    </Flags>
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lord_2h_sword_blade_cht" 
+    name="Tzeentch Runed Chaos Great Sword Blade" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_lord_2h_tzeentch_sword_blade" 
+    length="165.0" 
+    weight="1.25"
+    excluded_item_usage_features="thrust">
+    <BladeData 
+      physics_material="metal_weapon" 
+      body_name="bo_sword_one_handed" 
+      holster_mesh="bre_chaos_warrior_2h_sword_scabbard">
+      <Swing 
+        damage_type="Cut" 
+        damage_factor="3.15" />
+    </BladeData>
+    <BuildData 
+      piece_offset="-36.5" />
+    <Flags>
+      <Flag
+        name="CanHook" />
+    </Flags>
+  </CraftingPiece>
+  <CraftingPiece 
     id="b3_chaos_lord_2h_sword_handle" 
     name="Runed Chaos Great Sword Handle" 
     tier="2" 
@@ -79,6 +151,72 @@
     tier="2" 
     piece_type="Blade" 
     mesh="bre_chaos_lord_1h_sword_blade" 
+    length="133.0" 
+    weight="0.87">
+    <BuildData 
+      piece_offset="-11.2"/>
+    <BladeData 
+      physics_material="metal_weapon" 
+      body_name="bo_sword_one_handed" 
+      holster_mesh="">
+      <Thrust 
+        damage_type="Pierce" 
+        damage_factor="2.8" />
+      <Swing 
+        damage_type="Cut" 
+        damage_factor="3.66" />
+    </BladeData>
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lord_1h_sword_blade_chn" 
+    name="Nurgle Runed Chaos Sword Blade" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_lord_1h_nurgle_sword_blade" 
+    length="133.0" 
+    weight="0.87">
+    <BuildData 
+      piece_offset="-11.2"/>
+    <BladeData 
+      physics_material="metal_weapon" 
+      body_name="bo_sword_one_handed" 
+      holster_mesh="">
+      <Thrust 
+        damage_type="Pierce" 
+        damage_factor="2.8" />
+      <Swing 
+        damage_type="Cut" 
+        damage_factor="3.66" />
+    </BladeData>
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lord_1h_sword_blade_chs" 
+    name="Slaanesh Runed Chaos Sword Blade" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_lord_1h_slaanesh_sword_blade" 
+    length="133.0" 
+    weight="0.87">
+    <BuildData 
+      piece_offset="-11.2"/>
+    <BladeData 
+      physics_material="metal_weapon" 
+      body_name="bo_sword_one_handed" 
+      holster_mesh="">
+      <Thrust 
+        damage_type="Pierce" 
+        damage_factor="2.8" />
+      <Swing 
+        damage_type="Cut" 
+        damage_factor="3.66" />
+    </BladeData>
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lord_1h_sword_blade_cht"
+    name="Tzeentch Runed Chaos Sword Blade" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_lord_1h_tzeentch_sword_blade" 
     length="133.0" 
     weight="0.87">
     <BuildData 
@@ -169,6 +307,90 @@
     </Flags>
   </CraftingPiece>
   <CraftingPiece 
+    id="b3_chaos_lord_2h_axe_blade_chn" 
+    name="Nurgle Runed Chaos Great Axe Blade" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_lord_2h_nurgle_axe_head" 
+    distance_to_next_piece="19.68"
+    distance_to_previous_piece="7.2"
+    weight="0.9">
+    <BladeData 
+      blade_length="65.3"
+      blade_width="68.5"
+      physics_material="wood_weapon" 
+      body_name="bo_axe_longer_b">
+      <Swing 
+        damage_type="Cut" 
+        damage_factor="3.40" />
+      <Thrust 
+        damage_type="Blunt" 
+        damage_factor="0.01" />
+    </BladeData>
+    <Flags>
+      <Flag
+        name="BonusAgainstShield" />
+      <Flag
+        name="CanHook" />
+    </Flags>
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lord_2h_axe_blade_chs" 
+    name="Slaanesh Runed Chaos Great Axe Blade" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_lord_2h_slaanesh_axe_head" 
+    distance_to_next_piece="19.68"
+    distance_to_previous_piece="7.2"
+    weight="0.9">
+    <BladeData 
+      blade_length="65.3"
+      blade_width="68.5"
+      physics_material="wood_weapon" 
+      body_name="bo_axe_longer_b">
+      <Swing 
+        damage_type="Cut" 
+        damage_factor="3.40" />
+      <Thrust 
+        damage_type="Blunt" 
+        damage_factor="0.01" />
+    </BladeData>
+    <Flags>
+      <Flag
+        name="BonusAgainstShield" />
+      <Flag
+        name="CanHook" />
+    </Flags>
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lord_2h_axe_blade_cht" 
+    name="Tzeentch Runed Chaos Great Axe Blade" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_lord_2h_tzeentch_axe_head" 
+    distance_to_next_piece="19.68"
+    distance_to_previous_piece="7.2"
+    weight="0.9">
+    <BladeData 
+      blade_length="65.3"
+      blade_width="68.5"
+      physics_material="wood_weapon" 
+      body_name="bo_axe_longer_b">
+      <Swing 
+        damage_type="Cut" 
+        damage_factor="3.40" />
+      <Thrust 
+        damage_type="Blunt" 
+        damage_factor="0.01" />
+    </BladeData>
+    <Flags>
+      <Flag
+        name="BonusAgainstShield" />
+      <Flag
+        name="CanHook" />
+    </Flags>
+  </CraftingPiece>
+  <CraftingPiece 
     id="b3_chaos_lord_2h_axe_handle" 
     name="Runed Chaos Great Axe Handle" 
     tier="2" 
@@ -228,6 +450,90 @@
     tier="2" 
     piece_type="Blade" 
     mesh="bre_chaos_lord_2h_mace_head" 
+    weight="1.4" 
+    distance_to_next_piece="14.15"
+    distance_to_previous_piece="13.45"
+    excluded_item_usage_features="thrust">
+    <BladeData 
+      blade_length="42.9"
+      blade_width="61.5"
+      physics_material="metal_weapon" 
+      body_name="bo_axe_longer_b">
+      <Swing 
+        damage_type="Blunt" 
+        damage_factor="1.3" />
+    </BladeData>
+    <Flags>
+      <Flag 
+        name="CanCrushThrough" />
+      <Flag 
+        name="CanKnockDown" />
+      <Flag
+        name="CanHook" />
+    </Flags>
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lord_2h_mace_head_chn" 
+    name="Nurgle Runed Chaos Warhammer Head" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_lord_2h_nurgle_mace_head" 
+    weight="1.4" 
+    distance_to_next_piece="14.15"
+    distance_to_previous_piece="13.45"
+    excluded_item_usage_features="thrust">
+    <BladeData 
+      blade_length="42.9"
+      blade_width="61.5"
+      physics_material="metal_weapon" 
+      body_name="bo_axe_longer_b">
+      <Swing 
+        damage_type="Blunt" 
+        damage_factor="1.3" />
+    </BladeData>
+    <Flags>
+      <Flag 
+        name="CanCrushThrough" />
+      <Flag 
+        name="CanKnockDown" />
+      <Flag
+        name="CanHook" />
+    </Flags>
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lord_2h_mace_head_chs" 
+    name="Slaanesh Runed Chaos Warhammer Head" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_lord_2h_slaanesh_mace_head" 
+    weight="1.4" 
+    distance_to_next_piece="14.15"
+    distance_to_previous_piece="13.45"
+    excluded_item_usage_features="thrust">
+    <BladeData 
+      blade_length="42.9"
+      blade_width="61.5"
+      physics_material="metal_weapon" 
+      body_name="bo_axe_longer_b">
+      <Swing 
+        damage_type="Blunt" 
+        damage_factor="1.3" />
+    </BladeData>
+    <Flags>
+      <Flag 
+        name="CanCrushThrough" />
+      <Flag 
+        name="CanKnockDown" />
+      <Flag
+        name="CanHook" />
+    </Flags>
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lord_2h_mace_head_cht" 
+    name="Tzeentch Runed Chaos Warhammer Head" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_lord_2h_tzeentch_mace_head" 
     weight="1.4" 
     distance_to_next_piece="14.15"
     distance_to_previous_piece="13.45"
@@ -355,6 +661,63 @@
       piece_offset="67.0"/>
   </CraftingPiece>
   <CraftingPiece 
+    id="b3_chaos_lord_1h_mace_head_chn" 
+    name="Nurgle Runed Chaos Flail Head" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_lord_nurgle_flail_blade" 
+    length="39.92" 
+    weight="0.95"
+    excluded_item_usage_features="thrust">
+    <BladeData 
+      physics_material="metal_weapon" 
+      body_name="bo_mace_a">
+      <Swing 
+        damage_type="Blunt" 
+        damage_factor="1.65" />
+    </BladeData>
+    <BuildData
+      piece_offset="67.0"/>
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lord_1h_mace_head_chs" 
+    name="Slaanesh Runed Chaos Flail Head" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_lord_slaanesh_flail_blade" 
+    length="39.92" 
+    weight="0.95"
+    excluded_item_usage_features="thrust">
+    <BladeData 
+      physics_material="metal_weapon" 
+      body_name="bo_mace_a">
+      <Swing 
+        damage_type="Blunt" 
+        damage_factor="1.65" />
+    </BladeData>
+    <BuildData
+      piece_offset="67.0"/>
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lord_1h_mace_head_cht" 
+    name="Tzeentch Runed Chaos Flail Head" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_lord_tzeentch_flail_blade" 
+    length="39.92" 
+    weight="0.95"
+    excluded_item_usage_features="thrust">
+    <BladeData 
+      physics_material="metal_weapon" 
+      body_name="bo_mace_a">
+      <Swing 
+        damage_type="Blunt" 
+        damage_factor="1.65" />
+    </BladeData>
+    <BuildData
+      piece_offset="67.0"/>
+  </CraftingPiece>
+  <CraftingPiece 
     id="b3_chaos_lord_1h_mace_handle" 
     name="Runed Chaos Flail Handle" 
     tier="2" 
@@ -370,6 +733,81 @@
     tier="2" 
     piece_type="Blade" 
     mesh="bre_chaos_lord_glaive_spear_blade" 
+    length="119.0" 
+    weight="0.95">
+    <BladeData 
+      physics_material="wood_weapon" 
+      body_name="bo_spear_b">
+      <Thrust 
+        damage_type="Pierce" 
+        damage_factor="2.8" />
+      <Swing 
+        damage_type="Cut" 
+        damage_factor="3.66" />
+    </BladeData>
+    <Flags>
+      <Flag
+        name="CanHook" />
+      <Flag
+        name="CanDismount" />
+    </Flags>
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lord_glaive_head_chn" 
+    name="Nurgle Runed Chaos Glaive Head" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_lord_glaive_nurgle_spear_blade" 
+    length="119.0" 
+    weight="0.95">
+    <BladeData 
+      physics_material="wood_weapon" 
+      body_name="bo_spear_b">
+      <Thrust 
+        damage_type="Pierce" 
+        damage_factor="2.8" />
+      <Swing 
+        damage_type="Cut" 
+        damage_factor="3.66" />
+    </BladeData>
+    <Flags>
+      <Flag
+        name="CanHook" />
+      <Flag
+        name="CanDismount" />
+    </Flags>
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lord_glaive_head_chs" 
+    name="Slaanesh Runed Chaos Glaive Head" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_lord_glaive_slaanesh_spear_blade" 
+    length="119.0" 
+    weight="0.95">
+    <BladeData 
+      physics_material="wood_weapon" 
+      body_name="bo_spear_b">
+      <Thrust 
+        damage_type="Pierce" 
+        damage_factor="2.8" />
+      <Swing 
+        damage_type="Cut" 
+        damage_factor="3.66" />
+    </BladeData>
+    <Flags>
+      <Flag
+        name="CanHook" />
+      <Flag
+        name="CanDismount" />
+    </Flags>
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lord_glaive_head_cht" 
+    name="Tzeentch Runed Chaos Glaive Head" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_lord_glaive_tzeentch_spear_blade" 
     length="119.0" 
     weight="0.95">
     <BladeData 

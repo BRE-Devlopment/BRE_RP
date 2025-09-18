@@ -40,6 +40,45 @@
       			Type="Handle"/>
     	</Pieces>
     </CraftedItem>
+    <CraftedItem 
+    	id="rp_chaos_lord_1h_sword_chn" 
+    	name="Runed Chaos Sword" 
+    	crafting_template="B2_OneHandedSword">
+    	<Pieces>
+      		<Piece 
+      			id="b3_chaos_lord_1h_sword_blade_chn" 
+      			Type="Blade"/>
+      		<Piece 
+      			id="b3_chaos_lord_1h_sword_handle" 
+      			Type="Handle"/>
+    	</Pieces>
+    </CraftedItem>
+    <CraftedItem 
+    	id="rp_chaos_lord_1h_sword_chs" 
+    	name="Runed Chaos Sword" 
+    	crafting_template="B2_OneHandedSword">
+    	<Pieces>
+      		<Piece 
+      			id="b3_chaos_lord_1h_sword_blade_chs" 
+      			Type="Blade"/>
+      		<Piece 
+      			id="b3_chaos_lord_1h_sword_handle" 
+      			Type="Handle"/>
+    	</Pieces>
+    </CraftedItem>
+    <CraftedItem 
+    	id="rp_chaos_lord_1h_sword_cht" 
+    	name="Runed Chaos Sword" 
+    	crafting_template="B2_OneHandedSword">
+    	<Pieces>
+      		<Piece 
+      			id="b3_chaos_lord_1h_sword_blade_cht" 
+      			Type="Blade"/>
+      		<Piece 
+      			id="b3_chaos_lord_1h_sword_handle" 
+      			Type="Handle"/>
+    	</Pieces>
+    </CraftedItem>
 	<!--1H MACE-->
   	<CraftedItem 
   		id="rp_chaos_marauder_1h_mace" 
@@ -87,6 +126,45 @@
     	<Pieces>
       		<Piece 
       			id="b3_chaos_lord_1h_mace_head" 
+      			Type="Blade"/>
+  			<Piece 
+  				id="b3_chaos_lord_1h_mace_handle" 
+  				Type="Handle"/>
+    	</Pieces>
+  	</CraftedItem>
+  	<CraftedItem 
+  		id="rp_chaos_lord_1h_mace_chn" 
+  		name="Runed Chaos Flail" 
+  		crafting_template="B2_OneHandedMace">
+    	<Pieces>
+      		<Piece 
+      			id="b3_chaos_lord_1h_mace_head_chn" 
+      			Type="Blade"/>
+  			<Piece 
+  				id="b3_chaos_lord_1h_mace_handle" 
+  				Type="Handle"/>
+    	</Pieces>
+  	</CraftedItem>
+  	<CraftedItem 
+  		id="rp_chaos_lord_1h_mace_chs" 
+  		name="Runed Chaos Flail" 
+  		crafting_template="B2_OneHandedMace">
+    	<Pieces>
+      		<Piece 
+      			id="b3_chaos_lord_1h_mace_head_chs" 
+      			Type="Blade"/>
+  			<Piece 
+  				id="b3_chaos_lord_1h_mace_handle" 
+  				Type="Handle"/>
+    	</Pieces>
+  	</CraftedItem>
+  	<CraftedItem 
+  		id="rp_chaos_lord_1h_mace_cht" 
+  		name="Runed Chaos Flail" 
+  		crafting_template="B2_OneHandedMace">
+    	<Pieces>
+      		<Piece 
+      			id="b3_chaos_lord_1h_mace_head_cht" 
       			Type="Blade"/>
   			<Piece 
   				id="b3_chaos_lord_1h_mace_handle" 
@@ -177,6 +255,45 @@
       			Type="Handle" />
     	</Pieces>
   	</CraftedItem>
+  	<CraftedItem 
+  		id="rp_chaos_lord_2h_sword_chn" 
+  		name="Runed Chaos Great Sword" 
+  		crafting_template="B2_TwoHandedSword">
+    	<Pieces>
+      		<Piece 
+      			id="b3_chaos_lord_2h_sword_blade_chn" 
+      			Type="Blade" />
+      		<Piece 
+      			id="b3_chaos_lord_2h_sword_handle" 
+      			Type="Handle" />
+    	</Pieces>
+  	</CraftedItem>
+  	<CraftedItem 
+  		id="rp_chaos_lord_2h_sword_chs" 
+  		name="Runed Chaos Great Sword" 
+  		crafting_template="B2_TwoHandedSword">
+    	<Pieces>
+      		<Piece 
+      			id="b3_chaos_lord_2h_sword_blade_chs" 
+      			Type="Blade" />
+      		<Piece 
+      			id="b3_chaos_lord_2h_sword_handle" 
+      			Type="Handle" />
+    	</Pieces>
+  	</CraftedItem>
+  	<CraftedItem 
+  		id="rp_chaos_lord_2h_sword_cht" 
+  		name="Runed Chaos Great Sword" 
+  		crafting_template="B2_TwoHandedSword">
+    	<Pieces>
+      		<Piece 
+      			id="b3_chaos_lord_2h_sword_blade_cht" 
+      			Type="Blade" />
+      		<Piece 
+      			id="b3_chaos_lord_2h_sword_handle" 
+      			Type="Handle" />
+    	</Pieces>
+  	</CraftedItem>
   	<!--2H MACE-->
   	<CraftedItem 
   		id="rp_chaos_warrior_2h_mace" 
@@ -198,6 +315,45 @@
     	<Pieces>
       		<Piece 
       			id="b3_chaos_lord_2h_mace_head" 
+      			Type="Blade"/>
+      		<Piece 
+      			id="b3_chaos_lord_2h_mace_handle" 
+      			Type="Handle"/>
+    	</Pieces>
+  	</CraftedItem>
+  	<CraftedItem 
+  		id="rp_chaos_lord_2h_mace_chn" 
+  		name="Runed Chaos Warhammer" 
+  		crafting_template="B2_TwoHandedMace">
+    	<Pieces>
+      		<Piece 
+      			id="b3_chaos_lord_2h_mace_head_chn" 
+      			Type="Blade"/>
+      		<Piece 
+      			id="b3_chaos_lord_2h_mace_handle" 
+      			Type="Handle"/>
+    	</Pieces>
+  	</CraftedItem>
+  	<CraftedItem 
+  		id="rp_chaos_lord_2h_mace_chs" 
+  		name="Runed Chaos Warhammer" 
+  		crafting_template="B2_TwoHandedMace">
+    	<Pieces>
+      		<Piece 
+      			id="b3_chaos_lord_2h_mace_head_chs" 
+      			Type="Blade"/>
+      		<Piece 
+      			id="b3_chaos_lord_2h_mace_handle" 
+      			Type="Handle"/>
+    	</Pieces>
+  	</CraftedItem>
+  	<CraftedItem 
+  		id="rp_chaos_lord_2h_mace_cht" 
+  		name="Runed Chaos Warhammer" 
+  		crafting_template="B2_TwoHandedMace">
+    	<Pieces>
+      		<Piece 
+      			id="b3_chaos_lord_2h_mace_head_cht" 
       			Type="Blade"/>
       		<Piece 
       			id="b3_chaos_lord_2h_mace_handle" 
@@ -231,6 +387,45 @@
 	      		Type="Handle"/>
 	    </Pieces>
 	 </CraftedItem>
+	 <CraftedItem 
+	 	id="rp_chaos_lord_2h_axe_chn" 
+	 	name="Runed Chaos Great Axe" 
+	 	crafting_template="B2_TwoHandedAxe">
+	    <Pieces>
+	      	<Piece 
+	      		id="b3_chaos_lord_2h_axe_blade_chn" 
+	      		Type="Blade"/>
+	      	<Piece 
+	      		id="b3_chaos_lord_2h_axe_handle" 
+	      		Type="Handle"/>
+	    </Pieces>
+	 </CraftedItem>
+	 <CraftedItem 
+	 	id="rp_chaos_lord_2h_axe_chs" 
+	 	name="Runed Chaos Great Axe" 
+	 	crafting_template="B2_TwoHandedAxe">
+	    <Pieces>
+	      	<Piece 
+	      		id="b3_chaos_lord_2h_axe_blade_chs" 
+	      		Type="Blade"/>
+	      	<Piece 
+	      		id="b3_chaos_lord_2h_axe_handle" 
+	      		Type="Handle"/>
+	    </Pieces>
+	 </CraftedItem>
+	 <CraftedItem 
+	 	id="rp_chaos_lord_2h_axe_cht" 
+	 	name="Runed Chaos Great Axe" 
+	 	crafting_template="B2_TwoHandedAxe">
+	    <Pieces>
+	      	<Piece 
+	      		id="b3_chaos_lord_2h_axe_blade_cht" 
+	      		Type="Blade"/>
+	      	<Piece 
+	      		id="b3_chaos_lord_2h_axe_handle" 
+	      		Type="Handle"/>
+	    </Pieces>
+	 </CraftedItem>
 	 <!--POLEARM-->
 	 <CraftedItem 
 	 	id="rp_chaos_lord_glaive" 
@@ -239,6 +434,45 @@
 	    <Pieces>
 	      	<Piece 
 	      		id="b3_chaos_lord_glaive_head" 
+	      		Type="Blade"/>
+	      	<Piece 
+	      		id="b3_chaos_lord_glaive_handle" 
+	      		Type="Handle"/>
+	    </Pieces>
+	 </CraftedItem>
+	 <CraftedItem 
+	 	id="rp_chaos_lord_glaive_chn" 
+	 	name="Runed Chaos Glaive" 
+	 	crafting_template="B2_TwoHandedPolearm_NoHorseStop">
+	    <Pieces>
+	      	<Piece 
+	      		id="b3_chaos_lord_glaive_head_chn" 
+	      		Type="Blade"/>
+	      	<Piece 
+	      		id="b3_chaos_lord_glaive_handle" 
+	      		Type="Handle"/>
+	    </Pieces>
+	 </CraftedItem>
+	 <CraftedItem 
+	 	id="rp_chaos_lord_glaive_chs" 
+	 	name="Runed Chaos Glaive" 
+	 	crafting_template="B2_TwoHandedPolearm_NoHorseStop">
+	    <Pieces>
+	      	<Piece 
+	      		id="b3_chaos_lord_glaive_head_chs" 
+	      		Type="Blade"/>
+	      	<Piece 
+	      		id="b3_chaos_lord_glaive_handle" 
+	      		Type="Handle"/>
+	    </Pieces>
+	 </CraftedItem>
+	 <CraftedItem 
+	 	id="rp_chaos_lord_glaive_cht" 
+	 	name="Runed Chaos Glaive" 
+	 	crafting_template="B2_TwoHandedPolearm_NoHorseStop">
+	    <Pieces>
+	      	<Piece 
+	      		id="b3_chaos_lord_glaive_head_cht" 
 	      		Type="Blade"/>
 	      	<Piece 
 	      		id="b3_chaos_lord_glaive_handle" 

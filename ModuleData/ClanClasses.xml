@@ -1522,12 +1522,12 @@
       <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
-      <equipment id="rp_chaos_lord_1h_sword"/>
-      <equipment id="rp_chaos_lord_1h_mace"/>
-      <equipment id="rp_chaos_lord_glaive"/>
-      <equipment id="rp_chaos_lord_2h_sword"/>
-      <equipment id="rp_chaos_lord_2h_mace"/>
-      <equipment id="rp_chaos_lord_2h_axe"/>
+      <equipment id="rp_chaos_lord_1h_sword_chn"/>
+      <equipment id="rp_chaos_lord_1h_mace_chn"/>
+      <equipment id="rp_chaos_lord_glaive_chn"/>
+      <equipment id="rp_chaos_lord_2h_sword_chn"/>
+      <equipment id="rp_chaos_lord_2h_mace_chn"/>
+      <equipment id="rp_chaos_lord_2h_axe_chn"/>
     </Weapon0>
     <Head>
       <equipment id="rp_chosen_head_chn"/>
@@ -1789,12 +1789,12 @@
       <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
-      <equipment id="rp_chaos_lord_1h_sword"/>
-      <equipment id="rp_chaos_lord_1h_mace"/>
-      <equipment id="rp_chaos_lord_glaive" disablerandomize="true" disablegroup="Weapon1"/>
-      <equipment id="rp_chaos_lord_2h_sword" disablerandomize="true" disablegroup="Weapon1"/>
-      <equipment id="rp_chaos_lord_2h_mace" disablerandomize="true" disablegroup="Weapon1"/>
-      <equipment id="rp_chaos_lord_2h_axe" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_lord_1h_sword_chn"/>
+      <equipment id="rp_chaos_lord_1h_mace_chn"/>
+      <equipment id="rp_chaos_lord_glaive_chn" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_lord_2h_sword_chn" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_lord_2h_mace_chn" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_lord_2h_axe_chn" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="rp_warrior_shield_chn_v1"/>
@@ -2132,12 +2132,12 @@
       <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
-      <equipment id="rp_chaos_lord_1h_sword"/>
-      <equipment id="rp_chaos_lord_1h_mace"/>
-      <equipment id="rp_chaos_lord_glaive"/>
-      <equipment id="rp_chaos_lord_2h_sword"/>
-      <equipment id="rp_chaos_lord_2h_mace"/>
-      <equipment id="rp_chaos_lord_2h_axe"/>
+      <equipment id="rp_chaos_lord_1h_sword_chs"/>
+      <equipment id="rp_chaos_lord_1h_mace_chs"/>
+      <equipment id="rp_chaos_lord_glaive_chs"/>
+      <equipment id="rp_chaos_lord_2h_sword_chs"/>
+      <equipment id="rp_chaos_lord_2h_mace_chs"/>
+      <equipment id="rp_chaos_lord_2h_axe_chs"/>
     </Weapon0>
     <Head>
       <equipment id="rp_chosen_head_chs"/>
@@ -2399,12 +2399,12 @@
       <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
-      <equipment id="rp_chaos_lord_1h_sword"/>
-      <equipment id="rp_chaos_lord_1h_mace"/>
-      <equipment id="rp_chaos_lord_glaive" disablerandomize="true" disablegroup="Weapon1"/>
-      <equipment id="rp_chaos_lord_2h_sword" disablerandomize="true" disablegroup="Weapon1"/>
-      <equipment id="rp_chaos_lord_2h_mace" disablerandomize="true" disablegroup="Weapon1"/>
-      <equipment id="rp_chaos_lord_2h_axe" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_lord_1h_sword_chs"/>
+      <equipment id="rp_chaos_lord_1h_mace_chs"/>
+      <equipment id="rp_chaos_lord_glaive_chs" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_lord_2h_sword_chs" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_lord_2h_mace_chs" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_lord_2h_axe_chs" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="rp_warrior_shield_chs_v1"/>
@@ -2742,12 +2742,12 @@
       <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
-      <equipment id="rp_chaos_lord_1h_sword"/>
-      <equipment id="rp_chaos_lord_1h_mace"/>
-      <equipment id="rp_chaos_lord_glaive"/>
-      <equipment id="rp_chaos_lord_2h_sword"/>
-      <equipment id="rp_chaos_lord_2h_mace"/>
-      <equipment id="rp_chaos_lord_2h_axe"/>
+      <equipment id="rp_chaos_lord_1h_sword_cht"/>
+      <equipment id="rp_chaos_lord_1h_mace_cht"/>
+      <equipment id="rp_chaos_lord_glaive_cht"/>
+      <equipment id="rp_chaos_lord_2h_sword_cht"/>
+      <equipment id="rp_chaos_lord_2h_mace_cht"/>
+      <equipment id="rp_chaos_lord_2h_axe_cht"/>
     </Weapon0>
     <Head>
       <equipment id="rp_chosen_head_cht"/>
@@ -3009,12 +3009,12 @@
       <WeaponGroup id="human_infantry_default"/>
     </UsableWeaponGroups>
     <Weapon0>
-      <equipment id="rp_chaos_lord_1h_sword"/>
-      <equipment id="rp_chaos_lord_1h_mace"/>
-      <equipment id="rp_chaos_lord_glaive" disablerandomize="true" disablegroup="Weapon1"/>
-      <equipment id="rp_chaos_lord_2h_sword" disablerandomize="true" disablegroup="Weapon1"/>
-      <equipment id="rp_chaos_lord_2h_mace" disablerandomize="true" disablegroup="Weapon1"/>
-      <equipment id="rp_chaos_lord_2h_axe" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_lord_1h_sword_cht"/>
+      <equipment id="rp_chaos_lord_1h_mace_cht"/>
+      <equipment id="rp_chaos_lord_glaive_cht" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_lord_2h_sword_cht" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_lord_2h_mace_cht" disablerandomize="true" disablegroup="Weapon1"/>
+      <equipment id="rp_chaos_lord_2h_axe_cht" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
       <equipment id="rp_warrior_shield_cht_v1"/>
