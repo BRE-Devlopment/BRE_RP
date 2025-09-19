@@ -10,7 +10,7 @@
     mpclassdivision="infantry_troll_l57351_1000hp"
     id="placeholder.co">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="troll"/>
     </UsableWeaponGroups>
     <SpellCasting
       max_mana="30.0"
@@ -35,7 +35,7 @@
     mpclassdivision="infantry_human_150hp"
     id="chaos_cultist.chu">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
@@ -90,7 +90,7 @@
     mpclassdivision="infantry_human_150hp"
     id="chaos_cultist_sergeant.chu">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
@@ -138,7 +138,7 @@
     premade_bodyproperties="marauder"
     id="chaos_marauder.chu">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_marauder_1h_sword"/>
@@ -192,7 +192,7 @@
     selection_screen_character_size="1.06"
     id="chaos_marauder_chieftain.chu">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_marauder_1h_sword"/>
@@ -238,7 +238,7 @@
     selection_screen_character_size="1.19"
     id="chaos_warrior.chu">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="chaos_warrior"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_warrior_1h_sword"/>
@@ -300,7 +300,7 @@
     selection_screen_character_size="1.265"
     id="chaos_chosen.chu">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="chaos_warrior"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_lord_1h_sword"/>
@@ -335,7 +335,8 @@
     mpclassdivision="archer_human_150hp"
     id="chaos_cultist_archer.chu">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="human_archer"/>
+      <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow"/>
@@ -385,7 +386,7 @@
     premade_bodyproperties="marauder"
     id="chaos_marauder_horseman.chu">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_marauder_throwing_spear"/>
@@ -444,7 +445,7 @@
     selection_screen_character_size="1.06"
     id="chaos_mounted_marauder_chieftain.chu">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_marauder_throwing_spear"/>
@@ -499,7 +500,7 @@
     selection_screen_character_size="1.19"
     id="chaos_knight.chu">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="chaos_warrior"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_warrior_1h_sword"/>
@@ -567,7 +568,7 @@
     selection_screen_character_size="1.4"
     id="chaos_lord.chu">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="chaos_warrior"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_lord_1h_sword"/>
@@ -620,7 +621,7 @@
     selection_screen_character_size="2.0"
     id="troll.chu">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="troll"/>
     </UsableWeaponGroups>
     <SpellCasting
       max_mana="30.0"
@@ -645,7 +646,7 @@
     mpclassdivision="infantry_human_150hp"
     id="chaos_cultist.chk">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
@@ -700,7 +701,7 @@
     mpclassdivision="infantry_human_150hp"
     id="chaos_cultist_sergeant.chk">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
@@ -748,7 +749,7 @@
     premade_bodyproperties="marauder"
     id="chaos_marauder.chk">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_marauder_1h_sword"/>
@@ -802,7 +803,7 @@
     selection_screen_character_size="1.06"
     id="chaos_marauder_chieftain.chk">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_marauder_1h_sword"/>
@@ -848,7 +849,7 @@
     selection_screen_character_size="1.19"
     id="chaos_warrior.chk">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="chaos_warrior"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_warrior_1h_sword"/>
@@ -910,7 +911,7 @@
     selection_screen_character_size="1.265"
     id="chaos_chosen.chk">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="chaos_warrior"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_lord_1h_sword"/>
@@ -945,7 +946,8 @@
     mpclassdivision="archer_human_150hp"
     id="chaos_cultist_archer.chk">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="human_archer"/>
+      <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow"/>
@@ -995,7 +997,7 @@
     premade_bodyproperties="marauder"
     id="chaos_marauder_horseman.chk">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_marauder_throwing_spear"/>
@@ -1054,7 +1056,7 @@
     selection_screen_character_size="1.06"
     id="chaos_mounted_marauder_chieftain.chk">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_marauder_throwing_spear"/>
@@ -1109,7 +1111,7 @@
     selection_screen_character_size="1.19"
     id="chaos_knight.chk">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="chaos_warrior"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_warrior_1h_sword"/>
@@ -1177,7 +1179,7 @@
     selection_screen_character_size="1.4"
     id="chaos_lord.chk">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="chaos_warrior"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_lord_1h_sword"/>
@@ -1230,7 +1232,7 @@
     selection_screen_character_size="2.0"
     id="troll.chk">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="troll"/>
     </UsableWeaponGroups>
     <SpellCasting
       max_mana="30.0"
@@ -1255,7 +1257,7 @@
     mpclassdivision="infantry_human_150hp"
     id="chaos_cultist.chn">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
@@ -1310,7 +1312,7 @@
     mpclassdivision="infantry_human_150hp"
     id="chaos_cultist_sergeant.chn">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
@@ -1358,7 +1360,7 @@
     premade_bodyproperties="marauder"
     id="chaos_marauder.chn">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_marauder_1h_sword"/>
@@ -1412,7 +1414,7 @@
     selection_screen_character_size="1.06"
     id="chaos_marauder_chieftain.chn">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_marauder_1h_sword"/>
@@ -1458,7 +1460,7 @@
     selection_screen_character_size="1.19"
     id="chaos_warrior.chn">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="chaos_warrior"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_warrior_1h_sword"/>
@@ -1520,7 +1522,7 @@
     selection_screen_character_size="1.265"
     id="chaos_chosen.chn">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="chaos_warrior"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_lord_1h_sword_chn"/>
@@ -1555,7 +1557,8 @@
     mpclassdivision="archer_human_150hp"
     id="chaos_cultist_archer.chn">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="human_archer"/>
+      <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow"/>
@@ -1605,7 +1608,7 @@
     premade_bodyproperties="marauder"
     id="chaos_marauder_horseman.chn">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_marauder_throwing_spear"/>
@@ -1664,7 +1667,7 @@
     selection_screen_character_size="1.06"
     id="chaos_mounted_marauder_chieftain.chn">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_marauder_throwing_spear"/>
@@ -1719,7 +1722,7 @@
     selection_screen_character_size="1.19"
     id="chaos_knight.chn">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="chaos_warrior"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_warrior_1h_sword"/>
@@ -1787,7 +1790,7 @@
     selection_screen_character_size="1.4"
     id="chaos_lord.chn">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="chaos_warrior"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_lord_1h_sword_chn"/>
@@ -1840,7 +1843,7 @@
     selection_screen_character_size="2.0"
     id="troll.chn">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="troll"/>
     </UsableWeaponGroups>
     <SpellCasting
       max_mana="30.0"
@@ -1865,7 +1868,7 @@
     mpclassdivision="infantry_human_150hp"
     id="chaos_cultist.chs">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
@@ -1920,7 +1923,7 @@
     mpclassdivision="infantry_human_150hp"
     id="chaos_cultist_sergeant.chs">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
@@ -1968,7 +1971,7 @@
     premade_bodyproperties="marauder"
     id="chaos_marauder.chs">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_marauder_1h_sword"/>
@@ -2022,7 +2025,7 @@
     selection_screen_character_size="1.06"
     id="chaos_marauder_chieftain.chs">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_marauder_1h_sword"/>
@@ -2068,7 +2071,7 @@
     selection_screen_character_size="1.19"
     id="chaos_warrior.chs">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="chaos_warrior"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_warrior_1h_sword"/>
@@ -2130,7 +2133,7 @@
     selection_screen_character_size="1.265"
     id="chaos_chosen.chs">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="chaos_warrior"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_lord_1h_sword_chs"/>
@@ -2165,7 +2168,8 @@
     mpclassdivision="archer_human_150hp"
     id="chaos_cultist_archer.chs">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="human_archer"/>
+      <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow"/>
@@ -2215,7 +2219,7 @@
     premade_bodyproperties="marauder"
     id="chaos_marauder_horseman.chs">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_marauder_throwing_spear"/>
@@ -2274,7 +2278,7 @@
     selection_screen_character_size="1.06"
     id="chaos_mounted_marauder_chieftain.chs">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_marauder_throwing_spear"/>
@@ -2329,7 +2333,7 @@
     selection_screen_character_size="1.19"
     id="chaos_knight.chs">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="chaos_warrior"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_warrior_1h_sword"/>
@@ -2397,7 +2401,7 @@
     selection_screen_character_size="1.4"
     id="chaos_lord.chs">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="chaos_warrior"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_lord_1h_sword_chs"/>
@@ -2450,7 +2454,7 @@
     selection_screen_character_size="2.0"
     id="troll.chs">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="troll"/>
     </UsableWeaponGroups>
     <SpellCasting
       max_mana="30.0"
@@ -2475,7 +2479,7 @@
     mpclassdivision="infantry_human_150hp"
     id="chaos_cultist.cht">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
@@ -2530,7 +2534,7 @@
     mpclassdivision="infantry_human_150hp"
     id="chaos_cultist_sergeant.cht">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="b2_peasant_spear"/>
@@ -2578,7 +2582,7 @@
     premade_bodyproperties="marauder"
     id="chaos_marauder.cht">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_marauder_1h_sword"/>
@@ -2632,7 +2636,7 @@
     selection_screen_character_size="1.06"
     id="chaos_marauder_chieftain.cht">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_marauder_1h_sword"/>
@@ -2678,7 +2682,7 @@
     selection_screen_character_size="1.19"
     id="chaos_warrior.cht">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="chaos_warrior"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_warrior_1h_sword"/>
@@ -2740,7 +2744,7 @@
     selection_screen_character_size="1.265"
     id="chaos_chosen.cht">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="chaos_warrior"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_lord_1h_sword_cht"/>
@@ -2775,7 +2779,8 @@
     mpclassdivision="archer_human_150hp"
     id="chaos_cultist_archer.cht">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="human_archer"/>
+      <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="sp_cheap_bow"/>
@@ -2825,7 +2830,7 @@
     premade_bodyproperties="marauder"
     id="chaos_marauder_horseman.cht">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_marauder_throwing_spear"/>
@@ -2884,7 +2889,7 @@
     selection_screen_character_size="1.06"
     id="chaos_mounted_marauder_chieftain.cht">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_marauder_throwing_spear"/>
@@ -2939,7 +2944,7 @@
     selection_screen_character_size="1.19"
     id="chaos_knight.cht">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="chaos_warrior"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_warrior_1h_sword"/>
@@ -3007,7 +3012,7 @@
     selection_screen_character_size="1.4"
     id="chaos_lord.cht">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="chaos_warrior"/>
     </UsableWeaponGroups>
     <Weapon0>
       <equipment id="rp_chaos_lord_1h_sword_cht"/>
@@ -3060,7 +3065,7 @@
     selection_screen_character_size="2.0"
     id="troll.cht">
     <UsableWeaponGroups>
-      <WeaponGroup id="human_infantry_default"/>
+      <WeaponGroup id="troll"/>
     </UsableWeaponGroups>
     <SpellCasting
       max_mana="30.0"

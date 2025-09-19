@@ -3986,7 +3986,7 @@
   <Item
     id="rp_chosen_gloves_chu"
     name="Chaos Chosen's Gauntlets"
-    mesh="bre_chaos_chosen_undivided_gauntlets"
+    mesh="bre_chaos_chosen_undivided_gauntlets_v3"
     subtype="body_armor" 
     culture="Culture.neutral_culture"
     weight="0"
@@ -4002,7 +4002,7 @@
   <Item
     id="rp_chosen_gloves_chk"
     name="Chaos Chosen's Gauntlets"
-    mesh="bre_chaos_chosen_khorne_gauntlets"
+    mesh="bre_chaos_chosen_khorne_gauntlets_v3"
     subtype="body_armor" 
     culture="Culture.neutral_culture"
     weight="0"
@@ -4018,7 +4018,7 @@
   <Item
     id="rp_chosen_gloves_chn"
     name="Chaos Chosen's Gauntlets"
-    mesh="bre_chaos_chosen_nurgle_gauntlets"
+    mesh="bre_chaos_chosen_nurgle_gauntlets_v3"
     subtype="body_armor" 
     culture="Culture.neutral_culture"
     weight="0"
@@ -4034,7 +4034,7 @@
   <Item
     id="rp_chosen_gloves_chs"
     name="Chaos Chosen's Gauntlets"
-    mesh="bre_chaos_chosen_slaanesh_gauntlets"
+    mesh="bre_chaos_chosen_slaanesh_gauntlets_v3"
     subtype="body_armor" 
     culture="Culture.neutral_culture"
     weight="0"
@@ -4050,7 +4050,7 @@
   <Item
     id="rp_chosen_gloves_cht"
     name="Chaos Chosen's Gauntlets"
-    mesh="bre_chaos_chosen_tzeentch_gauntlets"
+    mesh="bre_chaos_chosen_tzeentch_gauntlets_v3"
     subtype="body_armor" 
     culture="Culture.neutral_culture"
     weight="0"

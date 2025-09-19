@@ -7,6 +7,12 @@
       <SpriteSheetCount>1</SpriteSheetCount>
       <SpriteSheetSize ID="1" Width="512" Height="1024" />
     </SpriteCategory>
+    <SpriteCategory>
+      <Name>ui_fullscreens_rp</Name>
+      <AlwaysLoad />
+      <SpriteSheetCount>1</SpriteSheetCount>
+      <SpriteSheetSize ID="1" Width="1920" Height="1080" />
+    </SpriteCategory>
   </SpriteCategories>
   <SpriteParts>
     <SpritePart>
@@ -72,8 +78,38 @@
       <SheetY>0</SheetY>
       <CategoryName>ui_bremission_rp</CategoryName>
     </SpritePart>
+    <SpritePart>
+      <SheetID>1</SheetID>
+      <Name>background_chaos</Name>
+      <Width>1920</Width>
+      <Height>1080</Height>
+      <SheetX>0</SheetX>
+      <SheetY>0</SheetY>
+      <CategoryName>ui_fullscreens_rp</CategoryName>
+    </SpritePart>
   </SpriteParts>
   <Sprites>
+    <GenericSprite>
+      <Name>background_1</Name>
+      <SpritePartName>background_chaos</SpritePartName>
+    </GenericSprite>
+    <GenericSprite>
+      <Name>background_2</Name>
+      <SpritePartName>background_chaos</SpritePartName>
+    </GenericSprite>
+    <GenericSprite>
+      <Name>background_3</Name>
+      <SpritePartName>background_chaos</SpritePartName>
+    </GenericSprite>
+    <GenericSprite>
+      <Name>background_4</Name>
+      <SpritePartName>background_chaos</SpritePartName>
+    </GenericSprite>
+    <GenericSprite>
+      <Name>loading_01</Name>
+      <SpritePartName>background_chaos</SpritePartName>
+    </GenericSprite>
+
     <GenericSprite>
       <Name>BREHud\minibanner\chk</Name>
       <SpritePartName>BREHud\minibanner\chk</SpritePartName>
