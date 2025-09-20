@@ -194,6 +194,17 @@
 		<Weapon id="b3_order_grand_prior_2h_mace"/>
 		<Weapon id="woc_sword"/>
 		<Weapon id="b3_banner_he"/>
+		<Weapon id="b3_graveguard_sword_1H"/>
+		<Weapon id="b3_graveguard_mace"/>
+		<Weapon id="b3_graveguard_axe"/>
+		<Weapon id="b3_graveguard_polearm"/>
+		<Weapon id="b3_graveguard_2h_sword"/>
+		<Weapon id="b3_moussillon_graveguard_tower_shield_v1"/>
+		<Weapon id="b3_moussillon_graveguard_tower_shield_v2"/>
+		<Weapon id="b3_moussillon_graveguard_tower_shield_v3"/>
+		<Weapon id="b3_castagne_graveguard_tower_shield_v1"/>
+		<Weapon id="b3_castagne_graveguard_tower_shield_v2"/>
+		<Weapon id="b3_castagne_graveguard_tower_shield_v3"/>
 
 		<Weapon id="b3_tower_shield1_co"/>
 		<Weapon id="b3_tower_shield2_co"/>
@@ -392,6 +403,24 @@
 		<Weapon id="b3_knight_shield_plo"/>
 		<Weapon id="b3_plo_kerrant_sword_1h"/>
 		<Weapon id="b3_plo_kerrant_sword_2h"/>
+
+		<Weapon id="b3_tower_shield1_mou"/>
+		<Weapon id="b3_tower_shield2_mou"/>
+		<Weapon id="b3_tower_shield3_mou"/>
+		<Weapon id="b2_lance_mou"/>
+		<Weapon id="b3_grail_lance_mou"/>
+		<Weapon id="b3_knight_shield_mou"/>
+		<Weapon id="b3_mou_duke_sword_1h"/>
+		<Weapon id="b3_mou_duke_sword_2h"/>
+
+		<Weapon id="b3_tower_shield1_cas"/>
+		<Weapon id="b3_tower_shield2_cas"/>
+		<Weapon id="b3_tower_shield3_cas"/>
+		<Weapon id="b2_lance_cas"/>
+		<Weapon id="b3_grail_lance_cas"/>
+		<Weapon id="b3_knight_shield_cas"/>
+		<Weapon id="b3_cas_kotr_sword_1h"/>
+		<Weapon id="b3_cas_kotr_sword_2h"/>
 	</WeaponGroup>
 	<WeaponGroup id="human_archer">
 		<Weapon id="sp_cheap_bow"/>

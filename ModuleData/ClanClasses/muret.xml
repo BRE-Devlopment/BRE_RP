@@ -642,9 +642,9 @@
       <equipment id="null"/>
     </Head>
     <Body>
-      <equipment id="b3_kotr_body_v1_reo"/>
-      <equipment id="b3_kotr_body_v2_reo"/>
-      <equipment id="b3_kotr_body_v3_reo"/>
+      <equipment id="b3_kerrant_body_v1_reo"/>
+      <equipment id="b3_kerrant_body_v2_reo"/>
+      <equipment id="b3_kerrant_body_v3_reo"/>
     </Body>
     <Leg>
       <equipment id="b3_kerrant_leg"/>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ClanClasses>
-  <!--MAU-->
+  <!--MOU-->
   <ClanClass 
-    clan="MAU"
-    color1="FF242121"
-    color2="FF69244a"
-    banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
+    clan="MOU"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
     name="Armed peasant"
     mpclassdivision="infantry_human_150hp"
-    id="armed_peasant.mau">
+    id="armed_peasant.mou">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>
     </UsableWeaponGroups>
@@ -20,9 +20,9 @@
       <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b3_tower_shield1_mau"/>
-      <equipment id="b3_tower_shield2_mau"/>
-      <equipment id="b3_tower_shield3_mau"/>
+      <equipment id="b3_tower_shield1_mou"/>
+      <equipment id="b3_tower_shield2_mou"/>
+      <equipment id="b3_tower_shield3_mou"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -73,13 +73,13 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MAU"
-    color1="FF242121"
-    color2="FF69244a"
-    banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
+    clan="MOU"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
     name="Man at arms"
     mpclassdivision="infantry_human_200hp"
-    id="man_at_arms.mau">
+    id="man_at_arms.mou">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>
     </UsableWeaponGroups>
@@ -91,9 +91,9 @@
       <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b3_tower_shield1_mau"/>
-      <equipment id="b3_tower_shield2_mau"/>
-      <equipment id="b3_tower_shield3_mau"/>
+      <equipment id="b3_tower_shield1_mou"/>
+      <equipment id="b3_tower_shield2_mou"/>
+      <equipment id="b3_tower_shield3_mou"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -146,13 +146,13 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MAU"
-    color1="FF242121"
-    color2="FF69244a"
-    banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
+    clan="MOU"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
     name="Sergeant at arms"
     mpclassdivision="infantry_human_250hp"
-    id="sergeant_at_arms.mau">
+    id="sergeant_at_arms.mou">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>
     </UsableWeaponGroups>
@@ -165,9 +165,9 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b3_tower_shield1_mau"/>
-      <equipment id="b3_tower_shield2_mau"/>
-      <equipment id="b3_tower_shield3_mau"/>
+      <equipment id="b3_tower_shield1_mou"/>
+      <equipment id="b3_tower_shield2_mou"/>
+      <equipment id="b3_tower_shield3_mou"/>
       <equipment id="sp_banner_vlandia1" disablegroup="Weapon0" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -210,13 +210,13 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MAU"
-    color1="FF291e1d"
-    color2="FF7e335d"
-    banner="13.578.579.1536.1536.764.508.0.0.180.5016.556.556.500.500.764.764.0.0.0"
+    clan="MOU"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
     name="Captain"
     mpclassdivision="infantry_human_350hp"
-    id="captain.mau">
+    id="captain.mou">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>
     </UsableWeaponGroups>
@@ -228,9 +228,9 @@
       <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b3_tower_shield1_mau"/>
-      <equipment id="b3_tower_shield2_mau"/>
-      <equipment id="b3_tower_shield3_mau"/>
+      <equipment id="b3_tower_shield1_mou"/>
+      <equipment id="b3_tower_shield2_mou"/>
+      <equipment id="b3_tower_shield3_mou"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -295,13 +295,139 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MAU"
-    color1="FF242121"
-    color2="FF69244a"
-    banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
+    clan="MOU"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
+    name="Armiger"
+    mpclassdivision="infantry_invisible_300hp"
+    id="armiger.mou">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="b3_graveguard_sword_1H"/>
+      <equipment id="b3_graveguard_mace"/>
+      <equipment id="b3_graveguard_axe"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_moussillon_graveguard_tower_shield_v1"/>
+      <equipment id="b3_moussillon_graveguard_tower_shield_v2"/>
+      <equipment id="b3_moussillon_graveguard_tower_shield_v3"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_graveguard_polearm" />
+      <equipment id="b3_graveguard_2h_sword" />
+    </Weapon2>
+    <Head>
+      <equipment id="b3_moussillon_graveguard_armiger_helmet_v1"/>
+      <equipment id="b3_moussillon_graveguard_armiger_helmet_v1"/>
+    </Head>
+    <Body>
+      <equipment id="b3_moussillon_graveguard_armiger_torso"/>
+    </Body>
+    <Leg>
+      <equipment id="b3_graveguard_armiger_boots"/>
+    </Leg>
+    <Cape>
+      <equipment id="b3_moussillon_graveguard_armiger_shoulders"/>
+    </Cape>
+    <Gloves>
+      <equipment id="b3_graveguard_armiger_gauntlets"/>
+    </Gloves>
+  </ClanClass>
+  <ClanClass 
+    clan="MOU"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
+    name="Garde des Cryptes"
+    mpclassdivision="infantry_invisible_300hp"
+    id="guarde_des_cryptes.mou">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="b3_graveguard_sword_1H"/>
+      <equipment id="b3_graveguard_mace"/>
+      <equipment id="b3_graveguard_axe"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_moussillon_graveguard_tower_shield_v1"/>
+      <equipment id="b3_moussillon_graveguard_tower_shield_v2"/>
+      <equipment id="b3_moussillon_graveguard_tower_shield_v3"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_graveguard_polearm" />
+      <equipment id="b3_graveguard_2h_sword" />
+    </Weapon2>
+    <Head>
+      <equipment id="b3_graveguard_guarde_des_cryptes_helmet_moussillon"/>
+      <equipment id="b3_graveguard_guarde_des_cryptes_helmet_nomask_moussillon"/>
+    </Head>
+    <Body>
+      <equipment id="b3_graveguard_guarde_des_cryptes_moussillon_torso"/>
+    </Body>
+    <Leg>
+      <equipment id="b3_graveguard_guarde_des_cryptes_boots"/>
+    </Leg>
+    <Cape>
+      <equipment id="b3_graveguard_guarde_des_cryptes_shoulders"/>
+    </Cape>
+    <Gloves>
+      <equipment id="b3_graveguard_guarde_des_cryptes_gauntlets"/>
+    </Gloves>
+  </ClanClass>
+  <ClanClass 
+    clan="MOU"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
+    name="Seneschal"
+    mpclassdivision="infantry_invisible_350hp"
+    id="seneschal.mou">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="b3_graveguard_sword_1H"/>
+      <equipment id="b3_graveguard_mace"/>
+      <equipment id="b3_graveguard_axe"/>
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_moussillon_graveguard_tower_shield_v1"/>
+      <equipment id="b3_moussillon_graveguard_tower_shield_v2"/>
+      <equipment id="b3_moussillon_graveguard_tower_shield_v3"/>
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_graveguard_polearm" />
+      <equipment id="b3_graveguard_2h_sword" />
+    </Weapon2>
+    <Head>
+      <equipment id="b3_graveguard_seneschal_moussillon_helmet"/>
+      <equipment id="b3_graveguard_seneschal_moussillon_nomask_helmet"/>
+    </Head>
+    <Body>
+      <equipment id="b3_graveguard_seneschal_moussillon_torso"/>
+    </Body>
+    <Leg>
+      <equipment id="b3_graveguard_seneschal_boots"/>
+    </Leg>
+    <Cape>
+      <equipment id="b3_graveguard_seneschal_shoulders"/>
+    </Cape>
+    <Gloves>
+      <equipment id="b3_graveguard_seneschal_gauntlets"/>
+    </Gloves>
+  </ClanClass>
+  <ClanClass 
+    clan="MOU"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
     name="Archer peasant"
     mpclassdivision="archer_human_150hp"
-    id="peasant_archer.mau">
+    id="peasant_archer.mou">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>
       <WeaponGroup id="human_archer"/>
@@ -359,13 +485,13 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MAU"
-    color1="FF242121"
-    color2="FF69244a"
-    banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
+    clan="MOU"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
     name="Free archer"
     mpclassdivision="archer_human_200hp"
-    id="free_archer.mau">
+    id="free_archer.mou">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>
       <WeaponGroup id="human_archer"/>
@@ -415,13 +541,13 @@
     </Gloves>
   </ClanClass>
   <ClanClass 
-    clan="MAU"
-    color1="FF242121"
-    color2="FF69244a"
-    banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
+    clan="MOU"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
     name="Master archer"
     mpclassdivision="archer_human_250hp"
-    id="master_archer.mau">
+    id="master_archer.mou">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>
       <WeaponGroup id="human_archer"/>
@@ -473,18 +599,18 @@
     </Gloves>
   </ClanClass>
     <ClanClass 
-    clan="MAU"
-    color1="FF242121"
-    color2="FF69244a"
-    banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
+    clan="MOU"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
     name="Mounted sergeant"
     mpclassdivision="cavalry_human_250hp"
-    id="mounted_sergeant.mau">
+    id="mounted_sergeant.mou">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
-      <equipment id="b2_lance_mau"/>
+      <equipment id="b2_lance_mou"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_kite_shield_j_auto"/>
@@ -546,18 +672,18 @@
     </Horse>
   </ClanClass>
   <ClanClass
-    clan="MAU"
-    color1="FF351226"
-    color2="FF100f0d"
-    banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
+    clan="MOU"
+    color1="FF76621f"
+    color2="FF0e0f12"
+    banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
     name="Squire"
     mpclassdivision="cavalry_human_300hp"
-    id="squire.mau">
+    id="squire.mou">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
-      <equipment id="b2_lance_mau"/>
+      <equipment id="b2_lance_mou"/>
     </Weapon0>
     <Weapon1>
       <equipment id="b3_squire_kiteshield"/>
@@ -593,7 +719,7 @@
       <equipment id="b3_kerrant_gloves_dark"/>
     </Gloves>
     <HorseHarness>
-      <equipment id="b3_squire_horse_mau"/>
+      <equipment id="b3_squire_horse_mou"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </HorseHarness>
     <Horse>
@@ -607,53 +733,49 @@
     </Horse>
   </ClanClass>
   <ClanClass
-    clan="MAU"
-    color1="FF43102c"
-    color2="FF171716"
-    banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
-    name="Dreu de Maulièvre"
-    mpclassdivision="cavalry_human_400hp"
-    id="knight_of_the_realm.mau">
+    clan="MOU"
+    color1="FFdab42b"
+    color2="FF1f1a19"
+    banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
+    name="Malory de Moussillon"
+    mpclassdivision="cavalry_human2_500hp"
+    id="count.mou">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>
     </UsableWeaponGroups>
     <Weapon0>
-      <equipment id="b2_lance_mau" />
-      <equipment id="b3_kerrant_lance_mau" disablerandomize="true" />
+      <equipment id="b2_lance_mou" />
+      <equipment id="b3_grail_lance_mou" disablerandomize="true" />
     </Weapon0>
     <Weapon1>
-      <equipment id="b3_knight_shield_mau" />
+      <equipment id="b3_knight_shield_mou" />
     </Weapon1>
     <Weapon2>
-      <equipment id="b3_mau_kerrant_sword_1h" />
+      <equipment id="b3_mou_duke_sword_1h" />
       <equipment id="b2_man_mace" />
     </Weapon2>
     <Weapon3>
-      <equipment id="b3_mau_kerrant_sword_2h" />
+      <equipment id="b3_mou_duke_sword_2h" />
       <equipment id="b2_bastard_axe" />
     </Weapon3>
     <Head>
-      <equipment id="b3_head_mau"/>
-      <equipment id="null" disablerandomize="true" disablegroup="Cape"/>
+      <equipment id="b3_grail_head_mou"/>
+      <equipment id="null" disablerandomize="true"/>
     </Head>
     <Body>
-      <equipment id="b3_kotr_body_v1_mau"/>
-      <equipment id="b3_kotr_body_v2_mau"/>
-      <equipment id="b3_kotr_body_v3_mau"/>
+      <equipment id="b3_grail_body_mou"/>
     </Body>
     <Leg>
-      <equipment id="b3_kotr_leg_1"/>
-      <equipment id="b3_kotr_leg_2"/>
+      <equipment id="b3_grail_leg_mou"/>
     </Leg>
     <Cape>
-      <equipment id="b3_crest_mau" hidden="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
+      <equipment id="b3_grail_cape_mou"/>
     </Cape>
     <Gloves>
-      <equipment id="b3_kotr_gloves_1_dark"/>
+      <equipment id="b3_grail_gloves_mou"/>
     </Gloves>
     <HorseHarness>
-      <equipment id="b3_kotr_horse_mau"/>
+      <equipment id="b3_grail_horse_mou"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </HorseHarness>
     <Horse>

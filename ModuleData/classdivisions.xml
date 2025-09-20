@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <MPClassDivisions>
+  <!--BRETONNIE ALREADY REACHED LIMIT OF 16 CLASSES-->
   <!--FOR NOW ALL CLASSES WILL USE THE SAME CHARACTER IF THEY CAN STATS LIKE HP AND AP WILL BE CHANGED LATER AND PROBABLY THROUGH CODE-->
   <MPClassDivision 
     id="infantry_human_150hp"
     hero="infantry_human"
     troop="infantry_human"
     hero_idle_anim="act_vlandia_mp_sergeant_idle"
+    hero_mount_idle_anim="act_vlandia_mp_knight_mount_idle"
     troop_idle_anim="act_idle_1h_with_shield_1_left_stance"
     multiplier="1.0"
     cost="0"
@@ -34,6 +36,7 @@
     hero="infantry_human"
     troop="infantry_human"
     hero_idle_anim="act_vlandia_mp_sergeant_idle"
+    hero_mount_idle_anim="act_vlandia_mp_knight_mount_idle"
     troop_idle_anim="act_idle_1h_with_shield_1_left_stance"
     multiplier="1.0"
     cost="0"
@@ -62,6 +65,7 @@
     hero="infantry_human"
     troop="infantry_human"
     hero_idle_anim="act_vlandia_mp_sergeant_idle"
+    hero_mount_idle_anim="act_vlandia_mp_knight_mount_idle"
     troop_idle_anim="act_idle_1h_with_shield_1_left_stance"
     multiplier="1.0"
     cost="0"
@@ -90,6 +94,7 @@
     hero="infantry_human"
     troop="infantry_human"
     hero_idle_anim="act_vlandia_mp_sergeant_idle"
+    hero_mount_idle_anim="act_vlandia_mp_knight_mount_idle"
     troop_idle_anim="act_idle_1h_with_shield_1_left_stance"
     multiplier="1.0"
     cost="0"
@@ -118,6 +123,65 @@
     hero="infantry_human"
     troop="infantry_human"
     hero_idle_anim="act_vlandia_mp_sergeant_idle"
+    hero_mount_idle_anim="act_vlandia_mp_knight_mount_idle"
+    troop_idle_anim="act_idle_1h_with_shield_1_left_stance"
+    multiplier="1.0"
+    cost="0"
+    casual_cost="0"
+    battle_cost="0"
+    icon="Infantry_Heavy"
+    melee_ai="50"
+    ranged_ai="50"
+    armor="50"
+    hitpoints="350"
+    movement_speed="0.80"
+    combat_movement_speed="0.9"
+    acceleration="2.4">
+    <Perks>
+      <Perk 
+        game_mode="all"
+        name="Empty perk"
+        description="-"
+        icon="PerkToughness"
+        perk_list="1">
+      </Perk>
+    </Perks>
+  </MPClassDivision>
+  <MPClassDivision 
+    id="infantry_invisible_300hp"
+    hero="infantry_invisible"
+    troop="infantry_invisible"
+    hero_idle_anim="act_vlandia_mp_sergeant_idle"
+    hero_mount_idle_anim="act_vlandia_mp_knight_mount_idle"
+    troop_idle_anim="act_idle_1h_with_shield_1_left_stance"
+    multiplier="1.0"
+    cost="0"
+    casual_cost="0"
+    battle_cost="0"
+    icon="Infantry_Heavy"
+    melee_ai="50"
+    ranged_ai="50"
+    armor="50"
+    hitpoints="300"
+    movement_speed="0.80"
+    combat_movement_speed="0.9"
+    acceleration="2.4">
+    <Perks>
+      <Perk 
+        game_mode="all"
+        name="Empty perk"
+        description="-"
+        icon="PerkToughness"
+        perk_list="1">
+      </Perk>
+    </Perks>
+  </MPClassDivision>
+  <MPClassDivision 
+    id="infantry_invisible_350hp"
+    hero="infantry_invisible"
+    troop="infantry_invisible"
+    hero_idle_anim="act_vlandia_mp_sergeant_idle"
+    hero_mount_idle_anim="act_vlandia_mp_knight_mount_idle"
     troop_idle_anim="act_idle_1h_with_shield_1_left_stance"
     multiplier="1.0"
     cost="0"
@@ -146,6 +210,7 @@
     hero="infantry_chaos_human"
     troop="infantry_chaos_human"
     hero_idle_anim="act_vlandia_mp_sergeant_idle"
+    hero_mount_idle_anim="act_vlandia_mp_knight_mount_idle"
     troop_idle_anim="act_idle_1h_with_shield_1_left_stance"
     multiplier="1.0"
     cost="0"
@@ -174,6 +239,7 @@
     hero="infantry_chaos_warrior_l8192"
     troop="infantry_chaos_warrior_l8192"
     hero_idle_anim="act_vlandia_mp_sergeant_idle"
+    hero_mount_idle_anim="act_vlandia_mp_knight_mount_idle"
     troop_idle_anim="act_idle_1h_with_shield_1_left_stance"
     multiplier="1.0"
     cost="0"
@@ -202,6 +268,7 @@
     hero="infantry_chaos_warrior_l8192"
     troop="infantry_chaos_warrior_l8192"
     hero_idle_anim="act_vlandia_mp_sergeant_idle"
+    hero_mount_idle_anim="act_vlandia_mp_knight_mount_idle"
     troop_idle_anim="act_idle_1h_with_shield_1_left_stance"
     multiplier="1.0"
     cost="0"
@@ -230,6 +297,7 @@
     hero="archer_human"
     troop="archer_human"
     hero_idle_anim="act_vlandia_mp_sergeant_idle"
+    hero_mount_idle_anim="act_vlandia_mp_knight_mount_idle"
     troop_idle_anim="act_idle_1h_with_shield_1_left_stance"
     multiplier="1.0"
     cost="0"
@@ -277,6 +345,7 @@
     hero="archer_human"
     troop="archer_human"
     hero_idle_anim="act_vlandia_mp_sergeant_idle"
+    hero_mount_idle_anim="act_vlandia_mp_knight_mount_idle"
     troop_idle_anim="act_idle_1h_with_shield_1_left_stance"
     multiplier="1.0"
     cost="0"
@@ -324,6 +393,7 @@
     hero="archer_human"
     troop="archer_human"
     hero_idle_anim="act_vlandia_mp_sergeant_idle"
+    hero_mount_idle_anim="act_vlandia_mp_knight_mount_idle"
     troop_idle_anim="act_idle_1h_with_shield_1_left_stance"
     multiplier="1.0"
     cost="0"
@@ -371,6 +441,7 @@
     hero="archer_human"
     troop="archer_human"
     hero_idle_anim="act_vlandia_mp_sergeant_idle"
+    hero_mount_idle_anim="act_vlandia_mp_knight_mount_idle"
     troop_idle_anim="act_idle_1h_with_shield_1_left_stance"
     multiplier="1.0"
     cost="0"
@@ -418,6 +489,7 @@
     hero="archer_human"
     troop="archer_human"
     hero_idle_anim="act_vlandia_mp_sergeant_idle"
+    hero_mount_idle_anim="act_vlandia_mp_knight_mount_idle"
     troop_idle_anim="act_idle_1h_with_shield_1_left_stance"
     multiplier="1.0"
     cost="0"

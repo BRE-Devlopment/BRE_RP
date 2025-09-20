@@ -75,7 +75,6 @@
       <equipment id="b3_exalted_pilgrim_shield_3" />
     </Weapon1> 
     <Head>
-      <equipment id="b3_bre_monk_hair" />
       <equipment id="b3_battle_pilgrim_b_helmet1" />
       <equipment id="b3_battle_pilgrim_b_helmet2" />
       <equipment id="b3_battle_pilgrim_c_helmet1" />
@@ -124,7 +123,6 @@
       <equipment id="b3_exalted_pilgrim_shield_3" />
     </Weapon1> 
     <Head>
-      <equipment id="b3_bre_monk_hair" />
       <equipment id="b3_exalted_pilgrim_b_helmet1" />
       <equipment id="b3_exalted_pilgrim_b_helmet2" />
       <equipment id="b3_exalted_pilgrim_c_helmet" />
@@ -174,8 +172,6 @@
     <Head>
       <equipment id="b3_order_novice_helmet1" />
       <equipment id="b3_order_novice_helmet2" />
-      <equipment id="b3_bre_monk_hair" disablerandomize="true" />
-      <equipment id="null" disablerandomize="true" />
     </Head>
     <Body>
       <equipment id="b3_order_novice_body" />
@@ -208,15 +204,9 @@
     <Weapon1>
       <equipment id="b3_knight_shield_or_lacrimore" />
       <equipment id="b3_knight_shield_or_montjoie" />
-    </Weapon1>
-    <Weapon2>
-      <equipment id="b2_man_mace" />
-      <equipment id="null"/>      
-    </Weapon2>    
+    </Weapon1>  
     <Head>
       <equipment id="b3_order_sergeant_helmet" />
-      <equipment id="b3_bre_monk_hair" disablerandomize="true" />
-      <equipment id="null" disablerandomize="true" />
     </Head>
     <Body>
       <equipment id="b3_order_sergeant_body" />
@@ -250,8 +240,6 @@
     </Weapon1>
     <Head>
       <equipment id="b3_order_sergeant_helmet" />
-      <equipment id="b3_bre_monk_hair" disablerandomize="true" />
-      <equipment id="null" disablerandomize="true" />
     </Head>
     <Body>
       <equipment id="b3_order_sergeant_body" />

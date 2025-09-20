@@ -655,7 +655,7 @@
     </Gloves>
     <HorseHarness>
       <equipment id="b3_bag_questing_knight_caparison"/>
-      <equipment id="b3_kotr_horse_bag"/>
+      <equipment id="b3_kotr_horse_bag" disablerandomize="true" />
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </HorseHarness>
     <Horse>
