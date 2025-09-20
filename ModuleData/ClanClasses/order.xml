@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ClanClasses>
+  <!--OR-->
+  <ClanClass
+    clan="OR"
+    banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
+    color1="FF3d2f22"
+    color2="FF42261c"
+    name="Pélerin"
+    mpclassdivision="infantry_human_300hp"
+    id="pilgrim.or">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="b3_pilgrim_faussard" />
+      <equipment id="b3_pilgrim_faussard_2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" />
+      <equipment id="b2_2h_axe" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_pilgrim_shield_1" />
+      <equipment id="b3_pilgrim_shield_2" />
+      <equipment id="b3_pilgrim_shield_3" />
+    </Weapon1> 
+    <Head>
+      <equipment id="b3_bre_monk_hair" />
+      <equipment id="null" />
+    </Head>
+    <Body>
+      <equipment id="b3_pilgrim_a_body" />
+      <equipment id="b3_pilgrim_b_body" />
+      <equipment id="b3_pilgrim_c_body" />
+    </Body>
+    <Leg>
+      <equipment id="b3_pilgrim_a_boots" />
+      <equipment id="b3_pilgrim_c_boots" />
+      <equipment id="null" />
+    </Leg>
+    <Cape>
+      <equipment id="b3_pilgrim_a_shoulders" />
+      <equipment id="b3_pilgrim_b_shoulders" />
+      <equipment id="b3_pilgrim_c_shoulders" />
+      <equipment id="null" />
+    </Cape>
+    <Gloves>
+      <equipment id="b3_pilgrim_a_gloves" />
+      <equipment id="b3_pilgrim_b_gloves" />
+      <equipment id="b3_pilgrim_c_gloves" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="OR"
+    banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
+    color1="FF3d2f22"
+    color2="FF42261c"
+    name="Pélerin de bataille"
+    mpclassdivision="infantry_human_300hp"
+    id="battle_pilgrim.or">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="b3_pilgrim_faussard" />
+      <equipment id="b3_pilgrim_faussard_2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" />
+      <equipment id="b2_2h_axe" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_pilgrim_shield_1" />
+      <equipment id="b3_pilgrim_shield_2" />
+      <equipment id="b3_pilgrim_shield_3" />
+      <equipment id="b3_exalted_pilgrim_shield_1" />
+      <equipment id="b3_exalted_pilgrim_shield_2" />
+      <equipment id="b3_exalted_pilgrim_shield_3" />
+    </Weapon1> 
+    <Head>
+      <equipment id="b3_bre_monk_hair" />
+      <equipment id="b3_battle_pilgrim_b_helmet1" />
+      <equipment id="b3_battle_pilgrim_b_helmet2" />
+      <equipment id="b3_battle_pilgrim_c_helmet1" />
+      <equipment id="b3_battle_pilgrim_c_helmet2" />
+    </Head>
+    <Body>
+      <equipment id="b3_battle_pilgrim_a_body" />
+      <equipment id="b3_battle_pilgrim_b_body" />
+      <equipment id="b3_battle_pilgrim_c_body" />
+    </Body>
+    <Leg>
+      <equipment id="b3_battle_pilgrim_a_boots" />
+      <equipment id="b3_battle_pilgrim_b_boots" />
+      <equipment id="b3_battle_pilgrim_c_boots" />
+    </Leg>
+    <Cape>
+      <equipment id="b3_battle_pilgrim_a_shoulders" />
+      <equipment id="b3_battle_pilgrim_b_shoulders" />
+      <equipment id="b3_battle_pilgrim_c_shoulders" />
+    </Cape>
+    <Gloves>
+      <equipment id="b3_battle_pilgrim_a_gloves" />
+      <equipment id="b3_battle_pilgrim_c_gloves" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="OR"
+    banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
+    color1="FF3d2f22"
+    color2="FF42261c"
+    name="Pélerin exalté"
+    mpclassdivision="infantry_human_300hp"
+    id="exalted_pilgrim.or">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="b3_pilgrim_faussard" />
+      <equipment id="b3_pilgrim_faussard_2" />
+      <equipment id="b2_2h_mace" disablerandomize="true" />
+      <equipment id="b2_2h_axe" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_exalted_pilgrim_shield_1" />
+      <equipment id="b3_exalted_pilgrim_shield_2" />
+      <equipment id="b3_exalted_pilgrim_shield_3" />
+    </Weapon1> 
+    <Head>
+      <equipment id="b3_bre_monk_hair" />
+      <equipment id="b3_exalted_pilgrim_b_helmet1" />
+      <equipment id="b3_exalted_pilgrim_b_helmet2" />
+      <equipment id="b3_exalted_pilgrim_c_helmet" />
+    </Head>
+    <Body>
+      <equipment id="b3_exalted_pilgrim_a_body" />
+      <equipment id="b3_exalted_pilgrim_b_body" />
+      <equipment id="b3_exalted_pilgrim_c_body" />
+    </Body>
+    <Leg>
+      <equipment id="b3_battle_pilgrim_a_boots" />
+      <equipment id="b3_battle_pilgrim_b_boots" />
+      <equipment id="b3_battle_pilgrim_c_boots" />
+    </Leg>
+    <Cape>
+      <equipment id="b3_exalted_pilgrim_a_shoulders" />
+      <equipment id="b3_exalted_pilgrim_b_shoulders1" />
+      <equipment id="b3_exalted_pilgrim_b_shoulders2" />
+      <equipment id="b3_exalted_pilgrim_c_shoulders" />
+    </Cape>
+    <Gloves>
+      <equipment id="b3_battle_pilgrim_a_gloves" />
+      <equipment id="b3_battle_pilgrim_c_gloves" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="OR"
+    banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
+    color1="FF282b35"
+    color2="FFe8e1cf"
+    name="Frère-novice"
+    mpclassdivision="infantry_human_300hp"
+    id="brother_novice.or">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="b2_faussard" />
+      <equipment id="b2_2h_mace" />
+      <equipment id="b2_2h_axe" />
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_knight_shield_or_lacrimore" />
+      <equipment id="b3_knight_shield_or_montjoie" />
+    </Weapon1>
+    <Head>
+      <equipment id="b3_order_novice_helmet1" />
+      <equipment id="b3_order_novice_helmet2" />
+      <equipment id="b3_bre_monk_hair" disablerandomize="true" />
+      <equipment id="null" disablerandomize="true" />
+    </Head>
+    <Body>
+      <equipment id="b3_order_novice_body" />
+    </Body>
+    <Leg>
+      <equipment id="b3_order_novice_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="b3_order_novice_gloves" />
+      <equipment id="null" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="OR"
+    banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
+    color1="FF101115"
+    color2="FFe8e1cf"
+    name="Frère-serjeant"
+    mpclassdivision="infantry_human_300hp"
+    id="brother_sergeant.or">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="b2_faussard" />
+      <equipment id="b2_2h_mace" />
+      <equipment id="b2_2h_axe" />
+      <equipment id="b3_squire_sword_2h" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_knight_shield_or_lacrimore" />
+      <equipment id="b3_knight_shield_or_montjoie" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b2_man_mace" />
+      <equipment id="null"/>      
+    </Weapon2>    
+    <Head>
+      <equipment id="b3_order_sergeant_helmet" />
+      <equipment id="b3_bre_monk_hair" disablerandomize="true" />
+      <equipment id="null" disablerandomize="true" />
+    </Head>
+    <Body>
+      <equipment id="b3_order_sergeant_body" />
+    </Body>
+    <Leg>
+      <equipment id="b3_order_sergeant_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="b3_order_sergeant_gloves" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="OR"
+    banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
+    color1="FF101115"
+    color2="FFe8e1cf"
+    name="Porte-étendard"
+    mpclassdivision="infantry_human_300hp"
+    id="standard_bearer.or">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="b3_banner_or_montjoie" />
+      <equipment id="b3_banner_or_lacrimore" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b2_man_mace" />
+      <equipment id="b2_sergeant_axe" />
+      <equipment id="b2_sergeant_sword" />
+    </Weapon1>
+    <Head>
+      <equipment id="b3_order_sergeant_helmet" />
+      <equipment id="b3_bre_monk_hair" disablerandomize="true" />
+      <equipment id="null" disablerandomize="true" />
+    </Head>
+    <Body>
+      <equipment id="b3_order_sergeant_body" />
+    </Body>
+    <Leg>
+      <equipment id="b3_order_sergeant_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="b3_order_sergeant_gloves" />
+    </Gloves>
+  </ClanClass>
+  <ClanClass
+    clan="OR"
+    banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
+    color1="FF08090d"
+    color2="FFe8e1cf"
+    name="Frère-chevalier"
+    mpclassdivision="cavalry_human_350hp"
+    id="brother_knight.or">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="b2_lance_or" />
+      <equipment id="b3_kotr_lance_or" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_knight_shield_or_lacrimore" />
+      <equipment id="b3_knight_shield_or_montjoie" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_squire_sword_1h" />
+      <equipment id="b2_man_mace" />
+    </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h"/>
+      <equipment id="b2_bastard_axe" />
+    </Weapon3>
+    <Head>
+      <equipment id="b3_order_knight_helmet" />
+      <equipment id="b3_bre_monk_hair" disablerandomize="true" />
+      <equipment id="null" disablerandomize="true" />
+    </Head>
+    <Body>
+      <equipment id="b3_order_knight_body" />
+    </Body>
+    <Leg>
+      <equipment id="b3_order_knight_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="b3_order_knight_gloves" />
+    </Gloves>
+    <HorseHarness>
+      <equipment id="b3_grail_horse_or_lacrimore" />
+      <equipment id="b3_grail_horse_or_montjoie" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="rp_horse_heavy_brown"/>
+      <equipment id="rp_horse_heavy_gold" />
+      <equipment id="rp_horse_heavy_white" />
+      <equipment id="rp_horse_heavy_grey" />
+      <equipment id="rp_horse_heavy_darkgrey" />
+      <equipment id="rp_horse_heavy_black" />
+      <equipment id="null" disablegroup="HorseHarness" disablerandomize="true"/>
+    </Horse>
+  </ClanClass>
+  <ClanClass
+    clan="OR"
+    banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
+    color1="FF08090d"
+    color2="FFe8e1cf"
+    name="Commandeur"
+    mpclassdivision="cavalry_human_400hp"
+    id="commander.or">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="b2_lance_or" />
+      <equipment id="b3_kotr_lance_or" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_knight_shield_or_lacrimore" />
+      <equipment id="b3_knight_shield_or_montjoie" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_squire_sword_1h" />
+      <equipment id="b2_man_mace" />
+    </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h"/>
+      <equipment id="b2_bastard_axe" />
+    </Weapon3>   
+    <Head>
+      <equipment id="b3_order_commander_helmet" />
+      <equipment id="b3_bre_monk_hair" disablerandomize="true" />
+      <equipment id="null" disablerandomize="true" />
+    </Head>
+    <Body>
+      <equipment id="b3_order_commander_body" />
+    </Body>
+    <Leg>
+      <equipment id="b3_order_commander_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="b3_order_commander_gloves" />
+    </Gloves>
+    <HorseHarness>
+      <equipment id="b3_grail_horse_or_lacrimore" />
+      <equipment id="b3_grail_horse_or_montjoie" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="rp_horse_heavy_brown"/>
+      <equipment id="rp_horse_heavy_gold" />
+      <equipment id="rp_horse_heavy_white" />
+      <equipment id="rp_horse_heavy_grey" />
+      <equipment id="rp_horse_heavy_darkgrey" />
+      <equipment id="rp_horse_heavy_black" />
+      <equipment id="null" disablegroup="HorseHarness" disablerandomize="true"/>
+    </Horse>
+  </ClanClass>
+  <ClanClass
+    clan="OR"
+    banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
+    color1="FF08090d"
+    color2="FFe8e1cf"
+    name="Paladin"
+    mpclassdivision="cavalry_human_400hp"
+    id="paladin.or">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="b2_lance_or" />
+      <equipment id="b3_kotr_lance_or" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_knight_shield_or_lacrimore" />
+      <equipment id="b3_knight_shield_or_montjoie" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_squire_sword_1h" />
+      <equipment id="b2_man_mace" />
+    </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h"/>
+      <equipment id="b2_bastard_axe" />
+    </Weapon3>  
+    <Head>
+      <equipment id="b3_order_paladin_helmet" />
+      <equipment id="b3_bre_monk_hair" disablerandomize="true" />
+      <equipment id="null" disablerandomize="true" />
+    </Head>
+    <Body>
+      <equipment id="b3_order_paladin_body" />
+    </Body>
+    <Leg>
+      <equipment id="b3_order_paladin_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="b3_order_paladin_gloves" />
+    </Gloves>
+    <HorseHarness>
+      <equipment id="b3_grail_horse_or_lacrimore" />
+      <equipment id="b3_grail_horse_or_montjoie" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="rp_horse_heavy_brown"/>
+      <equipment id="rp_horse_heavy_gold" />
+      <equipment id="rp_horse_heavy_white" />
+      <equipment id="rp_horse_heavy_grey" />
+      <equipment id="rp_horse_heavy_darkgrey" />
+      <equipment id="rp_horse_heavy_black" />
+      <equipment id="null" disablegroup="HorseHarness" disablerandomize="true"/>
+    </Horse>
+  </ClanClass>
+  <ClanClass
+    clan="OR"
+    banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
+    color1="FF08090d"
+    color2="FFe8e1cf"
+    name="Chapelain"
+    mpclassdivision="cavalry_human_400hp"
+    id="chaplain.or">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="b2_lance_or" />
+      <equipment id="b3_kotr_lance_or" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_knight_shield_or_lacrimore" />
+      <equipment id="b3_knight_shield_or_montjoie" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_squire_sword_1h" />
+      <equipment id="b2_man_mace" />
+    </Weapon2>
+    <Weapon3>
+      <equipment id="b3_squire_sword_2h"/>
+      <equipment id="b2_bastard_axe" />
+    </Weapon3>  
+    <Head>
+      <equipment id="b3_order_chaplain_helmet" />
+      <equipment id="b3_bre_monk_hair" disablerandomize="true" />
+      <equipment id="null" disablerandomize="true" />
+    </Head>
+    <Body>
+      <equipment id="b3_order_chaplain_body" />
+    </Body>
+    <Leg>
+      <equipment id="b3_order_chaplain_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="b3_order_chaplain_gloves" />
+    </Gloves>
+    <HorseHarness>
+      <equipment id="b3_grail_horse_or_lacrimore" />
+      <equipment id="b3_grail_horse_or_montjoie" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="rp_horse_heavy_brown"/>
+      <equipment id="rp_horse_heavy_gold" />
+      <equipment id="rp_horse_heavy_white" />
+      <equipment id="rp_horse_heavy_grey" />
+      <equipment id="rp_horse_heavy_darkgrey" />
+      <equipment id="rp_horse_heavy_black" />
+      <equipment id="null" disablegroup="HorseHarness" disablerandomize="true"/>
+    </Horse>
+  </ClanClass>
+  <ClanClass
+    clan="OR"
+    banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
+    color1="FF08090d"
+    color2="FFe8e1cf"
+    name="Inquisiteur"
+    mpclassdivision="cavalry_human2_500hp"
+    id="inquisitor.or">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="b2_lance_or" />
+      <equipment id="b3_kotr_lance_or" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_knight_shield_or_inquisitor" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_squire_sword_1h" />
+      <equipment id="b2_man_mace" />
+    </Weapon2>
+    <Weapon3>
+      <equipment id="b3_order_inquisitor_2h_sword"/>
+      <equipment id="b2_bastard_axe" disablerandomize="true" />
+    </Weapon3>    
+    <Head>
+      <equipment id="b3_order_inquisitor_helmet" />
+      <equipment id="b3_bre_monk_hair" disablerandomize="true" />
+      <equipment id="null" disablerandomize="true" />
+    </Head>
+    <Body>
+      <equipment id="b3_order_inquisitor_body" />
+    </Body>
+    <Leg>
+      <equipment id="b3_order_inquisitor_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="b3_order_inquisitor_gloves" />
+    </Gloves>
+    <HorseHarness>
+      <equipment id="b3_grail_horse_or_lacrimore" />
+      <equipment id="b3_grail_horse_or_montjoie" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="rp_horse_heavy_brown"/>
+      <equipment id="rp_horse_heavy_gold" />
+      <equipment id="rp_horse_heavy_white" />
+      <equipment id="rp_horse_heavy_grey" />
+      <equipment id="rp_horse_heavy_darkgrey" />
+      <equipment id="rp_horse_heavy_black" />
+      <equipment id="null" disablegroup="HorseHarness" disablerandomize="true"/>
+    </Horse>
+  </ClanClass>
+  <ClanClass
+    clan="OR"
+    banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
+    color1="FF08090d"
+    color2="FFe8e1cf"
+    name="Grand-maître"
+    mpclassdivision="cavalry_human2_500hp"
+    id="grand_master.or">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="b2_lance_or" />
+      <equipment id="b3_kotr_lance_or" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_knight_shield_or_grand_master" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_squire_sword_1h" />
+      <equipment id="b2_man_mace" />
+    </Weapon2>
+    <Weapon3>
+      <equipment id="b3_order_grand_master_2h_sword"/>
+      <equipment id="b2_bastard_axe" disablerandomize="true" />
+    </Weapon3>     
+    <Head>
+      <equipment id="b3_order_grand_master_helmet" />
+      <equipment id="b3_bre_monk_hair" disablerandomize="true" />
+      <equipment id="null" disablerandomize="true" />
+    </Head>
+    <Body>
+      <equipment id="b3_order_grand_master_body" />
+    </Body>
+    <Leg>
+      <equipment id="b3_order_grand_master_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="b3_order_grand_master_gloves" />
+    </Gloves>
+    <HorseHarness>
+      <equipment id="b3_grail_horse_or_lacrimore" />
+      <equipment id="b3_grail_horse_or_montjoie" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="rp_horse_heavy_brown"/>
+      <equipment id="rp_horse_heavy_gold" />
+      <equipment id="rp_horse_heavy_white" />
+      <equipment id="rp_horse_heavy_grey" />
+      <equipment id="rp_horse_heavy_darkgrey" />
+      <equipment id="rp_horse_heavy_black" />
+      <equipment id="null" disablegroup="HorseHarness" disablerandomize="true"/>
+    </Horse>
+  </ClanClass>
+  <ClanClass
+    clan="OR"
+    banner="11.504.504.1536.1536.764.764.1.0.0.5008.506.506.500.500.764.764.0.0.0"
+    color1="FF08090d"
+    color2="FFe8e1cf"
+    name="Grand-prieur"
+    mpclassdivision="cavalry_human2_500hp"
+    id="grand_prior.or">
+    <UsableWeaponGroups>
+      <WeaponGroup id="human"/>
+    </UsableWeaponGroups>
+    <Weapon0>
+      <equipment id="b2_lance_or" />
+      <equipment id="b3_kotr_lance_or" disablerandomize="true" />
+    </Weapon0>
+    <Weapon1>
+      <equipment id="b3_knight_shield_or_grand_prior" />
+    </Weapon1>
+    <Weapon2>
+      <equipment id="b3_squire_sword_1h" />
+      <equipment id="b2_man_mace" />
+    </Weapon2>
+    <Weapon3>
+      <equipment id="b3_order_grand_prior_2h_mace"/>
+      <equipment id="b3_squire_sword_2h" disablerandomize="true" />
+      <equipment id="b2_bastard_axe" disablerandomize="true" />
+    </Weapon3>
+    <Head>
+      <equipment id="b3_order_grand_prior_helmet" />
+      <equipment id="b3_bre_monk_hair" disablerandomize="true" />
+      <equipment id="null" disablerandomize="true" />
+    </Head>
+    <Body>
+      <equipment id="b3_order_grand_prior_body" />
+    </Body>
+    <Leg>
+      <equipment id="b3_order_grand_prior_boots" />
+    </Leg>
+    <Gloves>
+      <equipment id="b3_order_grand_prior_gloves" />
+    </Gloves>
+    <HorseHarness>
+      <equipment id="b3_grail_horse_or_lacrimore" />
+      <equipment id="b3_grail_horse_or_montjoie" />
+      <equipment id="null" hidden="true" disablerandomize="true"/>
+    </HorseHarness>
+    <Horse>
+      <equipment id="rp_horse_heavy_brown"/>
+      <equipment id="rp_horse_heavy_gold" />
+      <equipment id="rp_horse_heavy_white" />
+      <equipment id="rp_horse_heavy_grey" />
+      <equipment id="rp_horse_heavy_darkgrey" />
+      <equipment id="rp_horse_heavy_black" />
+      <equipment id="null" disablegroup="HorseHarness" disablerandomize="true"/>
+    </Horse>
+  </ClanClass>
+</ClanClasses>

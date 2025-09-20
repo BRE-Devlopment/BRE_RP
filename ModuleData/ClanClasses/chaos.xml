@@ -1,30 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ClanClasses>
-  <!--CO-->
-  <ClanClass 
-    clan="CO"
-    color1="FFdab42b"
-    color2="FF1f1a19"
-    banner="11.2.127.1536.1536.764.764.1.0.0.160.127.127.512.512.764.764.1.0.0"
-    name="PLACEHOLDER"
-    mpclassdivision="infantry_troll_l57351_1000hp"
-    id="placeholder.co">
-    <UsableWeaponGroups>
-      <WeaponGroup id="troll"/>
-    </UsableWeaponGroups>
-    <SpellCasting
-      max_mana="30.0"
-      mana_refill_amount="0.0">
-      <Spell id="troll_vomit"/>
-      <Spell id="troll_stomp"/>
-    </SpellCasting>
-    <PassiveEffect 
-      effect="Healing"
-      intensity="0.5"/>
-    <Weapon0>
-      <equipment id="b3_chaos_troll_mace"/>
-    </Weapon0>
-  </ClanClass>
   <!--CHU-->
   <ClanClass 
     clan="CHU"
