@@ -36,7 +36,7 @@
     piece_type="Blade" 
     mesh="bre_chaos_lord_2h_sword_blade" 
     length="165.0" 
-    weight="1.25"
+    weight="0.5"
     excluded_item_usage_features="thrust">
     <BladeData 
       physics_material="metal_weapon" 
@@ -44,7 +44,7 @@
       holster_mesh="bre_chaos_warrior_2h_sword_scabbard">
       <Swing 
         damage_type="Cut" 
-        damage_factor="3.15" />
+        damage_factor="3.7" />
     </BladeData>
     <BuildData 
       piece_offset="-36.5" />
@@ -60,7 +60,7 @@
     piece_type="Blade" 
     mesh="bre_chaos_lord_2h_nurgle_sword_blade" 
     length="165.0" 
-    weight="1.25"
+    weight="0.5"
     excluded_item_usage_features="thrust">
     <BladeData 
       physics_material="metal_weapon" 
@@ -68,7 +68,7 @@
       holster_mesh="bre_chaos_warrior_2h_sword_scabbard">
       <Swing 
         damage_type="Cut" 
-        damage_factor="3.15" />
+        damage_factor="3.7" />
     </BladeData>
     <BuildData 
       piece_offset="-36.5" />
@@ -84,7 +84,7 @@
     piece_type="Blade" 
     mesh="bre_chaos_lord_2h_slaanesh_sword_blade" 
     length="165.0" 
-    weight="1.25"
+    weight="0.5"
     excluded_item_usage_features="thrust">
     <BladeData 
       physics_material="metal_weapon" 
@@ -92,7 +92,7 @@
       holster_mesh="bre_chaos_warrior_2h_sword_scabbard">
       <Swing 
         damage_type="Cut" 
-        damage_factor="3.15" />
+        damage_factor="3.7" />
     </BladeData>
     <BuildData 
       piece_offset="-36.5" />
@@ -108,7 +108,7 @@
     piece_type="Blade" 
     mesh="bre_chaos_lord_2h_tzeentch_sword_blade" 
     length="165.0" 
-    weight="1.25"
+    weight="0.5"
     excluded_item_usage_features="thrust">
     <BladeData 
       physics_material="metal_weapon" 
@@ -116,7 +116,7 @@
       holster_mesh="bre_chaos_warrior_2h_sword_scabbard">
       <Swing 
         damage_type="Cut" 
-        damage_factor="3.15" />
+        damage_factor="3.7" />
     </BladeData>
     <BuildData 
       piece_offset="-36.5" />
@@ -132,7 +132,7 @@
     piece_type="Handle" 
     mesh="bre_chaos_lord_2h_sword_guard" 
     length="110.0" 
-    weight="0.2" 
+    weight="0.25" 
     item_holster_pos_shift="0.05,0,-0.05">
     <BuildData 
       piece_offset="10.0" />
@@ -145,17 +145,17 @@
     piece_type="Blade" 
     mesh="bre_chaos_warrior_2h_sword_blade" 
     length="151.0" 
-    weight="1.25">
+    weight="0.85">
     <BladeData 
       physics_material="metal_weapon" 
       body_name="bo_sword_one_handed" 
       holster_mesh="bre_chaos_warrior_2h_sword_scabbard">
       <Thrust 
         damage_type="Pierce" 
-        damage_factor="2.9" />
+        damage_factor="2.6" />
       <Swing 
         damage_type="Cut" 
-        damage_factor="3.15" />
+        damage_factor="3.35" />
     </BladeData>
     <BuildData 
       piece_offset="-9.5" />
@@ -167,7 +167,7 @@
     piece_type="Handle" 
     mesh="bre_chaos_warrior_2h_sword_handle" 
     length="79.5" 
-    weight="0.2" 
+    weight="0.43" 
     item_holster_pos_shift="0.05,0,-0.05">
     <BuildData 
       piece_offset="-10.0"/>
