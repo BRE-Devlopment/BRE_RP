@@ -278,9 +278,9 @@
 		<Weapon id="b3_bri_duke_sword_1h"/>
 		<Weapon id="b3_bri_duke_sword_2h"/>
 
-		<Weapon id="b3_tower_shield1_fro"/>
-		<Weapon id="b3_tower_shield2_fro"/>
-		<Weapon id="b3_tower_shield3_fro"/>
+		<Weapon id="b3_tower_shield1_ala"/>
+		<Weapon id="b3_tower_shield2_ala"/>
+		<Weapon id="b3_tower_shield3_ala"/>
 		<Weapon id="b2_lance_fro"/>
 		<Weapon id="b3_kerrant_lance_fro"/>
 		<Weapon id="b3_knight_shield_ala"/>

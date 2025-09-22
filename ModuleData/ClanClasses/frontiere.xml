@@ -20,9 +20,9 @@
       <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b3_tower_shield1_fro"/>
-      <equipment id="b3_tower_shield2_fro"/>
-      <equipment id="b3_tower_shield3_fro"/>
+      <equipment id="b3_tower_shield1_ala"/>
+      <equipment id="b3_tower_shield2_ala"/>
+      <equipment id="b3_tower_shield3_ala"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -91,9 +91,9 @@
       <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b3_tower_shield1_fro"/>
-      <equipment id="b3_tower_shield2_fro"/>
-      <equipment id="b3_tower_shield3_fro"/>
+      <equipment id="b3_tower_shield1_ala"/>
+      <equipment id="b3_tower_shield2_ala"/>
+      <equipment id="b3_tower_shield3_ala"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
@@ -163,9 +163,9 @@
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b3_tower_shield1_fro"/>
-      <equipment id="b3_tower_shield2_fro"/>
-      <equipment id="b3_tower_shield3_fro"/>
+      <equipment id="b3_tower_shield1_ala"/>
+      <equipment id="b3_tower_shield2_ala"/>
+      <equipment id="b3_tower_shield3_ala"/>
       <equipment id="sp_banner_vlandia1" disablegroup="Weapon0" disablerandomize="true"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
@@ -225,9 +225,9 @@
       <equipment id="b3_peasant_polearm_4" disablerandomize="true" disablegroup="Weapon1"/>
     </Weapon0>
     <Weapon1>
-      <equipment id="b3_tower_shield1_fro"/>
-      <equipment id="b3_tower_shield2_fro"/>
-      <equipment id="b3_tower_shield3_fro"/>
+      <equipment id="b3_tower_shield1_ala"/>
+      <equipment id="b3_tower_shield2_ala"/>
+      <equipment id="b3_tower_shield3_ala"/>
       <equipment id="null" hidden="true" disablerandomize="true"/>
     </Weapon1>
     <Weapon2>
