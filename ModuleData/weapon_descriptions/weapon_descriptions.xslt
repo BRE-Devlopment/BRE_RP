@@ -91,6 +91,7 @@
       <AvailablePiece id="b3_chaos_lord_glaive_head_chn"/>
       <AvailablePiece id="b3_chaos_lord_glaive_head_chs"/>
       <AvailablePiece id="b3_chaos_lord_glaive_head_cht"/>
+      <AvailablePiece id="rpsp_spear_blade_2"/>
     </xsl:copy>
   </xsl:template>
   <xsl:template match="WeaponDescription[@id='B2_OneHandedPolearm_NoHorseStop']/AvailablePieces">
@@ -101,6 +102,13 @@
       <AvailablePiece id="b3_chaos_lord_glaive_head_chn"/>
       <AvailablePiece id="b3_chaos_lord_glaive_head_chs"/>
       <AvailablePiece id="b3_chaos_lord_glaive_head_cht"/>
+      <AvailablePiece id="rpsp_spear_blade_2"/>
+    </xsl:copy>
+  </xsl:template>
+  <xsl:template match="WeaponDescription[@id='B2_TwoHandedPolearm_Throwing']/AvailablePieces">
+    <xsl:copy>
+      <xsl:apply-templates select="@*|node()"/>
+      <AvailablePiece id="rpsp_spear_blade_2"/>
     </xsl:copy>
   </xsl:template>
 </xsl:stylesheet>

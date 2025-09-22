@@ -218,7 +218,7 @@
   		crafting_template="B2_TwoHandedPolearm_NoHorseStop">
     	<Pieces>
       		<Piece 
-      			id="sp_spear_blade_2" 
+      			id="rpsp_spear_blade_2" 
       			Type="Blade"/>
       		<Piece 
       			id="mp_spear_guard_19" 

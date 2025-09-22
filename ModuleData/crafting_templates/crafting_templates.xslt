@@ -99,6 +99,7 @@
       <UsablePiece piece_id="b3_chaos_lord_glaive_head_chn"/>
       <UsablePiece piece_id="b3_chaos_lord_glaive_head_chs"/>
       <UsablePiece piece_id="b3_chaos_lord_glaive_head_cht"/>
+      <UsablePiece piece_id="rpsp_spear_blade_2"/>
     </xsl:copy>
   </xsl:template>
 </xsl:stylesheet>

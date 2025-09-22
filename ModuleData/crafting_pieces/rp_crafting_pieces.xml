@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <CraftingPieces>
+  <!--Marauder's Spear-->
+  <CraftingPiece 
+    id="rpsp_spear_blade_2" 
+    name="Marauder spear blade" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="spear_blade_2" 
+    length="47.843" 
+    weight="0.4" 
+    excluded_item_usage_features="swing">
+    <BuildData 
+      piece_offset="-1.0" />
+    <BladeData 
+      stack_amount="3" 
+      physics_material="wood_weapon" 
+      body_name="bo_spear_b">
+      <Thrust 
+        damage_type="Pierce" 
+        damage_factor="2.6" />
+    </BladeData>
+    <Flags>
+      <Flag 
+        name="DropOnWeaponChange" 
+        type="ItemFlags"/>
+    </Flags>
+  </CraftingPiece>
+
+
   <!--Runed Chaos Great Sword-->
   <CraftingPiece 
     id="b3_chaos_lord_2h_sword_blade" 
