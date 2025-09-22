@@ -202,7 +202,7 @@
     piece_type="Blade" 
     mesh="bre_chaos_lord_1h_nurgle_sword_blade" 
     length="133.0" 
-    weight="0.87">
+    weight="0.5">
     <BuildData 
       piece_offset="-11.2"/>
     <BladeData 
@@ -224,7 +224,7 @@
     piece_type="Blade" 
     mesh="bre_chaos_lord_1h_slaanesh_sword_blade" 
     length="133.0" 
-    weight="0.87">
+    weight="0.5">
     <BuildData 
       piece_offset="-11.2"/>
     <BladeData 
@@ -246,7 +246,7 @@
     piece_type="Blade" 
     mesh="bre_chaos_lord_1h_tzeentch_sword_blade" 
     length="133.0" 
-    weight="0.87">
+    weight="0.5">
     <BuildData 
       piece_offset="-11.2"/>
     <BladeData 
@@ -676,14 +676,14 @@
     piece_type="Blade" 
     mesh="bre_chaos_lord_flail_blade" 
     length="39.92" 
-    weight="0.95"
+    weight="1.85"
     excluded_item_usage_features="thrust">
     <BladeData 
       physics_material="metal_weapon" 
       body_name="bo_mace_a">
       <Swing 
         damage_type="Blunt" 
-        damage_factor="1.65" />
+        damage_factor="2.33" />
     </BladeData>
     <BuildData
       piece_offset="67.0"/>
@@ -695,14 +695,14 @@
     piece_type="Blade" 
     mesh="bre_chaos_lord_nurgle_flail_blade" 
     length="39.92" 
-    weight="0.95"
+    weight="1.85"
     excluded_item_usage_features="thrust">
     <BladeData 
       physics_material="metal_weapon" 
       body_name="bo_mace_a">
       <Swing 
         damage_type="Blunt" 
-        damage_factor="1.65" />
+        damage_factor="2.33" />
     </BladeData>
     <BuildData
       piece_offset="67.0"/>
@@ -714,14 +714,14 @@
     piece_type="Blade" 
     mesh="bre_chaos_lord_slaanesh_flail_blade" 
     length="39.92" 
-    weight="0.95"
+    weight="1.85"
     excluded_item_usage_features="thrust">
     <BladeData 
       physics_material="metal_weapon" 
       body_name="bo_mace_a">
       <Swing 
         damage_type="Blunt" 
-        damage_factor="1.65" />
+        damage_factor="2.33" />
     </BladeData>
     <BuildData
       piece_offset="67.0"/>
@@ -733,14 +733,14 @@
     piece_type="Blade" 
     mesh="bre_chaos_lord_tzeentch_flail_blade" 
     length="39.92" 
-    weight="0.95"
+    weight="1.85"
     excluded_item_usage_features="thrust">
     <BladeData 
       physics_material="metal_weapon" 
       body_name="bo_mace_a">
       <Swing 
         damage_type="Blunt" 
-        damage_factor="1.65" />
+        damage_factor="2.33" />
     </BladeData>
     <BuildData
       piece_offset="67.0"/>
@@ -752,7 +752,7 @@
     piece_type="Handle" 
     mesh="bre_chaos_lord_flail_handle" 
     length="72.6" 
-    weight="0.40">
+    weight="0.81">
   </CraftingPiece>
   <!--Runed Chaos Glaive-->
   <CraftingPiece 
@@ -906,7 +906,7 @@
     piece_type="Blade" 
     mesh="bre_chaos_warrior_1h_flail_blade"
     length="37.4"
-    weight="0.7"
+    weight="2.0"
     excluded_item_usage_features="thrust">
     <BuildData 
       piece_offset="60.0"/>
@@ -915,7 +915,7 @@
       body_name="bo_mace_a">
       <Swing 
         damage_type="Blunt" 
-        damage_factor="1.65" />
+        damage_factor="2.0" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece 
@@ -925,7 +925,7 @@
     piece_type="Handle" 
     mesh="bre_chaos_warrior_1h_flail_handle" 
     length="67.8" 
-    weight="0.40">
+    weight="0.85">
   </CraftingPiece>
   <!--Marauders' Sword-->
   <CraftingPiece 
