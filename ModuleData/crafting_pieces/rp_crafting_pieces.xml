@@ -51,6 +51,8 @@
     <Flags>
       <Flag
         name="CanHook" />
+      <Flag
+        name="MultiplePenetration" />
     </Flags>
   </CraftingPiece>
   <CraftingPiece 
@@ -75,6 +77,8 @@
     <Flags>
       <Flag
         name="CanHook" />
+      <Flag
+        name="MultiplePenetration" />
     </Flags>
   </CraftingPiece>
   <CraftingPiece 
@@ -99,6 +103,8 @@
     <Flags>
       <Flag
         name="CanHook" />
+      <Flag
+        name="MultiplePenetration" />
     </Flags>
   </CraftingPiece>
   <CraftingPiece 
@@ -123,6 +129,8 @@
     <Flags>
       <Flag
         name="CanHook" />
+      <Flag
+        name="MultiplePenetration" />
     </Flags>
   </CraftingPiece>
   <CraftingPiece 
@@ -1055,6 +1063,8 @@
         name="CanKnockDown" />
       <Flag 
         name="CanHook" />
+      <Flag
+        name="MultiplePenetration" />
     </Flags>
   </CraftingPiece>
   <CraftingPiece 
