@@ -611,7 +611,7 @@
     mesh="bre_chaos_warrior_1h_axe_blade" 
     distance_to_next_piece="3.6" 
     distance_to_previous_piece="3.6" 
-    weight="0.7"
+    weight="0.6"
     excluded_item_usage_features="thrust">
     <BuildData 
       piece_offset="-10.4" />
@@ -622,7 +622,7 @@
       body_name="bo_axe_longer_b">
       <Swing 
         damage_type="Cut" 
-        damage_factor="3.45" />
+        damage_factor="3.7" />
     </BladeData>
     <Flags>
       <Flag 
@@ -636,7 +636,7 @@
     piece_type="Handle" 
     mesh="bre_chaos_warrior_1h_axe_handle" 
     length="97.8" 
-    weight="0.4">
+    weight="0.2">
     <BuildData 
       piece_offset="25.0" />
   </CraftingPiece>
@@ -847,7 +847,7 @@
     mesh="bre_chaos_warrior_1h_mace_head" 
     distance_to_next_piece="9.4" 
     distance_to_previous_piece="7.2" 
-    weight="0.7"
+    weight="0.76"
     excluded_item_usage_features="thrust">
     <BladeData 
       blade_length="26.4" 
@@ -856,7 +856,7 @@
       body_name="bo_axe_longer_b">
       <Swing 
         damage_type="Blunt" 
-        damage_factor="1.65" />
+        damage_factor="1.71" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece 
@@ -866,7 +866,7 @@
     piece_type="Handle" 
     mesh="bre_chaos_warrior_1h_mace_handle" 
     length="81.3" 
-    weight="0.40">
+    weight="0.85">
     <BuildData 
       piece_offset="20.0" />
   </CraftingPiece>
@@ -942,7 +942,7 @@
     mesh="bre_chaos_marauder_1h_mace_head" 
     distance_to_next_piece="5.5" 
     distance_to_previous_piece="5.3" 
-    weight="0.7"
+    weight="0.83"
     excluded_item_usage_features="thrust">
     <BladeData 
       blade_length="11.5" 
@@ -965,7 +965,7 @@
     piece_type="Handle"
     mesh="bre_chaos_marauder_1h_mace_handle" 
     length="71.0" 
-    weight="0.40">
+    weight="1.1">
     <BuildData  piece_offset="18"/>
   </CraftingPiece>
   <!--Chaos Marauders' Axe-->
@@ -975,7 +975,7 @@
     tier="2" 
     piece_type="Blade" 
     mesh="bre_chaos_marauder_1h_axe_blade" 
-    weight="0.7"
+    weight="0.85"
     distance_to_next_piece="3.14" 
     distance_to_previous_piece="2.9" 
     excluded_item_usage_features="thrust">
@@ -986,7 +986,7 @@
       body_name="bo_axe_longer_b">
       <Swing 
         damage_type="Cut" 
-        damage_factor="3.45" />
+        damage_factor="3.65" />
     </BladeData>
     <Flags>
       <Flag 
@@ -1000,7 +1000,7 @@
     piece_type="Handle"
     mesh="bre_chaos_marauder_1h_axe_handle" 
     length="72.70" 
-    weight="0.4">
+    weight="0.32">
     <BuildData 
       piece_offset="15"/>
   </CraftingPiece>
