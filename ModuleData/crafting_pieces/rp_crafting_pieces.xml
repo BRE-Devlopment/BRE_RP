@@ -314,7 +314,8 @@
     mesh="bre_chaos_lord_2h_axe_head" 
     distance_to_next_piece="19.68"
     distance_to_previous_piece="7.2"
-    weight="0.9">
+    weight="0.72"
+    excluded_item_usage_features="thrust">
     <BladeData 
       blade_length="65.3"
       blade_width="68.5"
@@ -322,10 +323,7 @@
       body_name="bo_axe_longer_b">
       <Swing 
         damage_type="Cut" 
-        damage_factor="3.40" />
-      <Thrust 
-        damage_type="Blunt" 
-        damage_factor="0.01" />
+        damage_factor="3.88" />
     </BladeData>
     <Flags>
       <Flag
@@ -342,7 +340,8 @@
     mesh="bre_chaos_lord_2h_nurgle_axe_head" 
     distance_to_next_piece="19.68"
     distance_to_previous_piece="7.2"
-    weight="0.9">
+    weight="0.72"
+    excluded_item_usage_features="thrust">
     <BladeData 
       blade_length="65.3"
       blade_width="68.5"
@@ -350,10 +349,7 @@
       body_name="bo_axe_longer_b">
       <Swing 
         damage_type="Cut" 
-        damage_factor="3.40" />
-      <Thrust 
-        damage_type="Blunt" 
-        damage_factor="0.01" />
+        damage_factor="3.88" />
     </BladeData>
     <Flags>
       <Flag
@@ -370,7 +366,8 @@
     mesh="bre_chaos_lord_2h_slaanesh_axe_head" 
     distance_to_next_piece="19.68"
     distance_to_previous_piece="7.2"
-    weight="0.9">
+    weight="0.72"
+    excluded_item_usage_features="thrust">
     <BladeData 
       blade_length="65.3"
       blade_width="68.5"
@@ -378,10 +375,7 @@
       body_name="bo_axe_longer_b">
       <Swing 
         damage_type="Cut" 
-        damage_factor="3.40" />
-      <Thrust 
-        damage_type="Blunt" 
-        damage_factor="0.01" />
+        damage_factor="3.88" />
     </BladeData>
     <Flags>
       <Flag
@@ -398,7 +392,8 @@
     mesh="bre_chaos_lord_2h_tzeentch_axe_head" 
     distance_to_next_piece="19.68"
     distance_to_previous_piece="7.2"
-    weight="0.9">
+    weight="0.72"
+    excluded_item_usage_features="thrust">
     <BladeData 
       blade_length="65.3"
       blade_width="68.5"
@@ -406,10 +401,7 @@
       body_name="bo_axe_longer_b">
       <Swing 
         damage_type="Cut" 
-        damage_factor="3.40" />
-      <Thrust 
-        damage_type="Blunt" 
-        damage_factor="0.01" />
+        damage_factor="3.88" />
     </BladeData>
     <Flags>
       <Flag
@@ -425,7 +417,7 @@
     piece_type="Handle" 
     mesh="bre_chaos_lord_2h_axe_handle" 
     length="180.0" 
-    weight="0.30" 
+    weight="0.2" 
     item_holster_pos_shift="0,0.08,-0.05">
     <BuildData 
       piece_offset="25.0" />
@@ -437,9 +429,10 @@
     tier="2" 
     piece_type="Blade" 
     mesh="bre_chaos_warrior_2h_axe_blade"
-    weight="0.9"
+    weight="0.78"
     distance_to_next_piece="40.0"
-    distance_to_previous_piece="28.0">
+    distance_to_previous_piece="28.0"
+    excluded_item_usage_features="thrust">
     <BladeData 
       blade_length="62.0"
       blade_width="62.0"
@@ -447,10 +440,7 @@
       body_name="bo_axe_longer_b">
       <Swing 
         damage_type="Cut" 
-        damage_factor="3.40" />
-      <Thrust 
-        damage_type="Blunt" 
-        damage_factor="0.01" />
+        damage_factor="3.55" />
     </BladeData>
     <Flags>
       <Flag
@@ -466,7 +456,7 @@
     piece_type="Handle" 
     mesh="bre_chaos_warrior_2h_axe_handle" 
     length="145.0" 
-    weight="0.30" 
+    weight="0.23" 
     item_holster_pos_shift="0,0.08,-0.05">
     <BuildData 
       piece_offset="23.0" />
