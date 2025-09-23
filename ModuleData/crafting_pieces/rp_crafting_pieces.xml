@@ -44,7 +44,7 @@
       holster_mesh="bre_chaos_warrior_2h_sword_scabbard">
       <Swing 
         damage_type="Cut" 
-        damage_factor="3.7" />
+        damage_factor="3.93" />
     </BladeData>
     <BuildData 
       piece_offset="-36.5" />
@@ -70,7 +70,7 @@
       holster_mesh="bre_chaos_warrior_2h_sword_scabbard">
       <Swing 
         damage_type="Cut" 
-        damage_factor="3.7" />
+        damage_factor="3.93" />
     </BladeData>
     <BuildData 
       piece_offset="-36.5" />
@@ -96,7 +96,7 @@
       holster_mesh="bre_chaos_warrior_2h_sword_scabbard">
       <Swing 
         damage_type="Cut" 
-        damage_factor="3.7" />
+        damage_factor="3.93" />
     </BladeData>
     <BuildData 
       piece_offset="-36.5" />
@@ -122,7 +122,7 @@
       holster_mesh="bre_chaos_warrior_2h_sword_scabbard">
       <Swing 
         damage_type="Cut" 
-        damage_factor="3.7" />
+        damage_factor="3.93" />
     </BladeData>
     <BuildData 
       piece_offset="-36.5" />
