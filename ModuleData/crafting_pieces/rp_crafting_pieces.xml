@@ -167,6 +167,10 @@
     </BladeData>
     <BuildData 
       piece_offset="-9.5" />
+    <Flags>
+      <Flag
+        name="MultiplePenetration" />
+    </Flags>
   </CraftingPiece>
   <CraftingPiece 
     id="b3_chaos_warrior_2h_sword_handle" 
@@ -335,6 +339,8 @@
     </BladeData>
     <Flags>
       <Flag
+        name="MultiplePenetration" />
+      <Flag
         name="BonusAgainstShield" />
       <Flag
         name="CanHook" />
@@ -360,6 +366,8 @@
         damage_factor="3.88" />
     </BladeData>
     <Flags>
+      <Flag
+        name="MultiplePenetration" />
       <Flag
         name="BonusAgainstShield" />
       <Flag
@@ -387,6 +395,8 @@
     </BladeData>
     <Flags>
       <Flag
+        name="MultiplePenetration" />
+      <Flag
         name="BonusAgainstShield" />
       <Flag
         name="CanHook" />
@@ -412,6 +422,8 @@
         damage_factor="3.88" />
     </BladeData>
     <Flags>
+      <Flag
+        name="MultiplePenetration" />
       <Flag
         name="BonusAgainstShield" />
       <Flag
@@ -452,6 +464,8 @@
     </BladeData>
     <Flags>
       <Flag
+        name="MultiplePenetration" />
+      <Flag
         name="BonusAgainstShield" />
       <Flag
         name="CanHook" />
@@ -490,6 +504,8 @@
         damage_factor="1.4" />
     </BladeData>
     <Flags>
+      <Flag
+        name="MultiplePenetration" />
       <Flag 
         name="CanCrushThrough" />
       <Flag 
@@ -518,6 +534,8 @@
         damage_factor="1.4" />
     </BladeData>
     <Flags>
+      <Flag
+        name="MultiplePenetration" />
       <Flag 
         name="CanCrushThrough" />
       <Flag 
@@ -546,6 +564,8 @@
         damage_factor="1.4" />
     </BladeData>
     <Flags>
+      <Flag
+        name="MultiplePenetration" />
       <Flag 
         name="CanCrushThrough" />
       <Flag 
@@ -574,6 +594,8 @@
         damage_factor="1.4" />
     </BladeData>
     <Flags>
+      <Flag
+        name="MultiplePenetration" />
       <Flag 
         name="CanCrushThrough" />
       <Flag 
@@ -612,6 +634,8 @@
         damage_factor="1.35" />
     </BladeData>
     <Flags>
+      <Flag
+        name="MultiplePenetration" />
       <Flag 
         name="CanCrushThrough" />
       <Flag 
@@ -773,6 +797,8 @@
     </BladeData>
     <Flags>
       <Flag
+        name="MultiplePenetration" />
+      <Flag
         name="CanHook" />
       <Flag
         name="CanDismount" />
@@ -797,6 +823,8 @@
         damage_factor="3.66" />
     </BladeData>
     <Flags>
+      <Flag
+        name="MultiplePenetration" />
       <Flag
         name="CanHook" />
       <Flag
@@ -823,6 +851,8 @@
     </BladeData>
     <Flags>
       <Flag
+        name="MultiplePenetration" />
+      <Flag
         name="CanHook" />
       <Flag
         name="CanDismount" />
@@ -847,6 +877,8 @@
         damage_factor="3.66" />
     </BladeData>
     <Flags>
+      <Flag
+        name="MultiplePenetration" />
       <Flag
         name="CanHook" />
       <Flag
