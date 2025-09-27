@@ -1097,6 +1097,9 @@
         name="CanHook" />
       <Flag
         name="MultiplePenetration" />
+      <Flag 
+        name="DropOnWeaponChange" 
+        type="ItemFlags"/>
     </Flags>
   </CraftingPiece>
   <CraftingPiece 
