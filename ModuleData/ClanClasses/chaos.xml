@@ -275,6 +275,7 @@
     premade_bodyproperties="chaos_chosen"
     selection_screen_character_size="1.265"
     mount_difficulty="1"
+    shield_damage_multiplier="1.5"
     id="chaos_chosen.chu">
     <UsableWeaponGroups>
       <WeaponGroup id="chaos_warrior"/>
@@ -546,6 +547,7 @@
     selection_screen_character_size="1.4"
     mount_difficulty="1"
     always_knocksdown="true"
+    shield_damage_multiplier="1.5"
     id="chaos_lord.chu">
     <UsableWeaponGroups>
       <WeaponGroup id="chaos_warrior"/>
@@ -899,6 +901,7 @@
     premade_bodyproperties="chaos_chosen"
     selection_screen_character_size="1.265"
     mount_difficulty="1"
+    shield_damage_multiplier="1.5"
     id="chaos_chosen.chk">
     <UsableWeaponGroups>
       <WeaponGroup id="chaos_warrior"/>
@@ -1170,6 +1173,7 @@
     selection_screen_character_size="1.4"
     mount_difficulty="1"
     always_knocksdown="true"
+    shield_damage_multiplier="1.5"
     id="chaos_lord.chk">
     <UsableWeaponGroups>
       <WeaponGroup id="chaos_warrior"/>
@@ -1523,6 +1527,7 @@
     premade_bodyproperties="chaos_chosen"
     selection_screen_character_size="1.265"
     mount_difficulty="1"
+    shield_damage_multiplier="1.5"
     id="chaos_chosen.chn">
     <UsableWeaponGroups>
       <WeaponGroup id="chaos_warrior"/>
@@ -1794,6 +1799,7 @@
     selection_screen_character_size="1.4"
     mount_difficulty="1"
     always_knocksdown="true"
+    shield_damage_multiplier="1.5"
     id="chaos_lord.chn">
     <UsableWeaponGroups>
       <WeaponGroup id="chaos_warrior"/>
@@ -2147,6 +2153,7 @@
     premade_bodyproperties="chaos_chosen"
     selection_screen_character_size="1.265"
     mount_difficulty="1"
+    shield_damage_multiplier="1.5"
     id="chaos_chosen.chs">
     <UsableWeaponGroups>
       <WeaponGroup id="chaos_warrior"/>
@@ -2418,6 +2425,7 @@
     selection_screen_character_size="1.4"
     mount_difficulty="1"
     always_knocksdown="true"
+    shield_damage_multiplier="1.5"
     id="chaos_lord.chs">
     <UsableWeaponGroups>
       <WeaponGroup id="chaos_warrior"/>
@@ -2771,6 +2779,7 @@
     premade_bodyproperties="chaos_chosen"
     selection_screen_character_size="1.265"
     mount_difficulty="1"
+    shield_damage_multiplier="1.5"
     id="chaos_chosen.cht">
     <UsableWeaponGroups>
       <WeaponGroup id="chaos_warrior"/>
@@ -3042,6 +3051,7 @@
     selection_screen_character_size="1.4"
     mount_difficulty="1"
     always_knocksdown="true"
+    shield_damage_multiplier="1.5"
     id="chaos_lord.cht">
     <UsableWeaponGroups>
       <WeaponGroup id="chaos_warrior"/>
