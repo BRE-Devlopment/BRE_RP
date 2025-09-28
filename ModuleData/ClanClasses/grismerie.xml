@@ -613,6 +613,7 @@
     banner="3.556.564.1536.1536.764.764.0.0.0.5021.557.557.500.500.764.764.0.0.0"
     name="Eustache de Grismerie"
     mpclassdivision="cavalry_human_400hp"
+    knocks_down_with_kick="true"
     id="knight_of_the_realm.grism">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>

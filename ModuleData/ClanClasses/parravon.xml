@@ -730,6 +730,7 @@
     banner="11.507.507.1536.1536.764.764.0.0.0.5023.502.502.500.500.764.764.0.0.0"
     name="Cassyon de Parravon"
     mpclassdivision="cavalry_human2_500hp"
+    knocks_down_with_kick="true"
     id="baron.par">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>

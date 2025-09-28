@@ -770,6 +770,7 @@
     banner="11.564.564.1536.1536.764.764.0.0.0.5010.565.565.500.500.764.764.0.0.0"
     name="Chilfroy d' Artenois"
     mpclassdivision="cavalry_human_350hp"
+    knocks_down_with_kick="true"
     id="knight_errant.art">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>

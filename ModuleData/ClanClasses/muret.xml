@@ -607,6 +607,7 @@
     banner="1.588.587.1536.1536.764.764.1.0.0.5028.35.35.500.500.764.764.0.0.0"
     name="Reolus de Muret"
     mpclassdivision="cavalry_human_350hp"
+    knocks_down_with_kick="true"
     id="knight_errant.reo">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>

@@ -739,6 +739,7 @@
     banner="11.554.554.1536.1536.764.764.0.0.0.5003.555.555.500.500.764.764.0.0.0"
     name="Malory de Moussillon"
     mpclassdivision="cavalry_human2_500hp"
+    knocks_down_with_kick="true"
     id="count.mou">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>

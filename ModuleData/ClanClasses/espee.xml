@@ -607,6 +607,7 @@
     banner="11.508.508.1536.1536.764.764.1.0.0.5020.502.502.512.512.764.764.1.0.0"
     name="Harland d'Espée"
     mpclassdivision="cavalry_human_350hp"
+    knocks_down_with_kick="true"
     id="knight_errant.epe">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>

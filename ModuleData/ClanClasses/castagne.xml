@@ -738,6 +738,7 @@
     banner="3.558.559.1536.1536.764.764.0.0.0.5005.559.559.500.500.764.764.0.0.0"
     name="Dangorn de Castagne"
     mpclassdivision="cavalry_human_400hp"
+    knocks_down_with_kick="true"
     id="questing_knight.cas">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>

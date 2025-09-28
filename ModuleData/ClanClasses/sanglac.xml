@@ -607,6 +607,7 @@
     banner="11.584.584.1536.1536.764.764.0.0.0.5022.567.567.500.500.764.764.0.0.0"
     name="Laudethaire de Sanglac"
     mpclassdivision="cavalry_human_350hp"
+    knocks_down_with_kick="true"
     id="knight_errant.lau">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>

@@ -725,6 +725,7 @@
     banner="11.556.556.1536.1536.764.764.0.0.0.5004.557.557.500.500.764.764.0.0.0"
     name="Theodoric de Brionne"
     mpclassdivision="cavalry_human_400hp"
+    knocks_down_with_kick="true"
     id="questing_knight.bri">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>

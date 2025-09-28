@@ -607,6 +607,7 @@
     banner="11.580.581.1536.1536.764.764.1.0.0.5017.581.581.512.512.764.764.1.0.0"
     name="Taubert de L'Anguille"
     mpclassdivision="cavalry_human_400hp"
+    knocks_down_with_kick="true"
     id="knight_of_the_realm.lan">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>

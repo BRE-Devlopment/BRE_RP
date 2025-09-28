@@ -613,6 +613,7 @@
     banner="7003.578.579.1536.1536.764.764.0.0.0.5016.556.556.500.500.764.764.0.0.0"
     name="Dreu de Maulièvre"
     mpclassdivision="cavalry_human_400hp"
+    knocks_down_with_kick="true"
     id="knight_of_the_realm.mau">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>

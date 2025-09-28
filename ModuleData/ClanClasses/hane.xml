@@ -613,6 +613,7 @@
     banner="11.589.586.1536.1536.764.764.1.0.0.5029.567.567.500.500.764.764.0.0.0"
     name="Aucassin de Hane"
     mpclassdivision="cavalry_human_350hp"
+    knocks_down_with_kick="true"
     id="knight_errant.han">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>

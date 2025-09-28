@@ -730,6 +730,7 @@
     color2="FF144ea8"
     name="Armand de Aquitanie"
     mpclassdivision="cavalry_human2_500hp"
+    knocks_down_with_kick="true"
     id="duke.aq">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>

@@ -258,6 +258,7 @@
     color2="FFe8e1cf"
     name="Frère-chevalier"
     mpclassdivision="cavalry_human_350hp"
+    knocks_down_with_kick="true"
     id="brother_knight.or">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>
@@ -314,6 +315,7 @@
     color2="FFe8e1cf"
     name="Commandeur"
     mpclassdivision="cavalry_human_400hp"
+    knocks_down_with_kick="true"
     id="commander.or">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>
@@ -370,6 +372,7 @@
     color2="FFe8e1cf"
     name="Paladin"
     mpclassdivision="cavalry_human_400hp"
+    knocks_down_with_kick="true"
     id="paladin.or">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>
@@ -426,6 +429,7 @@
     color2="FFe8e1cf"
     name="Chapelain"
     mpclassdivision="cavalry_human_400hp"
+    knocks_down_with_kick="true"
     id="chaplain.or">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>
@@ -482,6 +486,7 @@
     color2="FFe8e1cf"
     name="Inquisiteur"
     mpclassdivision="cavalry_human2_500hp"
+    knocks_down_with_kick="true"
     id="inquisitor.or">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>
@@ -537,6 +542,7 @@
     color2="FFe8e1cf"
     name="Grand-maître"
     mpclassdivision="cavalry_human2_500hp"
+    knocks_down_with_kick="true"
     id="grand_master.or">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>
@@ -592,6 +598,7 @@
     color2="FFe8e1cf"
     name="Grand-prieur"
     mpclassdivision="cavalry_human2_500hp"
+    knocks_down_with_kick="true"
     id="grand_prior.or">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>

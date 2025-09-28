@@ -607,6 +607,7 @@
     banner="11.570.571.1536.1536.764.764.1.0.0.5011.571.571.512.512.764.764.1.0.0"
     name="Roland le Maréchal"
     mpclassdivision="cavalry_human_400hp"
+    knocks_down_with_kick="true"
     id="knight_of_the_realm.mar">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>

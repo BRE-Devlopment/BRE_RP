@@ -703,6 +703,7 @@
     banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0"
     name="Louen Leoncoeur"
     mpclassdivision="cavalry_human2_500hp"
+    knocks_down_with_kick="true"
     id="king.co">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>
