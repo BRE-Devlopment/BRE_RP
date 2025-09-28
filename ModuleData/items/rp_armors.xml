@@ -3262,6 +3262,22 @@
         material_type="Plate" />
     </ItemComponent>
   </Item>
+  <Item
+    id="rp_troll_body"
+    name="Troll's Trinkets"
+    mesh="bre_chaos_troll_torso"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="false"
+        modifier_group="cloth_unarmoured"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
   <!--GLOVES-->
   <Item
     id="rp_cultist_gloves_chu_v1"

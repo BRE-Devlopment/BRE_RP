@@ -610,6 +610,10 @@
     <Weapon0>
       <equipment id="rp_chaos_troll_mace"/>
     </Weapon0>
+    <Body>
+      <equipment id="rp_troll_body"/>
+      <equipment id="null"/>
+    </Body>
   </ClanClass>
   <!--CHK-->
   <ClanClass 
@@ -1221,6 +1225,10 @@
     <Weapon0>
       <equipment id="rp_chaos_troll_mace"/>
     </Weapon0>
+    <Body>
+      <equipment id="rp_troll_body"/>
+      <equipment id="null"/>
+    </Body>
   </ClanClass>
   <!--CHN-->
   <ClanClass 
@@ -1832,6 +1840,10 @@
     <Weapon0>
       <equipment id="rp_chaos_troll_mace"/>
     </Weapon0>
+    <Body>
+      <equipment id="rp_troll_body"/>
+      <equipment id="null"/>
+    </Body>
   </ClanClass>
   <!--CHS-->
   <ClanClass 
@@ -2443,6 +2455,10 @@
     <Weapon0>
       <equipment id="rp_chaos_troll_mace"/>
     </Weapon0>
+    <Body>
+      <equipment id="rp_troll_body"/>
+      <equipment id="null"/>
+    </Body>
   </ClanClass>
   <!--CHT-->
   <ClanClass 
@@ -3054,5 +3070,9 @@
     <Weapon0>
       <equipment id="rp_chaos_troll_mace"/>
     </Weapon0>
+    <Body>
+      <equipment id="rp_troll_body"/>
+      <equipment id="null"/>
+    </Body>
   </ClanClass>
 </ClanClasses>
