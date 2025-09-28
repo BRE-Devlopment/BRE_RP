@@ -208,9 +208,10 @@
     color2="FFefede3"
     banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
     name="Chaos Warrior"
-    mpclassdivision="infantry_chaos_warrior_l8192_350hp"
+    mpclassdivision="infantry_chaos_warrior_350hp"
     premade_bodyproperties="chaos_warrior"
     selection_screen_character_size="1.19"
+    mount_difficulty="1"
     id="chaos_warrior.chu">
     <UsableWeaponGroups>
       <WeaponGroup id="chaos_warrior"/>
@@ -270,9 +271,10 @@
     color2="FFefede3"
     banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
     name="Chaos Chosen"
-    mpclassdivision="infantry_chaos_warrior_l8192_450hp"
+    mpclassdivision="infantry_chaos_warrior_450hp"
     premade_bodyproperties="chaos_chosen"
     selection_screen_character_size="1.265"
+    mount_difficulty="1"
     id="chaos_chosen.chu">
     <UsableWeaponGroups>
       <WeaponGroup id="chaos_warrior"/>
@@ -470,9 +472,10 @@
     color2="FFefede3"
     banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
     name="Chaos Knight"
-    mpclassdivision="cavalry_chaos_warrior_l8192_400hp"
+    mpclassdivision="cavalry_chaos_warrior_400hp"
     premade_bodyproperties="chaos_warrior"
     selection_screen_character_size="1.19"
+    mount_difficulty="1"
     id="chaos_knight.chu">
     <UsableWeaponGroups>
       <WeaponGroup id="chaos_warrior"/>
@@ -538,9 +541,11 @@
     color2="FFefede3"
     banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
     name="Chaos Lord"
-    mpclassdivision="cavalry_chaos_warrior_l8194_500hp"
+    mpclassdivision="cavalry_chaos_warrior2_500hp"
     premade_bodyproperties="chaos_lord"
     selection_screen_character_size="1.4"
+    mount_difficulty="1"
+    always_knocksdown="true"
     id="chaos_lord.chu">
     <UsableWeaponGroups>
       <WeaponGroup id="chaos_warrior"/>
@@ -591,9 +596,13 @@
     color2="FF1f1a19"
     banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0"
     name="Troll"
-    mpclassdivision="infantry_troll_l57351_1000hp"
+    mpclassdivision="infantry_troll_1000hp"
     premade_bodyproperties="troll"
     selection_screen_character_size="2.0"
+    always_dismounts="true"
+    always_knocksdown="true"
+    kick_resistant="true"
+    mount_difficulty="-1"
     id="troll.chu">
     <UsableWeaponGroups>
       <WeaponGroup id="troll"/>
@@ -823,9 +832,10 @@
     color2="FFefede3"
     banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0"
     name="Chaos Warrior"
-    mpclassdivision="infantry_chaos_warrior_l8192_350hp"
+    mpclassdivision="infantry_chaos_warrior_350hp"
     premade_bodyproperties="chaos_warrior"
     selection_screen_character_size="1.19"
+    mount_difficulty="1"
     id="chaos_warrior.chk">
     <UsableWeaponGroups>
       <WeaponGroup id="chaos_warrior"/>
@@ -885,9 +895,10 @@
     color2="FFefede3"
     banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0"
     name="Chaos Chosen"
-    mpclassdivision="infantry_chaos_warrior_l8192_450hp"
+    mpclassdivision="infantry_chaos_warrior_450hp"
     premade_bodyproperties="chaos_chosen"
     selection_screen_character_size="1.265"
+    mount_difficulty="1"
     id="chaos_chosen.chk">
     <UsableWeaponGroups>
       <WeaponGroup id="chaos_warrior"/>
@@ -1085,9 +1096,10 @@
     color2="FFefede3"
     banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0"
     name="Chaos Knight"
-    mpclassdivision="cavalry_chaos_warrior_l8192_400hp"
+    mpclassdivision="cavalry_chaos_warrior_400hp"
     premade_bodyproperties="chaos_warrior"
     selection_screen_character_size="1.19"
+    mount_difficulty="1"
     id="chaos_knight.chk">
     <UsableWeaponGroups>
       <WeaponGroup id="chaos_warrior"/>
@@ -1153,9 +1165,11 @@
     color2="FFefede3"
     banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0"
     name="Chaos Lord"
-    mpclassdivision="cavalry_chaos_warrior_l8194_500hp"
+    mpclassdivision="cavalry_chaos_warrior2_500hp"
     premade_bodyproperties="chaos_lord"
     selection_screen_character_size="1.4"
+    mount_difficulty="1"
+    always_knocksdown="true"
     id="chaos_lord.chk">
     <UsableWeaponGroups>
       <WeaponGroup id="chaos_warrior"/>
@@ -1206,9 +1220,13 @@
     color2="FFefede3"
     banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0"
     name="Troll"
-    mpclassdivision="infantry_troll_l57351_1000hp"
+    mpclassdivision="infantry_troll_1000hp"
     premade_bodyproperties="troll"
     selection_screen_character_size="2.0"
+    always_dismounts="true"
+    always_knocksdown="true"
+    kick_resistant="true"
+    mount_difficulty="-1"
     id="troll.chk">
     <UsableWeaponGroups>
       <WeaponGroup id="troll"/>
@@ -1438,9 +1456,10 @@
     color2="FF1f1a19"
     banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
     name="Chaos Warrior"
-    mpclassdivision="infantry_chaos_warrior_l8192_350hp"
+    mpclassdivision="infantry_chaos_warrior_350hp"
     premade_bodyproperties="chaos_warrior"
     selection_screen_character_size="1.19"
+    mount_difficulty="1"
     id="chaos_warrior.chn">
     <UsableWeaponGroups>
       <WeaponGroup id="chaos_warrior"/>
@@ -1500,9 +1519,10 @@
     color2="FF1f1a19"
     banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
     name="Chaos Chosen"
-    mpclassdivision="infantry_chaos_warrior_l8192_450hp"
+    mpclassdivision="infantry_chaos_warrior_450hp"
     premade_bodyproperties="chaos_chosen"
     selection_screen_character_size="1.265"
+    mount_difficulty="1"
     id="chaos_chosen.chn">
     <UsableWeaponGroups>
       <WeaponGroup id="chaos_warrior"/>
@@ -1700,9 +1720,10 @@
     color2="FF1f1a19"
     banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
     name="Chaos Knight"
-    mpclassdivision="cavalry_chaos_warrior_l8192_400hp"
+    mpclassdivision="cavalry_chaos_warrior_400hp"
     premade_bodyproperties="chaos_warrior"
     selection_screen_character_size="1.19"
+    mount_difficulty="1"
     id="chaos_knight.chn">
     <UsableWeaponGroups>
       <WeaponGroup id="chaos_warrior"/>
@@ -1768,9 +1789,11 @@
     color2="FF1f1a19"
     banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
     name="Chaos Lord"
-    mpclassdivision="cavalry_chaos_warrior_l8194_500hp"
+    mpclassdivision="cavalry_chaos_warrior2_500hp"
     premade_bodyproperties="chaos_lord"
     selection_screen_character_size="1.4"
+    mount_difficulty="1"
+    always_knocksdown="true"
     id="chaos_lord.chn">
     <UsableWeaponGroups>
       <WeaponGroup id="chaos_warrior"/>
@@ -1821,9 +1844,13 @@
     color2="FF1f1a19"
     banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0"
     name="Troll"
-    mpclassdivision="infantry_troll_l57351_1000hp"
+    mpclassdivision="infantry_troll_1000hp"
     premade_bodyproperties="troll"
     selection_screen_character_size="2.0"
+    always_dismounts="true"
+    always_knocksdown="true"
+    kick_resistant="true"
+    mount_difficulty="-1"
     id="troll.chn">
     <UsableWeaponGroups>
       <WeaponGroup id="troll"/>
@@ -2053,9 +2080,10 @@
     color2="FF1f1a19"
     banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
     name="Chaos Warrior"
-    mpclassdivision="infantry_chaos_warrior_l8192_350hp"
+    mpclassdivision="infantry_chaos_warrior_350hp"
     premade_bodyproperties="chaos_warrior"
     selection_screen_character_size="1.19"
+    mount_difficulty="1"
     id="chaos_warrior.chs">
     <UsableWeaponGroups>
       <WeaponGroup id="chaos_warrior"/>
@@ -2115,9 +2143,10 @@
     color2="FF1f1a19"
     banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
     name="Chaos Chosen"
-    mpclassdivision="infantry_chaos_warrior_l8192_450hp"
+    mpclassdivision="infantry_chaos_warrior_450hp"
     premade_bodyproperties="chaos_chosen"
     selection_screen_character_size="1.265"
+    mount_difficulty="1"
     id="chaos_chosen.chs">
     <UsableWeaponGroups>
       <WeaponGroup id="chaos_warrior"/>
@@ -2315,9 +2344,10 @@
     color2="FF1f1a19"
     banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
     name="Chaos Knight"
-    mpclassdivision="cavalry_chaos_warrior_l8192_400hp"
+    mpclassdivision="cavalry_chaos_warrior_400hp"
     premade_bodyproperties="chaos_warrior"
     selection_screen_character_size="1.19"
+    mount_difficulty="1"
     id="chaos_knight.chs">
     <UsableWeaponGroups>
       <WeaponGroup id="chaos_warrior"/>
@@ -2383,9 +2413,11 @@
     color2="FF1f1a19"
     banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
     name="Chaos Lord"
-    mpclassdivision="cavalry_chaos_warrior_l8194_500hp"
+    mpclassdivision="cavalry_chaos_warrior2_500hp"
     premade_bodyproperties="chaos_lord"
     selection_screen_character_size="1.4"
+    mount_difficulty="1"
+    always_knocksdown="true"
     id="chaos_lord.chs">
     <UsableWeaponGroups>
       <WeaponGroup id="chaos_warrior"/>
@@ -2436,9 +2468,13 @@
     color2="FF1f1a19"
     banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0"
     name="Troll"
-    mpclassdivision="infantry_troll_l57351_1000hp"
+    mpclassdivision="infantry_troll_1000hp"
     premade_bodyproperties="troll"
     selection_screen_character_size="2.0"
+    always_dismounts="true"
+    always_knocksdown="true"
+    kick_resistant="true"
+    mount_difficulty="-1"
     id="troll.chs">
     <UsableWeaponGroups>
       <WeaponGroup id="troll"/>
@@ -2668,9 +2704,10 @@
     color2="FF1f1a19"
     banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0"
     name="Chaos Warrior"
-    mpclassdivision="infantry_chaos_warrior_l8192_350hp"
+    mpclassdivision="infantry_chaos_warrior_350hp"
     premade_bodyproperties="chaos_warrior"
     selection_screen_character_size="1.19"
+    mount_difficulty="1"
     id="chaos_warrior.cht">
     <UsableWeaponGroups>
       <WeaponGroup id="chaos_warrior"/>
@@ -2730,9 +2767,10 @@
     color2="FF1f1a19"
     banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0"
     name="Chaos Chosen"
-    mpclassdivision="infantry_chaos_warrior_l8192_450hp"
+    mpclassdivision="infantry_chaos_warrior_450hp"
     premade_bodyproperties="chaos_chosen"
     selection_screen_character_size="1.265"
+    mount_difficulty="1"
     id="chaos_chosen.cht">
     <UsableWeaponGroups>
       <WeaponGroup id="chaos_warrior"/>
@@ -2930,9 +2968,10 @@
     color2="FF1f1a19"
     banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0"
     name="Chaos Knight"
-    mpclassdivision="cavalry_chaos_warrior_l8192_400hp"
+    mpclassdivision="cavalry_chaos_warrior_400hp"
     premade_bodyproperties="chaos_warrior"
     selection_screen_character_size="1.19"
+    mount_difficulty="1"
     id="chaos_knight.cht">
     <UsableWeaponGroups>
       <WeaponGroup id="chaos_warrior"/>
@@ -2998,9 +3037,11 @@
     color2="FF1f1a19"
     banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0"
     name="Chaos Lord"
-    mpclassdivision="cavalry_chaos_warrior_l8194_500hp"
+    mpclassdivision="cavalry_chaos_warrior2_500hp"
     premade_bodyproperties="chaos_lord"
     selection_screen_character_size="1.4"
+    mount_difficulty="1"
+    always_knocksdown="true"
     id="chaos_lord.cht">
     <UsableWeaponGroups>
       <WeaponGroup id="chaos_warrior"/>
@@ -3051,9 +3092,13 @@
     color2="FF1f1a19"
     banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0"
     name="Troll"
-    mpclassdivision="infantry_troll_l57351_1000hp"
+    mpclassdivision="infantry_troll_1000hp"
     premade_bodyproperties="troll"
     selection_screen_character_size="2.0"
+    always_dismounts="true"
+    always_knocksdown="true"
+    kick_resistant="true"
+    mount_difficulty="-1"
     id="troll.cht">
     <UsableWeaponGroups>
       <WeaponGroup id="troll"/>
