@@ -44,15 +44,13 @@
       holster_mesh="bre_chaos_warrior_2h_sword_scabbard">
       <Swing 
         damage_type="Cut" 
-        damage_factor="3.93" />
+        damage_factor="4.35" />
     </BladeData>
     <BuildData 
       piece_offset="-36.5" />
     <Flags>
       <Flag
         name="CanHook" />
-      <Flag
-        name="MultiplePenetration" />
     </Flags>
   </CraftingPiece>
   <CraftingPiece 
@@ -70,15 +68,13 @@
       holster_mesh="bre_chaos_warrior_2h_sword_scabbard">
       <Swing 
         damage_type="Cut" 
-        damage_factor="3.93" />
+        damage_factor="4.35" />
     </BladeData>
     <BuildData 
       piece_offset="-36.5" />
     <Flags>
       <Flag
         name="CanHook" />
-      <Flag
-        name="MultiplePenetration" />
     </Flags>
   </CraftingPiece>
   <CraftingPiece 
@@ -96,15 +92,13 @@
       holster_mesh="bre_chaos_warrior_2h_sword_scabbard">
       <Swing 
         damage_type="Cut" 
-        damage_factor="3.93" />
+        damage_factor="4.35" />
     </BladeData>
     <BuildData 
       piece_offset="-36.5" />
     <Flags>
       <Flag
         name="CanHook" />
-      <Flag
-        name="MultiplePenetration" />
     </Flags>
   </CraftingPiece>
   <CraftingPiece 
@@ -122,15 +116,13 @@
       holster_mesh="bre_chaos_warrior_2h_sword_scabbard">
       <Swing 
         damage_type="Cut" 
-        damage_factor="3.93" />
+        damage_factor="4.35" />
     </BladeData>
     <BuildData 
       piece_offset="-36.5" />
     <Flags>
       <Flag
         name="CanHook" />
-      <Flag
-        name="MultiplePenetration" />
     </Flags>
   </CraftingPiece>
   <CraftingPiece 
@@ -160,17 +152,13 @@
       holster_mesh="bre_chaos_warrior_2h_sword_scabbard">
       <Thrust 
         damage_type="Pierce" 
-        damage_factor="2.6" />
+        damage_factor="2.8" />
       <Swing 
         damage_type="Cut" 
-        damage_factor="3.35" />
+        damage_factor="3.55" />
     </BladeData>
     <BuildData 
       piece_offset="-9.5" />
-    <Flags>
-      <Flag
-        name="MultiplePenetration" />
-    </Flags>
   </CraftingPiece>
   <CraftingPiece 
     id="b3_chaos_warrior_2h_sword_handle" 
@@ -201,10 +189,10 @@
       holster_mesh="">
       <Thrust 
         damage_type="Pierce" 
-        damage_factor="3.2" />
+        damage_factor="3.35" />
       <Swing 
         damage_type="Cut" 
-        damage_factor="4.5" />
+        damage_factor="4.9" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece 
@@ -223,10 +211,10 @@
       holster_mesh="">
       <Thrust 
         damage_type="Pierce" 
-        damage_factor="3.2" />
+        damage_factor="3.35" />
       <Swing 
         damage_type="Cut" 
-        damage_factor="4.5" />
+        damage_factor="4.9" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece 
@@ -245,10 +233,10 @@
       holster_mesh="">
       <Thrust 
         damage_type="Pierce" 
-        damage_factor="3.2" />
+        damage_factor="3.35" />
       <Swing 
         damage_type="Cut" 
-        damage_factor="4.5" />
+        damage_factor="4.9" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece 
@@ -267,10 +255,10 @@
       holster_mesh="">
       <Thrust 
         damage_type="Pierce" 
-        damage_factor="3.2" />
+        damage_factor="3.35" />
       <Swing 
         damage_type="Cut" 
-        damage_factor="4.5" />
+        damage_factor="4.9" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece 
@@ -300,10 +288,10 @@
       holster_mesh="">
       <Thrust 
         damage_type="Pierce" 
-        damage_factor="2.8" />
+        damage_factor="3.2" />
       <Swing 
         damage_type="Cut" 
-        damage_factor="3.72" />
+        damage_factor="4.1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece 
@@ -339,8 +327,6 @@
     </BladeData>
     <Flags>
       <Flag
-        name="MultiplePenetration" />
-      <Flag
         name="BonusAgainstShield" />
       <Flag
         name="CanHook" />
@@ -366,8 +352,6 @@
         damage_factor="3.88" />
     </BladeData>
     <Flags>
-      <Flag
-        name="MultiplePenetration" />
       <Flag
         name="BonusAgainstShield" />
       <Flag
@@ -395,8 +379,6 @@
     </BladeData>
     <Flags>
       <Flag
-        name="MultiplePenetration" />
-      <Flag
         name="BonusAgainstShield" />
       <Flag
         name="CanHook" />
@@ -422,8 +404,6 @@
         damage_factor="3.88" />
     </BladeData>
     <Flags>
-      <Flag
-        name="MultiplePenetration" />
       <Flag
         name="BonusAgainstShield" />
       <Flag
@@ -464,8 +444,6 @@
     </BladeData>
     <Flags>
       <Flag
-        name="MultiplePenetration" />
-      <Flag
         name="BonusAgainstShield" />
       <Flag
         name="CanHook" />
@@ -504,12 +482,8 @@
         damage_factor="1.4" />
     </BladeData>
     <Flags>
-      <Flag
-        name="MultiplePenetration" />
       <Flag 
         name="CanCrushThrough" />
-      <Flag 
-        name="CanKnockDown" />
       <Flag
         name="CanHook" />
     </Flags>
@@ -534,12 +508,8 @@
         damage_factor="1.4" />
     </BladeData>
     <Flags>
-      <Flag
-        name="MultiplePenetration" />
       <Flag 
         name="CanCrushThrough" />
-      <Flag 
-        name="CanKnockDown" />
       <Flag
         name="CanHook" />
     </Flags>
@@ -564,12 +534,8 @@
         damage_factor="1.4" />
     </BladeData>
     <Flags>
-      <Flag
-        name="MultiplePenetration" />
       <Flag 
         name="CanCrushThrough" />
-      <Flag 
-        name="CanKnockDown" />
       <Flag
         name="CanHook" />
     </Flags>
@@ -594,12 +560,8 @@
         damage_factor="1.4" />
     </BladeData>
     <Flags>
-      <Flag
-        name="MultiplePenetration" />
       <Flag 
         name="CanCrushThrough" />
-      <Flag 
-        name="CanKnockDown" />
       <Flag
         name="CanHook" />
     </Flags>
@@ -623,7 +585,7 @@
     piece_type="Blade" 
     mesh="bre_chaos_warrior_2h_mace_head" 
     length="80.5" 
-    weight="1.0" 
+    weight="1.4" 
     full_scale="true" 
     excluded_item_usage_features="thrust">
     <BladeData 
@@ -631,15 +593,11 @@
       body_name="bo_mace_a">
       <Swing 
         damage_type="Blunt" 
-        damage_factor="1.35" />
+        damage_factor="1.4" />
     </BladeData>
     <Flags>
-      <Flag
-        name="MultiplePenetration" />
       <Flag 
         name="CanCrushThrough" />
-      <Flag 
-        name="CanKnockDown" />
     </Flags>
   </CraftingPiece>
   <CraftingPiece 
@@ -705,7 +663,7 @@
       body_name="bo_mace_a">
       <Swing 
         damage_type="Blunt" 
-        damage_factor="2.33" />
+        damage_factor="2.87" />
     </BladeData>
     <BuildData
       piece_offset="67.0"/>
@@ -724,7 +682,7 @@
       body_name="bo_mace_a">
       <Swing 
         damage_type="Blunt" 
-        damage_factor="2.33" />
+        damage_factor="2.87" />
     </BladeData>
     <BuildData
       piece_offset="67.0"/>
@@ -743,7 +701,7 @@
       body_name="bo_mace_a">
       <Swing 
         damage_type="Blunt" 
-        damage_factor="2.33" />
+        damage_factor="2.87" />
     </BladeData>
     <BuildData
       piece_offset="67.0"/>
@@ -762,7 +720,7 @@
       body_name="bo_mace_a">
       <Swing 
         damage_type="Blunt" 
-        damage_factor="2.33" />
+        damage_factor="2.87" />
     </BladeData>
     <BuildData
       piece_offset="67.0"/>
@@ -797,8 +755,6 @@
     </BladeData>
     <Flags>
       <Flag
-        name="MultiplePenetration" />
-      <Flag
         name="CanHook" />
       <Flag
         name="CanDismount" />
@@ -823,8 +779,6 @@
         damage_factor="3.66" />
     </BladeData>
     <Flags>
-      <Flag
-        name="MultiplePenetration" />
       <Flag
         name="CanHook" />
       <Flag
@@ -851,8 +805,6 @@
     </BladeData>
     <Flags>
       <Flag
-        name="MultiplePenetration" />
-      <Flag
         name="CanHook" />
       <Flag
         name="CanDismount" />
@@ -877,8 +829,6 @@
         damage_factor="3.66" />
     </BladeData>
     <Flags>
-      <Flag
-        name="MultiplePenetration" />
       <Flag
         name="CanHook" />
       <Flag
@@ -916,10 +866,6 @@
         damage_type="Blunt" 
         damage_factor="1.71" />
     </BladeData>
-    <Flags>
-      <Flag 
-        name="CanKnockDown" />
-    </Flags>
   </CraftingPiece>
   <CraftingPiece 
     id="b3_chaos_warrior_1h_mace_handle" 
@@ -949,12 +895,8 @@
       body_name="bo_mace_a">
       <Swing 
         damage_type="Blunt" 
-        damage_factor="2.0" />
+        damage_factor="2.5" />
     </BladeData>
-    <Flags>
-      <Flag 
-        name="CanKnockDown" />
-    </Flags>
   </CraftingPiece>
   <CraftingPiece 
     id="b3_chaos_warrior_1h_flail_handle" 
@@ -1099,12 +1041,6 @@
     <Flags>
       <Flag 
         name="CanCrushThrough" />
-      <Flag 
-        name="CanKnockDown" />
-      <Flag 
-        name="CanHook" />
-      <Flag
-        name="MultiplePenetration" />
       <Flag 
         name="DropOnWeaponChange" 
         type="ItemFlags"/>

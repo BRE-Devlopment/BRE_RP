@@ -614,6 +614,8 @@
     name="Artur de Crefieu"
     mpclassdivision="cavalry_human_350hp"
     knocks_down_with_kick="true"
+    can_knockdown="true"
+    slices_through="true"
     id="knight_errant.cre">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>

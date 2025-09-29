@@ -720,6 +720,8 @@
     name="Huebald de Gasconnie"
     mpclassdivision="cavalry_human2_500hp"
     knocks_down_with_kick="true"
+    can_knockdown="true"
+    slices_through="true"
     id="duke.ga">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>

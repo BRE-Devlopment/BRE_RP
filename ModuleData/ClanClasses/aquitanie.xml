@@ -731,6 +731,8 @@
     name="Armand de Aquitanie"
     mpclassdivision="cavalry_human2_500hp"
     knocks_down_with_kick="true"
+    can_knockdown="true"
+    slices_through="true"
     id="duke.aq">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>

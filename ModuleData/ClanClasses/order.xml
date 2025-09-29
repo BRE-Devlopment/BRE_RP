@@ -259,6 +259,8 @@
     name="Frère-chevalier"
     mpclassdivision="cavalry_human_350hp"
     knocks_down_with_kick="true"
+    can_knockdown="true"
+    slices_through="true"
     id="brother_knight.or">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>
@@ -316,6 +318,8 @@
     name="Commandeur"
     mpclassdivision="cavalry_human_400hp"
     knocks_down_with_kick="true"
+    can_knockdown="true"
+    slices_through="true"
     id="commander.or">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>
@@ -373,6 +377,8 @@
     name="Paladin"
     mpclassdivision="cavalry_human_400hp"
     knocks_down_with_kick="true"
+    can_knockdown="true"
+    slices_through="true"
     id="paladin.or">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>
@@ -430,6 +436,8 @@
     name="Chapelain"
     mpclassdivision="cavalry_human_400hp"
     knocks_down_with_kick="true"
+    can_knockdown="true"
+    slices_through="true"
     id="chaplain.or">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>
@@ -487,6 +495,8 @@
     name="Inquisiteur"
     mpclassdivision="cavalry_human2_500hp"
     knocks_down_with_kick="true"
+    can_knockdown="true"
+    slices_through="true"
     id="inquisitor.or">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>
@@ -543,6 +553,8 @@
     name="Grand-maître"
     mpclassdivision="cavalry_human2_500hp"
     knocks_down_with_kick="true"
+    can_knockdown="true"
+    slices_through="true"
     id="grand_master.or">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>
@@ -599,6 +611,8 @@
     name="Grand-prieur"
     mpclassdivision="cavalry_human2_500hp"
     knocks_down_with_kick="true"
+    can_knockdown="true"
+    slices_through="true"
     id="grand_prior.or">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>

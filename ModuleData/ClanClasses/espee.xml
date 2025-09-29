@@ -608,6 +608,8 @@
     name="Harland d'Espée"
     mpclassdivision="cavalry_human_350hp"
     knocks_down_with_kick="true"
+    can_knockdown="true"
+    slices_through="true"
     id="knight_errant.epe">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>

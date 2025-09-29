@@ -608,6 +608,8 @@
     name="Roland le Maréchal"
     mpclassdivision="cavalry_human_400hp"
     knocks_down_with_kick="true"
+    can_knockdown="true"
+    slices_through="true"
     id="knight_of_the_realm.mar">
     <UsableWeaponGroups>
       <WeaponGroup id="human"/>
