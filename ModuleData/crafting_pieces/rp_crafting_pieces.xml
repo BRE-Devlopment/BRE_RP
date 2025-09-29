@@ -1042,6 +1042,8 @@
       <Flag 
         name="CanCrushThrough" />
       <Flag 
+        name="MultiplePenetration" />
+      <Flag 
         name="DropOnWeaponChange" 
         type="ItemFlags"/>
     </Flags>
