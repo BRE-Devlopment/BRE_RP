@@ -556,6 +556,7 @@
     selection_screen_character_size="1.4"
     mount_difficulty="1"
     always_knocksdown="true"
+    slices_through="true"
     shield_damage_multiplier="1.5"
     stagger_treshold_damage="40.0"
     id="chaos_lord.chu">
@@ -1193,6 +1194,7 @@
     selection_screen_character_size="1.4"
     mount_difficulty="1"
     always_knocksdown="true"
+    slices_through="true"
     shield_damage_multiplier="1.5"
     stagger_treshold_damage="40.0"
     id="chaos_lord.chk">
@@ -1830,6 +1832,7 @@
     selection_screen_character_size="1.4"
     mount_difficulty="1"
     always_knocksdown="true"
+    slices_through="true"
     shield_damage_multiplier="1.5"
     stagger_treshold_damage="40.0"
     id="chaos_lord.chn">
@@ -2467,6 +2470,7 @@
     selection_screen_character_size="1.4"
     mount_difficulty="1"
     always_knocksdown="true"
+    slices_through="true"
     shield_damage_multiplier="1.5"
     stagger_treshold_damage="40.0"
     id="chaos_lord.chs">
@@ -3104,6 +3108,7 @@
     selection_screen_character_size="1.4"
     mount_difficulty="1"
     always_knocksdown="true"
+    slices_through="true"
     shield_damage_multiplier="1.5"
     stagger_treshold_damage="40.0"
     id="chaos_lord.cht">
