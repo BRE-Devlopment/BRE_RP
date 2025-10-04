@@ -142,11 +142,7 @@
        value="100"/>
     </skills>
     <Equipments>
-      <EquipmentRoster>
-        <equipment 
-          slot="Horse"
-          id="Item.rp_horse_darkgrey"/>
-      </EquipmentRoster>
+      <EquipmentRoster/>
     </Equipments>
   </NPCCharacter>
   <NPCCharacter 
@@ -194,11 +190,7 @@
        value="100"/>
     </skills>
     <Equipments>
-      <EquipmentRoster>
-        <equipment 
-          slot="Horse"
-          id="Item.rp_horse_darkgrey"/>
-      </EquipmentRoster>
+      <EquipmentRoster/>
     </Equipments>
     <Resistances
       dismount="0"
@@ -403,11 +395,7 @@
        value="100"/>
     </skills>
     <Equipments>
-      <EquipmentRoster>
-        <equipment 
-          slot="Horse"
-          id="Item.rp_horse_darkgrey"/>
-      </EquipmentRoster>
+      <EquipmentRoster/>
     </Equipments>
   </NPCCharacter>
   <!--BASIC WARRIOR CAV-->
@@ -457,11 +445,7 @@
        value="100"/>
     </skills>
     <Equipments>
-      <EquipmentRoster>
-        <equipment 
-          slot="Horse"
-          id="Item.rp_horse_darkgrey"/>
-      </EquipmentRoster>
+      <EquipmentRoster/>
     </Equipments>
     <Resistances
       dismount="0"
@@ -515,11 +499,7 @@
        value="100"/>
     </skills>
     <Equipments>
-      <EquipmentRoster>
-        <equipment 
-          slot="Horse"
-          id="Item.rp_horse_darkgrey"/>
-      </EquipmentRoster>
+      <EquipmentRoster/>
     </Equipments>
     <Resistances
       dismount="100"

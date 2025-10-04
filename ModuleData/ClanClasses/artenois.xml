@@ -342,7 +342,6 @@
       <equipment id="rp_horse_darkgrey" />
       <equipment id="rp_horse_black" />
       <equipment id="null" disablegroup="HorseHarness" disablerandomize="true" />
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
   <ClanClass
@@ -397,7 +396,6 @@
       <equipment id="rp_horse_darkgrey" />
       <equipment id="rp_horse_black" />
       <equipment id="null" disablegroup="HorseHarness" disablerandomize="true" />
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
   <ClanClass
@@ -452,7 +450,6 @@
       <equipment id="rp_horse_darkgrey" />
       <equipment id="rp_horse_black" />
       <equipment id="null" disablegroup="HorseHarness" disablerandomize="true" />
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
   <ClanClass 
@@ -699,7 +696,6 @@
       <equipment id="rp_horse_darkgrey" />
       <equipment id="rp_horse_black" />
       <equipment id="null" disablegroup="HorseHarness" disablerandomize="true" />
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
   <ClanClass
@@ -765,7 +761,6 @@
       <equipment id="rp_horse_heavy_darkgrey" />
       <equipment id="rp_horse_heavy_black" />
       <equipment id="null" disablegroup="HorseHarness" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
   <ClanClass
@@ -836,7 +831,6 @@
       <equipment id="rp_horse_heavy_darkgrey" />
       <equipment id="rp_horse_heavy_black" />
       <equipment id="null" disablegroup="HorseHarness" disablerandomize="true"/>
-      <equipment id="null" hidden="true" disablerandomize="true"/>
     </Horse>
   </ClanClass>
 </ClanClasses>
