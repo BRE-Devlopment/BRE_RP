@@ -242,6 +242,24 @@
 		<Weapon id="b3_bag_kotr_sword_1h"/>
 		<Weapon id="b3_bag_kotr_sword_2h"/>
 
+		<Weapon id="b3_tower_shield1_theu"/>
+		<Weapon id="b3_tower_shield2_theu"/>
+		<Weapon id="b3_tower_shield3_theu"/>
+		<Weapon id="b2_lance_theu"/>
+		<Weapon id="b3_kerrant_lance_theu"/>
+		<Weapon id="b3_knight_shield_theu"/>
+		<Weapon id="b3_theu_kerrant_sword_1h"/>
+		<Weapon id="b3_theu_kerrant_sword_2h"/>
+
+		<Weapon id="b3_tower_shield1_gau"/>
+		<Weapon id="b3_tower_shield2_gau"/>
+		<Weapon id="b3_tower_shield3_gau"/>
+		<Weapon id="b2_lance_gau"/>
+		<Weapon id="b3_kerrant_lance_gau"/>
+		<Weapon id="b3_knight_shield_gau"/>
+		<Weapon id="b3_gau_kerrant_sword_1h"/>
+		<Weapon id="b3_gau_kerrant_sword_2h"/>
+
 		<Weapon id="b3_tower_shield1_bas"/>
 		<Weapon id="b3_tower_shield2_bas"/>
 		<Weapon id="b3_tower_shield3_bas"/>
@@ -403,6 +421,15 @@
 		<Weapon id="b3_knight_shield_plo"/>
 		<Weapon id="b3_plo_kerrant_sword_1h"/>
 		<Weapon id="b3_plo_kerrant_sword_2h"/>
+
+		<Weapon id="b3_tower_shield1_gis"/>
+		<Weapon id="b3_tower_shield2_gis"/>
+		<Weapon id="b3_tower_shield3_gis"/>
+		<Weapon id="b2_lance_gis"/>
+		<Weapon id="b3_kotr_lance_gis"/>
+		<Weapon id="b3_knight_shield_gis"/>
+		<Weapon id="b3_gis_duke_sword_1h"/>
+		<Weapon id="b3_gis_duke_sword_2h"/>
 
 		<Weapon id="b3_tower_shield1_mou"/>
 		<Weapon id="b3_tower_shield2_mou"/>
