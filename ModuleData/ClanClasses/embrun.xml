@@ -291,9 +291,9 @@
   </ClanClass>
   <ClanClass 
     clan="THEU"
-    color1="FF4c2f57"
-    color2="FFfac837"
-    banner="12.552.579.1536.1536.764.764.0.0.0.5009.567.567.500.500.764.764.0.0.0"
+    color1="FF8a1816"
+    color2="FFffffff"
+    banner="11.500.500.1536.1536.764.764.1.0.0.5025.567.567.500.500.764.764.0.0.0"
     name="Archer paysan"
     mpclassdivision="archer_human_150hp"
     id="peasant_archer.theu">
