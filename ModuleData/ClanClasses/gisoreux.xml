@@ -6,7 +6,7 @@
     color1="FF242121"
     color2="FF8a1816"
     banner="1.578.500.1536.1536.764.764.1.0.0.5026.567.567.500.500.764.764.0.0.0"
-    name="Paysan armé"
+    name="Armed peasant"
     mpclassdivision="infantry_human_150hp"
     id="armed_peasant.gis">
     <UsableWeaponGroups>
@@ -77,7 +77,7 @@
     color1="FF242121"
     color2="FF8a1816"
     banner="1.578.500.1536.1536.764.764.1.0.0.5026.567.567.500.500.764.764.0.0.0"
-    name="Homme d'armes"
+    name="Man at armes"
     mpclassdivision="infantry_human_200hp"
     id="man_at_arms.gis">
     <UsableWeaponGroups>
@@ -148,7 +148,7 @@
     color1="FF242121"
     color2="FF8a1816"
     banner="1.578.500.1536.1536.764.764.1.0.0.5026.567.567.500.500.764.764.0.0.0"
-    name="Sergent d'armes"
+    name="Sergeant at armes"
     mpclassdivision="infantry_human_250hp"
     id="sergeant_at_arms.gis">
     <UsableWeaponGroups>
@@ -211,7 +211,7 @@
     color1="FF242121"
     color2="FF8a1816"
     banner="1.578.500.1536.1536.764.764.1.0.0.5026.567.567.500.500.764.764.0.0.0"
-    name="Capitaine"
+    name="Capitain"
     mpclassdivision="infantry_human_350hp"
     id="captain.gis">
     <UsableWeaponGroups>
@@ -294,7 +294,7 @@
     color1="FF242121"
     color2="FF8a1816"
     banner="1.578.500.1536.1536.764.764.1.0.0.5026.567.567.500.500.764.764.0.0.0"
-    name="Archer paysan"
+    name="Peasant archer"
     mpclassdivision="archer_human_150hp"
     id="peasant_archer.gis">
     <UsableWeaponGroups>
@@ -358,7 +358,7 @@
     color1="FF242121"
     color2="FF8a1816"
     banner="1.578.500.1536.1536.764.764.1.0.0.5026.567.567.500.500.764.764.0.0.0"
-    name="Franc-archer"
+    name="Free archer"
     mpclassdivision="archer_human_200hp"
     id="free_archer.gis">
     <UsableWeaponGroups>
@@ -412,7 +412,7 @@
     color1="FF242121"
     color2="FF8a1816"
     banner="1.578.500.1536.1536.764.764.1.0.0.5026.567.567.500.500.764.764.0.0.0"
-    name="Maître archer"
+    name="Master archer"
     mpclassdivision="archer_human_250hp"
     id="master_archer.gis">
     <UsableWeaponGroups>
@@ -540,7 +540,7 @@
     color1="FF242121"
     color2="FF8a1816"
     banner="1.578.500.1536.1536.764.764.1.0.0.5026.567.567.500.500.764.764.0.0.0"
-    name="Ecuyer"
+    name="Squire"
     mpclassdivision="cavalry_human_300hp"
     id="squire.gis">
     <UsableWeaponGroups>
@@ -606,7 +606,7 @@
     color2="FF8a1816"
     banner="1.578.500.1536.1536.764.764.1.0.0.5026.567.567.500.500.764.764.0.0.0"
     name="Hägen de Gisoreux"
-    mpclassdivision="cavalry_human2_500hp"
+    mpclassdivision="cavalry_human_400hp"
     knocks_down_with_kick="true"
     can_knockdown="true"
     slices_through="true"
