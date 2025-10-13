@@ -205,6 +205,9 @@
 		<Weapon id="b3_castagne_graveguard_tower_shield_v1"/>
 		<Weapon id="b3_castagne_graveguard_tower_shield_v2"/>
 		<Weapon id="b3_castagne_graveguard_tower_shield_v3"/>
+		<Weapon id="b3_oriflamme_banner"/>
+		<Weapon id="b3_archer_banner"/>
+		<Weapon id="b3_default_kotr_sword_1h"/>
 
 		<Weapon id="b3_tower_shield1_co"/>
 		<Weapon id="b3_tower_shield2_co"/>
@@ -448,6 +451,34 @@
 		<Weapon id="b3_knight_shield_cas"/>
 		<Weapon id="b3_cas_kotr_sword_1h"/>
 		<Weapon id="b3_cas_kotr_sword_2h"/>
+
+		<Weapon id="b3_tower_shield1_gri"/>
+		<Weapon id="b3_tower_shield2_gri"/>
+		<Weapon id="b3_tower_shield3_gri"/>
+		<Weapon id="b2_lance_gri"/>
+		<Weapon id="b3_kerrant_lance_gri"/>
+		<Weapon id="b3_knight_shield_gri"/>
+
+		<Weapon id="b3_tower_shield1_mor"/>
+		<Weapon id="b3_tower_shield2_mor"/>
+		<Weapon id="b3_tower_shield3_mor"/>
+		<Weapon id="b2_lance_mor"/>
+		<Weapon id="b3_kotr_lance_mor"/>
+		<Weapon id="b3_knight_shield_mor"/>
+
+		<Weapon id="b3_tower_shield1_lab"/>
+		<Weapon id="b3_tower_shield2_lab"/>
+		<Weapon id="b3_tower_shield3_lab"/>
+		<Weapon id="b2_lance_lab"/>
+		<Weapon id="b3_kotr_lance_lab"/>
+		<Weapon id="b3_knight_shield_lab"/>
+
+		<Weapon id="b3_tower_shield1_tur"/>
+		<Weapon id="b3_tower_shield2_tur"/>
+		<Weapon id="b3_tower_shield3_tur"/>
+		<Weapon id="b2_lance_tur"/>
+		<Weapon id="b3_kotr_lance_tur"/>
+		<Weapon id="b3_knight_shield_tur"/>
 	</WeaponGroup>
 	<WeaponGroup id="human_archer">
 		<Weapon id="sp_cheap_bow"/>
