@@ -117,4 +117,476 @@
 			<UnitClass id="troll"/>
 		</UnitClasses>
 	</Clan>
+	<Clan
+		id="CHK"
+		name="Followers of Khorne"
+	    color1="FF5c1710"
+	    color2="FFefede3"
+	    banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0">
+		<ItemVariableValues>
+			<ItemVariableValue variable="cultist_shield1" item="rp_cultist_shield_chk_v1"/>
+			<ItemVariableValue variable="cultist_shield2" item="rp_cultist_shield_chk_v2"/>
+			<ItemVariableValue variable="cultist_shield3" item="rp_cultist_shield_chk_v3"/>
+			<ItemVariableValue variable="cultist_banner1" item="rp_banner_chk_v1"/>
+			<ItemVariableValue variable="cultist_banner2" item="rp_banner_chk_v2"/>
+			<ItemVariableValue variable="cultist_banner3" item="rp_banner_chk_v3"/>
+			<ItemVariableValue variable="cultist_banner4" item="rp_banner_chk_v4"/>
+			<ItemVariableValue variable="cultist_head1" item="rp_cultist_head_chk_v1"/>
+			<ItemVariableValue variable="cultist_head2" item="rp_cultist_head_chk_v2"/>
+			<ItemVariableValue variable="cultist_head3" item="rp_cultist_head_chk_v3"/>
+			<ItemVariableValue variable="cultist_cape1" item="rp_cultist_cape_chk_v1"/>
+			<ItemVariableValue variable="cultist_cape2" item="rp_cultist_cape_chk_v2"/>
+			<ItemVariableValue variable="cultist_cape3" item="rp_cultist_cape_chk_v3"/>
+			<ItemVariableValue variable="cultist_body1" item="rp_cultist_body_chk_v1"/>
+			<ItemVariableValue variable="cultist_body2" item="rp_cultist_body_chk_v2"/>
+			<ItemVariableValue variable="cultist_body3" item="rp_cultist_body_chk_v3"/>
+			<ItemVariableValue variable="cultist_gloves1" item="rp_cultist_gloves_chk_v1"/>
+			<ItemVariableValue variable="cultist_gloves2" item="rp_cultist_gloves_chk_v2"/>
+			<ItemVariableValue variable="cultist_gloves3" item="rp_cultist_gloves_chk_v3"/>
+			<ItemVariableValue variable="cultist_leg1" item="rp_cultist_leg_chk_v1"/>
+			<ItemVariableValue variable="cultist_leg2" item="rp_cultist_leg_chk_v2"/>
+			<ItemVariableValue variable="cultist_leg3" item="rp_cultist_leg_chk_v3"/>
+
+			<ItemVariableValue variable="cultist_leader_head" item="rp_cultist_sergeant_head_chk"/>
+			<ItemVariableValue variable="cultist_leader_cape" item="rp_cultist_sergeant_cape_chk"/>
+			<ItemVariableValue variable="cultist_leader_body" item="rp_cultist_sergeant_body_chk"/>
+
+			<ItemVariableValue variable="marauder_shield1" item="rp_marauder_shield_chk_v1"/>
+			<ItemVariableValue variable="marauder_shield2" item="rp_marauder_shield_chk_v2"/>
+			<ItemVariableValue variable="marauder_shield3" item="rp_marauder_shield_chk_v3"/>
+			<ItemVariableValue variable="marauder_head1" item="rp_marauder_head_chk_v1"/>
+			<ItemVariableValue variable="marauder_head2" item="rp_marauder_head_chk_v2"/>
+			<ItemVariableValue variable="marauder_head3" item="rp_marauder_head_chk_v3"/>
+			<ItemVariableValue variable="marauder_cape1" item="rp_marauder_cape_chk_v1"/>
+			<ItemVariableValue variable="marauder_cape2" item="rp_marauder_cape_chk_v2"/>
+			<ItemVariableValue variable="marauder_cape3" item="rp_marauder_cape_chk_v3"/>
+			<ItemVariableValue variable="marauder_body1" item="rp_marauder_body_chk_v1"/>
+			<ItemVariableValue variable="marauder_body2" item="rp_marauder_body_chk_v2"/>
+			<ItemVariableValue variable="marauder_body3" item="rp_marauder_body_chk_v3"/>
+			<ItemVariableValue variable="marauder_gloves1" item="rp_marauder_gloves_chk_v1"/>
+			<ItemVariableValue variable="marauder_gloves2" item="rp_marauder_gloves_chk_v2"/>
+			<ItemVariableValue variable="marauder_gloves3" item="rp_marauder_gloves_chk_v3"/>
+			<ItemVariableValue variable="marauder_leg1" item="rp_marauder_leg_chk_v1"/>
+			<ItemVariableValue variable="marauder_leg2" item="rp_marauder_leg_chk_v2"/>
+			<ItemVariableValue variable="marauder_leg3" item="rp_marauder_leg_chk_v3"/>
+
+			<ItemVariableValue variable="marauder_chieftain_head" item="rp_marauder_chieftain_head_chk"/>
+
+			<ItemVariableValue variable="chaos_warrior_shield1" item="rp_warrior_shield_chk_v1"/>
+			<ItemVariableValue variable="chaos_warrior_shield2" item="rp_warrior_shield_chk_v2"/>
+			<ItemVariableValue variable="chaos_warrior_shield3" item="rp_warrior_shield_chk_v3"/>
+			<ItemVariableValue variable="chaos_warrior_shield4" item="rp_warrior_shield_chk_v4"/>
+			<ItemVariableValue variable="chaos_warrior_shield5" item="rp_warrior_shield_chk_v5"/>
+			<ItemVariableValue variable="chaos_warrior_shield6" item="rp_warrior_shield_chk_v6"/>
+			<ItemVariableValue variable="chaos_warrior_banner" item="rp_warrior_banner_chk"/>
+			<ItemVariableValue variable="chaos_warrior_head1" item="rp_warrior_head_chk_v1"/>
+			<ItemVariableValue variable="chaos_warrior_head2" item="rp_warrior_head_chk_v2"/>
+			<ItemVariableValue variable="chaos_warrior_head3" item="rp_warrior_head_chk_v3"/>
+			<ItemVariableValue variable="chaos_warrior_head4" item="rp_warrior_head_chk_v4"/>
+			<ItemVariableValue variable="chaos_warrior_head5" item="rp_warrior_head_chk_v5"/>
+			<ItemVariableValue variable="chaos_warrior_head6" item="rp_warrior_head_chk_v6"/>
+			<ItemVariableValue variable="chaos_warrior_head7" item="rp_warrior_head_chk_v7"/>
+			<ItemVariableValue variable="chaos_warrior_cape1" item="rp_warrior_cape_chk_v1"/>
+			<ItemVariableValue variable="chaos_warrior_cape2" item="rp_warrior_cape_chk_v2"/>
+			<ItemVariableValue variable="chaos_warrior_cape3" item="rp_warrior_cape_chk_v3"/>
+			<ItemVariableValue variable="chaos_warrior_body1" item="rp_warrior_body_chk_v1"/>
+			<ItemVariableValue variable="chaos_warrior_body2" item="rp_warrior_body_chk_v2"/>
+			<ItemVariableValue variable="chaos_warrior_body3" item="rp_warrior_body_chk_v3"/>
+			<ItemVariableValue variable="chaos_warrior_gloves1" item="rp_warrior_gloves_chk_v1"/>
+			<ItemVariableValue variable="chaos_warrior_gloves2" item="rp_warrior_gloves_chk_v2"/>
+			<ItemVariableValue variable="chaos_warrior_gloves3" item="rp_warrior_gloves_chk_v3"/>
+			<ItemVariableValue variable="chaos_warrior_leg1" item="rp_warrior_leg_chk_v1"/>
+			<ItemVariableValue variable="chaos_warrior_leg2" item="rp_warrior_leg_chk_v2"/>
+			<ItemVariableValue variable="chaos_warrior_leg3" item="rp_warrior_leg_chk_v3"/>
+
+			<ItemVariableValue variable="chaos_lord_1h_sword" item="rp_chaos_lord_1h_sword"/>
+			<ItemVariableValue variable="chaos_lord_1h_mace" item="rp_chaos_lord_1h_mace"/>
+			<ItemVariableValue variable="chaos_lord_glaive" item="rp_chaos_lord_glaive"/>
+			<ItemVariableValue variable="chaos_lord_2h_sword" item="rp_chaos_lord_2h_sword"/>
+			<ItemVariableValue variable="chaos_lord_2h_mace" item="rp_chaos_lord_2h_mace"/>
+			<ItemVariableValue variable="chaos_lord_2h_axe" item="rp_chaos_lord_2h_axe"/>
+			<ItemVariableValue variable="chaos_chosen_head" item="rp_chosen_head_chk"/>
+			<ItemVariableValue variable="chaos_chosen_cape" item="rp_chosen_cape_chk"/>
+			<ItemVariableValue variable="chaos_chosen_body" item="rp_chosen_body_chk"/>
+			<ItemVariableValue variable="chaos_chosen_gloves" item="rp_chosen_gloves_chk"/>
+			<ItemVariableValue variable="chaos_chosen_leg" item="rp_chosen_leg_chk"/>
+
+			<ItemVariableValue variable="chaos_warrior_horseharness1" item="rp_warrior_horseharness_chk_v1"/>
+			<ItemVariableValue variable="chaos_warrior_horseharness2" item="rp_warrior_horseharness_chk_v2"/>
+			
+			<ItemVariableValue variable="chaos_lord_head" item="rp_lord_head_chk"/>
+			<ItemVariableValue variable="chaos_lord_cape" item="rp_lord_cape_chk"/>
+			<ItemVariableValue variable="chaos_lord_body" item="rp_lord_body_chk"/>
+			<ItemVariableValue variable="chaos_lord_gloves" item="rp_lord_gloves_chk"/>
+			<ItemVariableValue variable="chaos_lord_leg" item="rp_lord_leg_chk"/>
+		</ItemVariableValues>
+		<UnitClasses>
+			<UnitClass id="cultist"/>
+			<UnitClass id="cultist_leader"/>
+			<UnitClass id="marauder"/>
+			<UnitClass id="marauder_chieftain"/>
+			<UnitClass id="chaos_warrior"/>
+			<UnitClass id="chaos_chosen"/>
+			<UnitClass id="cultist_archer"/>
+			<UnitClass id="marauder_horseman"/>
+			<UnitClass id="mounted_marauder_chieftain"/>
+			<UnitClass id="chaos_knight"/>
+			<UnitClass id="chaos_lord"/>
+			<UnitClass id="troll"/>
+		</UnitClasses>
+	</Clan>
+	<Clan
+		id="CHN"
+		name="Followers of Nurgle"
+	    color1="FFdab42b"
+	    color2="FF1f1a19"
+	    banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0">
+		<ItemVariableValues>
+			<ItemVariableValue variable="cultist_shield1" item="rp_cultist_shield_chn_v1"/>
+			<ItemVariableValue variable="cultist_shield2" item="rp_cultist_shield_chn_v2"/>
+			<ItemVariableValue variable="cultist_shield3" item="rp_cultist_shield_chn_v3"/>
+			<ItemVariableValue variable="cultist_banner1" item="rp_banner_chn_v1"/>
+			<ItemVariableValue variable="cultist_banner2" item="rp_banner_chn_v2"/>
+			<ItemVariableValue variable="cultist_banner3" item="rp_banner_chn_v3"/>
+			<ItemVariableValue variable="cultist_banner4" item="rp_banner_chn_v4"/>
+			<ItemVariableValue variable="cultist_head1" item="rp_cultist_head_chn_v1"/>
+			<ItemVariableValue variable="cultist_head2" item="rp_cultist_head_chn_v2"/>
+			<ItemVariableValue variable="cultist_head3" item="rp_cultist_head_chn_v3"/>
+			<ItemVariableValue variable="cultist_cape1" item="rp_cultist_cape_chn_v1"/>
+			<ItemVariableValue variable="cultist_cape2" item="rp_cultist_cape_chn_v2"/>
+			<ItemVariableValue variable="cultist_cape3" item="rp_cultist_cape_chn_v3"/>
+			<ItemVariableValue variable="cultist_body1" item="rp_cultist_body_chn_v1"/>
+			<ItemVariableValue variable="cultist_body2" item="rp_cultist_body_chn_v2"/>
+			<ItemVariableValue variable="cultist_body3" item="rp_cultist_body_chn_v3"/>
+			<ItemVariableValue variable="cultist_gloves1" item="rp_cultist_gloves_chn_v1"/>
+			<ItemVariableValue variable="cultist_gloves2" item="rp_cultist_gloves_chn_v2"/>
+			<ItemVariableValue variable="cultist_gloves3" item="rp_cultist_gloves_chn_v3"/>
+			<ItemVariableValue variable="cultist_leg1" item="rp_cultist_leg_chn_v1"/>
+			<ItemVariableValue variable="cultist_leg2" item="rp_cultist_leg_chn_v2"/>
+			<ItemVariableValue variable="cultist_leg3" item="rp_cultist_leg_chn_v3"/>
+
+			<ItemVariableValue variable="cultist_leader_head" item="rp_cultist_sergeant_head_chn"/>
+			<ItemVariableValue variable="cultist_leader_cape" item="rp_cultist_sergeant_cape_chn"/>
+			<ItemVariableValue variable="cultist_leader_body" item="rp_cultist_sergeant_body_chn"/>
+
+			<ItemVariableValue variable="marauder_shield1" item="rp_marauder_shield_chn_v1"/>
+			<ItemVariableValue variable="marauder_shield2" item="rp_marauder_shield_chn_v2"/>
+			<ItemVariableValue variable="marauder_shield3" item="rp_marauder_shield_chn_v3"/>
+			<ItemVariableValue variable="marauder_head1" item="rp_marauder_head_chn_v1"/>
+			<ItemVariableValue variable="marauder_head2" item="rp_marauder_head_chn_v2"/>
+			<ItemVariableValue variable="marauder_head3" item="rp_marauder_head_chn_v3"/>
+			<ItemVariableValue variable="marauder_cape1" item="rp_marauder_cape_chn_v1"/>
+			<ItemVariableValue variable="marauder_cape2" item="rp_marauder_cape_chn_v2"/>
+			<ItemVariableValue variable="marauder_cape3" item="rp_marauder_cape_chn_v3"/>
+			<ItemVariableValue variable="marauder_body1" item="rp_marauder_body_chn_v1"/>
+			<ItemVariableValue variable="marauder_body2" item="rp_marauder_body_chn_v2"/>
+			<ItemVariableValue variable="marauder_body3" item="rp_marauder_body_chn_v3"/>
+			<ItemVariableValue variable="marauder_gloves1" item="rp_marauder_gloves_chn_v1"/>
+			<ItemVariableValue variable="marauder_gloves2" item="rp_marauder_gloves_chn_v2"/>
+			<ItemVariableValue variable="marauder_gloves3" item="rp_marauder_gloves_chn_v3"/>
+			<ItemVariableValue variable="marauder_leg1" item="rp_marauder_leg_chn_v1"/>
+			<ItemVariableValue variable="marauder_leg2" item="rp_marauder_leg_chn_v2"/>
+			<ItemVariableValue variable="marauder_leg3" item="rp_marauder_leg_chn_v3"/>
+
+			<ItemVariableValue variable="marauder_chieftain_head" item="rp_marauder_chieftain_head_chn"/>
+
+			<ItemVariableValue variable="chaos_warrior_shield1" item="rp_warrior_shield_chn_v1"/>
+			<ItemVariableValue variable="chaos_warrior_shield2" item="rp_warrior_shield_chn_v2"/>
+			<ItemVariableValue variable="chaos_warrior_shield3" item="rp_warrior_shield_chn_v3"/>
+			<ItemVariableValue variable="chaos_warrior_shield4" item="rp_warrior_shield_chn_v4"/>
+			<ItemVariableValue variable="chaos_warrior_shield5" item="rp_warrior_shield_chn_v5"/>
+			<ItemVariableValue variable="chaos_warrior_shield6" item="rp_warrior_shield_chn_v6"/>
+			<ItemVariableValue variable="chaos_warrior_banner" item="rp_warrior_banner_chn"/>
+			<ItemVariableValue variable="chaos_warrior_head1" item="rp_warrior_head_chn_v1"/>
+			<ItemVariableValue variable="chaos_warrior_head2" item="rp_warrior_head_chn_v2"/>
+			<ItemVariableValue variable="chaos_warrior_head3" item="rp_warrior_head_chn_v3"/>
+			<ItemVariableValue variable="chaos_warrior_head4" item="rp_warrior_head_chn_v4"/>
+			<ItemVariableValue variable="chaos_warrior_head5" item="rp_warrior_head_chn_v5"/>
+			<ItemVariableValue variable="chaos_warrior_head6" item="rp_warrior_head_chn_v6"/>
+			<ItemVariableValue variable="chaos_warrior_head7" item="rp_warrior_head_chn_v7"/>
+			<ItemVariableValue variable="chaos_warrior_cape1" item="rp_warrior_cape_chn_v1"/>
+			<ItemVariableValue variable="chaos_warrior_cape2" item="rp_warrior_cape_chn_v2"/>
+			<ItemVariableValue variable="chaos_warrior_cape3" item="rp_warrior_cape_chn_v3"/>
+			<ItemVariableValue variable="chaos_warrior_body1" item="rp_warrior_body_chn_v1"/>
+			<ItemVariableValue variable="chaos_warrior_body2" item="rp_warrior_body_chn_v2"/>
+			<ItemVariableValue variable="chaos_warrior_body3" item="rp_warrior_body_chn_v3"/>
+			<ItemVariableValue variable="chaos_warrior_gloves1" item="rp_warrior_gloves_chn_v1"/>
+			<ItemVariableValue variable="chaos_warrior_gloves2" item="rp_warrior_gloves_chn_v2"/>
+			<ItemVariableValue variable="chaos_warrior_gloves3" item="rp_warrior_gloves_chn_v3"/>
+			<ItemVariableValue variable="chaos_warrior_leg1" item="rp_warrior_leg_chn_v1"/>
+			<ItemVariableValue variable="chaos_warrior_leg2" item="rp_warrior_leg_chn_v2"/>
+			<ItemVariableValue variable="chaos_warrior_leg3" item="rp_warrior_leg_chn_v3"/>
+
+			<ItemVariableValue variable="chaos_lord_1h_sword" item="rp_chaos_lord_1h_sword_chn"/>
+			<ItemVariableValue variable="chaos_lord_1h_mace" item="rp_chaos_lord_1h_mace_chn"/>
+			<ItemVariableValue variable="chaos_lord_glaive" item="rp_chaos_lord_glaive_chn"/>
+			<ItemVariableValue variable="chaos_lord_2h_sword" item="rp_chaos_lord_2h_sword_chn"/>
+			<ItemVariableValue variable="chaos_lord_2h_mace" item="rp_chaos_lord_2h_mace_chn"/>
+			<ItemVariableValue variable="chaos_lord_2h_axe" item="rp_chaos_lord_2h_axe_chn"/>
+			<ItemVariableValue variable="chaos_chosen_head" item="rp_chosen_head_chn"/>
+			<ItemVariableValue variable="chaos_chosen_cape" item="rp_chosen_cape_chn"/>
+			<ItemVariableValue variable="chaos_chosen_body" item="rp_chosen_body_chn"/>
+			<ItemVariableValue variable="chaos_chosen_gloves" item="rp_chosen_gloves_chn"/>
+			<ItemVariableValue variable="chaos_chosen_leg" item="rp_chosen_leg_chn"/>
+
+			<ItemVariableValue variable="chaos_warrior_horseharness1" item="rp_warrior_horseharness_chn_v1"/>
+			<ItemVariableValue variable="chaos_warrior_horseharness2" item="rp_warrior_horseharness_chn_v2"/>
+			
+			<ItemVariableValue variable="chaos_lord_head" item="rp_lord_head_chn"/>
+			<ItemVariableValue variable="chaos_lord_cape" item="rp_lord_cape_chn"/>
+			<ItemVariableValue variable="chaos_lord_body" item="rp_lord_body_chn"/>
+			<ItemVariableValue variable="chaos_lord_gloves" item="rp_lord_gloves_chn"/>
+			<ItemVariableValue variable="chaos_lord_leg" item="rp_lord_leg_chn"/>
+		</ItemVariableValues>
+		<UnitClasses>
+			<UnitClass id="cultist"/>
+			<UnitClass id="cultist_leader"/>
+			<UnitClass id="marauder"/>
+			<UnitClass id="marauder_chieftain"/>
+			<UnitClass id="chaos_warrior"/>
+			<UnitClass id="chaos_chosen"/>
+			<UnitClass id="cultist_archer"/>
+			<UnitClass id="marauder_horseman"/>
+			<UnitClass id="mounted_marauder_chieftain"/>
+			<UnitClass id="chaos_knight"/>
+			<UnitClass id="chaos_lord"/>
+			<UnitClass id="troll"/>
+		</UnitClasses>
+	</Clan>
+	<Clan
+		id="CHS"
+		name="Followers of Slaanesh"
+	    color1="FFdab42b"
+	    color2="FF1f1a19"
+	    banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0">
+		<ItemVariableValues>
+			<ItemVariableValue variable="cultist_shield1" item="rp_cultist_shield_chs_v1"/>
+			<ItemVariableValue variable="cultist_shield2" item="rp_cultist_shield_chs_v2"/>
+			<ItemVariableValue variable="cultist_shield3" item="rp_cultist_shield_chs_v3"/>
+			<ItemVariableValue variable="cultist_banner1" item="rp_banner_chs_v1"/>
+			<ItemVariableValue variable="cultist_banner2" item="rp_banner_chs_v2"/>
+			<ItemVariableValue variable="cultist_banner3" item="rp_banner_chs_v3"/>
+			<ItemVariableValue variable="cultist_banner4" item="rp_banner_chs_v4"/>
+			<ItemVariableValue variable="cultist_head1" item="rp_cultist_head_chs_v1"/>
+			<ItemVariableValue variable="cultist_head2" item="rp_cultist_head_chs_v2"/>
+			<ItemVariableValue variable="cultist_head3" item="rp_cultist_head_chs_v3"/>
+			<ItemVariableValue variable="cultist_cape1" item="rp_cultist_cape_chs_v1"/>
+			<ItemVariableValue variable="cultist_cape2" item="rp_cultist_cape_chs_v2"/>
+			<ItemVariableValue variable="cultist_cape3" item="rp_cultist_cape_chs_v3"/>
+			<ItemVariableValue variable="cultist_body1" item="rp_cultist_body_chs_v1"/>
+			<ItemVariableValue variable="cultist_body2" item="rp_cultist_body_chs_v2"/>
+			<ItemVariableValue variable="cultist_body3" item="rp_cultist_body_chs_v3"/>
+			<ItemVariableValue variable="cultist_gloves1" item="rp_cultist_gloves_chs_v1"/>
+			<ItemVariableValue variable="cultist_gloves2" item="rp_cultist_gloves_chs_v2"/>
+			<ItemVariableValue variable="cultist_gloves3" item="rp_cultist_gloves_chs_v3"/>
+			<ItemVariableValue variable="cultist_leg1" item="rp_cultist_leg_chs_v1"/>
+			<ItemVariableValue variable="cultist_leg2" item="rp_cultist_leg_chs_v2"/>
+			<ItemVariableValue variable="cultist_leg3" item="rp_cultist_leg_chs_v3"/>
+
+			<ItemVariableValue variable="cultist_leader_head" item="rp_cultist_sergeant_head_chs"/>
+			<ItemVariableValue variable="cultist_leader_cape" item="rp_cultist_sergeant_cape_chs"/>
+			<ItemVariableValue variable="cultist_leader_body" item="rp_cultist_sergeant_body_chs"/>
+
+			<ItemVariableValue variable="marauder_shield1" item="rp_marauder_shield_chs_v1"/>
+			<ItemVariableValue variable="marauder_shield2" item="rp_marauder_shield_chs_v2"/>
+			<ItemVariableValue variable="marauder_shield3" item="rp_marauder_shield_chs_v3"/>
+			<ItemVariableValue variable="marauder_head1" item="rp_marauder_head_chs_v1"/>
+			<ItemVariableValue variable="marauder_head2" item="rp_marauder_head_chs_v2"/>
+			<ItemVariableValue variable="marauder_head3" item="rp_marauder_head_chs_v3"/>
+			<ItemVariableValue variable="marauder_cape1" item="rp_marauder_cape_chs_v1"/>
+			<ItemVariableValue variable="marauder_cape2" item="rp_marauder_cape_chs_v2"/>
+			<ItemVariableValue variable="marauder_cape3" item="rp_marauder_cape_chs_v3"/>
+			<ItemVariableValue variable="marauder_body1" item="rp_marauder_body_chs_v1"/>
+			<ItemVariableValue variable="marauder_body2" item="rp_marauder_body_chs_v2"/>
+			<ItemVariableValue variable="marauder_body3" item="rp_marauder_body_chs_v3"/>
+			<ItemVariableValue variable="marauder_gloves1" item="rp_marauder_gloves_chs_v1"/>
+			<ItemVariableValue variable="marauder_gloves2" item="rp_marauder_gloves_chs_v2"/>
+			<ItemVariableValue variable="marauder_gloves3" item="rp_marauder_gloves_chs_v3"/>
+			<ItemVariableValue variable="marauder_leg1" item="rp_marauder_leg_chs_v1"/>
+			<ItemVariableValue variable="marauder_leg2" item="rp_marauder_leg_chs_v2"/>
+			<ItemVariableValue variable="marauder_leg3" item="rp_marauder_leg_chs_v3"/>
+
+			<ItemVariableValue variable="marauder_chieftain_head" item="rp_marauder_chieftain_head_chs"/>
+
+			<ItemVariableValue variable="chaos_warrior_shield1" item="rp_warrior_shield_chs_v1"/>
+			<ItemVariableValue variable="chaos_warrior_shield2" item="rp_warrior_shield_chs_v2"/>
+			<ItemVariableValue variable="chaos_warrior_shield3" item="rp_warrior_shield_chs_v3"/>
+			<ItemVariableValue variable="chaos_warrior_shield4" item="rp_warrior_shield_chs_v4"/>
+			<ItemVariableValue variable="chaos_warrior_shield5" item="rp_warrior_shield_chs_v5"/>
+			<ItemVariableValue variable="chaos_warrior_shield6" item="rp_warrior_shield_chs_v6"/>
+			<ItemVariableValue variable="chaos_warrior_banner" item="rp_warrior_banner_chs"/>
+			<ItemVariableValue variable="chaos_warrior_head1" item="rp_warrior_head_chs_v1"/>
+			<ItemVariableValue variable="chaos_warrior_head2" item="rp_warrior_head_chs_v2"/>
+			<ItemVariableValue variable="chaos_warrior_head3" item="rp_warrior_head_chs_v3"/>
+			<ItemVariableValue variable="chaos_warrior_head4" item="rp_warrior_head_chs_v4"/>
+			<ItemVariableValue variable="chaos_warrior_head5" item="rp_warrior_head_chs_v5"/>
+			<ItemVariableValue variable="chaos_warrior_head6" item="rp_warrior_head_chs_v6"/>
+			<ItemVariableValue variable="chaos_warrior_head7" item="rp_warrior_head_chs_v7"/>
+			<ItemVariableValue variable="chaos_warrior_cape1" item="rp_warrior_cape_chs_v1"/>
+			<ItemVariableValue variable="chaos_warrior_cape2" item="rp_warrior_cape_chs_v2"/>
+			<ItemVariableValue variable="chaos_warrior_cape3" item="rp_warrior_cape_chs_v3"/>
+			<ItemVariableValue variable="chaos_warrior_body1" item="rp_warrior_body_chs_v1"/>
+			<ItemVariableValue variable="chaos_warrior_body2" item="rp_warrior_body_chs_v2"/>
+			<ItemVariableValue variable="chaos_warrior_body3" item="rp_warrior_body_chs_v3"/>
+			<ItemVariableValue variable="chaos_warrior_gloves1" item="rp_warrior_gloves_chs_v1"/>
+			<ItemVariableValue variable="chaos_warrior_gloves2" item="rp_warrior_gloves_chs_v2"/>
+			<ItemVariableValue variable="chaos_warrior_gloves3" item="rp_warrior_gloves_chs_v3"/>
+			<ItemVariableValue variable="chaos_warrior_leg1" item="rp_warrior_leg_chs_v1"/>
+			<ItemVariableValue variable="chaos_warrior_leg2" item="rp_warrior_leg_chs_v2"/>
+			<ItemVariableValue variable="chaos_warrior_leg3" item="rp_warrior_leg_chs_v3"/>
+
+			<ItemVariableValue variable="chaos_lord_1h_sword" item="rp_chaos_lord_1h_sword_chs"/>
+			<ItemVariableValue variable="chaos_lord_1h_mace" item="rp_chaos_lord_1h_mace_chs"/>
+			<ItemVariableValue variable="chaos_lord_glaive" item="rp_chaos_lord_glaive_chs"/>
+			<ItemVariableValue variable="chaos_lord_2h_sword" item="rp_chaos_lord_2h_sword_chs"/>
+			<ItemVariableValue variable="chaos_lord_2h_mace" item="rp_chaos_lord_2h_mace_chs"/>
+			<ItemVariableValue variable="chaos_lord_2h_axe" item="rp_chaos_lord_2h_axe_chs"/>
+			<ItemVariableValue variable="chaos_chosen_head" item="rp_chosen_head_chs"/>
+			<ItemVariableValue variable="chaos_chosen_cape" item="rp_chosen_cape_chs"/>
+			<ItemVariableValue variable="chaos_chosen_body" item="rp_chosen_body_chs"/>
+			<ItemVariableValue variable="chaos_chosen_gloves" item="rp_chosen_gloves_chs"/>
+			<ItemVariableValue variable="chaos_chosen_leg" item="rp_chosen_leg_chs"/>
+
+			<ItemVariableValue variable="chaos_warrior_horseharness1" item="rp_warrior_horseharness_chs_v1"/>
+			<ItemVariableValue variable="chaos_warrior_horseharness2" item="rp_warrior_horseharness_chs_v2"/>
+			
+			<ItemVariableValue variable="chaos_lord_head" item="rp_lord_head_chs"/>
+			<ItemVariableValue variable="chaos_lord_cape" item="rp_lord_cape_chs"/>
+			<ItemVariableValue variable="chaos_lord_body" item="rp_lord_body_chs"/>
+			<ItemVariableValue variable="chaos_lord_gloves" item="rp_lord_gloves_chs"/>
+			<ItemVariableValue variable="chaos_lord_leg" item="rp_lord_leg_chs"/>
+		</ItemVariableValues>
+		<UnitClasses>
+			<UnitClass id="cultist"/>
+			<UnitClass id="cultist_leader"/>
+			<UnitClass id="marauder"/>
+			<UnitClass id="marauder_chieftain"/>
+			<UnitClass id="chaos_warrior"/>
+			<UnitClass id="chaos_chosen"/>
+			<UnitClass id="cultist_archer"/>
+			<UnitClass id="marauder_horseman"/>
+			<UnitClass id="mounted_marauder_chieftain"/>
+			<UnitClass id="chaos_knight"/>
+			<UnitClass id="chaos_lord"/>
+			<UnitClass id="troll"/>
+		</UnitClasses>
+	</Clan>
+	<Clan
+		id="CHT"
+		name="Followers of Tzeentch"
+	    color1="FFdab42b"
+	    color2="FF1f1a19"
+	    banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0">
+		<ItemVariableValues>
+			<ItemVariableValue variable="cultist_shield1" item="rp_cultist_shield_cht_v1"/>
+			<ItemVariableValue variable="cultist_shield2" item="rp_cultist_shield_cht_v2"/>
+			<ItemVariableValue variable="cultist_shield3" item="rp_cultist_shield_cht_v3"/>
+			<ItemVariableValue variable="cultist_banner1" item="rp_banner_cht_v1"/>
+			<ItemVariableValue variable="cultist_banner2" item="rp_banner_cht_v2"/>
+			<ItemVariableValue variable="cultist_banner3" item="rp_banner_cht_v3"/>
+			<ItemVariableValue variable="cultist_banner4" item="rp_banner_cht_v4"/>
+			<ItemVariableValue variable="cultist_head1" item="rp_cultist_head_cht_v1"/>
+			<ItemVariableValue variable="cultist_head2" item="rp_cultist_head_cht_v2"/>
+			<ItemVariableValue variable="cultist_head3" item="rp_cultist_head_cht_v3"/>
+			<ItemVariableValue variable="cultist_cape1" item="rp_cultist_cape_cht_v1"/>
+			<ItemVariableValue variable="cultist_cape2" item="rp_cultist_cape_cht_v2"/>
+			<ItemVariableValue variable="cultist_cape3" item="rp_cultist_cape_cht_v3"/>
+			<ItemVariableValue variable="cultist_body1" item="rp_cultist_body_cht_v1"/>
+			<ItemVariableValue variable="cultist_body2" item="rp_cultist_body_cht_v2"/>
+			<ItemVariableValue variable="cultist_body3" item="rp_cultist_body_cht_v3"/>
+			<ItemVariableValue variable="cultist_gloves1" item="rp_cultist_gloves_cht_v1"/>
+			<ItemVariableValue variable="cultist_gloves2" item="rp_cultist_gloves_cht_v2"/>
+			<ItemVariableValue variable="cultist_gloves3" item="rp_cultist_gloves_cht_v3"/>
+			<ItemVariableValue variable="cultist_leg1" item="rp_cultist_leg_cht_v1"/>
+			<ItemVariableValue variable="cultist_leg2" item="rp_cultist_leg_cht_v2"/>
+			<ItemVariableValue variable="cultist_leg3" item="rp_cultist_leg_cht_v3"/>
+
+			<ItemVariableValue variable="cultist_leader_head" item="rp_cultist_sergeant_head_cht"/>
+			<ItemVariableValue variable="cultist_leader_cape" item="rp_cultist_sergeant_cape_cht"/>
+			<ItemVariableValue variable="cultist_leader_body" item="rp_cultist_sergeant_body_cht"/>
+
+			<ItemVariableValue variable="marauder_shield1" item="rp_marauder_shield_cht_v1"/>
+			<ItemVariableValue variable="marauder_shield2" item="rp_marauder_shield_cht_v2"/>
+			<ItemVariableValue variable="marauder_shield3" item="rp_marauder_shield_cht_v3"/>
+			<ItemVariableValue variable="marauder_head1" item="rp_marauder_head_cht_v1"/>
+			<ItemVariableValue variable="marauder_head2" item="rp_marauder_head_cht_v2"/>
+			<ItemVariableValue variable="marauder_head3" item="rp_marauder_head_cht_v3"/>
+			<ItemVariableValue variable="marauder_cape1" item="rp_marauder_cape_cht_v1"/>
+			<ItemVariableValue variable="marauder_cape2" item="rp_marauder_cape_cht_v2"/>
+			<ItemVariableValue variable="marauder_cape3" item="rp_marauder_cape_cht_v3"/>
+			<ItemVariableValue variable="marauder_body1" item="rp_marauder_body_cht_v1"/>
+			<ItemVariableValue variable="marauder_body2" item="rp_marauder_body_cht_v2"/>
+			<ItemVariableValue variable="marauder_body3" item="rp_marauder_body_cht_v3"/>
+			<ItemVariableValue variable="marauder_gloves1" item="rp_marauder_gloves_cht_v1"/>
+			<ItemVariableValue variable="marauder_gloves2" item="rp_marauder_gloves_cht_v2"/>
+			<ItemVariableValue variable="marauder_gloves3" item="rp_marauder_gloves_cht_v3"/>
+			<ItemVariableValue variable="marauder_leg1" item="rp_marauder_leg_cht_v1"/>
+			<ItemVariableValue variable="marauder_leg2" item="rp_marauder_leg_cht_v2"/>
+			<ItemVariableValue variable="marauder_leg3" item="rp_marauder_leg_cht_v3"/>
+
+			<ItemVariableValue variable="marauder_chieftain_head" item="rp_marauder_chieftain_head_cht"/>
+
+			<ItemVariableValue variable="chaos_warrior_shield1" item="rp_warrior_shield_cht_v1"/>
+			<ItemVariableValue variable="chaos_warrior_shield2" item="rp_warrior_shield_cht_v2"/>
+			<ItemVariableValue variable="chaos_warrior_shield3" item="rp_warrior_shield_cht_v3"/>
+			<ItemVariableValue variable="chaos_warrior_shield4" item="rp_warrior_shield_cht_v4"/>
+			<ItemVariableValue variable="chaos_warrior_shield5" item="rp_warrior_shield_cht_v5"/>
+			<ItemVariableValue variable="chaos_warrior_shield6" item="rp_warrior_shield_cht_v6"/>
+			<ItemVariableValue variable="chaos_warrior_banner" item="rp_warrior_banner_cht"/>
+			<ItemVariableValue variable="chaos_warrior_head1" item="rp_warrior_head_cht_v1"/>
+			<ItemVariableValue variable="chaos_warrior_head2" item="rp_warrior_head_cht_v2"/>
+			<ItemVariableValue variable="chaos_warrior_head3" item="rp_warrior_head_cht_v3"/>
+			<ItemVariableValue variable="chaos_warrior_head4" item="rp_warrior_head_cht_v4"/>
+			<ItemVariableValue variable="chaos_warrior_head5" item="rp_warrior_head_cht_v5"/>
+			<ItemVariableValue variable="chaos_warrior_head6" item="rp_warrior_head_cht_v6"/>
+			<ItemVariableValue variable="chaos_warrior_head7" item="rp_warrior_head_cht_v7"/>
+			<ItemVariableValue variable="chaos_warrior_cape1" item="rp_warrior_cape_cht_v1"/>
+			<ItemVariableValue variable="chaos_warrior_cape2" item="rp_warrior_cape_cht_v2"/>
+			<ItemVariableValue variable="chaos_warrior_cape3" item="rp_warrior_cape_cht_v3"/>
+			<ItemVariableValue variable="chaos_warrior_body1" item="rp_warrior_body_cht_v1"/>
+			<ItemVariableValue variable="chaos_warrior_body2" item="rp_warrior_body_cht_v2"/>
+			<ItemVariableValue variable="chaos_warrior_body3" item="rp_warrior_body_cht_v3"/>
+			<ItemVariableValue variable="chaos_warrior_gloves1" item="rp_warrior_gloves_cht_v1"/>
+			<ItemVariableValue variable="chaos_warrior_gloves2" item="rp_warrior_gloves_cht_v2"/>
+			<ItemVariableValue variable="chaos_warrior_gloves3" item="rp_warrior_gloves_cht_v3"/>
+			<ItemVariableValue variable="chaos_warrior_leg1" item="rp_warrior_leg_cht_v1"/>
+			<ItemVariableValue variable="chaos_warrior_leg2" item="rp_warrior_leg_cht_v2"/>
+			<ItemVariableValue variable="chaos_warrior_leg3" item="rp_warrior_leg_cht_v3"/>
+
+			<ItemVariableValue variable="chaos_lord_1h_sword" item="rp_chaos_lord_1h_sword_cht"/>
+			<ItemVariableValue variable="chaos_lord_1h_mace" item="rp_chaos_lord_1h_mace_cht"/>
+			<ItemVariableValue variable="chaos_lord_glaive" item="rp_chaos_lord_glaive_cht"/>
+			<ItemVariableValue variable="chaos_lord_2h_sword" item="rp_chaos_lord_2h_sword_cht"/>
+			<ItemVariableValue variable="chaos_lord_2h_mace" item="rp_chaos_lord_2h_mace_cht"/>
+			<ItemVariableValue variable="chaos_lord_2h_axe" item="rp_chaos_lord_2h_axe_cht"/>
+			<ItemVariableValue variable="chaos_chosen_head" item="rp_chosen_head_cht"/>
+			<ItemVariableValue variable="chaos_chosen_cape" item="rp_chosen_cape_cht"/>
+			<ItemVariableValue variable="chaos_chosen_body" item="rp_chosen_body_cht"/>
+			<ItemVariableValue variable="chaos_chosen_gloves" item="rp_chosen_gloves_cht"/>
+			<ItemVariableValue variable="chaos_chosen_leg" item="rp_chosen_leg_cht"/>
+
+			<ItemVariableValue variable="chaos_warrior_horseharness1" item="rp_warrior_horseharness_cht_v1"/>
+			<ItemVariableValue variable="chaos_warrior_horseharness2" item="rp_warrior_horseharness_cht_v2"/>
+			
+			<ItemVariableValue variable="chaos_lord_head" item="rp_lord_head_cht"/>
+			<ItemVariableValue variable="chaos_lord_cape" item="rp_lord_cape_cht"/>
+			<ItemVariableValue variable="chaos_lord_body" item="rp_lord_body_cht"/>
+			<ItemVariableValue variable="chaos_lord_gloves" item="rp_lord_gloves_cht"/>
+			<ItemVariableValue variable="chaos_lord_leg" item="rp_lord_leg_cht"/>
+		</ItemVariableValues>
+		<UnitClasses>
+			<UnitClass id="cultist"/>
+			<UnitClass id="cultist_leader"/>
+			<UnitClass id="marauder"/>
+			<UnitClass id="marauder_chieftain"/>
+			<UnitClass id="chaos_warrior"/>
+			<UnitClass id="chaos_chosen"/>
+			<UnitClass id="cultist_archer"/>
+			<UnitClass id="marauder_horseman"/>
+			<UnitClass id="mounted_marauder_chieftain"/>
+			<UnitClass id="chaos_knight"/>
+			<UnitClass id="chaos_lord"/>
+			<UnitClass id="troll"/>
+		</UnitClasses>
+	</Clan>
 </Clans>
