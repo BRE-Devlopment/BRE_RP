@@ -13,19 +13,7 @@
 	</DependedModules>
 	<Xmls>
 		<XmlNode>
-			<XmlName id="ClanClasses" path="ClanClasses"/>
-			<IncludedGameTypes>
-				<GameType value = "MultiplayerGame"/>
-			</IncludedGameTypes>
-		</XmlNode>
-		<XmlNode>
 			<XmlName id="MPCharacters" path="characters"/>
-			<IncludedGameTypes>
-				<GameType value = "MultiplayerGame"/>
-			</IncludedGameTypes>
-		</XmlNode>
-		<XmlNode>
-			<XmlName id="MPClassDivisions" path="classdivisions"/>
 			<IncludedGameTypes>
 				<GameType value = "MultiplayerGame"/>
 			</IncludedGameTypes>
@@ -80,6 +68,24 @@
 		</XmlNode>
 		<XmlNode>
 			<XmlName id="PremadeBodyPropertiesLists" path="premade_bodyproperties" />
+			<IncludedGameTypes>
+				<GameType value = "MultiplayerGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName id="Clans" path="clans" />
+			<IncludedGameTypes>
+				<GameType value = "MultiplayerGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName id="UnitClasses" path="unit_classes" />
+			<IncludedGameTypes>
+				<GameType value = "MultiplayerGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName id="StatsPresets" path="stats_presets" />
 			<IncludedGameTypes>
 				<GameType value = "MultiplayerGame"/>
 			</IncludedGameTypes>

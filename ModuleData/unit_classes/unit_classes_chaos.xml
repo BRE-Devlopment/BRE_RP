@@ -1,0 +1,600 @@
+<UnitClasses>
+	<UnitClass
+		id="cultist"
+		name="Cultist"
+		character="human_infantry"
+		stats_preset="infantry_human_150hp">
+	    <UsableWeaponGroups>
+	      	<WeaponGroup id="human"/>
+	    </UsableWeaponGroups>
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_peasant_spear"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<VariableItem variable="cultist_shield1"/>
+		      	<VariableItem variable="cultist_shield2"/>
+		      	<VariableItem variable="cultist_shield3"/>
+		      	<VariableItem variable="cultist_banner1" disable_randomize="true" disable_group="Weapon0"/>
+		      	<VariableItem variable="cultist_banner2" disable_randomize="true" disable_group="Weapon0"/>
+		      	<VariableItem variable="cultist_banner3" disable_randomize="true" disable_group="Weapon0"/>
+		      	<VariableItem variable="cultist_banner4" disable_randomize="true" disable_group="Weapon0"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_peasant_mace"/>
+		      	<Item id="b2_peasant_axe"/>
+		      	<Item id="b2_peasant_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<VariableItem variable="cultist_head1"/>
+		      	<VariableItem variable="cultist_head2"/>
+		      	<VariableItem variable="cultist_head3"/>
+		    </Head>
+		    <Cape>
+		      	<VariableItem variable="cultist_cape1"/>
+		      	<VariableItem variable="cultist_cape2"/>
+		      	<VariableItem variable="cultist_cape3"/>
+		    </Cape>
+		    <Body>
+		      	<VariableItem variable="cultist_body1"/>
+		      	<VariableItem variable="cultist_body2"/>
+		      	<VariableItem variable="cultist_body3"/>
+		    </Body>
+		    <Gloves>
+		      	<VariableItem variable="cultist_gloves1"/>
+		      	<VariableItem variable="cultist_gloves2"/>
+		      	<VariableItem variable="cultist_gloves3"/>
+		    </Gloves>
+		    <Leg>
+		      	<VariableItem variable="cultist_leg1"/>
+		      	<VariableItem variable="cultist_leg2"/>
+		      	<VariableItem variable="cultist_leg3"/>
+		    </Leg>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="cultist_leader"
+		name="Cultist Leader"
+		character="human_infantry"
+		stats_preset="infantry_human_150hp">
+	    <UsableWeaponGroups>
+	      	<WeaponGroup id="human"/>
+	    </UsableWeaponGroups>
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b2_peasant_spear"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<VariableItem variable="cultist_shield1"/>
+		      	<VariableItem variable="cultist_shield2"/>
+		      	<VariableItem variable="cultist_shield3"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_peasant_mace"/>
+		      	<Item id="b2_peasant_axe"/>
+		      	<Item id="b2_peasant_sword"/>
+		    </Weapon2>
+		    <Head>
+		      	<VariableItem variable="cultist_leader_head"/>
+		    </Head>
+		    <Cape>
+		      	<VariableItem variable="cultist_cape1"/>
+		      	<VariableItem variable="cultist_cape2"/>
+		      	<VariableItem variable="cultist_cape3"/>
+		      	<VariableItem variable="cultist_leader_cape" disable_randomize="true"/>
+		    </Cape>
+		    <Body>
+		      	<VariableItem variable="cultist_leader_body"/>
+		    </Body>
+		    <Gloves>
+		      	<VariableItem variable="cultist_gloves1"/>
+		      	<VariableItem variable="cultist_gloves2"/>
+		      	<VariableItem variable="cultist_gloves3"/>
+		    </Gloves>
+		    <Leg>
+		      	<VariableItem variable="cultist_leg1"/>
+		      	<VariableItem variable="cultist_leg2"/>
+		      	<VariableItem variable="cultist_leg3"/>
+		    </Leg>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="marauder"
+		name="Marauder"
+		character="marauder_infantry"
+		stats_preset="infantry_marauder_250hp"
+    	premade_bodyproperties="marauder">
+	    <UsableWeaponGroups>
+	      	<WeaponGroup id="human"/>
+	    </UsableWeaponGroups>
+		<Equipment>
+			<Weapon0>
+		      	<Item id="rp_chaos_marauder_1h_sword"/>
+		      	<Item id="rp_chaos_marauder_1h_mace"/>
+		      	<Item id="rp_chaos_marauder_1h_axe"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<VariableItem variable="marauder_shield1"/>
+		      	<VariableItem variable="marauder_shield2"/>
+		      	<VariableItem variable="marauder_shield3"/>
+		      	<VariableItem variable="cultist_banner1" disable_randomize="true"/>
+		      	<VariableItem variable="cultist_banner2" disable_randomize="true"/>
+		      	<VariableItem variable="cultist_banner3" disable_randomize="true"/>
+		      	<VariableItem variable="cultist_banner4" disable_randomize="true"/>
+		    </Weapon1>
+		    <Head>
+		      	<VariableItem variable="marauder_head1"/>
+		      	<VariableItem variable="marauder_head2"/>
+		      	<VariableItem variable="marauder_head3"/>
+		    </Head>
+		    <Cape>
+		      	<VariableItem variable="marauder_cape1"/>
+		      	<VariableItem variable="marauder_cape2"/>
+		      	<VariableItem variable="marauder_cape3"/>
+		      	<Item id="null"/>
+		    </Cape>
+		    <Body>
+		      	<VariableItem variable="marauder_body1"/>
+		      	<VariableItem variable="marauder_body2"/>
+		      	<VariableItem variable="marauder_body3"/>
+		    </Body>
+		    <Gloves>
+		      	<VariableItem variable="marauder_gloves1"/>
+		      	<VariableItem variable="marauder_gloves2"/>
+		      	<VariableItem variable="marauder_gloves3"/>
+		    </Gloves>
+		    <Leg>
+		      	<VariableItem variable="marauder_leg1"/>
+		      	<VariableItem variable="marauder_leg2"/>
+		      	<VariableItem variable="marauder_leg3"/>
+		    </Leg>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="marauder_chieftain"
+		name="Marauder Chieftain"
+		character="marauder_infantry"
+		stats_preset="infantry_marauder_250hp"
+	    premade_bodyproperties="marauder_chieftain"
+	    selection_screen_character_size="1.06">
+	    <UsableWeaponGroups>
+	      	<WeaponGroup id="human"/>
+	    </UsableWeaponGroups>
+		<Equipment>
+			<Weapon0>
+		      	<Item id="rp_chaos_marauder_1h_sword"/>
+		      	<Item id="rp_chaos_marauder_1h_mace"/>
+		      	<Item id="rp_chaos_marauder_1h_axe"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<VariableItem variable="marauder_shield1"/>
+		      	<VariableItem variable="marauder_shield2"/>
+		      	<VariableItem variable="marauder_shield3"/>
+		    </Weapon1>
+		    <Head>
+		      	<VariableItem variable="marauder_chieftain_head"/>
+		    </Head>
+		    <Cape>
+		      	<Item id="mp_bearskin"/>
+		      	<Item id="null"/>
+		    </Cape>
+		    <Body>
+		      	<VariableItem variable="marauder_body1"/>
+		      	<VariableItem variable="marauder_body2"/>
+		      	<VariableItem variable="marauder_body3"/>
+		    </Body>
+		    <Gloves>
+		      	<VariableItem variable="marauder_gloves1"/>
+		      	<VariableItem variable="marauder_gloves2"/>
+		      	<VariableItem variable="marauder_gloves3"/>
+		    </Gloves>
+		    <Leg>
+		      	<VariableItem variable="marauder_leg1"/>
+		      	<VariableItem variable="marauder_leg2"/>
+		      	<VariableItem variable="marauder_leg3"/>
+		    </Leg>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="chaos_warrior"
+		name="Chaos Warrior"
+		character="chaos_warrior_infantry"
+		stats_preset="infantry_chaos_warrior_350hp"
+	    premade_bodyproperties="chaos_warrior"
+	    selection_screen_character_size="1.19">
+	    <UsableWeaponGroups>
+      		<WeaponGroup id="chaos_warrior"/>
+	    </UsableWeaponGroups>
+		<Equipment>
+			<Weapon0>
+		      	<Item id="rp_chaos_warrior_1h_sword"/>
+		      	<Item id="rp_chaos_warrior_1h_mace"/>
+		      	<Item id="rp_chaos_warrior_1h_axe"/>
+		      	<Item id="rp_chaos_warrior_1h_flail"/>
+		      	<Item id="rp_chaos_warrior_2h_sword" disable_randomize="true" disable_group="Weapon1"/>
+		      	<Item id="rp_chaos_warrior_2h_mace" disable_randomize="true" disable_group="Weapon1"/>
+		      	<Item id="rp_chaos_warrior_2h_axe" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<VariableItem variable="chaos_warrior_shield1"/>
+		      	<VariableItem variable="chaos_warrior_shield2"/>
+		      	<VariableItem variable="chaos_warrior_shield3"/>
+		      	<VariableItem variable="chaos_warrior_shield4"/>
+		      	<VariableItem variable="chaos_warrior_shield5"/>
+		      	<VariableItem variable="chaos_warrior_shield6"/>
+		      	<VariableItem variable="chaos_warrior_banner" disable_randomize="true"/>
+		    </Weapon1>
+		    <Head>
+		      	<VariableItem variable="chaos_warrior_head1"/>
+		      	<VariableItem variable="chaos_warrior_head2"/>
+		      	<VariableItem variable="chaos_warrior_head3"/>
+		      	<VariableItem variable="chaos_warrior_head4"/>
+		      	<VariableItem variable="chaos_warrior_head5"/>
+		      	<VariableItem variable="chaos_warrior_head6"/>
+		      	<VariableItem variable="chaos_warrior_head7"/>
+		    </Head>
+		    <Cape>
+		      	<VariableItem variable="chaos_warrior_cape1"/>
+		      	<VariableItem variable="chaos_warrior_cape2"/>
+		      	<VariableItem variable="chaos_warrior_cape3"/>
+		    </Cape>
+		    <Body>
+		      	<VariableItem variable="chaos_warrior_body1"/>
+		      	<VariableItem variable="chaos_warrior_body2"/>
+		      	<VariableItem variable="chaos_warrior_body3"/>
+		    </Body>
+		    <Gloves>
+		      	<VariableItem variable="chaos_warrior_gloves1"/>
+		      	<VariableItem variable="chaos_warrior_gloves2"/>
+		      	<VariableItem variable="chaos_warrior_gloves3"/>
+		    </Gloves>
+		    <Leg>
+		      	<VariableItem variable="chaos_warrior_leg1"/>
+		      	<VariableItem variable="chaos_warrior_leg2"/>
+		      	<VariableItem variable="chaos_warrior_leg3"/>
+		    </Leg>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="chaos_chosen"
+		name="Chaos Chosen"
+		character="chaos_warrior_infantry"
+		stats_preset="infantry_chaos_warrior_450hp"
+	    premade_bodyproperties="chaos_chosen"
+	    selection_screen_character_size="1.265">
+	    <UsableWeaponGroups>
+      		<WeaponGroup id="chaos_warrior"/>
+	    </UsableWeaponGroups>
+		<Equipment>
+			<Weapon0>
+		      	<VariableItem variable="chaos_lord_1h_sword"/>
+		      	<VariableItem variable="chaos_lord_1h_mace"/>
+		      	<VariableItem variable="chaos_lord_glaive"/>
+		      	<VariableItem variable="chaos_lord_2h_sword"/>
+		      	<VariableItem variable="chaos_lord_2h_mace"/>
+		      	<VariableItem variable="chaos_lord_2h_axe"/>
+			</Weapon0>
+		    <Head>
+		      	<VariableItem variable="chaos_chosen_head"/>
+		    </Head>
+		    <Cape>
+		      	<VariableItem variable="chaos_chosen_cape"/>
+		    </Cape>
+		    <Body>
+		      	<VariableItem variable="chaos_chosen_body"/>
+		    </Body>
+		    <Gloves>
+		      	<VariableItem variable="chaos_chosen_gloves"/>
+		    </Gloves>
+		    <Leg>
+		      	<VariableItem variable="chaos_chosen_leg"/>
+		    </Leg>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="cultist_archer"
+		name="Cultist Archer"
+		character="human_archer"
+		stats_preset="archer_human_150hp">
+	    <UsableWeaponGroups>
+	      	<WeaponGroup id="human_archer"/>
+	      	<WeaponGroup id="human"/>
+	    </UsableWeaponGroups>
+		<Equipment>
+		    <Weapon0>
+		      	<Item id="sp_cheap_bow"/>
+		    </Weapon0>
+		    <Weapon1>
+		      	<Item id="sprp_range_arrows"/>
+		      	<Item id="sp_arrows_fire"/>
+		    </Weapon1>
+		    <Weapon2>
+		      	<Item id="b2_peasant_axe"/>
+		      	<Item id="b2_peasant_sword"/>
+		      	<Item id="b2_peasant_dagger"/>
+		    </Weapon2>
+		    <Head>
+		      	<VariableItem variable="cultist_head1"/>
+		      	<VariableItem variable="cultist_head2"/>
+		      	<VariableItem variable="cultist_head3"/>
+		    </Head>
+		    <Cape>
+		      	<VariableItem variable="cultist_cape1"/>
+		      	<VariableItem variable="cultist_cape2"/>
+		      	<VariableItem variable="cultist_cape3"/>
+		    </Cape>
+		    <Body>
+		      	<VariableItem variable="cultist_body1"/>
+		      	<VariableItem variable="cultist_body2"/>
+		      	<VariableItem variable="cultist_body3"/>
+		    </Body>
+		    <Gloves>
+		      	<VariableItem variable="cultist_gloves1"/>
+		      	<VariableItem variable="cultist_gloves2"/>
+		      	<VariableItem variable="cultist_gloves3"/>
+		    </Gloves>
+		    <Leg>
+		      	<VariableItem variable="cultist_leg1"/>
+		      	<VariableItem variable="cultist_leg2"/>
+		      	<VariableItem variable="cultist_leg3"/>
+		    </Leg>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="marauder_horseman"
+		name="Marauder Horseman"
+		character="marauder_cavalry"
+		stats_preset="cavalry_marauder_250hp"
+    	premade_bodyproperties="marauder">
+	    <UsableWeaponGroups>
+	      	<WeaponGroup id="human"/>
+	    </UsableWeaponGroups>
+		<Equipment>
+			<Weapon0>
+		      	<Item id="rp_chaos_marauder_throwing_spear"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<VariableItem variable="marauder_shield1"/>
+		      	<VariableItem variable="marauder_shield2"/>
+		      	<VariableItem variable="marauder_shield3"/>
+		    </Weapon1>
+			<Weapon2>
+		      	<Item id="rp_chaos_marauder_1h_sword"/>
+		      	<Item id="rp_chaos_marauder_1h_mace"/>
+		      	<Item id="rp_chaos_marauder_1h_axe"/>
+			</Weapon2>
+		    <Head>
+		      	<VariableItem variable="marauder_head1"/>
+		      	<VariableItem variable="marauder_head2"/>
+		      	<VariableItem variable="marauder_head3"/>
+		    </Head>
+		    <Cape>
+		      	<VariableItem variable="marauder_cape1"/>
+		      	<VariableItem variable="marauder_cape2"/>
+		      	<VariableItem variable="marauder_cape3"/>
+		      	<Item id="null"/>
+		    </Cape>
+		    <Body>
+		      	<VariableItem variable="marauder_body1"/>
+		      	<VariableItem variable="marauder_body2"/>
+		      	<VariableItem variable="marauder_body3"/>
+		    </Body>
+		    <Gloves>
+		      	<VariableItem variable="marauder_gloves1"/>
+		      	<VariableItem variable="marauder_gloves2"/>
+		      	<VariableItem variable="marauder_gloves3"/>
+		    </Gloves>
+		    <Leg>
+		      	<VariableItem variable="marauder_leg1"/>
+		      	<VariableItem variable="marauder_leg2"/>
+		      	<VariableItem variable="marauder_leg3"/>
+		    </Leg>
+		    <HorseHarness>
+		      	<Item id="rp_marauder_horseharness_chx_v2"/>
+		    </HorseHarness>
+		    <Horse>
+		      	<Item id="rp_marauder_horse_chx"/>
+		    </Horse>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="mounted_marauder_chieftain"
+		name="Mounted Marauder Chieftain"
+		character="marauder_cavalry"
+		stats_preset="cavalry_marauder_250hp"
+    	premade_bodyproperties="marauder_chieftain"
+    	selection_screen_character_size="1.06">
+	    <UsableWeaponGroups>
+	      	<WeaponGroup id="human"/>
+	    </UsableWeaponGroups>
+		<Equipment>
+			<Weapon0>
+		      	<Item id="rp_chaos_marauder_throwing_spear"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<VariableItem variable="marauder_shield1"/>
+		      	<VariableItem variable="marauder_shield2"/>
+		      	<VariableItem variable="marauder_shield3"/>
+		    </Weapon1>
+			<Weapon2>
+		      	<Item id="rp_chaos_marauder_1h_sword"/>
+		      	<Item id="rp_chaos_marauder_1h_mace"/>
+		      	<Item id="rp_chaos_marauder_1h_axe"/>
+			</Weapon2>
+		    <Head>
+		      	<VariableItem variable="marauder_chieftain_head"/>
+		    </Head>
+		    <Cape>
+		      	<Item id="mp_bearskin"/>
+		      	<Item id="null"/>
+		    </Cape>
+		    <Body>
+		      	<VariableItem variable="marauder_body1"/>
+		      	<VariableItem variable="marauder_body2"/>
+		      	<VariableItem variable="marauder_body3"/>
+		    </Body>
+		    <Gloves>
+		      	<VariableItem variable="marauder_gloves1"/>
+		      	<VariableItem variable="marauder_gloves2"/>
+		      	<VariableItem variable="marauder_gloves3"/>
+		    </Gloves>
+		    <Leg>
+		      	<VariableItem variable="marauder_leg1"/>
+		      	<VariableItem variable="marauder_leg2"/>
+		      	<VariableItem variable="marauder_leg3"/>
+		    </Leg>
+		    <HorseHarness>
+		      	<Item id="rp_marauder_horseharness_chx_v1"/>
+		    </HorseHarness>
+		    <Horse>
+		      	<Item id="rp_marauder_horse_chx"/>
+		    </Horse>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="chaos_knight"
+		name="Chaos Knight"
+		character="chaos_warrior_cavalry"
+		stats_preset="cavalry_chaos_warrior_400hp"
+	    premade_bodyproperties="chaos_warrior"
+	    selection_screen_character_size="1.19">
+	    <UsableWeaponGroups>
+      		<WeaponGroup id="chaos_warrior"/>
+	    </UsableWeaponGroups>
+		<Equipment>
+			<Weapon0>
+		      	<Item id="rp_chaos_warrior_1h_sword"/>
+		      	<Item id="rp_chaos_warrior_1h_mace"/>
+		      	<Item id="rp_chaos_warrior_1h_axe"/>
+		      	<Item id="rp_chaos_warrior_1h_flail"/>
+		      	<Item id="rp_chaos_warrior_2h_sword" disable_randomize="true" disable_group="Weapon1"/>
+		      	<Item id="rp_chaos_warrior_2h_mace" disable_randomize="true" disable_group="Weapon1"/>
+		      	<Item id="rp_chaos_warrior_2h_axe" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<VariableItem variable="chaos_warrior_shield1"/>
+		      	<VariableItem variable="chaos_warrior_shield2"/>
+		      	<VariableItem variable="chaos_warrior_shield3"/>
+		      	<VariableItem variable="chaos_warrior_shield4"/>
+		      	<VariableItem variable="chaos_warrior_shield5"/>
+		      	<VariableItem variable="chaos_warrior_shield6"/>
+		    </Weapon1>
+		    <Head>
+		      	<VariableItem variable="chaos_warrior_head1"/>
+		      	<VariableItem variable="chaos_warrior_head2"/>
+		      	<VariableItem variable="chaos_warrior_head3"/>
+		      	<VariableItem variable="chaos_warrior_head4"/>
+		      	<VariableItem variable="chaos_warrior_head5"/>
+		      	<VariableItem variable="chaos_warrior_head6"/>
+		      	<VariableItem variable="chaos_warrior_head7"/>
+		    </Head>
+		    <Cape>
+		      	<VariableItem variable="chaos_warrior_cape1"/>
+		      	<VariableItem variable="chaos_warrior_cape2"/>
+		      	<VariableItem variable="chaos_warrior_cape3"/>
+		    </Cape>
+		    <Body>
+		      	<VariableItem variable="chaos_warrior_body1"/>
+		      	<VariableItem variable="chaos_warrior_body2"/>
+		      	<VariableItem variable="chaos_warrior_body3"/>
+		    </Body>
+		    <Gloves>
+		      	<VariableItem variable="chaos_warrior_gloves1"/>
+		      	<VariableItem variable="chaos_warrior_gloves2"/>
+		      	<VariableItem variable="chaos_warrior_gloves3"/>
+		    </Gloves>
+		    <Leg>
+		      	<VariableItem variable="chaos_warrior_leg1"/>
+		      	<VariableItem variable="chaos_warrior_leg2"/>
+		      	<VariableItem variable="chaos_warrior_leg3"/>
+		    </Leg>
+		    <HorseHarness>
+		      	<VariableItem variable="chaos_warrior_horseharness1"/>
+		      	<VariableItem variable="chaos_warrior_horseharness2"/>
+		    </HorseHarness>
+		    <Horse>
+		      	<Item id="rp_chaos_horse_chx"/>
+		    </Horse>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="chaos_lord"
+		name="Chaos Lord"
+		character="chaos_warrior_cavalry"
+		stats_preset="cavalry_chaos_warrior_500hp"
+	    premade_bodyproperties="chaos_lord"
+	    selection_screen_character_size="1.4">
+	    <UsableWeaponGroups>
+      		<WeaponGroup id="chaos_warrior"/>
+	    </UsableWeaponGroups>
+		<Equipment>
+			<Weapon0>
+		      	<VariableItem variable="chaos_lord_1h_sword"/>
+		      	<VariableItem variable="chaos_lord_1h_mace"/>
+		      	<VariableItem variable="chaos_lord_glaive" disable_randomize="true" disable_group="Weapon1"/>
+		      	<VariableItem variable="chaos_lord_2h_sword" disable_randomize="true" disable_group="Weapon1"/>
+		      	<VariableItem variable="chaos_lord_2h_mace" disable_randomize="true" disable_group="Weapon1"/>
+		      	<VariableItem variable="chaos_lord_2h_axe" disable_randomize="true" disable_group="Weapon1"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<VariableItem variable="chaos_warrior_shield1"/>
+		      	<VariableItem variable="chaos_warrior_shield2"/>
+		      	<VariableItem variable="chaos_warrior_shield3"/>
+		      	<VariableItem variable="chaos_warrior_shield4"/>
+		      	<VariableItem variable="chaos_warrior_shield5"/>
+		      	<VariableItem variable="chaos_warrior_shield6"/>
+		    </Weapon1>
+		    <Head>
+		      	<VariableItem variable="chaos_lord_head"/>
+		    </Head>
+		    <Cape>
+		      	<VariableItem variable="chaos_lord_cape"/>
+		    </Cape>
+		    <Body>
+		      	<VariableItem variable="chaos_lord_body"/>
+		    </Body>
+		    <Gloves>
+		      	<VariableItem variable="chaos_lord_gloves"/>
+		    </Gloves>
+		    <Leg>
+		      	<VariableItem variable="chaos_lord_leg"/>
+		    </Leg>
+		    <HorseHarness>
+		      	<VariableItem variable="chaos_warrior_horseharness1"/>
+		      	<VariableItem variable="chaos_warrior_horseharness2"/>
+		    </HorseHarness>
+		    <Horse>
+		      	<Item id="rp_chaos_horse_chx"/>
+		    </Horse>
+		</Equipment>
+	</UnitClass>
+	<UnitClass
+		id="troll"
+		name="Troll"
+		character="troll_infantry"
+		stats_preset="infantry_troll_1000hp"
+	    premade_bodyproperties="troll"
+	    selection_screen_character_size="2.0">
+	    <UsableWeaponGroups>
+	      	<WeaponGroup id="troll"/>
+	    </UsableWeaponGroups>
+	    <SpellCasting
+	      	max_mana="30.0"
+	      	mana_refill_amount="0.0">
+	      	<Spell id="troll_vomit"/>
+	      	<Spell id="troll_stomp"/>
+	    </SpellCasting>
+	    <PassiveEffect 
+	      	effect="Healing"
+	      	intensity="0.5"/>
+		<Equipment>
+			<Weapon0>
+		      	<Item id="rp_chaos_troll_mace"/>
+			</Weapon0>
+		    <Body>
+		      	<Item id="rp_troll_body"/>
+		      	<Item id="null"/>
+		    </Body>
+		</Equipment>
+	</UnitClass>
+</UnitClasses>
