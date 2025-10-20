@@ -193,7 +193,7 @@
 	<StatsPreset
 		id="cavalry_chaos_warrior_500hp"
 	    armor="50"
-	    hitpoints="400"
+	    hitpoints="500"
 	    movement_speed="0.80"
 	    combat_movement_speed="0.9"
 	    acceleration="2.4"
