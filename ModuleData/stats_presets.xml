@@ -7,6 +7,34 @@
 	    combat_movement_speed="0.9"
 	    acceleration="2.4"/>
 	<StatsPreset
+		id="infantry_human_200hp"
+	    armor="50"
+	    hitpoints="200"
+	    movement_speed="0.80"
+	    combat_movement_speed="0.9"
+	    acceleration="2.4"/>
+	<StatsPreset
+		id="infantry_human_250hp"
+	    armor="50"
+	    hitpoints="250"
+	    movement_speed="0.80"
+	    combat_movement_speed="0.9"
+	    acceleration="2.4"/>
+	<StatsPreset
+		id="infantry_human_300hp"
+	    armor="50"
+	    hitpoints="300"
+	    movement_speed="0.80"
+	    combat_movement_speed="0.9"
+	    acceleration="2.4"/>
+	<StatsPreset
+		id="infantry_human_350hp"
+	    armor="50"
+	    hitpoints="350"
+	    movement_speed="0.80"
+	    combat_movement_speed="0.9"
+	    acceleration="2.4"/>
+	<StatsPreset
 		id="infantry_marauder_250hp"
 	    armor="50"
 	    hitpoints="250"
@@ -59,6 +87,88 @@
 	    combat_movement_speed="0.9"
 	    acceleration="3.2"
 	    longer_bow_steady_period="true"/>
+	<StatsPreset
+		id="archer_human_200hp"
+	    armor="30"
+	    hitpoints="200"
+	    movement_speed="0.75"
+	    combat_movement_speed="0.9"
+	    acceleration="3.2"
+	    longer_bow_steady_period="true"/>
+	<StatsPreset
+		id="archer_human_250hp"
+	    armor="30"
+	    hitpoints="250"
+	    movement_speed="0.75"
+	    combat_movement_speed="0.9"
+	    acceleration="3.2"
+	    longer_bow_steady_period="true"/>
+	<StatsPreset
+		id="archer_human_300hp"
+	    armor="30"
+	    hitpoints="300"
+	    movement_speed="0.75"
+	    combat_movement_speed="0.9"
+	    acceleration="3.2"
+	    longer_bow_steady_period="true"/>
+	<StatsPreset
+		id="archer_human_350hp"
+	    armor="30"
+	    hitpoints="350"
+	    movement_speed="0.75"
+	    combat_movement_speed="0.9"
+	    acceleration="3.2"
+	    longer_bow_steady_period="true"/>
+	<StatsPreset
+		id="cavalry_human_250hp"
+	    armor="50"
+	    hitpoints="250"
+	    movement_speed="0.80"
+	    combat_movement_speed="0.9"
+	    acceleration="2.4"
+	    mounted_missile_protection="true"/>
+	<StatsPreset
+		id="cavalry_human_300hp"
+	    armor="50"
+	    hitpoints="300"
+	    movement_speed="0.80"
+	    combat_movement_speed="0.9"
+	    acceleration="2.4"
+	    mounted_missile_protection="true"/>
+	<StatsPreset
+		id="cavalry_human_350hp"
+	    armor="50"
+	    hitpoints="350"
+	    movement_speed="0.80"
+	    combat_movement_speed="0.9"
+	    acceleration="2.4"
+	    mounted_missile_protection="true"
+	    knocks_down_with_kick="true"
+		can_knockdown="true"
+    	slices_through="true"/>
+	<StatsPreset
+		id="cavalry_human_400hp"
+	    armor="50"
+	    hitpoints="400"
+	    movement_speed="0.80"
+	    combat_movement_speed="0.9"
+	    acceleration="2.4"
+	    mounted_missile_protection="true"
+	    knocks_down_with_kick="true"
+		can_knockdown="true"
+    	slices_through="true"/>
+	<StatsPreset
+		id="cavalry_human_500hp"
+	    armor="50"
+	    hitpoints="500"
+	    movement_speed="0.80"
+	    combat_movement_speed="0.9"
+	    acceleration="2.4"
+	    mounted_missile_protection="true"
+	    knocks_down_with_kick="true"
+		can_knockdown="true"
+    	slices_through="true"
+	    knockdown_resistant="true"/>
 	<StatsPreset
 		id="cavalry_marauder_250hp"
 	    armor="50"
