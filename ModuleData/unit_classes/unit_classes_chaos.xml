@@ -593,7 +593,6 @@
 			</Weapon0>
 		    <Body>
 		      	<Item id="rp_troll_body"/>
-		      	<Item id="null"/>
 		    </Body>
 		</Equipment>
 	</UnitClass>
