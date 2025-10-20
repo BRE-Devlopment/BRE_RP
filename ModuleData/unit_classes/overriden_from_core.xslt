@@ -226,6 +226,23 @@
     	<xsl:attribute name="stats_preset">infantry_human_350hp</xsl:attribute>
   	</xsl:template>
   	<!--KNIGHTS-->
+  	<!--BARONS AND ABOVE-->
+  	<xsl:template match="UnitClass[@id='louen_leoncoeur']/@stats_preset">
+    	<xsl:attribute name="stats_preset">cavalry_human_500hp</xsl:attribute>
+  	</xsl:template>
+  	<xsl:template match="UnitClass[@id='huebald_de_gasconnie']/@stats_preset">
+    	<xsl:attribute name="stats_preset">cavalry_human_500hp</xsl:attribute>
+  	</xsl:template>
+  	<xsl:template match="UnitClass[@id='armand_d_aquitanie']/@stats_preset">
+    	<xsl:attribute name="stats_preset">cavalry_human_500hp</xsl:attribute>
+  	</xsl:template>
+  	<xsl:template match="UnitClass[@id='malory_de_moussillon']/@stats_preset">
+    	<xsl:attribute name="stats_preset">cavalry_human_500hp</xsl:attribute>
+  	</xsl:template>
+  	<xsl:template match="UnitClass[@id='folcard_de_montfort']/@stats_preset">
+    	<xsl:attribute name="stats_preset">cavalry_human_500hp</xsl:attribute>
+  	</xsl:template>
+  	<!--KNIGHTS OF THE REALM-->
   	<xsl:template match="UnitClass[@id='theodoric_de_brionne']/@stats_preset">
     	<xsl:attribute name="stats_preset">cavalry_human_400hp</xsl:attribute>
   	</xsl:template>
