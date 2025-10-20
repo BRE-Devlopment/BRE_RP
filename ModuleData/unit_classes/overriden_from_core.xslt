@@ -28,6 +28,7 @@
   	</xsl:template>
   	<xsl:template match="UnitClass[@id='mounted_sergeant']/@stats_preset">
     	<xsl:attribute name="stats_preset">cavalry_human_250hp</xsl:attribute>
+    </xsl:template>
   	<xsl:template match="UnitClass[@id='squire']/@stats_preset">
     	<xsl:attribute name="stats_preset">cavalry_human_300hp</xsl:attribute>
   	</xsl:template>
@@ -55,6 +56,7 @@
   	</xsl:template>
   	<xsl:template match="UnitClass[@id='mounted_sergeant_moussillon']/@stats_preset">
     	<xsl:attribute name="stats_preset">cavalry_human_250hp</xsl:attribute>
+    </xsl:template>
   	<xsl:template match="UnitClass[@id='squire_moussillon']/@stats_preset">
     	<xsl:attribute name="stats_preset">cavalry_human_300hp</xsl:attribute>
   	</xsl:template>
