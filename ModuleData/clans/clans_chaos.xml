@@ -4,6 +4,7 @@
 		name="Chaos Undivided"
 	    color1="FF1f1f1f"
 	    color2="FFefede3"
+	    faction="chaos"
 	    banner="11.604.604.1536.1536.764.764.1.0.0.6004.605.605.500.500.764.764.1.0.0">
 		<ItemVariableValues>
 			<ItemVariableValue variable="cultist_shield1" item="rp_cultist_shield_chu_v1"/>
@@ -122,6 +123,7 @@
 		name="Followers of Khorne"
 	    color1="FF5c1710"
 	    color2="FFefede3"
+	    faction="chaos"
 	    banner="11.600.600.1536.1536.764.764.1.0.0.6000.605.605.500.500.764.764.1.0.0">
 		<ItemVariableValues>
 			<ItemVariableValue variable="cultist_shield1" item="rp_cultist_shield_chk_v1"/>
@@ -240,6 +242,7 @@
 		name="Followers of Nurgle"
 	    color1="FFdab42b"
 	    color2="FF1f1a19"
+	    faction="chaos"
 	    banner="11.601.601.1536.1536.764.764.1.0.0.6001.605.605.500.500.764.764.1.0.0">
 		<ItemVariableValues>
 			<ItemVariableValue variable="cultist_shield1" item="rp_cultist_shield_chn_v1"/>
@@ -358,6 +361,7 @@
 		name="Followers of Slaanesh"
 	    color1="FFdab42b"
 	    color2="FF1f1a19"
+	    faction="chaos"
 	    banner="11.602.602.1536.1536.764.764.1.0.0.6002.605.605.500.500.764.764.1.0.0">
 		<ItemVariableValues>
 			<ItemVariableValue variable="cultist_shield1" item="rp_cultist_shield_chs_v1"/>
@@ -476,6 +480,7 @@
 		name="Followers of Tzeentch"
 	    color1="FFdab42b"
 	    color2="FF1f1a19"
+	    faction="chaos"
 	    banner="11.603.603.1536.1536.764.764.1.0.0.6003.605.605.500.500.764.764.1.0.0">
 		<ItemVariableValues>
 			<ItemVariableValue variable="cultist_shield1" item="rp_cultist_shield_cht_v1"/>
