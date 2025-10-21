@@ -242,6 +242,9 @@
   	<xsl:template match="UnitClass[@id='folcard_de_montfort']/@stats_preset">
     	<xsl:attribute name="stats_preset">cavalry_human_500hp</xsl:attribute>
   	</xsl:template>
+    <xsl:template match="UnitClass[@id='cassyon_de_parravon']/@stats_preset">
+        <xsl:attribute name="stats_preset">cavalry_human_500hp</xsl:attribute>
+    </xsl:template>
   	<!--KNIGHTS OF THE REALM-->
   	<xsl:template match="UnitClass[@id='theodoric_de_brionne']/@stats_preset">
     	<xsl:attribute name="stats_preset">cavalry_human_400hp</xsl:attribute>
