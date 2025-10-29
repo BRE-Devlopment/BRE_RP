@@ -5,9 +5,22 @@
     	</xsl:copy>
   	</xsl:template>
   	<!--BASE-->
-  	<xsl:template match="UnitClass[@id='armed_peasant']/@stats_preset">
+    <xsl:template match="UnitClass[@id='armed_peasant']">
+        <xsl:copy>
+            <xsl:apply-templates select="@*[name() != 'stats_preset']"/>
+            <xsl:attribute name="stats_preset">infantry_human_150hp</xsl:attribute>
+            <xsl:attribute name="armament_cost">0</xsl:attribute>
+            <xsl:apply-templates select="node()"/>
+            <SelectableStatsPresets>
+                <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+            </SelectableStatsPresets>
+        </xsl:copy>
+    </xsl:template>
+  	<!--<xsl:template match="UnitClass[@id='armed_peasant']/@stats_preset">
     	<xsl:attribute name="stats_preset">infantry_human_150hp</xsl:attribute>
-  	</xsl:template>
+  	</xsl:template>-->
   	<xsl:template match="UnitClass[@id='man_at_arms']/@stats_preset">
     	<xsl:attribute name="stats_preset">infantry_human_200hp</xsl:attribute>
   	</xsl:template>
