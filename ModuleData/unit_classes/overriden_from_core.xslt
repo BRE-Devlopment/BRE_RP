@@ -18,33 +18,110 @@
             </SelectableStatsPresets>
         </xsl:copy>
     </xsl:template>
-  	<!--<xsl:template match="UnitClass[@id='armed_peasant']/@stats_preset">
-    	<xsl:attribute name="stats_preset">infantry_human_150hp</xsl:attribute>
-  	</xsl:template>-->
-  	<xsl:template match="UnitClass[@id='man_at_arms']/@stats_preset">
-    	<xsl:attribute name="stats_preset">infantry_human_200hp</xsl:attribute>
-  	</xsl:template>
-  	<xsl:template match="UnitClass[@id='sergeant_at_arms']/@stats_preset">
-    	<xsl:attribute name="stats_preset">infantry_human_250hp</xsl:attribute>
-  	</xsl:template>
-  	<xsl:template match="UnitClass[@id='captain']/@stats_preset">
-    	<xsl:attribute name="stats_preset">infantry_human_350hp</xsl:attribute>
-  	</xsl:template>
-  	<xsl:template match="UnitClass[@id='peasant_archer']/@stats_preset">
-    	<xsl:attribute name="stats_preset">archer_human_150hp</xsl:attribute>
-  	</xsl:template>
-  	<xsl:template match="UnitClass[@id='free_archer']/@stats_preset">
-    	<xsl:attribute name="stats_preset">archer_human_200hp</xsl:attribute>
-  	</xsl:template>
-  	<xsl:template match="UnitClass[@id='master_archer']/@stats_preset">
-    	<xsl:attribute name="stats_preset">archer_human_250hp</xsl:attribute>
-  	</xsl:template>
-  	<xsl:template match="UnitClass[@id='mounted_sergeant']/@stats_preset">
-    	<xsl:attribute name="stats_preset">cavalry_human_250hp</xsl:attribute>
+    <xsl:template match="UnitClass[@id='man_at_arms']">
+        <xsl:copy>
+            <xsl:apply-templates select="@*[name() != 'stats_preset']"/>
+            <xsl:attribute name="stats_preset">infantry_human_200hp</xsl:attribute>
+            <xsl:attribute name="armament_cost">0</xsl:attribute>
+            <xsl:apply-templates select="node()"/>
+            <SelectableStatsPresets>
+                <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+            </SelectableStatsPresets>
+        </xsl:copy>
     </xsl:template>
-  	<xsl:template match="UnitClass[@id='squire']/@stats_preset">
-    	<xsl:attribute name="stats_preset">cavalry_human_300hp</xsl:attribute>
-  	</xsl:template>
+    <xsl:template match="UnitClass[@id='sergeant_at_arms']">
+        <xsl:copy>
+            <xsl:apply-templates select="@*[name() != 'stats_preset']"/>
+            <xsl:attribute name="stats_preset">infantry_human_250hp</xsl:attribute>
+            <xsl:attribute name="armament_cost">0</xsl:attribute>
+            <xsl:apply-templates select="node()"/>
+            <SelectableStatsPresets>
+                <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+            </SelectableStatsPresets>
+        </xsl:copy>
+    </xsl:template>
+    <xsl:template match="UnitClass[@id='captain']">
+        <xsl:copy>
+            <xsl:apply-templates select="@*[name() != 'stats_preset']"/>
+            <xsl:attribute name="stats_preset">infantry_human_350hp</xsl:attribute>
+            <xsl:attribute name="armament_cost">0</xsl:attribute>
+            <xsl:apply-templates select="node()"/>
+            <SelectableStatsPresets>
+                <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+            </SelectableStatsPresets>
+        </xsl:copy>
+    </xsl:template>
+    <xsl:template match="UnitClass[@id='peasant_archer']">
+        <xsl:copy>
+            <xsl:apply-templates select="@*[name() != 'stats_preset']"/>
+            <xsl:attribute name="stats_preset">archer_human_150hp</xsl:attribute>
+            <xsl:attribute name="armament_cost">5</xsl:attribute>
+            <xsl:apply-templates select="node()"/>
+            <SelectableStatsPresets>
+                <StatsPreset id="archer_human_150hp" armament_cost="0"/>
+                <StatsPreset id="archer_human_200hp" armament_cost="5"/>
+                <StatsPreset id="archer_human_250hp" armament_cost="10"/>
+            </SelectableStatsPresets>
+        </xsl:copy>
+    </xsl:template>
+    <xsl:template match="UnitClass[@id='free_archer']">
+        <xsl:copy>
+            <xsl:apply-templates select="@*[name() != 'stats_preset']"/>
+            <xsl:attribute name="stats_preset">archer_human_200hp</xsl:attribute>
+            <xsl:attribute name="armament_cost">5</xsl:attribute>
+            <xsl:apply-templates select="node()"/>
+            <SelectableStatsPresets>
+                <StatsPreset id="archer_human_150hp" armament_cost="0"/>
+                <StatsPreset id="archer_human_200hp" armament_cost="5"/>
+                <StatsPreset id="archer_human_250hp" armament_cost="10"/>
+            </SelectableStatsPresets>
+        </xsl:copy>
+    </xsl:template>
+    <xsl:template match="UnitClass[@id='master_archer']">
+        <xsl:copy>
+            <xsl:apply-templates select="@*[name() != 'stats_preset']"/>
+            <xsl:attribute name="stats_preset">archer_human_250hp</xsl:attribute>
+            <xsl:attribute name="armament_cost">5</xsl:attribute>
+            <xsl:apply-templates select="node()"/>
+            <SelectableStatsPresets>
+                <StatsPreset id="archer_human_150hp" armament_cost="0"/>
+                <StatsPreset id="archer_human_200hp" armament_cost="5"/>
+                <StatsPreset id="archer_human_250hp" armament_cost="10"/>
+            </SelectableStatsPresets>
+        </xsl:copy>
+    </xsl:template>
+    <xsl:template match="UnitClass[@id='mounted_sergeant']">
+        <xsl:copy>
+            <xsl:apply-templates select="@*[name() != 'stats_preset']"/>
+            <xsl:attribute name="stats_preset">cavalry_human_250hp</xsl:attribute>
+            <xsl:attribute name="armament_cost">0</xsl:attribute>
+            <xsl:apply-templates select="node()"/>
+            <SelectableStatsPresets>
+                <StatsPreset id="cavalry_human_150hp" armament_cost="0"/>
+                <StatsPreset id="cavalry_human_200hp" armament_cost="5"/>
+                <StatsPreset id="cavalry_human_250hp" armament_cost="10"/>
+            </SelectableStatsPresets>
+        </xsl:copy>
+    </xsl:template>
+    <xsl:template match="UnitClass[@id='squire']">
+        <xsl:copy>
+            <xsl:apply-templates select="@*[name() != 'stats_preset']"/>
+            <xsl:attribute name="stats_preset">cavalry_human_300hp</xsl:attribute>
+            <xsl:attribute name="armament_cost">0</xsl:attribute>
+            <xsl:apply-templates select="node()"/>
+            <SelectableStatsPresets>
+                <StatsPreset id="cavalry_human_150hp" armament_cost="0"/>
+                <StatsPreset id="cavalry_human_200hp" armament_cost="5"/>
+                <StatsPreset id="cavalry_human_250hp" armament_cost="10"/>
+            </SelectableStatsPresets>
+        </xsl:copy>
+    </xsl:template>
   	<!--BASE-MOUSSILLON VERSION-->
   	<xsl:template match="UnitClass[@id='armed_peasant_moussillon']/@stats_preset">
     	<xsl:attribute name="stats_preset">infantry_human_150hp</xsl:attribute>

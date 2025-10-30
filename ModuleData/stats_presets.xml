@@ -120,6 +120,22 @@
 	    acceleration="3.2"
 	    longer_bow_steady_period="true"/>
 	<StatsPreset
+		id="cavalry_human_150hp"
+	    armor="50"
+	    hitpoints="150"
+	    movement_speed="0.80"
+	    combat_movement_speed="0.9"
+	    acceleration="2.4"
+	    mounted_missile_protection="true"/>
+	<StatsPreset
+		id="cavalry_human_200hp"
+	    armor="50"
+	    hitpoints="200"
+	    movement_speed="0.80"
+	    combat_movement_speed="0.9"
+	    acceleration="2.4"
+	    mounted_missile_protection="true"/>
+	<StatsPreset
 		id="cavalry_human_250hp"
 	    armor="50"
 	    hitpoints="250"
