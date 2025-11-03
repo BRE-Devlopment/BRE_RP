@@ -13,8 +13,8 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -29,8 +29,8 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -45,8 +45,8 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -61,8 +61,8 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -77,8 +77,8 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="archer_human_150hp" armament_cost="0"/>
-                <StatsPreset id="archer_human_200hp" armament_cost="5"/>
-                <StatsPreset id="archer_human_250hp" armament_cost="10"/>
+                <StatsPreset id="archer_human_200hp" armament_cost="10"/>
+                <StatsPreset id="archer_human_250hp" armament_cost="25"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -94,8 +94,8 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="archer_human_150hp" armament_cost="0"/>
-                <StatsPreset id="archer_human_200hp" armament_cost="5"/>
-                <StatsPreset id="archer_human_250hp" armament_cost="10"/>
+                <StatsPreset id="archer_human_200hp" armament_cost="10"/>
+                <StatsPreset id="archer_human_250hp" armament_cost="25"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -111,8 +111,8 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="archer_human_150hp" armament_cost="0"/>
-                <StatsPreset id="archer_human_200hp" armament_cost="5"/>
-                <StatsPreset id="archer_human_250hp" armament_cost="10"/>
+                <StatsPreset id="archer_human_200hp" armament_cost="10"/>
+                <StatsPreset id="archer_human_250hp" armament_cost="25"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -128,8 +128,8 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="cavalry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="cavalry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="cavalry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="cavalry_human_200hp" armament_cost="20"/>
+                <StatsPreset id="cavalry_human_250hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -154,8 +154,8 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="cavalry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="cavalry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="cavalry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="cavalry_human_200hp" armament_cost="20"/>
+                <StatsPreset id="cavalry_human_250hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -181,8 +181,8 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -197,8 +197,8 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -213,8 +213,8 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -229,8 +229,8 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -245,8 +245,8 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="archer_human_150hp" armament_cost="0"/>
-                <StatsPreset id="archer_human_200hp" armament_cost="5"/>
-                <StatsPreset id="archer_human_250hp" armament_cost="10"/>
+                <StatsPreset id="archer_human_200hp" armament_cost="10"/>
+                <StatsPreset id="archer_human_250hp" armament_cost="25"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -262,8 +262,8 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="archer_human_150hp" armament_cost="0"/>
-                <StatsPreset id="archer_human_200hp" armament_cost="5"/>
-                <StatsPreset id="archer_human_250hp" armament_cost="10"/>
+                <StatsPreset id="archer_human_200hp" armament_cost="10"/>
+                <StatsPreset id="archer_human_250hp" armament_cost="25"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -279,8 +279,8 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="archer_human_150hp" armament_cost="0"/>
-                <StatsPreset id="archer_human_200hp" armament_cost="5"/>
-                <StatsPreset id="archer_human_250hp" armament_cost="10"/>
+                <StatsPreset id="archer_human_200hp" armament_cost="10"/>
+                <StatsPreset id="archer_human_250hp" armament_cost="25"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -296,8 +296,8 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="cavalry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="cavalry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="cavalry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="cavalry_human_200hp" armament_cost="20"/>
+                <StatsPreset id="cavalry_human_250hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -322,8 +322,8 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="cavalry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="cavalry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="cavalry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="cavalry_human_200hp" armament_cost="20"/>
+                <StatsPreset id="cavalry_human_250hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -348,6 +348,12 @@
       		<xsl:attribute name="stats_preset">archer_human_300hp</xsl:attribute>
             <xsl:attribute name="armament_cost">0</xsl:attribute>
       		<xsl:apply-templates select="node()"/>
+            <SelectableStatsPresets>
+                <StatsPreset id="archer_human_150hp" armament_cost="0"/>
+                <StatsPreset id="archer_human_200hp" armament_cost="10"/>
+                <StatsPreset id="archer_human_250hp" armament_cost="25"/>
+                <StatsPreset id="archer_human_300hp" armament_cost="45"/>
+            </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
                 <WeaponGroup id="human_archer"/>
@@ -361,6 +367,12 @@
       		<xsl:attribute name="stats_preset">archer_human_300hp</xsl:attribute>
             <xsl:attribute name="armament_cost">0</xsl:attribute>
       		<xsl:apply-templates select="node()"/>
+            <SelectableStatsPresets>
+                <StatsPreset id="archer_human_150hp" armament_cost="0"/>
+                <StatsPreset id="archer_human_200hp" armament_cost="10"/>
+                <StatsPreset id="archer_human_250hp" armament_cost="25"/>
+                <StatsPreset id="archer_human_300hp" armament_cost="45"/>
+            </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
                 <WeaponGroup id="human_archer"/>
@@ -374,6 +386,12 @@
       		<xsl:attribute name="stats_preset">archer_human_350hp</xsl:attribute>
             <xsl:attribute name="armament_cost">0</xsl:attribute>
       		<xsl:apply-templates select="node()"/>
+            <SelectableStatsPresets>
+                <StatsPreset id="archer_human_150hp" armament_cost="0"/>
+                <StatsPreset id="archer_human_200hp" armament_cost="10"/>
+                <StatsPreset id="archer_human_250hp" armament_cost="25"/>
+                <StatsPreset id="archer_human_300hp" armament_cost="45"/>
+            </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
                 <WeaponGroup id="human_archer"/>
@@ -392,8 +410,9 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
+                <StatsPreset id="infantry_human_300hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -408,8 +427,9 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
+                <StatsPreset id="infantry_human_300hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -424,8 +444,9 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
+                <StatsPreset id="infantry_human_300hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -440,8 +461,9 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
+                <StatsPreset id="infantry_human_300hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -456,8 +478,9 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
+                <StatsPreset id="infantry_human_300hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -620,8 +643,9 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
+                <StatsPreset id="infantry_human_300hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -636,8 +660,9 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
+                <StatsPreset id="infantry_human_300hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -652,8 +677,9 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
+                <StatsPreset id="infantry_human_300hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -669,8 +695,9 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
+                <StatsPreset id="infantry_human_300hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -685,8 +712,9 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
+                <StatsPreset id="infantry_human_300hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -701,8 +729,9 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
+                <StatsPreset id="infantry_human_300hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -718,8 +747,9 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
+                <StatsPreset id="infantry_human_300hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -734,8 +764,9 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
+                <StatsPreset id="infantry_human_300hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -750,8 +781,9 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
+                <StatsPreset id="infantry_human_300hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -767,8 +799,9 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
+                <StatsPreset id="infantry_human_300hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -783,8 +816,9 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
+                <StatsPreset id="infantry_human_300hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -799,8 +833,9 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
+                <StatsPreset id="infantry_human_300hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -816,8 +851,9 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
+                <StatsPreset id="infantry_human_300hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -832,8 +868,9 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
+                <StatsPreset id="infantry_human_300hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -848,8 +885,9 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
+                <StatsPreset id="infantry_human_300hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -865,8 +903,9 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
+                <StatsPreset id="infantry_human_300hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -881,8 +920,9 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
+                <StatsPreset id="infantry_human_300hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -897,8 +937,9 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
+                <StatsPreset id="infantry_human_300hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -914,8 +955,9 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
+                <StatsPreset id="infantry_human_300hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -930,8 +972,9 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
+                <StatsPreset id="infantry_human_300hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -946,8 +989,9 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
+                <StatsPreset id="infantry_human_300hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -963,8 +1007,9 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
+                <StatsPreset id="infantry_human_300hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -979,8 +1024,9 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
+                <StatsPreset id="infantry_human_300hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -995,8 +1041,9 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
+                <StatsPreset id="infantry_human_300hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -1012,8 +1059,9 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
+                <StatsPreset id="infantry_human_300hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -1028,8 +1076,9 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
+                <StatsPreset id="infantry_human_300hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -1044,8 +1093,9 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
+                <StatsPreset id="infantry_human_300hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -1061,8 +1111,9 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
+                <StatsPreset id="infantry_human_300hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -1077,8 +1128,9 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
+                <StatsPreset id="infantry_human_300hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
@@ -1093,8 +1145,9 @@
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
                 <StatsPreset id="infantry_human_150hp" armament_cost="0"/>
-                <StatsPreset id="infantry_human_200hp" armament_cost="5"/>
-                <StatsPreset id="infantry_human_250hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_200hp" armament_cost="10"/>
+                <StatsPreset id="infantry_human_250hp" armament_cost="25"/>
+                <StatsPreset id="infantry_human_300hp" armament_cost="45"/>
             </SelectableStatsPresets>
             <UsableWeaponGroups>
                 <WeaponGroup id="human"/>
