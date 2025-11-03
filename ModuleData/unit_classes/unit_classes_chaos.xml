@@ -3,7 +3,8 @@
 		id="cultist"
 		name="Cultist"
 		character="human_infantry"
-		stats_preset="infantry_human_150hp">
+		stats_preset="infantry_human_150hp"
+		armament_cost="0">
 	    <UsableWeaponGroups>
 	      	<WeaponGroup id="human"/>
 	    </UsableWeaponGroups>
@@ -56,7 +57,8 @@
 		id="cultist_leader"
 		name="Cultist Leader"
 		character="human_infantry"
-		stats_preset="infantry_human_150hp">
+		stats_preset="infantry_human_150hp"
+		armament_cost="0">
 	    <UsableWeaponGroups>
 	      	<WeaponGroup id="human"/>
 	    </UsableWeaponGroups>
@@ -103,7 +105,8 @@
 		name="Marauder"
 		character="marauder_infantry"
 		stats_preset="infantry_marauder_250hp"
-    	premade_bodyproperties="marauder">
+    	premade_bodyproperties="marauder"
+		armament_cost="15">
 	    <UsableWeaponGroups>
 	      	<WeaponGroup id="human"/>
 	    </UsableWeaponGroups>
@@ -156,7 +159,8 @@
 		character="marauder_infantry"
 		stats_preset="infantry_marauder_250hp"
 	    premade_bodyproperties="marauder_chieftain"
-	    selection_screen_character_size="1.06">
+	    selection_screen_character_size="1.06"
+		armament_cost="15">
 	    <UsableWeaponGroups>
 	      	<WeaponGroup id="human"/>
 	    </UsableWeaponGroups>
@@ -201,7 +205,8 @@
 		character="chaos_warrior_infantry"
 		stats_preset="infantry_chaos_warrior_350hp"
 	    premade_bodyproperties="chaos_warrior"
-	    selection_screen_character_size="1.19">
+	    selection_screen_character_size="1.19"
+		armament_cost="40">
 	    <UsableWeaponGroups>
       		<WeaponGroup id="chaos_warrior"/>
 	    </UsableWeaponGroups>
@@ -261,7 +266,8 @@
 		character="chaos_warrior_infantry"
 		stats_preset="infantry_chaos_warrior_450hp"
 	    premade_bodyproperties="chaos_chosen"
-	    selection_screen_character_size="1.265">
+	    selection_screen_character_size="1.265"
+		armament_cost="55">
 	    <UsableWeaponGroups>
       		<WeaponGroup id="chaos_warrior"/>
 	    </UsableWeaponGroups>
@@ -295,7 +301,8 @@
 		id="cultist_archer"
 		name="Cultist Archer"
 		character="human_archer"
-		stats_preset="archer_human_150hp">
+		stats_preset="archer_human_150hp"
+		armament_cost="5">
 	    <UsableWeaponGroups>
 	      	<WeaponGroup id="human_archer"/>
 	      	<WeaponGroup id="human"/>
@@ -345,7 +352,8 @@
 		name="Marauder Horseman"
 		character="marauder_cavalry"
 		stats_preset="cavalry_marauder_250hp"
-    	premade_bodyproperties="marauder">
+    	premade_bodyproperties="marauder"
+		armament_cost="15">
 	    <UsableWeaponGroups>
 	      	<WeaponGroup id="human"/>
 	    </UsableWeaponGroups>
@@ -403,7 +411,8 @@
 		character="marauder_cavalry"
 		stats_preset="cavalry_marauder_250hp"
     	premade_bodyproperties="marauder_chieftain"
-    	selection_screen_character_size="1.06">
+    	selection_screen_character_size="1.06"
+		armament_cost="15">
 	    <UsableWeaponGroups>
 	      	<WeaponGroup id="human"/>
 	    </UsableWeaponGroups>
@@ -457,7 +466,8 @@
 		character="chaos_warrior_cavalry"
 		stats_preset="cavalry_chaos_warrior_400hp"
 	    premade_bodyproperties="chaos_warrior"
-	    selection_screen_character_size="1.19">
+	    selection_screen_character_size="1.19"
+		armament_cost="0">
 	    <UsableWeaponGroups>
       		<WeaponGroup id="chaos_warrior"/>
 	    </UsableWeaponGroups>
@@ -523,7 +533,8 @@
 		character="chaos_warrior_cavalry"
 		stats_preset="cavalry_chaos_warrior_500hp"
 	    premade_bodyproperties="chaos_lord"
-	    selection_screen_character_size="1.4">
+	    selection_screen_character_size="1.4"
+		armament_cost="0">
 	    <UsableWeaponGroups>
       		<WeaponGroup id="chaos_warrior"/>
 	    </UsableWeaponGroups>
@@ -574,7 +585,8 @@
 		character="troll_infantry"
 		stats_preset="infantry_troll_1000hp"
 	    premade_bodyproperties="troll"
-	    selection_screen_character_size="2.0">
+	    selection_screen_character_size="2.0"
+		armament_cost="200">
 	    <UsableWeaponGroups>
 	      	<WeaponGroup id="troll"/>
 	    </UsableWeaponGroups>

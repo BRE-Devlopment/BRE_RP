@@ -25,6 +25,7 @@
 	    acceleration="2.4"/>
 	<StatsPreset
 		id="infantry_human_300hp"
+		name="Lvl4"
 	    armor="50"
 	    hitpoints="300"
 	    movement_speed="0.80"
@@ -111,6 +112,7 @@
 	    longer_bow_steady_period="true"/>
 	<StatsPreset
 		id="archer_human_300hp"
+		name="Lvl4"
 	    armor="30"
 	    hitpoints="300"
 	    movement_speed="0.75"
