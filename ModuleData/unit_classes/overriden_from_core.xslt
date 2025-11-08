@@ -508,6 +508,27 @@
             <Item id="rp_horse_heavy_white"/>
         </Horse>
     </xsl:template>
+    <xsl:template match="UnitClass[@id='archas_de_vauclair']">
+        <xsl:copy>
+            <xsl:apply-templates select="@*[name() != 'stats_preset']"/>
+            <xsl:attribute name="stats_preset">cavalry_human_400hp</xsl:attribute>
+            <xsl:attribute name="armament_cost">0</xsl:attribute>
+            <xsl:apply-templates select="node()"/>
+            <UsableWeaponGroups>
+                <WeaponGroup id="human"/>
+            </UsableWeaponGroups>
+        </xsl:copy>
+    </xsl:template>
+    <xsl:template match="UnitClass[@id='archas_de_vauclair']/Equipment/Horse">
+        <Horse>
+            <Item id="rp_horse_heavy_darkgrey"/>
+            <Item id="rp_horse_heavy_black"/>
+            <Item id="rp_horse_heavy_gold"/>
+            <Item id="rp_horse_heavy_brown"/>
+            <Item id="rp_horse_heavy_grey"/>
+            <Item id="rp_horse_heavy_white"/>
+        </Horse>
+    </xsl:template>
     <xsl:template match="UnitClass[@id='order_commander']">
         <xsl:copy>
             <xsl:apply-templates select="@*[name() != 'stats_preset']"/>
