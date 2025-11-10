@@ -65,6 +65,8 @@
       <UsablePiece piece_id="b3_chaos_lord_2h_mace_head_chn"/>
       <UsablePiece piece_id="b3_chaos_lord_2h_mace_head_chs"/>
       <UsablePiece piece_id="b3_chaos_lord_2h_mace_head_cht"/>
+      <UsablePiece piece_id="b3_grand_sorcerer_staff_blade"/>
+      <UsablePiece piece_id="b3_grand_sorcerer_staff_handle"/>
     </xsl:copy>
   </xsl:template>
   <xsl:template match="CraftingTemplate[@id='B2_TwoHandedAxe']/UsablePieces">

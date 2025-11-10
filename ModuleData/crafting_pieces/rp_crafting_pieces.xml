@@ -1059,4 +1059,33 @@
     <BuildData 
       piece_offset="30.0" />
   </CraftingPiece>
+  <!--Grand Sorcerer Staff-->
+  <CraftingPiece 
+    id="b3_grand_sorcerer_staff_blade" 
+    name="Grand Sorcerer Staff Head" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="grand_sorcerer_staff_blade" 
+    length="22.5" 
+    weight="1.4" 
+    full_scale="true" 
+    excluded_item_usage_features="thrust">
+    <BladeData 
+      physics_material="wood_weapon" 
+      body_name="bo_mace_a">
+      <Swing 
+        damage_type="Blunt" 
+        damage_factor="1.4" />
+    </BladeData>
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_grand_sorcerer_staff_handle" 
+    name="Grand Sorcerer Staff Handle" 
+    tier="2" 
+    piece_type="Handle" 
+    mesh="grand_sorcerer_staff_handle" 
+    length="259.0" 
+    weight="0.8">
+    <BuildData piece_offset="20.0"/>
+  </CraftingPiece>
 </CraftingPieces>

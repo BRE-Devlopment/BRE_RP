@@ -102,5 +102,9 @@
       <Name>TrollVomit</Name>
       <SpritePartName>TrollVomit</SpritePartName>
     </GenericSprite>
+    <GenericSprite>
+      <Name>TrollVomit</Name>
+      <SpritePartName>ThunderBolt</SpritePartName>
+    </GenericSprite>
   </Sprites>
 </SpriteData>

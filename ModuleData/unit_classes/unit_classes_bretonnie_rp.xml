@@ -1,0 +1,27 @@
+<UnitClasses>
+	<UnitClass
+		id="grand_sorcier"
+		name="Grand Sorcier"
+		character="human_infantry"
+		stats_preset="infantry_human_150hp"
+		armament_cost="0">
+	    <UsableWeaponGroups>
+	      	<WeaponGroup id="human"/>
+	    </UsableWeaponGroups>
+	    <SpellCasting
+	      	max_mana="30.0"
+	      	mana_refill_amount="0.0">
+	      	<Spell id="thunder_bolt"/>
+	    </SpellCasting>
+		<Equipment>
+		    <Weapon0>
+		      	<Item id="rp_grand_sorcerer_staff"/>
+		    </Weapon0>
+		    <Body>
+		      	<VariableItem variable="cultist_body1"/>
+		      	<VariableItem variable="cultist_body2"/>
+		      	<VariableItem variable="cultist_body3"/>
+		    </Body>
+		</Equipment>
+	</UnitClass>
+</UnitClasses>

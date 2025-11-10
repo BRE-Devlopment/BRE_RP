@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Items>
+	<!--STAFF-->
+  	<CraftedItem 
+  		id="rp_grand_sorcerer_staff" 
+  		name="Grand Sorcerers' Staff" 
+  		crafting_template="B2_TwoHandedMace">
+    	<Pieces>
+      		<Piece 
+      			id="b3_grand_sorcerer_staff_blade" 
+      			Type="Blade"/>
+      		<Piece 
+      			id="b3_grand_sorcerer_staff_handle" 
+      			Type="Handle"/>
+    	</Pieces>
+  	</CraftedItem>
 	<!--1H SWORD-->
 	<CraftedItem 
 		id="rp_chaos_marauder_1h_sword" 

@@ -3,10 +3,18 @@
 		id="troll_vomit"
 		effect="TrollVomit"
 		cost="10.0"
-		delay="3.0"/>
+		delay="3.0"
+		requires_staff="false"/>
 	<Spell 
 		id="troll_stomp"
 		effect="TrollStomp"
 		cost="5.0"
-		delay="3.0"/>
+		delay="3.0"
+		requires_staff="false"/>
+	<Spell 
+		id="thunder_bolt"
+		effect="ThunderBolt"
+		cost="5.0"
+		delay="3.0"
+		requires_staff="true"/>
 </Spells>

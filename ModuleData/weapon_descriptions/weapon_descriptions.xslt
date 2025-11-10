@@ -57,6 +57,8 @@
       <AvailablePiece id="b3_chaos_lord_2h_mace_head_chn"/>
       <AvailablePiece id="b3_chaos_lord_2h_mace_head_chs"/>
       <AvailablePiece id="b3_chaos_lord_2h_mace_head_cht"/>
+      <AvailablePiece id="b3_grand_sorcerer_staff_blade"/>
+      <AvailablePiece id="b3_grand_sorcerer_staff_handle"/>
     </xsl:copy>
   </xsl:template>
   <xsl:template match="WeaponDescription[@id='B2_TwoHandedAxe']/AvailablePieces">

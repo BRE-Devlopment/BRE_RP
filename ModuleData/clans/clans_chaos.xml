@@ -239,6 +239,8 @@
 			<UnitClass id="chaos_knight"/>
 			<UnitClass id="chaos_lord"/>
 			<UnitClass id="troll"/>
+			<!--TEMP FOR TEST-->
+			<UnitClass id="grand_sorcier"/>
 		</UnitClasses>
 	</Clan>
 	<Clan

@@ -2,4 +2,7 @@
 <action_types>
 	<action name="act_bre_troll_puke" />
 	<action name="act_bre_troll_stomp" />
+	<action name="act_sorcerer_cast_thunderbolt" />
+	<action name="act_sorcerer_prepare_thunderbolt" />
+	<action name="act_sorcerer_prepare_thunderbolt_idle" />
 </action_types>
