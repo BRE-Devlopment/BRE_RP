@@ -46,5 +46,6 @@
 		<module_sound name="scary_sound" is_2d="true" sound_category="mission_ambient_bed" path="scary_sound.ogg"/>
 		<module_sound name="troll_puke" sound_category="mission_voice" path="troll_puke.ogg"/>
 		<module_sound name="vomit_missile_impact" sound_category="mission_material_impact" path="vomit_missile_impact.ogg"/>
+		<module_sound name="thunderbolt" sound_category="mission_combat" path="thunderbolt.ogg"/>
 	</module_sounds>
 </base>
