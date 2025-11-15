@@ -10,10 +10,10 @@
 		</scripts>
 		<children>
 			<game_entity name="spell_thunderbolt_1" old_prefab_name="">
-				<transform position="0.095, -0.038, 0.000"/>
+				<transform position="0.100, 0.001, 0.000" rotation_euler="0.000, 0.000, 0.000" scale="0.625, 0.613, 1.000"/>
 				<children>
 					<game_entity name="editor_plane" old_prefab_name="">
-						<transform position="1.645, 1.127, 38.557" rotation_euler="0.000, -1.620, -2.926" scale="85.227, 19.125, 1.000"/>
+						<transform position="1.638, -0.104, 26.010" rotation_euler="0.000, -1.571, 1.571" scale="55.859, 55.859, 1.000"/>
 						<components>
 							<meta_mesh_component name="editor_plane_low">
 								<mesh name="editor_plane_low" material="lightning_bolt"/>
@@ -21,20 +21,36 @@
 						</components>
 					</game_entity>
 					<game_entity name="editor_plane" old_prefab_name="">
-						<transform position="0.815, -0.061, 38.052" rotation_euler="0.004, -1.571, 1.571" scale="85.227, 16.838, 1.000"/>
+						<transform position="0.030, 1.660, 18.699" rotation_euler="0.000, -1.571, 3.086" scale="41.014, 55.859, 1.000"/>
 						<components>
 							<meta_mesh_component name="editor_plane_low">
-								<mesh name="editor_plane_low" material="lightning_bolt"/>
+								<mesh name="editor_plane_low" material="lightning_bolt_2"/>
+							</meta_mesh_component>
+						</components>
+					</game_entity>
+					<game_entity name="editor_plane" old_prefab_name="">
+						<transform position="-1.454, 1.189, 25.223" rotation_euler="0.000, -1.571, -2.383" scale="54.527, 58.038, 1.039"/>
+						<components>
+							<meta_mesh_component name="editor_plane_low">
+								<mesh name="editor_plane_low" material="lightning_bolt_3"/>
 							</meta_mesh_component>
 						</components>
 					</game_entity>
 				</children>
 			</game_entity>
 			<game_entity name="spell_thunderbolt_2" old_prefab_name="" visible="false">
-				<transform position="0.052, -0.038, 0.000" rotation_euler="0.083, 0.080, -0.444"/>
+				<transform position="0.135, 0.001, 0.000" rotation_euler="0.000, 0.000, 0.000" scale="0.625, 0.613, 1.000"/>
 				<children>
 					<game_entity name="editor_plane" old_prefab_name="">
-						<transform position="1.645, 1.127, 38.557" rotation_euler="0.000, -1.620, -2.926" scale="85.227, 19.125, 1.000"/>
+						<transform position="1.638, -0.104, 26.010" rotation_euler="0.000, -1.571, 1.571" scale="55.859, 55.859, 1.000"/>
+						<components>
+							<meta_mesh_component name="editor_plane_low">
+								<mesh name="editor_plane_low" material="lightning_bolt_3"/>
+							</meta_mesh_component>
+						</components>
+					</game_entity>
+					<game_entity name="editor_plane" old_prefab_name="">
+						<transform position="0.030, 1.660, 18.699" rotation_euler="0.000, -1.571, 3.086" scale="41.014, 55.859, 1.000"/>
 						<components>
 							<meta_mesh_component name="editor_plane_low">
 								<mesh name="editor_plane_low" material="lightning_bolt"/>
@@ -42,28 +58,36 @@
 						</components>
 					</game_entity>
 					<game_entity name="editor_plane" old_prefab_name="">
-						<transform position="0.815, -0.061, 38.052" rotation_euler="0.004, -1.571, 1.571" scale="85.227, 16.838, 1.000"/>
+						<transform position="-1.454, 1.189, 25.223" rotation_euler="0.000, -1.571, -2.383" scale="54.527, 58.038, 1.039"/>
 						<components>
 							<meta_mesh_component name="editor_plane_low">
-								<mesh name="editor_plane_low" material="lightning_bolt"/>
+								<mesh name="editor_plane_low" material="lightning_bolt_2"/>
 							</meta_mesh_component>
 						</components>
 					</game_entity>
 				</children>
 			</game_entity>
 			<game_entity name="spell_thunderbolt_3" old_prefab_name="" visible="false">
-				<transform position="0.095, -0.038, 0.000" rotation_euler="0.012, -0.102, -0.712"/>
+				<transform position="0.198, 0.001, 0.000" rotation_euler="0.000, 0.000, 0.000" scale="0.625, 0.613, 1.000"/>
 				<children>
 					<game_entity name="editor_plane" old_prefab_name="">
-						<transform position="1.645, 1.127, 38.557" rotation_euler="0.000, -1.620, -2.926" scale="85.227, 19.125, 1.000"/>
+						<transform position="1.638, -0.104, 26.010" rotation_euler="0.000, -1.571, 1.571" scale="55.859, 55.859, 1.000"/>
 						<components>
 							<meta_mesh_component name="editor_plane_low">
-								<mesh name="editor_plane_low" material="lightning_bolt"/>
+								<mesh name="editor_plane_low" material="lightning_bolt_2"/>
 							</meta_mesh_component>
 						</components>
 					</game_entity>
 					<game_entity name="editor_plane" old_prefab_name="">
-						<transform position="0.815, -0.061, 38.052" rotation_euler="0.004, -1.571, 1.571" scale="85.227, 16.838, 1.000"/>
+						<transform position="0.030, 1.660, 18.699" rotation_euler="0.000, -1.571, 3.086" scale="41.014, 55.859, 1.000"/>
+						<components>
+							<meta_mesh_component name="editor_plane_low">
+								<mesh name="editor_plane_low" material="lightning_bolt_3"/>
+							</meta_mesh_component>
+						</components>
+					</game_entity>
+					<game_entity name="editor_plane" old_prefab_name="">
+						<transform position="-1.454, 1.189, 25.223" rotation_euler="0.000, -1.571, -2.383" scale="54.527, 58.038, 1.039"/>
 						<components>
 							<meta_mesh_component name="editor_plane_low">
 								<mesh name="editor_plane_low" material="lightning_bolt"/>
@@ -72,26 +96,11 @@
 					</game_entity>
 				</children>
 			</game_entity>
-			<game_entity name="spell_thunderbolt_4" old_prefab_name="" visible="false">
-				<transform position="0.095, -0.038, 0.000" rotation_euler="-0.097, -0.059, 0.151" scale="1.000, 1.000, 1.030"/>
-				<children>
-					<game_entity name="editor_plane" old_prefab_name="">
-						<transform position="1.645, 1.127, 38.557" rotation_euler="0.000, -1.620, -2.926" scale="85.227, 19.125, 1.000"/>
-						<components>
-							<meta_mesh_component name="editor_plane_low">
-								<mesh name="editor_plane_low" material="lightning_bolt"/>
-							</meta_mesh_component>
-						</components>
-					</game_entity>
-					<game_entity name="editor_plane" old_prefab_name="">
-						<transform position="0.815, -0.061, 38.052" rotation_euler="0.004, -1.571, 1.571" scale="85.227, 16.838, 1.000"/>
-						<components>
-							<meta_mesh_component name="editor_plane_low">
-								<mesh name="editor_plane_low" material="lightning_bolt"/>
-							</meta_mesh_component>
-						</components>
-					</game_entity>
-				</children>
+			<game_entity name="light" old_prefab_name="">
+				<transform position="0.001, -0.015, 9.046" rotation_euler="0.000, 0.000, 0.000" scale="5.608, 5.608, 5.608"/>
+				<components>
+					<light_component color="0.573, 0.910, 1.000" intensity="10000.000" radius="8.000" local_frame_rot="8.000000, 0.000000, 0.000000, 0.000000, 8.000000, 0.000000, 0.000000, 0.000000, 8.000000" hotspot_angle="30.000" falloff_angle="45.000" shadow_size_multiplier="1"/>
+				</components>
 			</game_entity>
 		</children>
 	</game_entity>
