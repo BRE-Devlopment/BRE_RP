@@ -15,25 +15,19 @@
 					<game_entity name="editor_plane" old_prefab_name="">
 						<transform position="1.638, -0.104, 26.010" rotation_euler="0.000, -1.571, 1.571" scale="55.859, 55.859, 1.000"/>
 						<components>
-							<meta_mesh_component name="editor_plane_low">
-								<mesh name="editor_plane_low" material="lightning_bolt"/>
-							</meta_mesh_component>
+							<meta_mesh_component name="thunderbolt_part_1"/>
 						</components>
 					</game_entity>
 					<game_entity name="editor_plane" old_prefab_name="">
 						<transform position="0.030, 1.660, 18.699" rotation_euler="0.000, -1.571, 3.086" scale="41.014, 55.859, 1.000"/>
 						<components>
-							<meta_mesh_component name="editor_plane_low">
-								<mesh name="editor_plane_low" material="lightning_bolt_2"/>
-							</meta_mesh_component>
+							<meta_mesh_component name="thunderbolt_part_2"/>
 						</components>
 					</game_entity>
 					<game_entity name="editor_plane" old_prefab_name="">
 						<transform position="-1.454, 1.189, 25.223" rotation_euler="0.000, -1.571, -2.383" scale="54.527, 58.038, 1.039"/>
 						<components>
-							<meta_mesh_component name="editor_plane_low">
-								<mesh name="editor_plane_low" material="lightning_bolt_3"/>
-							</meta_mesh_component>
+							<meta_mesh_component name="thunderbolt_part_3"/>
 						</components>
 					</game_entity>
 				</children>
@@ -44,25 +38,19 @@
 					<game_entity name="editor_plane" old_prefab_name="">
 						<transform position="1.638, -0.104, 26.010" rotation_euler="0.000, -1.571, 1.571" scale="55.859, 55.859, 1.000"/>
 						<components>
-							<meta_mesh_component name="editor_plane_low">
-								<mesh name="editor_plane_low" material="lightning_bolt_3"/>
-							</meta_mesh_component>
+							<meta_mesh_component name="thunderbolt_part_3"/>
 						</components>
 					</game_entity>
 					<game_entity name="editor_plane" old_prefab_name="">
 						<transform position="0.030, 1.660, 18.699" rotation_euler="0.000, -1.571, 3.086" scale="41.014, 55.859, 1.000"/>
 						<components>
-							<meta_mesh_component name="editor_plane_low">
-								<mesh name="editor_plane_low" material="lightning_bolt"/>
-							</meta_mesh_component>
+							<meta_mesh_component name="thunderbolt_part_1"/>
 						</components>
 					</game_entity>
 					<game_entity name="editor_plane" old_prefab_name="">
 						<transform position="-1.454, 1.189, 25.223" rotation_euler="0.000, -1.571, -2.383" scale="54.527, 58.038, 1.039"/>
 						<components>
-							<meta_mesh_component name="editor_plane_low">
-								<mesh name="editor_plane_low" material="lightning_bolt_2"/>
-							</meta_mesh_component>
+							<meta_mesh_component name="thunderbolt_part_2"/>
 						</components>
 					</game_entity>
 				</children>
@@ -73,25 +61,19 @@
 					<game_entity name="editor_plane" old_prefab_name="">
 						<transform position="1.638, -0.104, 26.010" rotation_euler="0.000, -1.571, 1.571" scale="55.859, 55.859, 1.000"/>
 						<components>
-							<meta_mesh_component name="editor_plane_low">
-								<mesh name="editor_plane_low" material="lightning_bolt_2"/>
-							</meta_mesh_component>
+							<meta_mesh_component name="thunderbolt_part_2"/>
 						</components>
 					</game_entity>
 					<game_entity name="editor_plane" old_prefab_name="">
 						<transform position="0.030, 1.660, 18.699" rotation_euler="0.000, -1.571, 3.086" scale="41.014, 55.859, 1.000"/>
 						<components>
-							<meta_mesh_component name="editor_plane_low">
-								<mesh name="editor_plane_low" material="lightning_bolt_3"/>
-							</meta_mesh_component>
+							<meta_mesh_component name="thunderbolt_part_3"/>
 						</components>
 					</game_entity>
 					<game_entity name="editor_plane" old_prefab_name="">
 						<transform position="-1.454, 1.189, 25.223" rotation_euler="0.000, -1.571, -2.383" scale="54.527, 58.038, 1.039"/>
 						<components>
-							<meta_mesh_component name="editor_plane_low">
-								<mesh name="editor_plane_low" material="lightning_bolt"/>
-							</meta_mesh_component>
+							<meta_mesh_component name="thunderbolt_part_1"/>
 						</components>
 					</game_entity>
 				</children>

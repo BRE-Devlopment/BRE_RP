@@ -24,7 +24,6 @@
 				weapon_length="95"
 				thrust_damage="70"
 				item_usage="heavy_stone"
-				trail_particle_name="vomit_particle"
 				rotation_speed="2, 0.5, 0">
 				<WeaponFlags
 					RangedWeapon="true"
@@ -33,7 +32,7 @@
 					CanPenetrateShield="true"
 					MissileWithPhysics="true"
 					Consumable="true"
-					LeavesTrail="true"
+					LeavesTrail="false"
 					Burning="true"
 					AffectsAreaBig="true"
 					AmmoBreaksOnBounceBack="true" />

@@ -4,8 +4,9 @@
     <SpriteCategory>
       <AlwaysLoad/>
       <Name>ui_bre_magic</Name>
-      <SpriteSheetCount>1</SpriteSheetCount>
+      <SpriteSheetCount>2</SpriteSheetCount>
       <SpriteSheetSize ID="1" Width="2048" Height="256" />
+      <SpriteSheetSize ID="2" Width="128" Height="128" />
     </SpriteCategory>
   </SpriteCategories>
   <SpriteParts>
@@ -72,6 +73,15 @@
       <SheetY>4</SheetY>
       <CategoryName>ui_bre_magic</CategoryName>
     </SpritePart>
+    <SpritePart>
+      <SheetID>2</SheetID>
+      <Name>ThunderBolt</Name>
+      <Width>67</Width>
+      <Height>67</Height>
+      <SheetX>4</SheetX>
+      <SheetY>4</SheetY>
+      <CategoryName>ui_bre_magic</CategoryName>
+    </SpritePart>
   </SpriteParts>
   <Sprites>
     <GenericSprite>
@@ -103,7 +113,7 @@
       <SpritePartName>TrollVomit</SpritePartName>
     </GenericSprite>
     <GenericSprite>
-      <Name>TrollVomit</Name>
+      <Name>ThunderBolt</Name>
       <SpritePartName>ThunderBolt</SpritePartName>
     </GenericSprite>
   </Sprites>
