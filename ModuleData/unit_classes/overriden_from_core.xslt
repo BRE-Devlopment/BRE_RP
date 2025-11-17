@@ -405,7 +405,7 @@
     <xsl:template match="UnitClass[@id='pilgrim']">
         <xsl:copy>
             <xsl:apply-templates select="@*[name() != 'stats_preset']"/>
-            <xsl:attribute name="stats_preset">infantry_human_300hp</xsl:attribute>
+            <xsl:attribute name="stats_preset">infantry_human_200hp</xsl:attribute>
             <xsl:attribute name="armament_cost">0</xsl:attribute>
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
@@ -422,7 +422,7 @@
     <xsl:template match="UnitClass[@id='battle_pilgrim']">
         <xsl:copy>
             <xsl:apply-templates select="@*[name() != 'stats_preset']"/>
-            <xsl:attribute name="stats_preset">infantry_human_300hp</xsl:attribute>
+            <xsl:attribute name="stats_preset">infantry_human_250hp</xsl:attribute>
             <xsl:attribute name="armament_cost">0</xsl:attribute>
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
@@ -439,7 +439,7 @@
     <xsl:template match="UnitClass[@id='exalted_pilgrim']">
         <xsl:copy>
             <xsl:apply-templates select="@*[name() != 'stats_preset']"/>
-            <xsl:attribute name="stats_preset">infantry_human_300hp</xsl:attribute>
+            <xsl:attribute name="stats_preset">infantry_human_250hp</xsl:attribute>
             <xsl:attribute name="armament_cost">0</xsl:attribute>
             <xsl:apply-templates select="node()"/>
             <SelectableStatsPresets>
