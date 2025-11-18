@@ -1328,7 +1328,7 @@
     <xsl:template match="UnitClass[@id='dangorn_de_castagne']">
         <xsl:copy>
             <xsl:apply-templates select="@*[name() != 'stats_preset']"/>
-            <xsl:attribute name="stats_preset">cavalry_human_400hp</xsl:attribute>
+            <xsl:attribute name="stats_preset">cavalry_human_500hp</xsl:attribute>
             <xsl:attribute name="armament_cost">0</xsl:attribute>
             <xsl:apply-templates select="node()"/>
             <UsableWeaponGroups>
