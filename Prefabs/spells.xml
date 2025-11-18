@@ -95,22 +95,18 @@
 				</variables>
 			</script>
 		</scripts>
+		<components>
+			<meta_mesh_component name="bre_cylinder_of_doooooooom"/>
+		</components>
 		<children>
-			<game_entity name="highlight_item_beam" old_prefab_name="">
-				<visibility_masks>
-					<visibility_mask name="no_shadow" value="true"/>
-				</visibility_masks>
-				<transform position="0.000, -0.020, -0.240" rotation_euler="0.000, 0.000, 0.000" scale="4.000, 4.000, 4.000"/>
-				<physics mass="1.000"/>
+			<game_entity name="light" old_prefab_name="">
+				<transform position="0.000, 0.000, 1.125" rotation_euler="0.000, 0.000, 0.000"/>
 				<components>
-					<meta_mesh_component name="item_highlight_cylinder" position="0.000, 0.000, -14.900" rotation="0.000, 0.000, 0.000" scale="0.150, 0.150, 10.000">
-						<mesh name="item_highlight_cylinder" factor="4287704319" factor2="4294701823" argument="75.000, 1.000, 0.490, 11.650"/>
-					</meta_mesh_component>
+					<light_component flags="128" intensity="25.000" radius="2.000" local_frame_rot="2.000000, 0.000000, 0.000000, 0.000000, 2.000000, 0.000000, 0.000000, 0.000000, 2.000000" hotspot_angle="30.000" falloff_angle="45.000" shadow_size_multiplier="1"/>
 				</components>
 			</game_entity>
 		</children>
 	</game_entity>
-
 	<game_entity name="spell_troll_vomit" old_prefab_name="" mobility="1">
 		<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000"/>
 		<scripts>
@@ -122,15 +118,12 @@
 				</variables>
 			</script>
 		</scripts>
+		<components>
+			<particle_system_instanced_component>
+				<effect_ref base_effect="{219A0A64-F437-44B7-8F23-D1CCE49112B8}"/>
+			</particle_system_instanced_component>
+		</components>
 		<children>
-			<game_entity name="spell_troll_vomit" old_prefab_name="" mobility="1">
-				<transform position="0.000, 0.000, 0.500" rotation_euler="0.000, 0.000, 0.000"/>
-				<components>
-					<particle_system_instanced_component>
-						<effect_ref base_effect="{219A0A64-F437-44B7-8F23-D1CCE49112B8}"/>
-					</particle_system_instanced_component>
-				</components>
-			</game_entity>
 			<game_entity name="desert_bones_c" old_prefab_name="">
 				<transform position="0.020, -0.246, 0.000" rotation_euler="0.000, 0.000, -1.258"/>
 				<components>
@@ -156,6 +149,21 @@
 				</components>
 			</game_entity>
 		</children>
+	</game_entity>
+	<game_entity name="spell_thunder_bolt_marker" old_prefab_name="" mobility="1">
+		<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000"/>
+		<scripts>
+			<script name="SpellWarningMarker">
+				<variables>
+					<variable name="NavMeshPrefabName" value=""/>
+				</variables>
+			</script>
+		</scripts>
+		<components>
+			<particle_system_instanced_component>
+				<effect_ref base_effect="{8FE25047-51A8-4313-8766-B8F97AB737E1}"/>
+			</particle_system_instanced_component>
+		</components>
 	</game_entity>
 </prefabs>
 
