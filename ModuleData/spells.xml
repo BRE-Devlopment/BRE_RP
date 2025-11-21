@@ -17,4 +17,10 @@
 		cost="5.0"
 		delay="3.0"
 		requires_staff="true"/>
+	<Spell 
+		id="dragons_breath"
+		effect="DragonsBreath"
+		cost="5.0"
+		delay="3.0"
+		requires_staff="true"/>
 </Spells>

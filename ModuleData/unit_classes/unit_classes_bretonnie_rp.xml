@@ -12,6 +12,7 @@
 	      	max_mana="30.0"
 	      	mana_refill_amount="0.0">
 	      	<Spell id="thunder_bolt"/>
+	      	<Spell id="dragons_breath"/>
 	    </SpellCasting>
 		<Equipment>
 		    <Weapon0>

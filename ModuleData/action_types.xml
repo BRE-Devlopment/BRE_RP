@@ -5,4 +5,5 @@
 	<action name="act_sorcerer_cast_thunderbolt" />
 	<action name="act_sorcerer_prepare_thunderbolt" />
 	<action name="act_sorcerer_prepare_thunderbolt_idle" />
+	<action name="act_sorcerer_cast_dragonsbreath" />
 </action_types>

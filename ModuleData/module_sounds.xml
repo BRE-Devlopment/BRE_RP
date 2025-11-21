@@ -47,5 +47,7 @@
 		<module_sound name="troll_puke" sound_category="mission_voice" path="troll_puke.ogg"/>
 		<module_sound name="vomit_missile_impact" sound_category="mission_material_impact" path="vomit_missile_impact.ogg"/>
 		<module_sound name="thunderbolt" sound_category="mission_combat" path="thunderbolt.ogg"/>
+		<module_sound name="dragons_breath" sound_category="mission_combat" path="dragons_breath.ogg"/>
+		<module_sound name="fire_extinguish" sound_category="mission_combat" path="fire_extinguish.ogg"/>
 	</module_sounds>
 </base>
