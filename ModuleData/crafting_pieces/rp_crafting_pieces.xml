@@ -319,7 +319,7 @@
     <BladeData 
       blade_length="65.3"
       blade_width="68.5"
-      physics_material="wood_weapon" 
+      physics_material="metal_weapon" 
       body_name="bo_axe_longer_b">
       <Swing 
         damage_type="Cut" 
@@ -345,7 +345,7 @@
     <BladeData 
       blade_length="65.3"
       blade_width="68.5"
-      physics_material="wood_weapon" 
+      physics_material="metal_weapon" 
       body_name="bo_axe_longer_b">
       <Swing 
         damage_type="Cut" 
@@ -371,7 +371,7 @@
     <BladeData 
       blade_length="65.3"
       blade_width="68.5"
-      physics_material="wood_weapon" 
+      physics_material="metal_weapon" 
       body_name="bo_axe_longer_b">
       <Swing 
         damage_type="Cut" 
@@ -397,7 +397,7 @@
     <BladeData 
       blade_length="65.3"
       blade_width="68.5"
-      physics_material="wood_weapon" 
+      physics_material="metal_weapon" 
       body_name="bo_axe_longer_b">
       <Swing 
         damage_type="Cut" 
@@ -436,7 +436,7 @@
     <BladeData 
       blade_length="62.0"
       blade_width="62.0"
-      physics_material="wood_weapon" 
+      physics_material="metal_weapon" 
       body_name="bo_axe_longer_b">
       <Swing 
         damage_type="Cut" 
@@ -589,7 +589,7 @@
     full_scale="true" 
     excluded_item_usage_features="thrust">
     <BladeData 
-      physics_material="wood_weapon" 
+      physics_material="metal_weapon" 
       body_name="bo_mace_a">
       <Swing 
         damage_type="Blunt" 
@@ -744,7 +744,7 @@
     length="119.0" 
     weight="0.95">
     <BladeData 
-      physics_material="wood_weapon" 
+      physics_material="metal_weapon" 
       body_name="bo_spear_b">
       <Thrust 
         damage_type="Pierce" 
@@ -769,7 +769,7 @@
     length="119.0" 
     weight="0.95">
     <BladeData 
-      physics_material="wood_weapon" 
+      physics_material="metal_weapon" 
       body_name="bo_spear_b">
       <Thrust 
         damage_type="Pierce" 
@@ -794,7 +794,7 @@
     length="119.0" 
     weight="0.95">
     <BladeData 
-      physics_material="wood_weapon" 
+      physics_material="metal_weapon" 
       body_name="bo_spear_b">
       <Thrust 
         damage_type="Pierce" 
@@ -819,7 +819,7 @@
     length="119.0" 
     weight="0.95">
     <BladeData 
-      physics_material="wood_weapon" 
+      physics_material="metal_weapon" 
       body_name="bo_spear_b">
       <Thrust 
         damage_type="Pierce" 
@@ -1030,7 +1030,7 @@
     <BladeData 
       blade_length="47.9" 
       blade_width="58.9" 
-      physics_material="wood_weapon" 
+      physics_material="metal_weapon" 
       body_name="bo_axe_longer_b">
       <Swing 
         damage_type="Blunt" 

@@ -4,7 +4,6 @@
     id="chaos"
     name="Chaos"
     is_main_culture="true"
-    default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000"
     color="FF1f1f1f"
     color2="FFffffff"
     cloth_alternative_color1="FF1f1f1f"

@@ -2,7 +2,7 @@
 <Module>
 	<Name value="BRE Roleplay" />
 	<Id value="BRE_RP" />
-	<Version value="v1.0.0.5" />
+	<Version value="v1.0.0.8" />
 	<DefaultModule value="false" />
 	<Official value="false" />
 	<ModuleCategory value="Multiplayer" />
@@ -86,6 +86,12 @@
 		</XmlNode>
 		<XmlNode>
 			<XmlName id="StatsPresets" path="stats_presets" />
+			<IncludedGameTypes>
+				<GameType value = "MultiplayerGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName id="BannerIcons" path="banner_icons" />
 			<IncludedGameTypes>
 				<GameType value = "MultiplayerGame"/>
 			</IncludedGameTypes>
