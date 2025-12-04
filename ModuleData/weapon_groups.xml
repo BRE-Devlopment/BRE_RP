@@ -417,6 +417,15 @@
 		<Weapon id="b3_cre_kerrant_sword_1h"/>
 		<Weapon id="b3_cre_kerrant_sword_2h"/>
 
+		<Weapon id="b3_tower_shield1_cor"/>
+		<Weapon id="b3_tower_shield2_cor"/>
+		<Weapon id="b3_tower_shield3_cor"/>
+		<Weapon id="b2_lance_cor"/>
+		<Weapon id="b3_kerrant_lance_cor"/>
+		<Weapon id="b3_knight_shield_cor"/>
+		<Weapon id="b3_cor_kerrant_sword_1h"/>
+		<Weapon id="b3_cor_kerrant_sword_2h"/>
+
 		<Weapon id="b3_tower_shield1_plo"/>
 		<Weapon id="b3_tower_shield2_plo"/>
 		<Weapon id="b3_tower_shield3_plo"/>
