@@ -1,5 +1,19 @@
 <Clans>
 	<Clan
+		id="BRESP"
+		name="Bretonnie Special"
+	    color1="FF8e1818"
+	    color2="FF263d7d"
+	    faction="bretonnie"
+	    uses_armaments="true"
+	    is_nation="false"
+	    banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0">
+		<ItemVariableValues/>
+		<UnitClasses>
+			<UnitClass id="grand_sorcier"/>
+		</UnitClasses>
+	</Clan>
+	<Clan
 		id="CHU"
 		name="Chaos Undivided"
 	    color1="FF1f1f1f"
@@ -239,8 +253,6 @@
 			<UnitClass id="chaos_knight"/>
 			<UnitClass id="chaos_lord"/>
 			<UnitClass id="troll"/>
-			<!--TEMP FOR TEST-->
-			<UnitClass id="grand_sorcier"/>
 		</UnitClasses>
 	</Clan>
 	<Clan
