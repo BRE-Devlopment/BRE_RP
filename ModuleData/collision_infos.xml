@@ -112,5 +112,14 @@
 					decal="" />
 			</collision_info>
 		</material>
+		<material
+			id="magic_bubble">
+			<collision_info
+				second_material="default">
+				<collision_effect
+					particle="psys_game_empty_particle"
+					decal="" />
+			</collision_info>
+		</material>
 	</collision_infos>
 </base>

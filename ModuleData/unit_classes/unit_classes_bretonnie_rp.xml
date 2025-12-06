@@ -13,6 +13,7 @@
 	      	mana_refill_amount="0.0">
 	      	<Spell id="thunder_bolt"/>
 	      	<Spell id="dragons_breath"/>
+	      	<Spell id="missile_shield"/>
 	    </SpellCasting>
 		<Equipment>
 		    <Weapon0>

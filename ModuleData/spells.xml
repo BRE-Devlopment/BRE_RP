@@ -23,4 +23,10 @@
 		cost="5.0"
 		delay="3.0"
 		requires_staff="true"/>
+	<Spell 
+		id="missile_shield"
+		effect="MissileShield"
+		cost="5.0"
+		delay="3.0"
+		requires_staff="true"/>
 </Spells>
