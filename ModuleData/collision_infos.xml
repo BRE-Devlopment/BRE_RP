@@ -117,7 +117,7 @@
 			<collision_info
 				second_material="default">
 				<collision_effect
-					particle="psys_game_empty_particle"
+					particle=""
 					decal="" />
 			</collision_info>
 		</material>
