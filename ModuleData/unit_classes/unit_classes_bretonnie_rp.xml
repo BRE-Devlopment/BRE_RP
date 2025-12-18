@@ -14,16 +14,12 @@
 	      	<Spell id="thunder_bolt"/>
 	      	<Spell id="dragons_breath"/>
 	      	<Spell id="missile_shield"/>
+	      	<Spell id="thorn_vines"/>
 	    </SpellCasting>
 		<Equipment>
 		    <Weapon0>
 		      	<Item id="rp_grand_sorcerer_staff"/>
 		    </Weapon0>
-		    <Body>
-		      	<VariableItem variable="cultist_body1"/>
-		      	<VariableItem variable="cultist_body2"/>
-		      	<VariableItem variable="cultist_body3"/>
-		    </Body>
 		</Equipment>
 	</UnitClass>
 </UnitClasses>

@@ -129,5 +129,13 @@
       <Name>DragonsBreath</Name>
       <SpritePartName>DragonsBreath</SpritePartName>
     </GenericSprite>
+    <GenericSprite>
+      <Name>MissileShield</Name>
+      <SpritePartName>DragonsBreath</SpritePartName>
+    </GenericSprite>
+    <GenericSprite>
+      <Name>ThornVines</Name>
+      <SpritePartName>DragonsBreath</SpritePartName>
+    </GenericSprite>
   </Sprites>
 </SpriteData>
