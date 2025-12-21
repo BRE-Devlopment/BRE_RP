@@ -562,7 +562,7 @@
         </xsl:copy>
     </xsl:template>
 
-    <xsl:template match="UnitClass[@id='bulwark']">
+    <xsl:template match="UnitClass[@id='vanguard']">
         <xsl:copy>
             <xsl:apply-templates select="@*[name() != 'stats_preset']"/>
             <xsl:attribute name="stats_preset">infantry_human_300hp</xsl:attribute>
@@ -584,7 +584,7 @@
             </UsableWeaponGroups>
         </xsl:copy>
     </xsl:template>
-    <xsl:template match="UnitClass[@id='bastion']">
+    <xsl:template match="UnitClass[@id='peacemaker']">
         <xsl:copy>
             <xsl:apply-templates select="@*[name() != 'stats_preset']"/>
             <xsl:attribute name="stats_preset">infantry_human_350hp</xsl:attribute>
