@@ -196,8 +196,186 @@
 
 
 	
-	<game_entity name="bre_skeleton_with_anim_test" old_prefab_name="" mobility="1">
+	<game_entity name="spell_thornvines_area" old_prefab_name="" mobility="1">
 		<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000"/>
+		<components>
+			<particle_system_instanced_component>
+				<effect_ref base_effect="{EBEB9D74-F3C8-428C-BBB6-2521FA07EC07}"/>
+			</particle_system_instanced_component>
+		</components>
+		<children>
+			<game_entity name="spell_thornvines_root_1" old_prefab_name="" visible="false">
+				<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000"/>
+				<components>
+					<meta_mesh_component name="tree_root_a_acacia"/>
+				</components>
+			</game_entity>
+			<game_entity name="spell_thornvines_root_2" old_prefab_name="" visible="false">
+				<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000"/>
+				<components>
+					<meta_mesh_component name="tree_root_b_acacia"/>
+				</components>
+			</game_entity>
+			<game_entity name="spell_thornvines_root_1" old_prefab_name="" visible="false">
+				<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000"/>
+				<components>
+					<meta_mesh_component name="tree_root_a_acacia"/>
+				</components>
+			</game_entity>
+			<game_entity name="spell_thornvines_root_2" old_prefab_name="" visible="false">
+				<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000"/>
+				<components>
+					<meta_mesh_component name="tree_root_b_acacia"/>
+				</components>
+			</game_entity>
+			<game_entity name="spell_thornvines_root_1" old_prefab_name="" visible="false">
+				<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000"/>
+				<components>
+					<meta_mesh_component name="tree_root_a_acacia"/>
+				</components>
+			</game_entity>
+			<game_entity name="spell_thornvines_root_2" old_prefab_name="" visible="false">
+				<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000"/>
+				<components>
+					<meta_mesh_component name="tree_root_b_acacia"/>
+				</components>
+			</game_entity>
+			<game_entity name="spell_thornvines_root_1" old_prefab_name="" visible="false">
+				<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000"/>
+				<components>
+					<meta_mesh_component name="tree_root_a_acacia"/>
+				</components>
+			</game_entity>
+			<game_entity name="spell_thornvines_root_2" old_prefab_name="" visible="false">
+				<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000"/>
+				<components>
+					<meta_mesh_component name="tree_root_b_acacia"/>
+				</components>
+			</game_entity>
+			<game_entity name="spell_thornvines_root_1" old_prefab_name="" visible="false">
+				<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000"/>
+				<components>
+					<meta_mesh_component name="tree_root_a_acacia"/>
+				</components>
+			</game_entity>
+			<game_entity name="spell_thornvines_root_2" old_prefab_name="" visible="false">
+				<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000"/>
+				<components>
+					<meta_mesh_component name="tree_root_b_acacia"/>
+				</components>
+			</game_entity>
+			<game_entity name="spell_thornvines_root_1" old_prefab_name="" visible="false">
+				<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000"/>
+				<components>
+					<meta_mesh_component name="tree_root_a_acacia"/>
+				</components>
+			</game_entity>
+			<game_entity name="spell_thornvines_root_2" old_prefab_name="" visible="false">
+				<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000"/>
+				<components>
+					<meta_mesh_component name="tree_root_b_acacia"/>
+				</components>
+			</game_entity>
+			<game_entity name="spell_thornvines_root_1" old_prefab_name="" visible="false">
+				<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000"/>
+				<components>
+					<meta_mesh_component name="tree_root_a_acacia"/>
+				</components>
+			</game_entity>
+			<game_entity name="spell_thornvines_root_2" old_prefab_name="" visible="false">
+				<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000"/>
+				<components>
+					<meta_mesh_component name="tree_root_b_acacia"/>
+				</components>
+			</game_entity>
+			<game_entity name="spell_thornvines_root_1" old_prefab_name="" visible="false">
+				<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000"/>
+				<components>
+					<meta_mesh_component name="tree_root_a_acacia"/>
+				</components>
+			</game_entity>
+			<game_entity name="spell_thornvines_root_2" old_prefab_name="" visible="false">
+				<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000"/>
+				<components>
+					<meta_mesh_component name="tree_root_b_acacia"/>
+				</components>
+			</game_entity>
+			<game_entity name="spell_thornvines_root_1" old_prefab_name="" visible="false">
+				<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000"/>
+				<components>
+					<meta_mesh_component name="tree_root_a_acacia"/>
+				</components>
+			</game_entity>
+			<game_entity name="spell_thornvines_root_2" old_prefab_name="" visible="false">
+				<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000"/>
+				<components>
+					<meta_mesh_component name="tree_root_b_acacia"/>
+				</components>
+			</game_entity>
+			<game_entity name="spell_thornvines_root_1" old_prefab_name="" visible="false">
+				<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000"/>
+				<components>
+					<meta_mesh_component name="tree_root_a_acacia"/>
+				</components>
+			</game_entity>
+			<game_entity name="spell_thornvines_root_2" old_prefab_name="" visible="false">
+				<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000"/>
+				<components>
+					<meta_mesh_component name="tree_root_b_acacia"/>
+				</components>
+			</game_entity>
+			<game_entity name="spell_thornvines_root_1" old_prefab_name="" visible="false">
+				<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000"/>
+				<components>
+					<meta_mesh_component name="tree_root_a_acacia"/>
+				</components>
+			</game_entity>
+			<game_entity name="spell_thornvines_root_2" old_prefab_name="" visible="false">
+				<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000"/>
+				<components>
+					<meta_mesh_component name="tree_root_b_acacia"/>
+				</components>
+			</game_entity>
+			<game_entity name="spell_thornvines_root_1" old_prefab_name="" visible="false">
+				<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000"/>
+				<components>
+					<meta_mesh_component name="tree_root_a_acacia"/>
+				</components>
+			</game_entity>
+			<game_entity name="spell_thornvines_root_2" old_prefab_name="" visible="false">
+				<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000"/>
+				<components>
+					<meta_mesh_component name="tree_root_b_acacia"/>
+				</components>
+			</game_entity>
+			<game_entity name="spell_thornvines_root_1" old_prefab_name="" visible="false">
+				<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000"/>
+				<components>
+					<meta_mesh_component name="tree_root_a_acacia"/>
+				</components>
+			</game_entity>
+			<game_entity name="spell_thornvines_root_2" old_prefab_name="" visible="false">
+				<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000"/>
+				<components>
+					<meta_mesh_component name="tree_root_b_acacia"/>
+				</components>
+			</game_entity>
+		</children>
+		<scripts>
+			<script name="SpellThornVinesArea">
+				<variables>
+					<variable name="NavMeshPrefabName" value=""/>
+				</variables>
+			</script>
+		</scripts>
+	</game_entity>
+	<game_entity name="spell_thornvines" old_prefab_name="" mobility="1">
+		<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000"/>
+		<components>
+			<particle_system_instanced_component>
+				<effect_ref base_effect="{0603656B-0AC8-4341-A417-7F45D4D8C10D}"/>
+			</particle_system_instanced_component>
+		</components>
 		<skeleton skeleton_model="bre_vine_skeleton">
 			<components>
 				<meta_mesh_component name="bre_vine"/>
