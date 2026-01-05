@@ -6,7 +6,7 @@
       <Name>ui_bre_magic</Name>
       <SpriteSheetCount>2</SpriteSheetCount>
       <SpriteSheetSize ID="1" Width="2048" Height="256" />
-      <SpriteSheetSize ID="2" Width="256" Height="128" />
+      <SpriteSheetSize ID="2" Width="512" Height="128" />
     </SpriteCategory>
   </SpriteCategories>
   <SpriteParts>
@@ -75,7 +75,16 @@
     </SpritePart>
     <SpritePart>
       <SheetID>2</SheetID>
-      <Name>ThunderBolt</Name>
+      <Name>DragonsBreath</Name>
+      <Width>67</Width>
+      <Height>67</Height>
+      <SheetX>4</SheetX>
+      <SheetY>4</SheetY>
+      <CategoryName>ui_bre_magic</CategoryName>
+    </SpritePart>
+    <SpritePart>
+      <SheetID>2</SheetID>
+      <Name>MissileShield</Name>
       <Width>67</Width>
       <Height>67</Height>
       <SheetX>79</SheetX>
@@ -84,10 +93,19 @@
     </SpritePart>
     <SpritePart>
       <SheetID>2</SheetID>
-      <Name>DragonsBreath</Name>
+      <Name>ThornVines</Name>
       <Width>67</Width>
       <Height>67</Height>
-      <SheetX>4</SheetX>
+      <SheetX>154</SheetX>
+      <SheetY>4</SheetY>
+      <CategoryName>ui_bre_magic</CategoryName>
+    </SpritePart>
+    <SpritePart>
+      <SheetID>2</SheetID>
+      <Name>ThunderBolt</Name>
+      <Width>67</Width>
+      <Height>67</Height>
+      <SheetX>229</SheetX>
       <SheetY>4</SheetY>
       <CategoryName>ui_bre_magic</CategoryName>
     </SpritePart>
@@ -131,11 +149,11 @@
     </GenericSprite>
     <GenericSprite>
       <Name>MissileShield</Name>
-      <SpritePartName>DragonsBreath</SpritePartName>
+      <SpritePartName>MissileShield</SpritePartName>
     </GenericSprite>
     <GenericSprite>
       <Name>ThornVines</Name>
-      <SpritePartName>DragonsBreath</SpritePartName>
+      <SpritePartName>ThornVines</SpritePartName>
     </GenericSprite>
   </Sprites>
 </SpriteData>

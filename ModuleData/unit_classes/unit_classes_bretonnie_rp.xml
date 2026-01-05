@@ -4,6 +4,7 @@
 		name="Grand Sorcier"
 		character="human_infantry"
 		stats_preset="infantry_human_150hp"
+    	premade_bodyproperties="wizard"
 		armament_cost="0">
 	    <UsableWeaponGroups>
 	      	<WeaponGroup id="human"/>
@@ -20,6 +21,23 @@
 		    <Weapon0>
 		      	<Item id="rp_grand_sorcerer_staff"/>
 		    </Weapon0>
+		    <Head>
+		      	<Item id="rp_grand_sorcerer_head_v1"/>
+		      	<Item id="rp_grand_sorcerer_head_v2"/>
+		    </Head>
+		    <Cape>
+		      	<Item id="rp_grand_sorcerer_cape_v1"/>
+	      		<Item id="rp_grand_sorcerer_cape_v2"/>
+		    </Cape>
+		    <Body>
+		      	<Item id="rp_grand_sorcerer_body"/>
+		    </Body>
+		    <Gloves>
+		      	<Item id="rp_grand_sorcerer_gloves"/>
+		    </Gloves>
+		    <Leg>
+		      	<Item id="rp_grand_sorcerer_leg"/>
+		    </Leg>
 		</Equipment>
 	</UnitClass>
 </UnitClasses>

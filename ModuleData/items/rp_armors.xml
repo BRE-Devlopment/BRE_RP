@@ -1446,6 +1446,40 @@
         beard_cover_type="all" />
     </ItemComponent>
   </Item>
+  <Item 
+    id="rp_grand_sorcerer_head_v1" 
+    name="Grand Sorcerer's Hat"
+    subtype="head_armor" 
+    mesh="bre_grand_sorcier_hat" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="cloth" 
+        material_type="Cloth" 
+        beard_cover_type="none" />
+    </ItemComponent>
+  </Item>
+  <Item 
+    id="rp_grand_sorcerer_head_v2" 
+    name="Grand Sorcerer's Hood"
+    subtype="head_armor" 
+    mesh="bre_grand_sorcier_hood" 
+    culture="Culture.neutral_culture" 
+    weight="0" 
+    Type="HeadArmor">
+    <ItemComponent>
+      <Armor 
+        head_armor="0"
+        hair_cover_type="all" 
+        modifier_group="cloth" 
+        material_type="Cloth" 
+        beard_cover_type="none" />
+    </ItemComponent>
+  </Item>
   <!--CAPE-->
   <Item
     id="rp_cultist_cape_chu_v1"
@@ -2299,6 +2333,34 @@
         body_armor="0"
         modifier_group="plate"
         material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_grand_sorcerer_cape_v1"
+    name="Grand Sorcerer's Cape"
+    mesh="bre_grand_sorcier_shoulders_cape"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_grand_sorcerer_cape_v2"
+    name="Grand Sorcerer's Necklace"
+    mesh="bre_grand_sorcier_shoulders_normal"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="Cape">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        modifier_group="cloth"
+        material_type="Cloth" />
     </ItemComponent>
   </Item>
   <!--BODY-->
@@ -3278,6 +3340,22 @@
         material_type="Cloth" />
     </ItemComponent>
   </Item>
+  <Item
+    id="rp_grand_sorcerer_body"
+    name="Grand Sorcerer's Robes"
+    mesh="bre_grand_sorcier_torso"
+    subtype="body_armor"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="BodyArmor">
+    <ItemComponent>
+      <Armor
+        body_armor="0"
+        covers_body="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
   <!--GLOVES-->
   <Item
     id="rp_cultist_gloves_chu_v1"
@@ -4159,6 +4237,22 @@
         material_type="Plate" />
     </ItemComponent>
   </Item>
+  <Item
+    id="rp_grand_sorcerer_gloves"
+    name="Grand Sorcerer's Rings"
+    mesh="bre_grand_sorcier_rings"
+    subtype="body_armor" 
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="HandArmor">
+    <ItemComponent>
+      <Armor
+        arm_armor="0"
+        covers_hands="false"
+        modifier_group="cloth_unarmoured"
+        material_type="Cloth" />
+    </ItemComponent>
+  </Item>
   <!--LEG-->
   <Item
     id="rp_cultist_leg_chu_v1"
@@ -4983,6 +5077,21 @@
         covers_legs="true"
         modifier_group="plate"
         material_type="Plate" />
+    </ItemComponent>
+  </Item>
+  <Item
+    id="rp_grand_sorcerer_leg"
+    name="Grand Sorcerer's Boots"
+    mesh="bre_grand_sorcier_boots"
+    culture="Culture.neutral_culture"
+    weight="0"
+    Type="LegArmor">
+    <ItemComponent>
+      <Armor
+        leg_armor="0"
+        covers_legs="true"
+        modifier_group="cloth"
+        material_type="Cloth" />
     </ItemComponent>
   </Item>
   <!--HORSEHARNESS-->
