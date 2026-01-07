@@ -8,7 +8,6 @@
 	    uses_armaments="true"
 	    is_nation="false"
 	    banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0">
-		<ItemVariableValues/>
 		<UnitClasses>
 			<UnitClass id="grand_sorcier"/>
 		</UnitClasses>
