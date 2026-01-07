@@ -104,5 +104,30 @@
       <UsablePiece piece_id="rpsp_spear_blade_2"/>
     </xsl:copy>
   </xsl:template>
+  <xsl:template match="CraftingTemplate[@id='B2_JoustingLance']/UsablePieces">
+    <xsl:copy>
+      <xsl:apply-templates select="@*|node()"/>
+      <UsablePiece piece_id="b3_chaos_lance_blade_chu"/>
+      <UsablePiece piece_id="b3_chaos_lance_guard_chu"/>
+      <UsablePiece piece_id="b3_chaos_lance_handle_chu"/>
+      <UsablePiece piece_id="b3_chaos_lance_pommel_chu"/>
+      <UsablePiece piece_id="b3_chaos_lance_blade_chk"/>
+      <UsablePiece piece_id="b3_chaos_lance_guard_chk"/>
+      <UsablePiece piece_id="b3_chaos_lance_handle_chk"/>
+      <UsablePiece piece_id="b3_chaos_lance_pommel_chk"/>
+      <UsablePiece piece_id="b3_chaos_lance_blade_chn"/>
+      <UsablePiece piece_id="b3_chaos_lance_guard_chn"/>
+      <UsablePiece piece_id="b3_chaos_lance_handle_chn"/>
+      <UsablePiece piece_id="b3_chaos_lance_pommel_chn"/>
+      <UsablePiece piece_id="b3_chaos_lance_blade_chs"/>
+      <UsablePiece piece_id="b3_chaos_lance_guard_chs"/>
+      <UsablePiece piece_id="b3_chaos_lance_handle_chs"/>
+      <UsablePiece piece_id="b3_chaos_lance_pommel_chs"/>
+      <UsablePiece piece_id="b3_chaos_lance_blade_cht"/>
+      <UsablePiece piece_id="b3_chaos_lance_guard_cht"/>
+      <UsablePiece piece_id="b3_chaos_lance_handle_cht"/>
+      <UsablePiece piece_id="b3_chaos_lance_pommel_cht"/>
+    </xsl:copy>
+  </xsl:template>
 </xsl:stylesheet>
       

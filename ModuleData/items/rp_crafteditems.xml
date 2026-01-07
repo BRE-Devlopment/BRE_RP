@@ -493,4 +493,100 @@
 	      		Type="Handle"/>
 	    </Pieces>
 	 </CraftedItem>
+	 <!--JOUSTING LANCE-->
+  	<CraftedItem 
+  		id="rp_chaos_lance_chu" 
+  		name="Jousting Lance" 
+  		crafting_template="B2_JoustingLance">
+    	<Pieces>
+      		<Piece 
+      			id="b3_chaos_lance_blade_chu" 
+      			Type="Blade"/>
+      		<Piece 
+      			id="b3_chaos_lance_guard_chu" 
+      			Type="Guard"/>
+      		<Piece 
+      			id="b3_chaos_lance_handle_chu" 
+      			Type="Handle"/>
+      		<Piece 
+      			id="b3_chaos_lance_pommel_chu" 
+      			Type="Pommel"/>
+    	</Pieces>
+  	</CraftedItem>
+  	<CraftedItem 
+  		id="rp_chaos_lance_chk" 
+  		name="Jousting Lance" 
+  		crafting_template="B2_JoustingLance">
+    	<Pieces>
+      		<Piece 
+      			id="b3_chaos_lance_blade_chk" 
+      			Type="Blade"/>
+      		<Piece 
+      			id="b3_chaos_lance_guard_chk" 
+      			Type="Guard"/>
+      		<Piece 
+      			id="b3_chaos_lance_handle_chk" 
+      			Type="Handle"/>
+      		<Piece 
+      			id="b3_chaos_lance_pommel_chk" 
+      			Type="Pommel"/>
+    	</Pieces>
+  	</CraftedItem>
+  	<CraftedItem 
+  		id="rp_chaos_lance_chn" 
+  		name="Jousting Lance" 
+  		crafting_template="B2_JoustingLance">
+    	<Pieces>
+      		<Piece 
+      			id="b3_chaos_lance_blade_chn" 
+      			Type="Blade"/>
+      		<Piece 
+      			id="b3_chaos_lance_guard_chn" 
+      			Type="Guard"/>
+      		<Piece 
+      			id="b3_chaos_lance_handle_chn" 
+      			Type="Handle"/>
+      		<Piece 
+      			id="b3_chaos_lance_pommel_chn" 
+      			Type="Pommel"/>
+    	</Pieces>
+  	</CraftedItem>
+  	<CraftedItem 
+  		id="rp_chaos_lance_chs" 
+  		name="Jousting Lance" 
+  		crafting_template="B2_JoustingLance">
+    	<Pieces>
+      		<Piece 
+      			id="b3_chaos_lance_blade_chs" 
+      			Type="Blade"/>
+      		<Piece 
+      			id="b3_chaos_lance_guard_chs" 
+      			Type="Guard"/>
+      		<Piece 
+      			id="b3_chaos_lance_handle_chs" 
+      			Type="Handle"/>
+      		<Piece 
+      			id="b3_chaos_lance_pommel_chs" 
+      			Type="Pommel"/>
+    	</Pieces>
+  	</CraftedItem>
+  	<CraftedItem 
+  		id="rp_chaos_lance_cht" 
+  		name="Jousting Lance" 
+  		crafting_template="B2_JoustingLance">
+    	<Pieces>
+      		<Piece 
+      			id="b3_chaos_lance_blade_cht" 
+      			Type="Blade"/>
+      		<Piece 
+      			id="b3_chaos_lance_guard_cht" 
+      			Type="Guard"/>
+      		<Piece 
+      			id="b3_chaos_lance_handle_cht" 
+      			Type="Handle"/>
+      		<Piece 
+      			id="b3_chaos_lance_pommel_cht" 
+      			Type="Pommel"/>
+    	</Pieces>
+  	</CraftedItem>
 </Items>

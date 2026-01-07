@@ -1088,4 +1088,265 @@
     length="213.0" 
     weight="0.8">
   </CraftingPiece>
+  <!--Chaos Lance-->
+  <CraftingPiece 
+    id="b3_chaos_lance_blade_chu" 
+    name="Chaos Lance Blade" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_undivided_lance_blade" 
+    length="55.4" 
+    weight="1.25" 
+    excluded_item_usage_features="swing"
+    is_default="true">
+    <BladeData 
+      physics_material="wood_weapon" 
+      body_name="bo_spear_b">
+      <Thrust 
+        damage_type="Pierce" 
+        damage_factor="1.8" />
+    </BladeData>
+    <Flags>
+      <Flag 
+        name="DropOnWeaponChange" 
+        type="ItemFlags"/>
+    </Flags>
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lance_guard_chu" 
+    name="Chaos Lance Guard" 
+    tier="2" 
+    piece_type="Guard" 
+    mesh="bre_chaos_undivided_lance_guard" 
+    length="326" 
+    weight="1.5">
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lance_handle_chu" 
+    name="Chaos Lance Handle" 
+    tier="2" 
+    piece_type="Handle" 
+    mesh="bre_chaos_undivided_lance_handle" 
+    length="34.7" 
+    weight="0.2">
+    <BuildData 
+      piece_offset="6" />
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lance_pommel_chu" 
+    name="Chaos Lance Pommel" 
+    tier="2" 
+    piece_type="Pommel" 
+    mesh="bre_chaos_undivided_lance_pommel" 
+    length="78.8" 
+    weight="1.5">
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lance_blade_chk" 
+    name="Chaos Lance Blade" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_khorne_lance_blade" 
+    length="55.4" 
+    weight="1.25" 
+    excluded_item_usage_features="swing"
+    is_default="true">
+    <BladeData 
+      physics_material="wood_weapon" 
+      body_name="bo_spear_b">
+      <Thrust 
+        damage_type="Pierce" 
+        damage_factor="1.8" />
+    </BladeData>
+    <Flags>
+      <Flag 
+        name="DropOnWeaponChange" 
+        type="ItemFlags"/>
+    </Flags>
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lance_guard_chk" 
+    name="Chaos Lance Guard" 
+    tier="2" 
+    piece_type="Guard" 
+    mesh="bre_chaos_khorne_lance_guard" 
+    length="326" 
+    weight="1.5">
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lance_handle_chk" 
+    name="Chaos Lance Handle" 
+    tier="2" 
+    piece_type="Handle" 
+    mesh="bre_chaos_khorne_lance_handle" 
+    length="34.7" 
+    weight="0.2">
+    <BuildData 
+      piece_offset="6" />
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lance_pommel_chk" 
+    name="Chaos Lance Pommel" 
+    tier="2" 
+    piece_type="Pommel" 
+    mesh="bre_chaos_khorne_lance_pommel" 
+    length="78.8" 
+    weight="1.5">
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lance_blade_chn" 
+    name="Chaos Lance Blade" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_nurgle_lance_blade" 
+    length="55.4" 
+    weight="1.25" 
+    excluded_item_usage_features="swing"
+    is_default="true">
+    <BladeData 
+      physics_material="wood_weapon" 
+      body_name="bo_spear_b">
+      <Thrust 
+        damage_type="Pierce" 
+        damage_factor="1.8" />
+    </BladeData>
+    <Flags>
+      <Flag 
+        name="DropOnWeaponChange" 
+        type="ItemFlags"/>
+    </Flags>
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lance_guard_chn" 
+    name="Chaos Lance Guard" 
+    tier="2" 
+    piece_type="Guard" 
+    mesh="bre_chaos_nurgle_lance_guard" 
+    length="326" 
+    weight="1.5">
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lance_handle_chn" 
+    name="Chaos Lance Handle" 
+    tier="2" 
+    piece_type="Handle" 
+    mesh="bre_chaos_nurgle_lance_handle" 
+    length="34.7" 
+    weight="0.2">
+    <BuildData 
+      piece_offset="6" />
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lance_pommel_chn" 
+    name="Chaos Lance Pommel" 
+    tier="2" 
+    piece_type="Pommel" 
+    mesh="bre_chaos_nurgle_lance_pommel" 
+    length="78.8" 
+    weight="1.5">
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lance_blade_chs" 
+    name="Chaos Lance Blade" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_slaanesh_lance_blade" 
+    length="55.4" 
+    weight="1.25" 
+    excluded_item_usage_features="swing"
+    is_default="true">
+    <BladeData 
+      physics_material="wood_weapon" 
+      body_name="bo_spear_b">
+      <Thrust 
+        damage_type="Pierce" 
+        damage_factor="1.8" />
+    </BladeData>
+    <Flags>
+      <Flag 
+        name="DropOnWeaponChange" 
+        type="ItemFlags"/>
+    </Flags>
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lance_guard_chs" 
+    name="Chaos Lance Guard" 
+    tier="2" 
+    piece_type="Guard" 
+    mesh="bre_chaos_slaanesh_lance_guard" 
+    length="326" 
+    weight="1.5">
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lance_handle_chs" 
+    name="Chaos Lance Handle" 
+    tier="2" 
+    piece_type="Handle" 
+    mesh="bre_chaos_slaanesh_lance_handle" 
+    length="34.7" 
+    weight="0.2">
+    <BuildData 
+      piece_offset="6" />
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lance_pommel_chs" 
+    name="Chaos Lance Pommel" 
+    tier="2" 
+    piece_type="Pommel" 
+    mesh="bre_chaos_slaanesh_lance_pommel" 
+    length="78.8" 
+    weight="1.5">
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lance_blade_cht" 
+    name="Chaos Lance Blade" 
+    tier="2" 
+    piece_type="Blade" 
+    mesh="bre_chaos_tzeentch_lance_blade" 
+    length="55.4" 
+    weight="1.25" 
+    excluded_item_usage_features="swing"
+    is_default="true">
+    <BladeData 
+      physics_material="wood_weapon" 
+      body_name="bo_spear_b">
+      <Thrust 
+        damage_type="Pierce" 
+        damage_factor="1.8" />
+    </BladeData>
+    <Flags>
+      <Flag 
+        name="DropOnWeaponChange" 
+        type="ItemFlags"/>
+    </Flags>
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lance_guard_cht" 
+    name="Chaos Lance Guard" 
+    tier="2" 
+    piece_type="Guard" 
+    mesh="bre_chaos_tzeentch_lance_guard" 
+    length="326" 
+    weight="1.5">
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lance_handle_cht" 
+    name="Chaos Lance Handle" 
+    tier="2" 
+    piece_type="Handle" 
+    mesh="bre_chaos_tzeentch_lance_handle" 
+    length="34.7" 
+    weight="0.2">
+    <BuildData 
+      piece_offset="6" />
+  </CraftingPiece>
+  <CraftingPiece 
+    id="b3_chaos_lance_pommel_cht" 
+    name="Chaos Lance Pommel" 
+    tier="2" 
+    piece_type="Pommel" 
+    mesh="bre_chaos_tzeentch_lance_pommel" 
+    length="78.8" 
+    weight="1.5">
+  </CraftingPiece>
 </CraftingPieces>

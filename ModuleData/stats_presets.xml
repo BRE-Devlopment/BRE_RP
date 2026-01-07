@@ -86,7 +86,8 @@
 	    kick_resistant="true"
 	    mount_difficulty="-1"
 	    knockdown_resistant="true"
-    	stagger_treshold_damage="60.0"/>
+    	stagger_treshold_damage="60.0"
+    	destructible_entity_damage_multiplier="10.0"/>
 	<StatsPreset
 		id="archer_human_150hp"
 		name="Lvl1"
