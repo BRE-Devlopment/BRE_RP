@@ -16,8 +16,8 @@
                           <Children>
                             <Widget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="67" SuggestedHeight="67" Sprite="@SpriteName" HorizontalAlignment="Center" VerticalAlignment="Center">
                               <Children>
-                                <StretchingWidget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="67" SuggestedHeight="67" Sprite="BlankWhiteSquare_9" Color="#FFFFFFFF" AlphaFactor="0.7" UseWidth="false" FullValue="@FullCooldown" Value="@CooldownLeft" VerticalAlignment="Bottom"/>
-                                <Widget IsHidden="@HasEnoughMana" WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" Sprite="BlankWhiteSquare_9" Color="#000000FF" AlphaFactor="0.5"/>
+                                <StretchingWidget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="67" SuggestedHeight="59" Sprite="BlankWhiteSquare_9" Color="#FFFFFFFF" AlphaFactor="0.7" UseWidth="false" FullValue="@FullCooldown" Value="@CooldownLeft" VerticalAlignment="Bottom" MarginBottom="4"/>
+                                <Widget IsHidden="@IsUsable" WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" Sprite="BlankWhiteSquare_9" Color="#000000FF" AlphaFactor="0.5"/>
                               </Children>
                             </Widget>
                             <Widget WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" Sprite="magic_frame"/>
