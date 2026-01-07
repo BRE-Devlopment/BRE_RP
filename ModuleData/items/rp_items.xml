@@ -2049,7 +2049,7 @@
         rotation="0.0,10.0,40.00" 
         weapon_length="80" 
         center_of_mass="0.0,0.1,0.8" 
-        hit_points="160" 
+        hit_points="480" 
         modifier_group="shield_metal">
         <WeaponFlags 
           CanBlockRanged="true" 
@@ -2088,7 +2088,7 @@
         rotation="0.0,10.0,40.00" 
         weapon_length="80" 
         center_of_mass="0.0,0.1,0.8" 
-        hit_points="160" 
+        hit_points="480" 
         modifier_group="shield_metal">
         <WeaponFlags 
           CanBlockRanged="true" 
@@ -2127,7 +2127,7 @@
         rotation="0.0,10.0,40.00" 
         weapon_length="80" 
         center_of_mass="0.0,0.1,0.8" 
-        hit_points="160" 
+        hit_points="480" 
         modifier_group="shield_metal">
         <WeaponFlags 
           CanBlockRanged="true" 
@@ -2166,7 +2166,7 @@
         rotation="0.0,10.0,40.00" 
         weapon_length="80" 
         center_of_mass="0.0,0.1,0.8" 
-        hit_points="160" 
+        hit_points="480" 
         modifier_group="shield_metal">
         <WeaponFlags 
           CanBlockRanged="true" 
@@ -2205,7 +2205,7 @@
         rotation="0.0,10.0,40.00" 
         weapon_length="80" 
         center_of_mass="0.0,0.1,0.8" 
-        hit_points="160" 
+        hit_points="480" 
         modifier_group="shield_metal">
         <WeaponFlags 
           CanBlockRanged="true" 
@@ -2244,7 +2244,7 @@
         rotation="0.0,10.0,40.00" 
         weapon_length="80" 
         center_of_mass="0.0,0.1,0.8" 
-        hit_points="160" 
+        hit_points="480" 
         modifier_group="shield_metal">
         <WeaponFlags 
           CanBlockRanged="true" 
@@ -2283,7 +2283,7 @@
         rotation="0.0,10.0,40.00" 
         weapon_length="80" 
         center_of_mass="0.0,0.1,0.8" 
-        hit_points="160" 
+        hit_points="480" 
         modifier_group="shield_metal">
         <WeaponFlags 
           CanBlockRanged="true" 
@@ -2322,7 +2322,7 @@
         rotation="0.0,10.0,40.00" 
         weapon_length="80" 
         center_of_mass="0.0,0.1,0.8" 
-        hit_points="160" 
+        hit_points="480" 
         modifier_group="shield_metal">
         <WeaponFlags 
           CanBlockRanged="true" 
@@ -2361,7 +2361,7 @@
         rotation="0.0,10.0,40.00" 
         weapon_length="80" 
         center_of_mass="0.0,0.1,0.8" 
-        hit_points="160" 
+        hit_points="480" 
         modifier_group="shield_metal">
         <WeaponFlags 
           CanBlockRanged="true" 
@@ -2400,7 +2400,7 @@
         rotation="0.0,10.0,40.00" 
         weapon_length="80" 
         center_of_mass="0.0,0.1,0.8" 
-        hit_points="160" 
+        hit_points="480" 
         modifier_group="shield_metal">
         <WeaponFlags 
           CanBlockRanged="true" 
@@ -2439,7 +2439,7 @@
         rotation="0.0,10.0,40.00" 
         weapon_length="80" 
         center_of_mass="0.0,0.1,0.8" 
-        hit_points="160" 
+        hit_points="480" 
         modifier_group="shield_metal">
         <WeaponFlags 
           CanBlockRanged="true" 
@@ -2478,7 +2478,7 @@
         rotation="0.0,10.0,40.00" 
         weapon_length="80" 
         center_of_mass="0.0,0.1,0.8" 
-        hit_points="160" 
+        hit_points="480" 
         modifier_group="shield_metal">
         <WeaponFlags 
           CanBlockRanged="true" 
@@ -2517,7 +2517,7 @@
         rotation="0.0,10.0,40.00" 
         weapon_length="80" 
         center_of_mass="0.0,0.1,0.8" 
-        hit_points="160" 
+        hit_points="480" 
         modifier_group="shield_metal">
         <WeaponFlags 
           CanBlockRanged="true" 
@@ -2556,7 +2556,7 @@
         rotation="0.0,10.0,40.00" 
         weapon_length="80" 
         center_of_mass="0.0,0.1,0.8" 
-        hit_points="160" 
+        hit_points="480" 
         modifier_group="shield_metal">
         <WeaponFlags 
           CanBlockRanged="true" 
@@ -2595,7 +2595,7 @@
         rotation="0.0,10.0,40.00" 
         weapon_length="80" 
         center_of_mass="0.0,0.1,0.8" 
-        hit_points="160" 
+        hit_points="480" 
         modifier_group="shield_metal">
         <WeaponFlags 
           CanBlockRanged="true" 
@@ -2634,7 +2634,7 @@
         rotation="0.0,10.0,40.00" 
         weapon_length="80" 
         center_of_mass="0.0,0.1,0.8" 
-        hit_points="160" 
+        hit_points="480" 
         modifier_group="shield_metal">
         <WeaponFlags 
           CanBlockRanged="true" 
@@ -2673,7 +2673,7 @@
         rotation="0.0,10.0,40.00" 
         weapon_length="80" 
         center_of_mass="0.0,0.1,0.8" 
-        hit_points="160" 
+        hit_points="480" 
         modifier_group="shield_metal">
         <WeaponFlags 
           CanBlockRanged="true" 
@@ -2712,7 +2712,7 @@
         rotation="0.0,10.0,40.00" 
         weapon_length="80" 
         center_of_mass="0.0,0.1,0.8" 
-        hit_points="160" 
+        hit_points="480" 
         modifier_group="shield_metal">
         <WeaponFlags 
           CanBlockRanged="true" 
@@ -2751,7 +2751,7 @@
         rotation="0.0,10.0,40.00" 
         weapon_length="80" 
         center_of_mass="0.0,0.1,0.8" 
-        hit_points="160" 
+        hit_points="480" 
         modifier_group="shield_metal">
         <WeaponFlags 
           CanBlockRanged="true" 
@@ -2790,7 +2790,7 @@
         rotation="0.0,10.0,40.00" 
         weapon_length="80" 
         center_of_mass="0.0,0.1,0.8" 
-        hit_points="160" 
+        hit_points="480" 
         modifier_group="shield_metal">
         <WeaponFlags 
           CanBlockRanged="true" 
@@ -2829,7 +2829,7 @@
         rotation="0.0,10.0,40.00" 
         weapon_length="80" 
         center_of_mass="0.0,0.1,0.8" 
-        hit_points="160" 
+        hit_points="480" 
         modifier_group="shield_metal">
         <WeaponFlags 
           CanBlockRanged="true" 
@@ -2868,7 +2868,7 @@
         rotation="0.0,10.0,40.00" 
         weapon_length="80" 
         center_of_mass="0.0,0.1,0.8" 
-        hit_points="160" 
+        hit_points="480" 
         modifier_group="shield_metal">
         <WeaponFlags 
           CanBlockRanged="true" 
@@ -2907,7 +2907,7 @@
         rotation="0.0,10.0,40.00" 
         weapon_length="80" 
         center_of_mass="0.0,0.1,0.8" 
-        hit_points="160" 
+        hit_points="480" 
         modifier_group="shield_metal">
         <WeaponFlags 
           CanBlockRanged="true" 
@@ -2946,7 +2946,7 @@
         rotation="0.0,10.0,40.00" 
         weapon_length="80" 
         center_of_mass="0.0,0.1,0.8" 
-        hit_points="160" 
+        hit_points="480" 
         modifier_group="shield_metal">
         <WeaponFlags 
           CanBlockRanged="true" 
@@ -2985,7 +2985,7 @@
         rotation="0.0,10.0,40.00" 
         weapon_length="80" 
         center_of_mass="0.0,0.1,0.8" 
-        hit_points="160" 
+        hit_points="480" 
         modifier_group="shield_metal">
         <WeaponFlags 
           CanBlockRanged="true" 
@@ -3024,7 +3024,7 @@
         rotation="0.0,10.0,40.00" 
         weapon_length="80" 
         center_of_mass="0.0,0.1,0.8" 
-        hit_points="160" 
+        hit_points="480" 
         modifier_group="shield_metal">
         <WeaponFlags 
           CanBlockRanged="true" 
@@ -3063,7 +3063,7 @@
         rotation="0.0,10.0,40.00" 
         weapon_length="80" 
         center_of_mass="0.0,0.1,0.8" 
-        hit_points="160" 
+        hit_points="480" 
         modifier_group="shield_metal">
         <WeaponFlags 
           CanBlockRanged="true" 
@@ -3102,7 +3102,7 @@
         rotation="0.0,10.0,40.00" 
         weapon_length="80" 
         center_of_mass="0.0,0.1,0.8" 
-        hit_points="160" 
+        hit_points="480" 
         modifier_group="shield_metal">
         <WeaponFlags 
           CanBlockRanged="true" 
@@ -3141,7 +3141,7 @@
         rotation="0.0,10.0,40.00" 
         weapon_length="80" 
         center_of_mass="0.0,0.1,0.8" 
-        hit_points="160" 
+        hit_points="480" 
         modifier_group="shield_metal">
         <WeaponFlags 
           CanBlockRanged="true" 
@@ -3180,7 +3180,7 @@
         rotation="0.0,10.0,40.00" 
         weapon_length="80" 
         center_of_mass="0.0,0.1,0.8" 
-        hit_points="160" 
+        hit_points="480" 
         modifier_group="shield_metal">
         <WeaponFlags 
           CanBlockRanged="true" 
