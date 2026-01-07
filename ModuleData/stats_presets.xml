@@ -56,7 +56,8 @@
 	    can_knockdown="true"
 	    slices_through="true"
 	    mount_difficulty="1"
-	    knockdown_resistant="true"/>
+	    knockdown_resistant="true"
+    	stagger_treshold_damage="60.0"/>
 	<StatsPreset
 		id="infantry_chaos_warrior_450hp"
 	    armor="50"
@@ -69,7 +70,8 @@
 	    slices_through="true"
 	    mount_difficulty="1"
 	    knockdown_resistant="true"
-	    shield_damage_multiplier="1.5"/>
+	    shield_damage_multiplier="1.5"
+    	stagger_treshold_damage="60.0"/>
 	<StatsPreset
 		id="infantry_troll_1000hp"
 	    armor="50"
@@ -216,7 +218,8 @@
 	    can_knockdown="true"
 	    slices_through="true"
 	    mount_difficulty="1"
-	    knockdown_resistant="true"/>
+	    knockdown_resistant="true"
+    	stagger_treshold_damage="60.0"/>
 	<StatsPreset
 		id="cavalry_chaos_warrior_500hp"
 	    armor="50"
@@ -230,5 +233,5 @@
 	    mount_difficulty="1"
 	    knockdown_resistant="true"
 	    shield_damage_multiplier="1.5"
-    	stagger_treshold_damage="40.0"/>
+    	stagger_treshold_damage="60.0"/>
 </StatsPresets>
