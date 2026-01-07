@@ -10,8 +10,8 @@
 	      	<WeaponGroup id="human"/>
 	    </UsableWeaponGroups>
 	    <SpellCasting
-	      	max_mana="30.0"
-	      	mana_refill_amount="0.0">
+	      	max_mana="100.0"
+	      	mana_refill_amount="1.7">
 	      	<Spell id="thunder_bolt"/>
 	      	<Spell id="dragons_breath"/>
 	      	<Spell id="missile_shield"/>
