@@ -44,7 +44,7 @@
       holster_mesh="bre_chaos_warrior_2h_sword_scabbard">
       <Swing 
         damage_type="Cut" 
-        damage_factor="4.35" />
+        damage_factor="6.525" />
     </BladeData>
     <BuildData 
       piece_offset="-36.5" />
@@ -68,7 +68,7 @@
       holster_mesh="bre_chaos_warrior_2h_sword_scabbard">
       <Swing 
         damage_type="Cut" 
-        damage_factor="4.35" />
+        damage_factor="6.525" />
     </BladeData>
     <BuildData 
       piece_offset="-36.5" />
@@ -92,7 +92,7 @@
       holster_mesh="bre_chaos_warrior_2h_sword_scabbard">
       <Swing 
         damage_type="Cut" 
-        damage_factor="4.35" />
+        damage_factor="6.525" />
     </BladeData>
     <BuildData 
       piece_offset="-36.5" />
@@ -116,7 +116,7 @@
       holster_mesh="bre_chaos_warrior_2h_sword_scabbard">
       <Swing 
         damage_type="Cut" 
-        damage_factor="4.35" />
+        damage_factor="6.525" />
     </BladeData>
     <BuildData 
       piece_offset="-36.5" />
@@ -152,10 +152,10 @@
       holster_mesh="bre_chaos_warrior_2h_sword_scabbard">
       <Thrust 
         damage_type="Pierce" 
-        damage_factor="2.8" />
+        damage_factor="4.2" />
       <Swing 
         damage_type="Cut" 
-        damage_factor="3.55" />
+        damage_factor="5.325" />
     </BladeData>
     <BuildData 
       piece_offset="-9.5" />
@@ -323,7 +323,7 @@
       body_name="bo_axe_longer_b">
       <Swing 
         damage_type="Cut" 
-        damage_factor="3.88" />
+        damage_factor="5.82" />
     </BladeData>
     <Flags>
       <Flag
@@ -349,7 +349,7 @@
       body_name="bo_axe_longer_b">
       <Swing 
         damage_type="Cut" 
-        damage_factor="3.88" />
+        damage_factor="5.82" />
     </BladeData>
     <Flags>
       <Flag
@@ -375,7 +375,7 @@
       body_name="bo_axe_longer_b">
       <Swing 
         damage_type="Cut" 
-        damage_factor="3.88" />
+        damage_factor="5.82" />
     </BladeData>
     <Flags>
       <Flag
@@ -401,7 +401,7 @@
       body_name="bo_axe_longer_b">
       <Swing 
         damage_type="Cut" 
-        damage_factor="3.88" />
+        damage_factor="5.82" />
     </BladeData>
     <Flags>
       <Flag
@@ -440,7 +440,7 @@
       body_name="bo_axe_longer_b">
       <Swing 
         damage_type="Cut" 
-        damage_factor="3.55" />
+        damage_factor="5.325" />
     </BladeData>
     <Flags>
       <Flag
@@ -479,7 +479,7 @@
       body_name="bo_axe_longer_b">
       <Swing 
         damage_type="Blunt" 
-        damage_factor="1.4" />
+        damage_factor="2.1" />
     </BladeData>
     <Flags>
       <Flag 
@@ -505,7 +505,7 @@
       body_name="bo_axe_longer_b">
       <Swing 
         damage_type="Blunt" 
-        damage_factor="1.4" />
+        damage_factor="2.1" />
     </BladeData>
     <Flags>
       <Flag 
@@ -531,7 +531,7 @@
       body_name="bo_axe_longer_b">
       <Swing 
         damage_type="Blunt" 
-        damage_factor="1.4" />
+        damage_factor="2.1" />
     </BladeData>
     <Flags>
       <Flag 
@@ -557,7 +557,7 @@
       body_name="bo_axe_longer_b">
       <Swing 
         damage_type="Blunt" 
-        damage_factor="1.4" />
+        damage_factor="2.1" />
     </BladeData>
     <Flags>
       <Flag 
@@ -593,7 +593,7 @@
       body_name="bo_mace_a">
       <Swing 
         damage_type="Blunt" 
-        damage_factor="1.4" />
+        damage_factor="2.1" />
     </BladeData>
     <Flags>
       <Flag 
@@ -748,10 +748,10 @@
       body_name="bo_spear_b">
       <Thrust 
         damage_type="Pierce" 
-        damage_factor="2.8" />
+        damage_factor="4.2" />
       <Swing 
         damage_type="Cut" 
-        damage_factor="3.66" />
+        damage_factor="5.49" />
     </BladeData>
     <Flags>
       <Flag
@@ -773,10 +773,10 @@
       body_name="bo_spear_b">
       <Thrust 
         damage_type="Pierce" 
-        damage_factor="2.8" />
+        damage_factor="4.2" />
       <Swing 
         damage_type="Cut" 
-        damage_factor="3.66" />
+        damage_factor="5.49" />
     </BladeData>
     <Flags>
       <Flag
@@ -798,10 +798,10 @@
       body_name="bo_spear_b">
       <Thrust 
         damage_type="Pierce" 
-        damage_factor="2.8" />
+        damage_factor="4.2" />
       <Swing 
         damage_type="Cut" 
-        damage_factor="3.66" />
+        damage_factor="5.49" />
     </BladeData>
     <Flags>
       <Flag
@@ -823,10 +823,10 @@
       body_name="bo_spear_b">
       <Thrust 
         damage_type="Pierce" 
-        damage_factor="2.8" />
+        damage_factor="4.2" />
       <Swing 
         damage_type="Cut" 
-        damage_factor="3.66" />
+        damage_factor="5.49" />
     </BladeData>
     <Flags>
       <Flag
