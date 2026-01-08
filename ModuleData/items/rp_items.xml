@@ -1458,14 +1458,14 @@
         thrust_speed="82"
         thrust_damage_type="Blunt"
         speed_rating="82"
-        physics_material="metal_shield"
+        physics_material="wood_shield"
         item_usage="shield"
         position="0.0,0.00,0.00" 
         rotation="0.0,10.0,40.00" 
         weapon_length="77"
         center_of_mass="-0.035,0.1,0.05"
         hit_points="160"
-        modifier_group="shield_metal">
+        modifier_group="shield">
         <WeaponFlags
           CanBlockRanged="true"
           HasHitPoints="true" />
@@ -1497,14 +1497,14 @@
         thrust_speed="82"
         thrust_damage_type="Blunt"
         speed_rating="82"
-        physics_material="metal_shield"
+        physics_material="wood_shield"
         item_usage="shield"
         position="0.0,0.00,0.00" 
         rotation="0.0,10.0,40.00" 
         weapon_length="77"
         center_of_mass="-0.035,0.1,0.05"
         hit_points="160"
-        modifier_group="shield_metal">
+        modifier_group="shield">
         <WeaponFlags
           CanBlockRanged="true"
           HasHitPoints="true" />
@@ -1536,14 +1536,14 @@
         thrust_speed="82"
         thrust_damage_type="Blunt"
         speed_rating="82"
-        physics_material="metal_shield"
+        physics_material="wood_shield"
         item_usage="shield"
         position="0.0,0.00,0.00" 
         rotation="0.0,10.0,40.00" 
         weapon_length="77"
         center_of_mass="-0.035,0.1,0.05"
         hit_points="160"
-        modifier_group="shield_metal">
+        modifier_group="shield">
         <WeaponFlags
           CanBlockRanged="true"
           HasHitPoints="true" />
@@ -1575,14 +1575,14 @@
         thrust_speed="82"
         thrust_damage_type="Blunt"
         speed_rating="82"
-        physics_material="metal_shield"
+        physics_material="wood_shield"
         item_usage="shield"
         position="0.0,0.00,0.00" 
         rotation="0.0,10.0,40.00" 
         weapon_length="77"
         center_of_mass="-0.035,0.1,0.05"
         hit_points="160"
-        modifier_group="shield_metal">
+        modifier_group="shield">
         <WeaponFlags
           CanBlockRanged="true"
           HasHitPoints="true" />
@@ -1614,14 +1614,14 @@
         thrust_speed="82"
         thrust_damage_type="Blunt"
         speed_rating="82"
-        physics_material="metal_shield"
+        physics_material="wood_shield"
         item_usage="shield"
         position="0.0,0.00,0.00" 
         rotation="0.0,10.0,40.00" 
         weapon_length="77"
         center_of_mass="-0.035,0.1,0.05"
         hit_points="160"
-        modifier_group="shield_metal">
+        modifier_group="shield">
         <WeaponFlags
           CanBlockRanged="true"
           HasHitPoints="true" />
@@ -1653,14 +1653,14 @@
         thrust_speed="82"
         thrust_damage_type="Blunt"
         speed_rating="82"
-        physics_material="metal_shield"
+        physics_material="wood_shield"
         item_usage="shield"
         position="0.0,0.00,0.00" 
         rotation="0.0,10.0,40.00" 
         weapon_length="77"
         center_of_mass="-0.035,0.1,0.05"
         hit_points="160"
-        modifier_group="shield_metal">
+        modifier_group="shield">
         <WeaponFlags
           CanBlockRanged="true"
           HasHitPoints="true" />
@@ -1692,14 +1692,14 @@
         thrust_speed="82"
         thrust_damage_type="Blunt"
         speed_rating="82"
-        physics_material="metal_shield"
+        physics_material="wood_shield"
         item_usage="shield"
         position="0.0,0.00,0.00" 
         rotation="0.0,10.0,40.00" 
         weapon_length="77"
         center_of_mass="-0.035,0.1,0.05"
         hit_points="160"
-        modifier_group="shield_metal">
+        modifier_group="shield">
         <WeaponFlags
           CanBlockRanged="true"
           HasHitPoints="true" />
@@ -1731,14 +1731,14 @@
         thrust_speed="82"
         thrust_damage_type="Blunt"
         speed_rating="82"
-        physics_material="metal_shield"
+        physics_material="wood_shield"
         item_usage="shield"
         position="0.0,0.00,0.00" 
         rotation="0.0,10.0,40.00" 
         weapon_length="77"
         center_of_mass="-0.035,0.1,0.05"
         hit_points="160"
-        modifier_group="shield_metal">
+        modifier_group="shield">
         <WeaponFlags
           CanBlockRanged="true"
           HasHitPoints="true" />
@@ -1770,14 +1770,14 @@
         thrust_speed="82"
         thrust_damage_type="Blunt"
         speed_rating="82"
-        physics_material="metal_shield"
+        physics_material="wood_shield"
         item_usage="shield"
         position="0.0,0.00,0.00" 
         rotation="0.0,10.0,40.00" 
         weapon_length="77"
         center_of_mass="-0.035,0.1,0.05"
         hit_points="160"
-        modifier_group="shield_metal">
+        modifier_group="shield">
         <WeaponFlags
           CanBlockRanged="true"
           HasHitPoints="true" />
@@ -1809,14 +1809,14 @@
         thrust_speed="82"
         thrust_damage_type="Blunt"
         speed_rating="82"
-        physics_material="metal_shield"
+        physics_material="wood_shield"
         item_usage="shield"
         position="0.0,0.00,0.00" 
         rotation="0.0,10.0,40.00" 
         weapon_length="77"
         center_of_mass="-0.035,0.1,0.05"
         hit_points="160"
-        modifier_group="shield_metal">
+        modifier_group="shield">
         <WeaponFlags
           CanBlockRanged="true"
           HasHitPoints="true" />
@@ -1848,14 +1848,14 @@
         thrust_speed="82"
         thrust_damage_type="Blunt"
         speed_rating="82"
-        physics_material="metal_shield"
+        physics_material="wood_shield"
         item_usage="shield"
         position="0.0,0.00,0.00" 
         rotation="0.0,10.0,40.00" 
         weapon_length="77"
         center_of_mass="-0.035,0.1,0.05"
         hit_points="160"
-        modifier_group="shield_metal">
+        modifier_group="shield">
         <WeaponFlags
           CanBlockRanged="true"
           HasHitPoints="true" />
@@ -1887,14 +1887,14 @@
         thrust_speed="82"
         thrust_damage_type="Blunt"
         speed_rating="82"
-        physics_material="metal_shield"
+        physics_material="wood_shield"
         item_usage="shield"
         position="0.0,0.00,0.00" 
         rotation="0.0,10.0,40.00" 
         weapon_length="77"
         center_of_mass="-0.035,0.1,0.05"
         hit_points="160"
-        modifier_group="shield_metal">
+        modifier_group="shield">
         <WeaponFlags
           CanBlockRanged="true"
           HasHitPoints="true" />
@@ -1926,14 +1926,14 @@
         thrust_speed="82"
         thrust_damage_type="Blunt"
         speed_rating="82"
-        physics_material="metal_shield"
+        physics_material="wood_shield"
         item_usage="shield"
         position="0.0,0.00,0.00" 
         rotation="0.0,10.0,40.00" 
         weapon_length="77"
         center_of_mass="-0.035,0.1,0.05"
         hit_points="160"
-        modifier_group="shield_metal">
+        modifier_group="shield">
         <WeaponFlags
           CanBlockRanged="true"
           HasHitPoints="true" />
@@ -1965,14 +1965,14 @@
         thrust_speed="82"
         thrust_damage_type="Blunt"
         speed_rating="82"
-        physics_material="metal_shield"
+        physics_material="wood_shield"
         item_usage="shield"
         position="0.0,0.00,0.00" 
         rotation="0.0,10.0,40.00" 
         weapon_length="77"
         center_of_mass="-0.035,0.1,0.05"
         hit_points="160"
-        modifier_group="shield_metal">
+        modifier_group="shield">
         <WeaponFlags
           CanBlockRanged="true"
           HasHitPoints="true" />
@@ -2004,14 +2004,14 @@
         thrust_speed="82"
         thrust_damage_type="Blunt"
         speed_rating="82"
-        physics_material="metal_shield"
+        physics_material="wood_shield"
         item_usage="shield"
         position="0.0,0.00,0.00" 
         rotation="0.0,10.0,40.00" 
         weapon_length="77"
         center_of_mass="-0.035,0.1,0.05"
         hit_points="160"
-        modifier_group="shield_metal">
+        modifier_group="shield">
         <WeaponFlags
           CanBlockRanged="true"
           HasHitPoints="true" />
