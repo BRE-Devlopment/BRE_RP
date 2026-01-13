@@ -1,0 +1,15 @@
+<prefabs>
+	<game_entity name="spell_thornvines_root_1" old_prefab_name="" visible="false">
+		<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000"/>
+		<components>
+			<meta_mesh_component name="tree_root_a_acacia"/>
+		</components>
+	</game_entity>
+	<game_entity name="spell_thornvines_root_2" old_prefab_name="" visible="false">
+		<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000"/>
+		<components>
+			<meta_mesh_component name="tree_root_b_acacia"/>
+		</components>
+	</game_entity>
+</prefabs>
+

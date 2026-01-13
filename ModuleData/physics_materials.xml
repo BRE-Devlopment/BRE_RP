@@ -10,5 +10,14 @@
 			linear_damping="0.500"
 			angular_damping="0.100"
 			display_color="255, 98, 79, 166" />
+		<physics_material
+			id="magic_bubble"
+			dont_stick_missiles="true"
+			static_friction="0.500"
+			dynamic_friction="0.300"
+			restitution="0.250"
+			linear_damping="0.100"
+			angular_damping="0.050"
+			display_color="255, 9, 57, 222" />
 	</physics_materials>
 </base>

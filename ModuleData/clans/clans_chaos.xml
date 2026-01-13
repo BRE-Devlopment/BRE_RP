@@ -8,7 +8,6 @@
 	    uses_armaments="true"
 	    is_nation="false"
 	    banner="1.550.551.1536.1536.764.764.0.0.0.5000.551.551.500.500.764.764.0.0.0">
-		<ItemVariableValues/>
 		<UnitClasses>
 			<UnitClass id="grand_sorcier"/>
 		</UnitClasses>
@@ -118,6 +117,8 @@
 			<ItemVariableValue variable="chaos_lord_body" item="rp_lord_body_chu"/>
 			<ItemVariableValue variable="chaos_lord_gloves" item="rp_lord_gloves_chu"/>
 			<ItemVariableValue variable="chaos_lord_leg" item="rp_lord_leg_chu"/>
+
+			<ItemVariableValue variable="chaos_lance" item="rp_chaos_lance_chu"/>
 		</ItemVariableValues>
 		<UnitClasses>
 			<UnitClass id="cultist"/>
@@ -239,6 +240,8 @@
 			<ItemVariableValue variable="chaos_lord_body" item="rp_lord_body_chk"/>
 			<ItemVariableValue variable="chaos_lord_gloves" item="rp_lord_gloves_chk"/>
 			<ItemVariableValue variable="chaos_lord_leg" item="rp_lord_leg_chk"/>
+			
+			<ItemVariableValue variable="chaos_lance" item="rp_chaos_lance_chk"/>
 		</ItemVariableValues>
 		<UnitClasses>
 			<UnitClass id="cultist"/>
@@ -360,6 +363,8 @@
 			<ItemVariableValue variable="chaos_lord_body" item="rp_lord_body_chn"/>
 			<ItemVariableValue variable="chaos_lord_gloves" item="rp_lord_gloves_chn"/>
 			<ItemVariableValue variable="chaos_lord_leg" item="rp_lord_leg_chn"/>
+			
+			<ItemVariableValue variable="chaos_lance" item="rp_chaos_lance_chn"/>
 		</ItemVariableValues>
 		<UnitClasses>
 			<UnitClass id="cultist"/>
@@ -481,6 +486,8 @@
 			<ItemVariableValue variable="chaos_lord_body" item="rp_lord_body_chs"/>
 			<ItemVariableValue variable="chaos_lord_gloves" item="rp_lord_gloves_chs"/>
 			<ItemVariableValue variable="chaos_lord_leg" item="rp_lord_leg_chs"/>
+			
+			<ItemVariableValue variable="chaos_lance" item="rp_chaos_lance_chs"/>
 		</ItemVariableValues>
 		<UnitClasses>
 			<UnitClass id="cultist"/>
@@ -602,6 +609,8 @@
 			<ItemVariableValue variable="chaos_lord_body" item="rp_lord_body_cht"/>
 			<ItemVariableValue variable="chaos_lord_gloves" item="rp_lord_gloves_cht"/>
 			<ItemVariableValue variable="chaos_lord_leg" item="rp_lord_leg_cht"/>
+			
+			<ItemVariableValue variable="chaos_lance" item="rp_chaos_lance_cht"/>
 		</ItemVariableValues>
 		<UnitClasses>
 			<UnitClass id="cultist"/>

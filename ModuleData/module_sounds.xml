@@ -5,5 +5,40 @@
 		<module_sound name="thunderbolt" sound_category="mission_combat" path="thunderbolt.ogg"/>
 		<module_sound name="dragons_breath" sound_category="mission_combat" path="dragons_breath.ogg"/>
 		<module_sound name="fire_extinguish" sound_category="mission_combat" path="fire_extinguish.ogg"/>
+		<module_sound name="missile_shield_end" sound_category="mission_combat" path="missile_shield_end.ogg"/>
+		<module_sound name="missile_shield_init" sound_category="mission_combat" path="missile_shield_init.ogg"/>
+
+		<module_sound
+			name="missile_shield_impact" 
+			sound_category="mission_material_impact"
+			min_pitch_multiplier="0.9"
+			max_pitch_multiplier="1.1"
+			path="missile_shield_impact_3.ogg"/>
+
+		<module_sound
+			name="thornvines_burst" 
+			sound_category="mission_material_impact"
+			min_pitch_multiplier="0.8"
+			max_pitch_multiplier="1.1">
+			<variation
+				path="thornvines_burst.ogg"
+				weight="1.0" />
+			<variation
+				path="thornvines_burst_2.ogg"
+				weight="1.0" />
+		</module_sound>
+
+		<module_sound
+			name="thornvines_strike" 
+			sound_category="mission_material_impact"
+			min_pitch_multiplier="0.8"
+			max_pitch_multiplier="1.1">
+			<variation
+				path="thornvines_strike.ogg"
+				weight="1.0" />
+			<variation
+				path="thornvines_strike_2.ogg"
+				weight="1.0" />
+		</module_sound>
 	</module_sounds>
 </base>

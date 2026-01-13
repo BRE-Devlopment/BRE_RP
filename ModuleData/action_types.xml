@@ -6,4 +6,6 @@
 	<action name="act_sorcerer_prepare_thunderbolt" />
 	<action name="act_sorcerer_prepare_thunderbolt_idle" />
 	<action name="act_sorcerer_cast_dragonsbreath" />
+	<action name="act_sorcerer_cast_missileshield" />
+	<action name="act_sorcerer_cast_thornvines" />
 </action_types>

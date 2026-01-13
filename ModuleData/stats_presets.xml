@@ -53,10 +53,12 @@
 	    combat_movement_speed="0.9"
 	    acceleration="2.4"
 	    knocks_down_with_kick="true"
+	    knocks_down_with_shield_bash="true"
 	    can_knockdown="true"
 	    slices_through="true"
 	    mount_difficulty="1"
-	    knockdown_resistant="true"/>
+	    knockdown_resistant="true"
+    	stagger_treshold_damage="60.0"/>
 	<StatsPreset
 		id="infantry_chaos_warrior_450hp"
 	    armor="50"
@@ -65,11 +67,13 @@
 	    combat_movement_speed="0.9"
 	    acceleration="2.4"
 	    knocks_down_with_kick="true"
+	    knocks_down_with_shield_bash="true"
 	    can_knockdown="true"
 	    slices_through="true"
 	    mount_difficulty="1"
 	    knockdown_resistant="true"
-	    shield_damage_multiplier="1.5"/>
+	    shield_damage_multiplier="1.5"
+    	stagger_treshold_damage="60.0"/>
 	<StatsPreset
 		id="infantry_troll_1000hp"
 	    armor="50"
@@ -82,7 +86,8 @@
 	    kick_resistant="true"
 	    mount_difficulty="-1"
 	    knockdown_resistant="true"
-    	stagger_treshold_damage="60.0"/>
+    	stagger_treshold_damage="60.0"
+    	destructible_entity_damage_multiplier="10.0"/>
 	<StatsPreset
 		id="archer_human_150hp"
 		name="Lvl1"
@@ -213,10 +218,12 @@
 	    acceleration="2.4"
 	    mounted_missile_protection="true"
 	    knocks_down_with_kick="true"
+	    knocks_down_with_shield_bash="true"
 	    can_knockdown="true"
 	    slices_through="true"
 	    mount_difficulty="1"
-	    knockdown_resistant="true"/>
+	    knockdown_resistant="true"
+    	stagger_treshold_damage="60.0"/>
 	<StatsPreset
 		id="cavalry_chaos_warrior_500hp"
 	    armor="50"
@@ -230,5 +237,5 @@
 	    mount_difficulty="1"
 	    knockdown_resistant="true"
 	    shield_damage_multiplier="1.5"
-    	stagger_treshold_damage="40.0"/>
+    	stagger_treshold_damage="60.0"/>
 </StatsPresets>

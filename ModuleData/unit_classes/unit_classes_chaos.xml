@@ -472,23 +472,26 @@
       		<WeaponGroup id="chaos_warrior"/>
 	    </UsableWeaponGroups>
 		<Equipment>
-			<Weapon0>
+		    <Weapon0>
+		      	<VariableItem variable="chaos_lance"/>
+		    </Weapon0>
+			<Weapon1>
 		      	<Item id="rp_chaos_warrior_1h_sword"/>
 		      	<Item id="rp_chaos_warrior_1h_mace"/>
 		      	<Item id="rp_chaos_warrior_1h_axe"/>
 		      	<Item id="rp_chaos_warrior_1h_flail"/>
-		      	<Item id="rp_chaos_warrior_2h_sword" disable_randomize="true" disable_group="Weapon1"/>
-		      	<Item id="rp_chaos_warrior_2h_mace" disable_randomize="true" disable_group="Weapon1"/>
-		      	<Item id="rp_chaos_warrior_2h_axe" disable_randomize="true" disable_group="Weapon1"/>
-			</Weapon0>
-		    <Weapon1>
+		      	<Item id="rp_chaos_warrior_2h_sword" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="rp_chaos_warrior_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<Item id="rp_chaos_warrior_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+			</Weapon1>
+		    <Weapon2>
 		      	<VariableItem variable="chaos_warrior_shield1"/>
 		      	<VariableItem variable="chaos_warrior_shield2"/>
 		      	<VariableItem variable="chaos_warrior_shield3"/>
 		      	<VariableItem variable="chaos_warrior_shield4"/>
 		      	<VariableItem variable="chaos_warrior_shield5"/>
 		      	<VariableItem variable="chaos_warrior_shield6"/>
-		    </Weapon1>
+		    </Weapon2>
 		    <Head>
 		      	<VariableItem variable="chaos_warrior_head1"/>
 		      	<VariableItem variable="chaos_warrior_head2"/>
@@ -539,22 +542,25 @@
       		<WeaponGroup id="chaos_warrior"/>
 	    </UsableWeaponGroups>
 		<Equipment>
-			<Weapon0>
+		    <Weapon0>
+		      	<VariableItem variable="chaos_lance"/>
+		    </Weapon0>
+			<Weapon1>
 		      	<VariableItem variable="chaos_lord_1h_sword"/>
 		      	<VariableItem variable="chaos_lord_1h_mace"/>
-		      	<VariableItem variable="chaos_lord_glaive" disable_randomize="true" disable_group="Weapon1"/>
-		      	<VariableItem variable="chaos_lord_2h_sword" disable_randomize="true" disable_group="Weapon1"/>
-		      	<VariableItem variable="chaos_lord_2h_mace" disable_randomize="true" disable_group="Weapon1"/>
-		      	<VariableItem variable="chaos_lord_2h_axe" disable_randomize="true" disable_group="Weapon1"/>
-			</Weapon0>
-		    <Weapon1>
+		      	<VariableItem variable="chaos_lord_glaive" disable_randomize="true" disable_group="Weapon2"/>
+		      	<VariableItem variable="chaos_lord_2h_sword" disable_randomize="true" disable_group="Weapon2"/>
+		      	<VariableItem variable="chaos_lord_2h_mace" disable_randomize="true" disable_group="Weapon2"/>
+		      	<VariableItem variable="chaos_lord_2h_axe" disable_randomize="true" disable_group="Weapon2"/>
+			</Weapon1>
+		    <Weapon2>
 		      	<VariableItem variable="chaos_warrior_shield1"/>
 		      	<VariableItem variable="chaos_warrior_shield2"/>
 		      	<VariableItem variable="chaos_warrior_shield3"/>
 		      	<VariableItem variable="chaos_warrior_shield4"/>
 		      	<VariableItem variable="chaos_warrior_shield5"/>
 		      	<VariableItem variable="chaos_warrior_shield6"/>
-		    </Weapon1>
+		    </Weapon2>
 		    <Head>
 		      	<VariableItem variable="chaos_lord_head"/>
 		    </Head>

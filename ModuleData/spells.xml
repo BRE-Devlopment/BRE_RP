@@ -14,13 +14,25 @@
 	<Spell 
 		id="thunder_bolt"
 		effect="ThunderBolt"
-		cost="5.0"
-		delay="3.0"
+		cost="30.0"
+		delay="15.0"
 		requires_staff="true"/>
 	<Spell 
 		id="dragons_breath"
 		effect="DragonsBreath"
-		cost="5.0"
-		delay="3.0"
+		cost="25.0"
+		delay="15.0"
+		requires_staff="true"/>
+	<Spell 
+		id="missile_shield"
+		effect="MissileShield"
+		cost="15.0"
+		delay="90.0"
+		requires_staff="true"/>
+	<Spell 
+		id="thorn_vines"
+		effect="ThornVines"
+		cost="30.0"
+		delay="70.0"
 		requires_staff="true"/>
 </Spells>

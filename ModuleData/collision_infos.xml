@@ -4,111 +4,18 @@
 		<material
 			id="vomit_missile">
 			<collision_info
-				second_material="metal_weapon">
-				<collision_effect
-					particle="vomit_particle_impact"
-					decal="" />
-			</collision_info>
-			<collision_info
-				second_material="metal">
-				<collision_effect
-					particle="vomit_particle_impact"
-					decal="" />
-			</collision_info>
-			<collision_info
-				second_material="wood_shield">
-				<collision_effect
-					particle="vomit_particle_impact"
-					decal="" />
-			</collision_info>
-			<collision_info
-				second_material="wood">
-				<collision_effect
-					particle="vomit_particle_impact"
-					decal="" />
-			</collision_info>
-			<collision_info
-				second_material="wood_weapon">
-				<collision_effect
-					particle="vomit_particle_impact"
-					decal="" />
-			</collision_info>
-			<collision_info
-				second_material="stone">
-				<collision_effect
-					particle="vomit_particle_impact"
-					decal="" />
-			</collision_info>
-			<collision_info
-				second_material="mud">
-				<collision_effect
-					particle="vomit_particle_impact"
-					decal="" />
-			</collision_info>
-			<collision_info
-				second_material="grass">
-				<collision_effect
-					particle="vomit_particle_impact"
-					decal="" />
-			</collision_info>
-			<collision_info
 				second_material="default">
 				<collision_effect
 					particle="vomit_particle_impact"
 					decal="" />
 			</collision_info>
+		</material>
+		<material
+			id="magic_bubble">
 			<collision_info
-				second_material="path">
+				second_material="default">
 				<collision_effect
-					particle="vomit_particle_impact"
-					decal="" />
-			</collision_info>
-			<collision_info
-				second_material="snow">
-				<collision_effect
-					particle="vomit_particle_impact"
-					decal="" />
-			</collision_info>
-			<collision_info
-				second_material="sand">
-				<collision_effect
-					particle="vomit_particle_impact"
-					decal="" />
-			</collision_info>
-			<collision_info
-				second_material="flesh">
-				<collision_effect
-					particle="vomit_particle_impact"
-					decal="" />
-			</collision_info>
-			<collision_info
-				second_material="straw">
-				<collision_effect
-					particle="vomit_particle_impact"
-					decal="" />
-			</collision_info>
-			<collision_info
-				second_material="lambert1">
-				<collision_effect
-					particle="vomit_particle_impact"
-					decal="" />
-			</collision_info>
-			<collision_info
-				second_material="adobe">
-				<collision_effect
-					particle="vomit_particle_impact"
-					decal="" />
-			</collision_info>
-			<collision_info
-				second_material="soil">
-				<collision_effect
-					particle="vomit_particle_impact"
-					decal="" />
-			</collision_info>
-			<collision_info
-				second_material="wood_nonstick">
-				<collision_effect
-					particle="vomit_particle_impact"
+					particle=""
 					decal="" />
 			</collision_info>
 		</material>
