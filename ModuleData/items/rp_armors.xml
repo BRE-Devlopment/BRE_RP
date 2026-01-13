@@ -4240,7 +4240,7 @@
   <Item
     id="rp_grand_sorcerer_gloves"
     name="Grand Sorcerer's Rings"
-    mesh="bre_grand_sorcier_rings"
+    mesh="bre_grand_sorcier_hands"
     subtype="body_armor" 
     culture="Culture.neutral_culture"
     weight="0"
@@ -4248,7 +4248,7 @@
     <ItemComponent>
       <Armor
         arm_armor="0"
-        covers_hands="false"
+        covers_hands="true"
         modifier_group="cloth_unarmoured"
         material_type="Cloth" />
     </ItemComponent>

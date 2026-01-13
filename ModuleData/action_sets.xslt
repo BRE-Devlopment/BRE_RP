@@ -12,6 +12,7 @@
       <action type="act_sorcerer_prepare_thunderbolt_idle" animation="sorcerer_prepare_thunderbolt_idle"/>
       <action type="act_sorcerer_cast_dragonsbreath" animation="sorcerer_cast_dragonsbreath"/>
       <action type="act_sorcerer_cast_missileshield" animation="sorcerer_cast_missileshield"/>
+      <action type="act_sorcerer_cast_thornvines" animation="sorcerer_cast_thornvines"/>
     </xsl:copy>
   </xsl:template>
 </xsl:stylesheet>
