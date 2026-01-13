@@ -18,7 +18,7 @@
         charge_damage="0"
         body_length="113"
         is_mountable="true"
-        extra_health="-50"
+        extra_health="0"
         skeleton_scale="vlandia_horse">
         <AdditionalMeshes>
           <Mesh 
@@ -69,7 +69,7 @@
         charge_damage="0"
         body_length="113"
         is_mountable="true"
-        extra_health="-50"
+        extra_health="0"
         skeleton_scale="vlandia_horse">
         <AdditionalMeshes>
           <Mesh
@@ -108,7 +108,7 @@
         charge_damage="0"
         body_length="113"
         is_mountable="true"
-        extra_health="-50"
+        extra_health="0"
         skeleton_scale="vlandia_horse">
         <AdditionalMeshes>
           <Mesh
@@ -148,7 +148,7 @@
         charge_damage="0"
         body_length="113"
         is_mountable="true"
-        extra_health="-50"
+        extra_health="0"
         skeleton_scale="vlandia_horse">
         <AdditionalMeshes>
           <Mesh
@@ -188,7 +188,7 @@
         charge_damage="0"
         body_length="113"
         is_mountable="true"
-        extra_health="-50"
+        extra_health="0"
         skeleton_scale="vlandia_horse">
         <AdditionalMeshes>
           <Mesh
@@ -230,7 +230,7 @@
         charge_damage="0"
         body_length="113"
         is_mountable="true"
-        extra_health="-50"
+        extra_health="0"
         skeleton_scale="vlandia_horse">
         <AdditionalMeshes>
           <Mesh
@@ -267,7 +267,7 @@
         charge_damage="7"
         body_length="113"
         is_mountable="true"
-        extra_health="75"
+        extra_health="200"
         skeleton_scale="vlandia_horse">
         <AdditionalMeshes>
           <Mesh 
@@ -318,7 +318,7 @@
         charge_damage="7"
         body_length="113"
         is_mountable="true"
-        extra_health="75"
+        extra_health="200"
         skeleton_scale="vlandia_horse">
         <AdditionalMeshes>
           <Mesh
@@ -357,7 +357,7 @@
         charge_damage="7"
         body_length="113"
         is_mountable="true"
-        extra_health="75"
+        extra_health="200"
         skeleton_scale="vlandia_horse">
         <AdditionalMeshes>
           <Mesh
@@ -397,7 +397,7 @@
         charge_damage="7"
         body_length="113"
         is_mountable="true"
-        extra_health="75"
+        extra_health="200"
         skeleton_scale="vlandia_horse">
         <AdditionalMeshes>
           <Mesh
@@ -437,7 +437,7 @@
         charge_damage="7"
         body_length="113"
         is_mountable="true"
-        extra_health="75"
+        extra_health="200"
         skeleton_scale="vlandia_horse">
         <AdditionalMeshes>
           <Mesh
@@ -479,7 +479,7 @@
         charge_damage="7"
         body_length="113"
         is_mountable="true"
-        extra_health="75"
+        extra_health="200"
         skeleton_scale="vlandia_horse">
         <AdditionalMeshes>
           <Mesh
@@ -516,7 +516,7 @@
         charge_damage="0"
         body_length="113"
         is_mountable="true"
-        extra_health="-50">
+        extra_health="0">
         <AdditionalMeshes>
           <Mesh
             name="chaos_mane_type1"
@@ -542,7 +542,7 @@
         charge_damage="7"
         body_length="130"
         is_mountable="true"
-        extra_health="75">
+        extra_health="200">
       </Horse>
     </ItemComponent>
   </Item>

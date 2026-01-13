@@ -113,4 +113,54 @@
       <AvailablePiece id="rpsp_spear_blade_2"/>
     </xsl:copy>
   </xsl:template>
+  <xsl:template match="WeaponDescription[@id='B2_JoustingOneHandedPolearm']/AvailablePieces">
+    <xsl:copy>
+      <xsl:apply-templates select="@*|node()"/>
+      <AvailablePiece id="b3_chaos_lance_blade_chu"/>
+      <AvailablePiece id="b3_chaos_lance_guard_chu"/>
+      <AvailablePiece id="b3_chaos_lance_handle_chu"/>
+      <AvailablePiece id="b3_chaos_lance_pommel_chu"/>
+      <AvailablePiece id="b3_chaos_lance_blade_chk"/>
+      <AvailablePiece id="b3_chaos_lance_guard_chk"/>
+      <AvailablePiece id="b3_chaos_lance_handle_chk"/>
+      <AvailablePiece id="b3_chaos_lance_pommel_chk"/>
+      <AvailablePiece id="b3_chaos_lance_blade_chn"/>
+      <AvailablePiece id="b3_chaos_lance_guard_chn"/>
+      <AvailablePiece id="b3_chaos_lance_handle_chn"/>
+      <AvailablePiece id="b3_chaos_lance_pommel_chn"/>
+      <AvailablePiece id="b3_chaos_lance_blade_chs"/>
+      <AvailablePiece id="b3_chaos_lance_guard_chs"/>
+      <AvailablePiece id="b3_chaos_lance_handle_chs"/>
+      <AvailablePiece id="b3_chaos_lance_pommel_chs"/>
+      <AvailablePiece id="b3_chaos_lance_blade_cht"/>
+      <AvailablePiece id="b3_chaos_lance_guard_cht"/>
+      <AvailablePiece id="b3_chaos_lance_handle_cht"/>
+      <AvailablePiece id="b3_chaos_lance_pommel_cht"/>
+    </xsl:copy>
+  </xsl:template>
+  <xsl:template match="WeaponDescription[@id='B2_JoustingPolearm_Couchable']/AvailablePieces">
+    <xsl:copy>
+      <xsl:apply-templates select="@*|node()"/>
+      <AvailablePiece id="b3_chaos_lance_blade_chu"/>
+      <AvailablePiece id="b3_chaos_lance_guard_chu"/>
+      <AvailablePiece id="b3_chaos_lance_handle_chu"/>
+      <AvailablePiece id="b3_chaos_lance_pommel_chu"/>
+      <AvailablePiece id="b3_chaos_lance_blade_chk"/>
+      <AvailablePiece id="b3_chaos_lance_guard_chk"/>
+      <AvailablePiece id="b3_chaos_lance_handle_chk"/>
+      <AvailablePiece id="b3_chaos_lance_pommel_chk"/>
+      <AvailablePiece id="b3_chaos_lance_blade_chn"/>
+      <AvailablePiece id="b3_chaos_lance_guard_chn"/>
+      <AvailablePiece id="b3_chaos_lance_handle_chn"/>
+      <AvailablePiece id="b3_chaos_lance_pommel_chn"/>
+      <AvailablePiece id="b3_chaos_lance_blade_chs"/>
+      <AvailablePiece id="b3_chaos_lance_guard_chs"/>
+      <AvailablePiece id="b3_chaos_lance_handle_chs"/>
+      <AvailablePiece id="b3_chaos_lance_pommel_chs"/>
+      <AvailablePiece id="b3_chaos_lance_blade_cht"/>
+      <AvailablePiece id="b3_chaos_lance_guard_cht"/>
+      <AvailablePiece id="b3_chaos_lance_handle_cht"/>
+      <AvailablePiece id="b3_chaos_lance_pommel_cht"/>
+    </xsl:copy>
+  </xsl:template>
 </xsl:stylesheet>
