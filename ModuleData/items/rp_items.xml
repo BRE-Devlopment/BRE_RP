@@ -3192,4 +3192,53 @@
       HeldInOffHand="true" 
       ForceAttachOffHandSecondaryItemBone="true"/>
   </Item>
+  <Item
+		multiplayer_item="true"
+		id="b3_cargo"
+		name="{=pzfbPbWW}Couronnian cargo"
+		is_merchandise="false"
+		body_name="bo_projectile_rock"
+		holster_body_name="bo_axe_short"
+		mesh="bd_sack_b"
+		holster_mesh=""
+		value="1"
+		weight="60"
+		difficulty="0"
+		appearance="10"
+		Type="OneHandedWeapon"
+		item_holsters="">
+		<ItemComponent>
+			<Weapon
+				weapon_class="Boulder"
+				ammo_class="Boulder"
+				stack_amount="1"
+				position="-0.3, -0.3, -0.5"
+				center_of_mass="0,0,0"
+				physics_material="boulder_stone"
+				thrust_speed="0"
+				speed_rating="0"
+				missile_speed="50"
+				weapon_length="95"
+				thrust_damage="70"
+				item_usage="heavy_stone"
+				flying_sound_code="event:/mission/combat/boulder/passby"
+				rotation_speed="2, 0.5, 0">
+				<WeaponFlags
+					RangedWeapon="false"
+					Consumable="false"
+					NotUsableWithOneHand="true"
+					TwoHandIdleOnMount="true"
+					CanPenetrateShield="true"
+					MissileWithPhysics="false"
+					UseHandAsThrowBase="true"
+					LeavesTrail="true"
+          Burning="true"
+					AmmoCanBreakOnBounceBack="true"
+					CanKillEvenIfBlunt="true" />
+			</Weapon>
+		</ItemComponent>
+		<Flags
+			QuickFadeOut="false"
+			DropOnWeaponChange="true"/>
+	</Item>
 </Items>

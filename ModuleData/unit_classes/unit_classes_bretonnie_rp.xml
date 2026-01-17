@@ -40,4 +40,64 @@
 		    </Leg>
 		</Equipment>
 	</UnitClass>
+	<UnitClass
+		id="cargo_carrier"
+		equipment_key="man_at_arms"
+		uses_equipment_key_for_equipment_selection="true"
+		name="Cargo carrier"
+		character="human_infantry"
+		armament_cost="0"
+		stats_preset="infantry_human_200hp">
+	    	<UsableWeaponGroups>
+	      		<WeaponGroup id="human"/>
+	    	</UsableWeaponGroups>
+		<Equipment>
+			<Weapon0>
+		      	<Item id="b3_cargo"/>
+			</Weapon0>
+		    <Weapon1>
+		      	<Item id="b2_man_mace"/>
+		      	<Item id="b2_man_axe"/>
+		      	<Item id="b2_man_sword"/>
+		    </Weapon1>
+		    <Head>
+		      	<Item id="b2_flattop_helmet_0"/>
+		      	<Item id="b2_flattop_helmet_1"/>
+		      	<Item id="b2_kettle_helmet_0"/>
+		      	<Item id="b2_kettle_helmet_1"/>
+		      	<Item id="b2_kettle_helmet_2"/>
+		      	<Item id="b2_kettle_helmet_3"/>
+		      	<Item id="b2_kettle_helmet_4"/>
+		      	<Item id="b2_kettle_helmet_5"/>
+		      	<Item id="b2_norman_helmet_0"/>
+		      	<Item id="b2_norman_helmet_1"/>
+		      	<Item id="b2_flattop_cap"/>
+		      	<Item id="b2_norman_cap"/>
+		      	<Item id="b2_kettle_0_cap"/>
+		      	<Item id="b2_kettle_1_cap"/>
+		      	<Item id="b2_kettle_2_cap"/>
+		    </Head>
+		    <Body>
+		      	<Item id="b2_gambeson_0"/>
+		      	<Item id="b2_padded_coat_0"/>
+		      	<Item id="b2_empire_warrior_padded_armor_e_2"/>
+		    </Body>
+		    <Leg>
+		      	<Item id="mp_leather_cavalier_boots"/>
+		      	<Item id="mp_steppe_leather_boots"/>
+		      	<Item id="mp_empire_horseman_boots"/>
+		      	<Item id="mp_eastern_leather_boots"/>
+		      	<Item id="mp_leather_boots"/>
+		    </Leg>
+		    <Cape>
+		      	<Item id="b3_squire_backpack"/>
+		    </Cape>
+		    <Gloves>
+		      	<Item id="b2_crossbow_armor_hand_dark"/>
+		      	<Item id="mp_leather_gloves"/>
+		      	<Item id="mp_padded_vambrace"/>
+		      	<Item id="mp_padded_mitten"/>
+		    </Gloves>
+		</Equipment>
+	</UnitClass>
 </UnitClasses>
