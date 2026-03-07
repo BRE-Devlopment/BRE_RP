@@ -766,6 +766,40 @@
         </xsl:copy>
     </xsl:template>
 
+	<xsl:template match="UnitClass[@id='sea_guard_languille']">
+		<xsl:copy>
+			<xsl:apply-templates select="@*[name() != 'stats_preset']"/>
+			<xsl:attribute name="stats_preset">infantry_human_300hp</xsl:attribute>
+			<xsl:attribute name="armament_cost">25</xsl:attribute>
+			<xsl:apply-templates select="node()"/>
+			<UsableWeaponGroups>
+				<WeaponGroup id="human"/>
+			</UsableWeaponGroups>
+		</xsl:copy>
+	</xsl:template>
+	<xsl:template match="UnitClass[@id='sentinal_languille']">
+		<xsl:copy>
+			<xsl:apply-templates select="@*[name() != 'stats_preset']"/>
+			<xsl:attribute name="stats_preset">infantry_human_300hp</xsl:attribute>
+			<xsl:attribute name="armament_cost">25</xsl:attribute>
+			<xsl:apply-templates select="node()"/>
+			<UsableWeaponGroups>
+				<WeaponGroup id="human"/>
+			</UsableWeaponGroups>
+		</xsl:copy>
+	</xsl:template>
+	<xsl:template match="UnitClass[@id='stormhelm_languille']">
+		<xsl:copy>
+			<xsl:apply-templates select="@*[name() != 'stats_preset']"/>
+			<xsl:attribute name="stats_preset">infantry_human_350hp</xsl:attribute>
+			<xsl:attribute name="armament_cost">30</xsl:attribute>
+			<xsl:apply-templates select="node()"/>
+			<UsableWeaponGroups>
+				<WeaponGroup id="human"/>
+			</UsableWeaponGroups>
+		</xsl:copy>
+	</xsl:template>
+
     <xsl:template match="UnitClass[@id='armiger_moussillon']">
         <xsl:copy>
             <xsl:apply-templates select="@*[name() != 'stats_preset']"/>
