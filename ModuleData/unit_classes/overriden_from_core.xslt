@@ -1664,4 +1664,92 @@
             <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
+	<xsl:template match="UnitClass[@id='prithard_de_montmaur']">
+		<xsl:copy>
+			<xsl:apply-templates select="@*[name() != 'stats_preset']"/>
+			<xsl:attribute name="stats_preset">cavalry_human_350hp</xsl:attribute>
+			<xsl:attribute name="armament_cost">45</xsl:attribute>
+			<xsl:apply-templates select="node()"/>
+			<UsableWeaponGroups>
+				<WeaponGroup id="human"/>
+			</UsableWeaponGroups>
+		</xsl:copy>
+	</xsl:template>
+	<xsl:template match="UnitClass[@id='prithard_de_montmaur']/Equipment/Horse">
+		<Horse>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+		</Horse>
+	</xsl:template>
+	<xsl:template match="UnitClass[@id='milone_de_ferignac']">
+		<xsl:copy>
+			<xsl:apply-templates select="@*[name() != 'stats_preset']"/>
+			<xsl:attribute name="stats_preset">cavalry_human_350hp</xsl:attribute>
+			<xsl:attribute name="armament_cost">45</xsl:attribute>
+			<xsl:apply-templates select="node()"/>
+			<UsableWeaponGroups>
+				<WeaponGroup id="human"/>
+			</UsableWeaponGroups>
+		</xsl:copy>
+	</xsl:template>
+	<xsl:template match="UnitClass[@id='milone_de_ferignac']/Equipment/Horse">
+		<Horse>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+		</Horse>
+	</xsl:template>
+	<xsl:template match="UnitClass[@id='vassili_de_tyffoges']">
+		<xsl:copy>
+			<xsl:apply-templates select="@*[name() != 'stats_preset']"/>
+			<xsl:attribute name="stats_preset">cavalry_human_350hp</xsl:attribute>
+			<xsl:attribute name="armament_cost">45</xsl:attribute>
+			<xsl:apply-templates select="node()"/>
+			<UsableWeaponGroups>
+				<WeaponGroup id="human"/>
+			</UsableWeaponGroups>
+		</xsl:copy>
+	</xsl:template>
+	<xsl:template match="UnitClass[@id='vassili_de_tyffoges']/Equipment/Horse">
+		<Horse>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+		</Horse>
+	</xsl:template>
+	<xsl:template match="UnitClass[@id='wilguric_de_tharravil']">
+		<xsl:copy>
+			<xsl:apply-templates select="@*[name() != 'stats_preset']"/>
+			<xsl:attribute name="stats_preset">cavalry_human_350hp</xsl:attribute>
+			<xsl:attribute name="armament_cost">45</xsl:attribute>
+			<xsl:apply-templates select="node()"/>
+			<UsableWeaponGroups>
+				<WeaponGroup id="human"/>
+			</UsableWeaponGroups>
+		</xsl:copy>
+	</xsl:template>
+	<xsl:template match="UnitClass[@id='wilguric_de_tharravil']/Equipment/Horse">
+		<Horse>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+		</Horse>
+	</xsl:template>
 </xsl:stylesheet>
