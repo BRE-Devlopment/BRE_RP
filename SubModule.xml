@@ -2,7 +2,7 @@
 <Module>
 	<Name value="BRE Roleplay" />
 	<Id value="BRE_RP" />
-	<Version value="v1.0.0.13" />
+	<Version value="v1.0.0.14" />
 	<DefaultModule value="false" />
 	<Official value="false" />
 	<ModuleCategory value="Multiplayer" />
