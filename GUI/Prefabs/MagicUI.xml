@@ -4,7 +4,7 @@
   <Window>
     <Widget DoNotAcceptEvents="true" WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent">
       <Children>
-        <ListPanel StackLayout.LayoutMethod="VerticalTopToBottom" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" VerticalAlignment="Bottom" PositionYOffset="55">
+        <ListPanel StackLayout.LayoutMethod="VerticalBottomToTop" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" VerticalAlignment="Bottom" PositionYOffset="55">
           <Children>
             <Widget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="465" SuggestedHeight="133" Sprite="magic_background" PositionYOffset="-55">
               <Children>
