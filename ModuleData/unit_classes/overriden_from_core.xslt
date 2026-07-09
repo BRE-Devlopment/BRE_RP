@@ -375,7 +375,7 @@
             <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
-    <xsl:template match="UnitClass[@id='archas_de_vauclair']">
+    <xsl:template match="UnitClass[@id='order_questing_knight']">
         <xsl:copy>
             <xsl:apply-templates select="@*[name() != 'stats_preset']"/>
             <xsl:attribute name="stats_preset">cavalry_human_400hp</xsl:attribute>
@@ -386,7 +386,7 @@
             </UsableWeaponGroups>
         </xsl:copy>
     </xsl:template>
-    <xsl:template match="UnitClass[@id='archas_de_vauclair']/Equipment/Horse">
+    <xsl:template match="UnitClass[@id='order_questing_knight']/Equipment/Horse">
         <Horse>
             <Item id="rp_horse_heavy_darkgrey"/>
             <Item id="rp_horse_heavy_black"/>
