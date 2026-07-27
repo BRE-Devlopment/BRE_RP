@@ -500,6 +500,38 @@
     </ItemComponent>
   </Item>
   <Item
+    id="rp_horse_heavy_undead"
+    name="Undead Warhorse"
+    mesh="bre_bloodknight_undead_horse"
+    subtype="horse"
+    item_category="horse"
+    weight="410"
+    Type="Horse"
+    difficulty="0">
+    <ItemComponent>
+      <Horse 
+        monster="Monster.horse"
+        maneuver="50"
+        speed="37"
+        charge_damage="7"
+        body_length="113"
+        is_mountable="true"
+        extra_health="200"
+        skeleton_scale="vlandia_horse">
+        <Materials>
+          <Material
+            name="m_bre_bloodknight_undead_horse">
+            <MeshMultipliers>
+              <MeshMultiplier
+                mesh_multiplier="FF08080B"
+                percentage="1.0" />
+            </MeshMultipliers>
+          </Material>
+        </Materials>
+      </Horse>
+    </ItemComponent>
+  </Item>
+  <Item
     id="rp_marauder_horse_chx"
     name="Marauder Steed"
     mesh="chaos_war_horse"

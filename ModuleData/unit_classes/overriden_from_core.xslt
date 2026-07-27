@@ -1721,12 +1721,12 @@
 	</xsl:template>
 	<xsl:template match="UnitClass[@id='vassili_de_tyffoges']/Equipment/Horse">
 		<Horse>
-			<Item id="rp_horse_heavy_darkgrey"/>
-			<Item id="rp_horse_heavy_black"/>
-			<Item id="rp_horse_heavy_gold"/>
-			<Item id="rp_horse_heavy_brown"/>
-			<Item id="rp_horse_heavy_grey"/>
-			<Item id="rp_horse_heavy_white"/>
+            <Item id="rp_horse_heavy_darkgrey"/>
+            <Item id="rp_horse_heavy_black"/>
+            <Item id="rp_horse_heavy_gold"/>
+            <Item id="rp_horse_heavy_brown"/>
+            <Item id="rp_horse_heavy_grey"/>
+            <Item id="rp_horse_heavy_white"/>
 			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
 		</Horse>
 	</xsl:template>
@@ -1742,6 +1742,94 @@
 		</xsl:copy>
 	</xsl:template>
 	<xsl:template match="UnitClass[@id='wilguric_de_tharravil']/Equipment/Horse">
+		<Horse>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+		</Horse>
+	</xsl:template>
+	<xsl:template match="UnitClass[@id='leuther_de_cuileux']">
+		<xsl:copy>
+			<xsl:apply-templates select="@*[name() != 'stats_preset']"/>
+			<xsl:attribute name="stats_preset">cavalry_human_350hp</xsl:attribute>
+			<xsl:attribute name="armament_cost">45</xsl:attribute>
+			<xsl:apply-templates select="node()"/>
+			<UsableWeaponGroups>
+				<WeaponGroup id="human"/>
+			</UsableWeaponGroups>
+		</xsl:copy>
+	</xsl:template>
+	<xsl:template match="UnitClass[@id='leuther_de_cuileux']/Equipment/Horse">
+		<Horse>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+		</Horse>
+	</xsl:template>
+	<xsl:template match="UnitClass[@id='maraulf_de_gevaude']">
+		<xsl:copy>
+			<xsl:apply-templates select="@*[name() != 'stats_preset']"/>
+			<xsl:attribute name="stats_preset">cavalry_human_350hp</xsl:attribute>
+			<xsl:attribute name="armament_cost">45</xsl:attribute>
+			<xsl:apply-templates select="node()"/>
+			<UsableWeaponGroups>
+				<WeaponGroup id="human"/>
+			</UsableWeaponGroups>
+		</xsl:copy>
+	</xsl:template>
+	<xsl:template match="UnitClass[@id='maraulf_de_gevaude']/Equipment/Horse">
+		<Horse>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+		</Horse>
+	</xsl:template>
+	<xsl:template match="UnitClass[@id='montglaive_des_roches']">
+		<xsl:copy>
+			<xsl:apply-templates select="@*[name() != 'stats_preset']"/>
+			<xsl:attribute name="stats_preset">cavalry_human_350hp</xsl:attribute>
+			<xsl:attribute name="armament_cost">45</xsl:attribute>
+			<xsl:apply-templates select="node()"/>
+			<UsableWeaponGroups>
+				<WeaponGroup id="human"/>
+			</UsableWeaponGroups>
+		</xsl:copy>
+	</xsl:template>
+	<xsl:template match="UnitClass[@id='montglaive_des_roches']/Equipment/Horse">
+		<Horse>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+		</Horse>
+	</xsl:template>
+	<xsl:template match="UnitClass[@id='haydon_de_soude']">
+		<xsl:copy>
+			<xsl:apply-templates select="@*[name() != 'stats_preset']"/>
+			<xsl:attribute name="stats_preset">cavalry_human_350hp</xsl:attribute>
+			<xsl:attribute name="armament_cost">45</xsl:attribute>
+			<xsl:apply-templates select="node()"/>
+			<UsableWeaponGroups>
+				<WeaponGroup id="human"/>
+			</UsableWeaponGroups>
+		</xsl:copy>
+	</xsl:template>
+	<xsl:template match="UnitClass[@id='haydon_de_soude']/Equipment/Horse">
 		<Horse>
 			<Item id="rp_horse_heavy_darkgrey"/>
 			<Item id="rp_horse_heavy_black"/>
