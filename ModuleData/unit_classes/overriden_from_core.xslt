@@ -1598,7 +1598,7 @@
             <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
-    <xsl:template match="UnitClass[@id='luidolphe_de_prouvins']">
+    <xsl:template match="UnitClass[@id='luidolphe_de_geste']">
         <xsl:copy>
             <xsl:apply-templates select="@*[name() != 'stats_preset']"/>
             <xsl:attribute name="stats_preset">cavalry_human_350hp</xsl:attribute>
@@ -1609,7 +1609,7 @@
             </UsableWeaponGroups>
         </xsl:copy>
     </xsl:template>
-    <xsl:template match="UnitClass[@id='luidolphe_de_prouvins']/Equipment/Horse">
+    <xsl:template match="UnitClass[@id='luidolphe_de_geste']/Equipment/Horse">
         <Horse>
             <Item id="rp_horse_heavy_darkgrey"/>
             <Item id="rp_horse_heavy_black"/>
