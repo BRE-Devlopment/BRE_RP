@@ -1023,6 +1023,23 @@
 			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
+	<xsl:template match="UnitClass[@id='vampire_malory_de_moussillon']">
+		<xsl:copy>
+			<xsl:apply-templates select="@*[name() != 'stats_preset']"/>
+			<xsl:attribute name="stats_preset">cavalry_human_500hp</xsl:attribute>
+			<xsl:attribute name="armament_cost">70</xsl:attribute>
+			<xsl:apply-templates select="node()"/>
+			<UsableWeaponGroups>
+				<WeaponGroup id="human"/>
+			</UsableWeaponGroups>
+		</xsl:copy>
+	</xsl:template>
+	<xsl:template match="UnitClass[@id='vampire_malory_de_moussillon']/Equipment/Horse">
+		<Horse>
+			<Item id="rp_horse_heavy_undead"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+		</Horse>
+	</xsl:template>
     <xsl:template match="UnitClass[@id='folcard_de_montfort']">
         <xsl:copy>
             <xsl:apply-templates select="@*[name() != 'stats_preset']"/>
@@ -1090,6 +1107,23 @@
         </Horse>
     </xsl:template>
   	<!--KNIGHTS OF THE REALM-->
+	<xsl:template match="UnitClass[@id='blood_dragon']">
+		<xsl:copy>
+			<xsl:apply-templates select="@*[name() != 'stats_preset']"/>
+			<xsl:attribute name="stats_preset">cavalry_human_400hp</xsl:attribute>
+			<xsl:attribute name="armament_cost">50</xsl:attribute>
+			<xsl:apply-templates select="node()"/>
+			<UsableWeaponGroups>
+				<WeaponGroup id="human"/>
+			</UsableWeaponGroups>
+		</xsl:copy>
+	</xsl:template>
+	<xsl:template match="UnitClass[@id='blood_dragon']/Equipment/Horse">
+		<Horse>
+			<Item id="rp_horse_heavy_undead"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+		</Horse>
+	</xsl:template>
     <xsl:template match="UnitClass[@id='theodoric_de_brionne']">
         <xsl:copy>
             <xsl:apply-templates select="@*[name() != 'stats_preset']"/>
@@ -1421,6 +1455,23 @@
 		</Horse>
 	</xsl:template>
   	<!--KNIGHTS ERRANT-->
+	<xsl:template match="UnitClass[@id='blood_knight']">
+		<xsl:copy>
+			<xsl:apply-templates select="@*[name() != 'stats_preset']"/>
+			<xsl:attribute name="stats_preset">cavalry_human_350hp</xsl:attribute>
+			<xsl:attribute name="armament_cost">45</xsl:attribute>
+			<xsl:apply-templates select="node()"/>
+			<UsableWeaponGroups>
+				<WeaponGroup id="human"/>
+			</UsableWeaponGroups>
+		</xsl:copy>
+	</xsl:template>
+	<xsl:template match="UnitClass[@id='blood_knight']/Equipment/Horse">
+		<Horse>
+			<Item id="rp_horse_heavy_undead"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+		</Horse>
+	</xsl:template>
     <xsl:template match="UnitClass[@id='bertelis_de_garamont']">
         <xsl:copy>
             <xsl:apply-templates select="@*[name() != 'stats_preset']"/>
@@ -1751,7 +1802,7 @@
 			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
 		</Horse>
 	</xsl:template>
-	<xsl:template match="UnitClass[@id='leuther_de_cuileux']">
+	<xsl:template match="UnitClass[@id='leuthere_de_cuileux']">
 		<xsl:copy>
 			<xsl:apply-templates select="@*[name() != 'stats_preset']"/>
 			<xsl:attribute name="stats_preset">cavalry_human_350hp</xsl:attribute>
@@ -1762,7 +1813,7 @@
 			</UsableWeaponGroups>
 		</xsl:copy>
 	</xsl:template>
-	<xsl:template match="UnitClass[@id='leuther_de_cuileux']/Equipment/Horse">
+	<xsl:template match="UnitClass[@id='leuthere_de_cuileux']/Equipment/Horse">
 		<Horse>
 			<Item id="rp_horse_heavy_brown"/>
 			<Item id="rp_horse_heavy_gold"/>
