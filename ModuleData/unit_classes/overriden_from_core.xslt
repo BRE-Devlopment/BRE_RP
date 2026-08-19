@@ -98,12 +98,12 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='mounted_sergeant']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_darkgrey"/>
-            <Item id="rp_horse_black"/>
-            <Item id="rp_horse_gold"/>
-            <Item id="rp_horse_brown"/>
-            <Item id="rp_horse_grey"/>
-            <Item id="rp_horse_white"/>
+			<Item id="rp_horse_brown"/>
+			<Item id="rp_horse_gold"/>
+			<Item id="rp_horse_white"/>
+			<Item id="rp_horse_grey"/>
+			<Item id="rp_horse_darkgrey"/>
+			<Item id="rp_horse_black"/>
             <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
@@ -120,12 +120,12 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='squire']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
             <Item id="rp_horse_heavy_white"/>
+            <Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
             <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
@@ -174,42 +174,6 @@
             </UsableWeaponGroups>
         </xsl:copy>
     </xsl:template>
-    <xsl:template match="UnitClass[@id='peasant_archer_moussillon']">
-        <xsl:copy>
-            <xsl:apply-templates select="@*[name() != 'stats_preset']"/>
-            <xsl:attribute name="stats_preset">archer_human_150hp</xsl:attribute>
-            <xsl:attribute name="armament_cost">15</xsl:attribute>
-            <xsl:apply-templates select="node()"/>
-            <UsableWeaponGroups>
-                <WeaponGroup id="human"/>
-                <WeaponGroup id="human_archer"/>
-            </UsableWeaponGroups>
-        </xsl:copy>
-    </xsl:template>
-    <xsl:template match="UnitClass[@id='free_archer_moussillon']">
-        <xsl:copy>
-            <xsl:apply-templates select="@*[name() != 'stats_preset']"/>
-            <xsl:attribute name="stats_preset">archer_human_200hp</xsl:attribute>
-            <xsl:attribute name="armament_cost">20</xsl:attribute>
-            <xsl:apply-templates select="node()"/>
-            <UsableWeaponGroups>
-                <WeaponGroup id="human"/>
-                <WeaponGroup id="human_archer"/>
-            </UsableWeaponGroups>
-        </xsl:copy>
-    </xsl:template>
-    <xsl:template match="UnitClass[@id='master_archer_moussillon']">
-        <xsl:copy>
-            <xsl:apply-templates select="@*[name() != 'stats_preset']"/>
-            <xsl:attribute name="stats_preset">archer_human_250hp</xsl:attribute>
-            <xsl:attribute name="armament_cost">25</xsl:attribute>
-            <xsl:apply-templates select="node()"/>
-            <UsableWeaponGroups>
-                <WeaponGroup id="human"/>
-                <WeaponGroup id="human_archer"/>
-            </UsableWeaponGroups>
-        </xsl:copy>
-    </xsl:template>
     <xsl:template match="UnitClass[@id='mounted_sergeant_moussillon']">
         <xsl:copy>
             <xsl:apply-templates select="@*[name() != 'stats_preset']"/>
@@ -223,13 +187,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='mounted_sergeant_moussillon']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_darkgrey"/>
-            <Item id="rp_horse_black"/>
-            <Item id="rp_horse_gold"/>
-            <Item id="rp_horse_brown"/>
-            <Item id="rp_horse_grey"/>
-            <Item id="rp_horse_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_brown"/>
+			<Item id="rp_horse_gold"/>
+			<Item id="rp_horse_white"/>
+			<Item id="rp_horse_grey"/>
+			<Item id="rp_horse_darkgrey"/>
+			<Item id="rp_horse_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='squire_moussillon']">
@@ -245,13 +209,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='squire_moussillon']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
   	<!--HERRIMAULTS-->
@@ -366,13 +330,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='brother_knight']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='order_questing_knight']">
@@ -388,12 +352,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='order_questing_knight']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='order_commander']">
@@ -409,13 +374,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='order_commander']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='chaplain']">
@@ -431,13 +396,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='chaplain']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='inquisitor']">
@@ -453,13 +418,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='inquisitor']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='paladin']">
@@ -475,12 +440,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='paladin']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='grand_master']">
@@ -496,13 +462,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='grand_master']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='grand_prior']">
@@ -518,13 +484,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='grand_prior']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='brother_sergeant_lacrimore']">
@@ -551,13 +517,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='brother_knight_lacrimore']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>	
   	<!--REGIMENTS-->
@@ -914,13 +880,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='hunter_of_arden']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_darkgrey"/>
-            <Item id="rp_horse_black"/>
-            <Item id="rp_horse_gold"/>
-            <Item id="rp_horse_brown"/>
-            <Item id="rp_horse_grey"/>
-            <Item id="rp_horse_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_brown"/>
+			<Item id="rp_horse_gold"/>
+			<Item id="rp_horse_white"/>
+			<Item id="rp_horse_grey"/>
+			<Item id="rp_horse_darkgrey"/>
+			<Item id="rp_horse_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='sergeant_of_the_hunt']">
@@ -936,13 +902,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='sergeant_of_the_hunt']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_darkgrey"/>
-            <Item id="rp_horse_black"/>
-            <Item id="rp_horse_gold"/>
-            <Item id="rp_horse_brown"/>
-            <Item id="rp_horse_grey"/>
-            <Item id="rp_horse_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_brown"/>
+			<Item id="rp_horse_gold"/>
+			<Item id="rp_horse_white"/>
+			<Item id="rp_horse_grey"/>
+			<Item id="rp_horse_darkgrey"/>
+			<Item id="rp_horse_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='captain_of_the_white_boar']">
@@ -958,13 +924,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='captain_of_the_white_boar']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_darkgrey"/>
-            <Item id="rp_horse_black"/>
-            <Item id="rp_horse_gold"/>
-            <Item id="rp_horse_brown"/>
-            <Item id="rp_horse_grey"/>
-            <Item id="rp_horse_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_brown"/>
+			<Item id="rp_horse_gold"/>
+			<Item id="rp_horse_white"/>
+			<Item id="rp_horse_grey"/>
+			<Item id="rp_horse_darkgrey"/>
+			<Item id="rp_horse_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
   	<!--KNIGHTS-->
@@ -982,13 +948,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='louen_leoncoeur']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='huebald_de_gasconnie']">
@@ -1004,13 +970,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='huebald_de_gasconnie']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='armand_d_aquitanie']">
@@ -1026,13 +992,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='armand_d_aquitanie']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='malory_de_moussillon']">
@@ -1048,13 +1014,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='malory_de_moussillon']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='folcard_de_montfort']">
@@ -1070,13 +1036,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='folcard_de_montfort']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='cassyon_de_parravon']">
@@ -1092,13 +1058,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='cassyon_de_parravon']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='dangorn_de_castagne']">
@@ -1114,13 +1080,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='dangorn_de_castagne']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
   	<!--KNIGHTS OF THE REALM-->
@@ -1137,13 +1103,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='theodoric_de_brionne']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='alaron_de_frontiere']">
@@ -1159,13 +1125,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='alaron_de_frontiere']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='hagen_de_gisoreux']">
@@ -1181,13 +1147,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='hagen_de_gisoreux']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='seigneur_de_labour']">
@@ -1203,13 +1169,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='seigneur_de_labour']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='theomer_de_bagnac']">
@@ -1225,13 +1191,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='theomer_de_bagnac']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='janduia_de_turin']">
@@ -1247,13 +1213,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='janduia_de_turin']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='hildebrand_de_mortenel']">
@@ -1269,13 +1235,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='hildebrand_de_mortenel']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='chilfroy_d_artenois']">
@@ -1291,13 +1257,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='chilfroy_d_artenois']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='roland_le_marechal']">
@@ -1313,13 +1279,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='roland_le_marechal']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='dreu_de_maulievre']">
@@ -1335,13 +1301,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='dreu_de_maulievre']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='taubert_de_l_anguille']">
@@ -1357,13 +1323,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='taubert_de_l_anguille']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='bohemond_de_bastogne']">
@@ -1379,13 +1345,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='bohemond_de_bastogne']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='eustache_de_grismerie']">
@@ -1401,13 +1367,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='eustache_de_grismerie']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
 	<xsl:template match="UnitClass[@id='laudethaire_de_sanglac']">
@@ -1423,12 +1389,12 @@
 	</xsl:template>
 	<xsl:template match="UnitClass[@id='laudethaire_de_sanglac']/Equipment/Horse">
 		<Horse>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
 			<Item id="rp_horse_heavy_darkgrey"/>
 			<Item id="rp_horse_heavy_black"/>
-			<Item id="rp_horse_heavy_gold"/>
-			<Item id="rp_horse_heavy_brown"/>
-			<Item id="rp_horse_heavy_grey"/>
-			<Item id="rp_horse_heavy_white"/>
 			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
 		</Horse>
 	</xsl:template>
@@ -1445,12 +1411,12 @@
 	</xsl:template>
 	<xsl:template match="UnitClass[@id='anara_de_garamont']/Equipment/Horse">
 		<Horse>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
 			<Item id="rp_horse_heavy_darkgrey"/>
 			<Item id="rp_horse_heavy_black"/>
-			<Item id="rp_horse_heavy_gold"/>
-			<Item id="rp_horse_heavy_brown"/>
-			<Item id="rp_horse_heavy_grey"/>
-			<Item id="rp_horse_heavy_white"/>
 			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
 		</Horse>
 	</xsl:template>
@@ -1468,13 +1434,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='bertelis_de_garamont']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='hercule_de_grimeux']">
@@ -1490,13 +1456,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='hercule_de_grimeux']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='harland_d_espee']">
@@ -1512,13 +1478,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='harland_d_espee']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='jones_de_ploucauges']">
@@ -1534,13 +1500,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='jones_de_ploucauges']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='aucassin_de_hane']">
@@ -1556,13 +1522,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='aucassin_de_hane']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='reolus_de_muret']">
@@ -1578,13 +1544,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='reolus_de_muret']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='artur_de_crefieu']">
@@ -1600,13 +1566,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='artur_de_crefieu']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='corbus_de_grunere']">
@@ -1622,13 +1588,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='corbus_de_grunere']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='luidolphe_de_geste']">
@@ -1644,13 +1610,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='luidolphe_de_geste']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='gudule_de_gaudaron']">
@@ -1666,13 +1632,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='gudule_de_gaudaron']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
     <xsl:template match="UnitClass[@id='theudis_d_embrun']">
@@ -1688,13 +1654,13 @@
     </xsl:template>
     <xsl:template match="UnitClass[@id='theudis_d_embrun']/Equipment/Horse">
         <Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
-            <Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
+			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
         </Horse>
     </xsl:template>
 	<xsl:template match="UnitClass[@id='prithard_de_montmaur']">
@@ -1710,12 +1676,12 @@
 	</xsl:template>
 	<xsl:template match="UnitClass[@id='prithard_de_montmaur']/Equipment/Horse">
 		<Horse>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
 			<Item id="rp_horse_heavy_darkgrey"/>
 			<Item id="rp_horse_heavy_black"/>
-			<Item id="rp_horse_heavy_gold"/>
-			<Item id="rp_horse_heavy_brown"/>
-			<Item id="rp_horse_heavy_grey"/>
-			<Item id="rp_horse_heavy_white"/>
 			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
 		</Horse>
 	</xsl:template>
@@ -1732,12 +1698,12 @@
 	</xsl:template>
 	<xsl:template match="UnitClass[@id='milone_de_ferignac']/Equipment/Horse">
 		<Horse>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
 			<Item id="rp_horse_heavy_darkgrey"/>
 			<Item id="rp_horse_heavy_black"/>
-			<Item id="rp_horse_heavy_gold"/>
-			<Item id="rp_horse_heavy_brown"/>
-			<Item id="rp_horse_heavy_grey"/>
-			<Item id="rp_horse_heavy_white"/>
 			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
 		</Horse>
 	</xsl:template>
@@ -1754,12 +1720,12 @@
 	</xsl:template>
 	<xsl:template match="UnitClass[@id='vassili_de_tyffoges']/Equipment/Horse">
 		<Horse>
-            <Item id="rp_horse_heavy_darkgrey"/>
-            <Item id="rp_horse_heavy_black"/>
-            <Item id="rp_horse_heavy_gold"/>
-            <Item id="rp_horse_heavy_brown"/>
-            <Item id="rp_horse_heavy_grey"/>
-            <Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
+			<Item id="rp_horse_heavy_darkgrey"/>
+			<Item id="rp_horse_heavy_black"/>
 			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
 		</Horse>
 	</xsl:template>
@@ -1776,12 +1742,12 @@
 	</xsl:template>
 	<xsl:template match="UnitClass[@id='wilguric_de_tharravil']/Equipment/Horse">
 		<Horse>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
 			<Item id="rp_horse_heavy_darkgrey"/>
 			<Item id="rp_horse_heavy_black"/>
-			<Item id="rp_horse_heavy_gold"/>
-			<Item id="rp_horse_heavy_brown"/>
-			<Item id="rp_horse_heavy_grey"/>
-			<Item id="rp_horse_heavy_white"/>
 			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
 		</Horse>
 	</xsl:template>
@@ -1798,12 +1764,12 @@
 	</xsl:template>
 	<xsl:template match="UnitClass[@id='leuther_de_cuileux']/Equipment/Horse">
 		<Horse>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
 			<Item id="rp_horse_heavy_darkgrey"/>
 			<Item id="rp_horse_heavy_black"/>
-			<Item id="rp_horse_heavy_gold"/>
-			<Item id="rp_horse_heavy_brown"/>
-			<Item id="rp_horse_heavy_grey"/>
-			<Item id="rp_horse_heavy_white"/>
 			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
 		</Horse>
 	</xsl:template>
@@ -1820,12 +1786,12 @@
 	</xsl:template>
 	<xsl:template match="UnitClass[@id='maraulf_de_gevaude']/Equipment/Horse">
 		<Horse>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
 			<Item id="rp_horse_heavy_darkgrey"/>
 			<Item id="rp_horse_heavy_black"/>
-			<Item id="rp_horse_heavy_gold"/>
-			<Item id="rp_horse_heavy_brown"/>
-			<Item id="rp_horse_heavy_grey"/>
-			<Item id="rp_horse_heavy_white"/>
 			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
 		</Horse>
 	</xsl:template>
@@ -1842,12 +1808,12 @@
 	</xsl:template>
 	<xsl:template match="UnitClass[@id='montglaive_des_roches']/Equipment/Horse">
 		<Horse>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
 			<Item id="rp_horse_heavy_darkgrey"/>
 			<Item id="rp_horse_heavy_black"/>
-			<Item id="rp_horse_heavy_gold"/>
-			<Item id="rp_horse_heavy_brown"/>
-			<Item id="rp_horse_heavy_grey"/>
-			<Item id="rp_horse_heavy_white"/>
 			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
 		</Horse>
 	</xsl:template>
@@ -1864,12 +1830,12 @@
 	</xsl:template>
 	<xsl:template match="UnitClass[@id='haydon_de_soude']/Equipment/Horse">
 		<Horse>
+			<Item id="rp_horse_heavy_brown"/>
+			<Item id="rp_horse_heavy_gold"/>
+			<Item id="rp_horse_heavy_white"/>
+			<Item id="rp_horse_heavy_grey"/>
 			<Item id="rp_horse_heavy_darkgrey"/>
 			<Item id="rp_horse_heavy_black"/>
-			<Item id="rp_horse_heavy_gold"/>
-			<Item id="rp_horse_heavy_brown"/>
-			<Item id="rp_horse_heavy_grey"/>
-			<Item id="rp_horse_heavy_white"/>
 			<Item id="null" disable_group="HorseHarness" disable_randomize="true"/>
 		</Horse>
 	</xsl:template>
