@@ -72,11 +72,9 @@
         extra_health="0"
         skeleton_scale="vlandia_horse">
         <AdditionalMeshes>
-          <Mesh
+          <Mesh 
             name="horse_mane_2"
-            affected_by_cover="true" />
-          <Mesh
-            name="horse_trotter" />
+            affected_by_cover="true"/>
         </AdditionalMeshes>
         <Materials>
           <Material
@@ -191,11 +189,9 @@
         extra_health="0"
         skeleton_scale="vlandia_horse">
         <AdditionalMeshes>
-          <Mesh
+          <Mesh 
             name="horse_mane_2"
-            affected_by_cover="true" />
-          <Mesh
-            name="horse_trotter" />
+            affected_by_cover="true"/>
         </AdditionalMeshes>
         <Materials>
           <Material
