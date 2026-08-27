@@ -629,6 +629,40 @@
         </xsl:copy>
     </xsl:template>
 
+	<xsl:template match="UnitClass[@id='protectors_of_frontiere_guard']">
+		<xsl:copy>
+			<xsl:apply-templates select="@*[name() != 'stats_preset']"/>
+			<xsl:attribute name="stats_preset">infantry_human_300hp</xsl:attribute>
+			<xsl:attribute name="armament_cost">25</xsl:attribute>
+			<xsl:apply-templates select="node()"/>
+			<UsableWeaponGroups>
+				<WeaponGroup id="human"/>
+			</UsableWeaponGroups>
+		</xsl:copy>
+	</xsl:template>
+	<xsl:template match="UnitClass[@id='protectors_of_frontiere_veteran']">
+		<xsl:copy>
+			<xsl:apply-templates select="@*[name() != 'stats_preset']"/>
+			<xsl:attribute name="stats_preset">infantry_human_300hp</xsl:attribute>
+			<xsl:attribute name="armament_cost">25</xsl:attribute>
+			<xsl:apply-templates select="node()"/>
+			<UsableWeaponGroups>
+				<WeaponGroup id="human"/>
+			</UsableWeaponGroups>
+		</xsl:copy>
+	</xsl:template>
+	<xsl:template match="UnitClass[@id='protectors_of_frontiere_captain']">
+		<xsl:copy>
+			<xsl:apply-templates select="@*[name() != 'stats_preset']"/>
+			<xsl:attribute name="stats_preset">infantry_human_350hp</xsl:attribute>
+			<xsl:attribute name="armament_cost">30</xsl:attribute>
+			<xsl:apply-templates select="node()"/>
+			<UsableWeaponGroups>
+				<WeaponGroup id="human"/>
+			</UsableWeaponGroups>
+		</xsl:copy>
+	</xsl:template>
+
     <xsl:template match="UnitClass[@id='dragonguard_guard']">
         <xsl:copy>
             <xsl:apply-templates select="@*[name() != 'stats_preset']"/>
